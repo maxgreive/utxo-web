@@ -1324,7 +1324,7 @@ label {
 .social-icon-right > a:hover {
     color: var(--tg-secondary-color);
 }
-.offcanvas-overly {
+.offcanvas-overlay {
 	position: fixed;
 	background: var(--tg-black);
 	top: 0;
@@ -1336,7 +1336,7 @@ label {
 	visibility: hidden;
 	transition: .3s;
 }
-.offcanvas-overly.active {
+.offcanvas-overlay.active {
 	opacity: .5;
 	visibility: visible;
 }
