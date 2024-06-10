@@ -4,6 +4,10 @@ import purgecss from "astro-purgecss";
 
 // https://astro.build/config
 export default defineConfig({
-  integrations: [purgecss()],
+  integrations: [purgecss({
+    safelist: {
+      standard: [/aos/]
+    }
+  })],
   locales: ["de", "en"],
 });
