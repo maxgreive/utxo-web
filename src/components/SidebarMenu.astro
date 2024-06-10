@@ -1,24 +1,38 @@
+---
+import { Image } from "astro:assets";
+import Logo from "../images/logo/logo.png";
+import {
+  getLangFromUrl,
+  useTranslations,
+  useTranslatedPath,
+} from "../i18n/utils";
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+import { SOCIALS } from "../config";
+---
+
 <div class="extra-info">
   <div class="close-icon menu-close">
     <button><i class="far fa-window-close"></i></button>
   </div>
   <div class="logo-side mb-30">
-    <a href="index.html"><img src="assets/img/logo/logo.png" alt="Logo" /></a>
+    <a href="index.html">
+      <Image src={Logo} alt="Gerow Logo" width="151" />
+    </a>
   </div>
   <div class="side-info mb-30">
     <div class="contact-list mb-30">
-      <h4>Office Address</h4>
-      <p>123/A, Miranda City Likaoli <br /> Prikano, Dope</p>
+      <h4>{t("office-address")}</h4>
+      <p>UTXO Solutions<br />Richard-Wagner-Str. 31<br />50674 Köln</p>
     </div>
     <div class="contact-list mb-30">
-      <h4>Phone Number</h4>
+      <h4>{t("phone")}</h4>
       <p>+0989 7876 9865 9</p>
       <p>+(090) 8765 86543 85</p>
     </div>
     <div class="contact-list mb-30">
-      <h4>Email Address</h4>
-      <p>info@example.com</p>
-      <p>example.mail@hum.com</p>
+      <h4>{t("email")}</h4>
+      <p>info@utxo.solutions</p>
     </div>
   </div>
   <ul class="side-instagram list-wrap">
@@ -42,10 +56,30 @@
     </li>
   </ul>
   <div class="social-icon-right mt-30">
-    <a href="#"><i class="fab fa-facebook-f"></i></a>
-    <a href="#"><i class="fab fa-twitter"></i></a>
-    <a href="#"><i class="fab fa-google-plus-g"></i></a>
-    <a href="#"><i class="fab fa-instagram"></i></a>
+    {SOCIALS.map(item => (
+      <a href={item.link}><i class={`fab ${item.icon}`}></i></a>
+    ))}
   </div>
 </div>
 <div class="offcanvas-overlay"></div>
+
+<script>
+  document
+    .querySelector(".menu-trigger")
+    .addEventListener("click", function (e) {
+      e.preventDefault();
+      document
+        .querySelectorAll(".extra-info, .offcanvas-overlay")
+        .forEach((el) => el.classList.add("active"));
+      return false;
+    });
+
+  document.querySelectorAll(".menu-close, .offcanvas-overlay").forEach((el) =>
+    el.addEventListener("click", function () {
+      document
+        .querySelectorAll(".extra-info, .offcanvas-overlay")
+        .forEach((itm) => itm.classList.remove("active"));
+      return false;
+    }),
+  );
+</script>
