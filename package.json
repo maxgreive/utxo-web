@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "utxo-solutions-website",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -10,6 +10,8 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.9.2"
+    "astro": "^4.9.2",
+    "astro-purgecss": "^4.1.1",
+    "purgecss": "^6.0.0"
   }
 }
