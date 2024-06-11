@@ -61,14 +61,16 @@ import { MENUS } from "../config";
               <div class="header-action header-action-five d-none d-md-block">
                 <ul class="list-wrap">
                   <li class="header-search">
-                    <a href="#" data-target=".search-popup-wrap"><i class="flaticon-search"></i></a>
+                    <a href="#" data-target=".search-popup-wrap"
+                      ><i class="flaticon-search"></i></a
+                    >
                   </li>
                   <li class="header-contact-two header-contact-four">
                     <div class="icon">
                       <i class="flaticon-mail"></i>
                     </div>
                     <div class="content">
-                      <span>{t('email')}</span>
+                      <span>{t("email")}</span>
                       <a href="mailto:info@utx.solutions">info@utx.solutions</a>
                     </div>
                   </li>
@@ -91,9 +93,7 @@ import { MENUS } from "../config";
                 <i class="fas fa-times"></i>
               </div>
               <div class="nav-logo">
-                <a href={translatePath("/")}
-                  ><img src="assets/img/logo/logo.png" alt="Logo" /></a
-                >
+                <a href={translatePath("/")}><Image src={Logo} alt="Logo" /></a>
               </div>
               <div class="mobile-search">
                 <form action="#">
@@ -134,3 +134,57 @@ import { MENUS } from "../config";
   <Search />
   <SidebarMenu />
 </header>
+
+<script>
+  //Mobile Nav Hide Show
+  if (document.querySelector(".mobile-menu")) {
+    const mobileMenuContent = document.querySelector(
+      ".menu-area .main-menu",
+    )?.innerHTML;
+
+    document
+      .querySelector(".mobile-menu .menu-box .menu-outer")
+      ?.insertAdjacentHTML("beforeend", mobileMenuContent || "");
+
+    //SubMenu Dropdown Toggle
+    if (document.querySelector(".menu-area li.menu-item-has-children ul")) {
+      document
+        .querySelectorAll(".menu-area .navigation li.menu-item-has-children")
+        .forEach((element) => {
+          element.insertAdjacentHTML(
+            "beforeend",
+            '<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div>',
+          );
+        });
+    }
+
+    //Dropdown Button
+    document
+      .querySelector(".mobile-menu li.menu-item-has-children .dropdown-btn")
+      ?.addEventListener("click", (event) => {
+        (event.target as HTMLInputElement)
+          ?.closest(".dropdown-btn")
+          ?.classList.toggle("open");
+        (event.target as HTMLInputElement)
+          ?.closest(".menu-item-has-children")
+          ?.querySelector(".sub-menu")
+          ?.classList.toggle("open");
+      });
+
+    //Menu Toggle Btn
+    document
+      .querySelector(".mobile-nav-toggler")
+      ?.addEventListener("click", () => {
+        document.body.classList.add("mobile-menu-visible");
+      });
+
+    //Menu Toggle Btn
+    document
+      .querySelectorAll(".menu-backdrop, .mobile-menu .close-btn")
+      .forEach((element) =>
+        element.addEventListener("click", () => {
+          document.body.classList.remove("mobile-menu-visible");
+        }),
+      );
+  }
+</script>

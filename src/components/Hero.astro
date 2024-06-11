@@ -1,5 +1,8 @@
 ---
 import { SOCIALS } from "../config";
+import { useTranslatedPath, getLangFromUrl } from "../i18n/utils";
+const lang = getLangFromUrl(Astro.url);
+const translatePath = useTranslatedPath(lang);
 
 const { page } = Astro.props;
 ---
@@ -31,17 +34,21 @@ const { page } = Astro.props;
           />
 
           <div class="banner-btn-seven" data-aos="fade-up" data-aos-delay="700">
-            <a href="services.html" class="btn btn-three border-btn" set:text={page.content.ctaText} />
+            <a
+              href={translatePath(page.content.ctaLink)}
+              class="btn btn-three border-btn"
+              set:text={page.content.ctaText}
+            />
           </div>
           <div class="banner-content-shape">
             <img
-              src="assets/img/banner/h9_hero_shape01.png"
+              src="/assets/img/banner/h9_hero_shape01.png"
               alt="shape"
               data-aos="fade-up-right"
               data-aos-delay="800"
             />
             <img
-              src="assets/img/banner/h9_hero_shape02.png"
+              src="/assets/img/banner/h9_hero_shape02.png"
               alt="shape"
               data-aos="fade-down-left"
               data-aos-delay="800"

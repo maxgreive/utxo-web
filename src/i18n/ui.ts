@@ -14,7 +14,11 @@ export const ui = {
     'nav.twitter': 'Twitter',
     'office-address': 'Anschrift',
     'phone': 'Telefon',
-    'email': 'E-Mail'
+    'email': 'E-Mail',
+    'footer.title1': 'Informationen',
+    'footer.title2': 'Menü',
+    'footer.title3': 'Quick Links',
+    'footer.title4': 'Newsletter abonnieren',
   },
   en: {
     'nav.home': 'Home',
