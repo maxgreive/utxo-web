@@ -2836,11 +2836,13 @@
     left: 4%;
     bottom: 3%;
     width: 110px;
+    height: auto;
 }
 .services-shape-five img:nth-child(1) {
     right: 3%;
     top: 4%;
     width: 120px;
+    height: auto;
 }
 .section-title-four .title {
     font-size: 36px;

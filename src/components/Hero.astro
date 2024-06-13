@@ -19,25 +19,25 @@ const { page } = Astro.props;
             class="sub-title"
             data-aos="fade-up"
             data-aos-delay="200"
-            set:html={page.content.subtitle}
+            set:html={page.frontmatter.subtitle}
           />
           <h2
             class="title"
             data-aos="fade-up"
             data-aos-delay="300"
-            set:html={page.content.title}
+            set:html={page.frontmatter.title}
           />
           <p
             data-aos="fade-up"
             data-aos-delay="500"
-            set:html={page.content.intro}
+            set:html={page.frontmatter.intro}
           />
 
           <div class="banner-btn-seven" data-aos="fade-up" data-aos-delay="700">
             <a
-              href={translatePath(page.content.ctaLink)}
+              href={translatePath(page.frontmatter.ctaLink)}
               class="btn btn-three border-btn"
-              set:text={page.content.ctaText}
+              set:text={page.frontmatter.ctaText}
             />
           </div>
           <div class="banner-content-shape">
