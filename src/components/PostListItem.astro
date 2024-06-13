@@ -9,12 +9,12 @@ const { post } = Astro.props;
 <div class="col-md-6">
   <div class="blog-post-item-two">
     <div class="blog-post-thumb-two">
-      <a href={translatePath(post.slug)}>
+      <a href={translatePath(`/blog/${post.slug}`)}>
         <img src={post.data.cover} alt="" />
       </a>
       {
         post.data.tags.length && (
-          <a href={translatePath(post.slug)} class="tag tag-two">
+          <a href={translatePath(`/blog/${post.slug}`)} class="tag tag-two">
             {post.data.tags[0]}
           </a>
         )
@@ -22,13 +22,13 @@ const { post } = Astro.props;
     </div>
     <div class="blog-post-content-two">
       <h2 class="title">
-        <a href={translatePath(post.slug)}>{post.data.title}</a>
+        <a href={translatePath(`/blog/${post.slug}`)}>{post.data.title}</a>
       </h2>
-      <p>{post.data.description}</p>
+      <p class="line-clamp-3">{post.data.description}</p>
       <div class="blog-meta">
         <ul class="list-wrap">
           <li>
-            <a href={translatePath(post.slug)}>
+            <a href={translatePath(`/blog/${post.slug}`)}>
               <img src="assets/img/blog/blog_avatar01.png" alt="" />
               {post.data.author}
             </a>

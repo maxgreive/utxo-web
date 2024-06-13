@@ -1,0 +1,86 @@
+---
+import { type CollectionEntry } from "astro:content";
+type Props = {
+  post: CollectionEntry<"blog">;
+};
+const { post } = Astro.props;
+const { Content } = await post.render();
+---
+
+<section class="blog-details-area pt-120 pb-120">
+  <div class="container">
+    <div class="blog-details-wrap">
+      <div class="row justify-content-center">
+        <div class="col col-lg-9">
+          <div class="blog-details-thumb">
+            <img src={post.data.cover} alt="" />
+          </div>
+          <div class="blog-details-content">
+            <h2 class="title">{post.data.title}</h2>
+            <div class="blog-meta-three">
+              <ul class="list-wrap">
+                <li><i class="far fa-calendar"></i>{post.data.date}</li>
+                <li>
+                  <img src="assets/img/blog/blog_avatar01.png" alt="" /> by <a
+                    href="blog-details.html">{post.data.author}</a
+                  >
+                </li>
+                <li>
+                  <i class="fas fa-tags"></i>
+                  {post.data.tags.map((tag) => <a href="blog.html">{tag}</a>)}
+                </li>
+              </ul>
+            </div>
+            <Content />
+
+            <div class="bd-content-bottom">
+              <div class="row align-items-center">
+                <div class="col-md-7">
+                  <div class="post-tags">
+                    <h5 class="title">Tags:</h5>
+                    <ul class="list-wrap">
+                      {
+                        post.data.tags.map((tag) => (
+                          <li>
+                            <a href="#">{tag}</a>
+                          </li>
+                        ))
+                      }
+                    </ul>
+                  </div>
+                </div>
+                <div class="col-md-5">
+                  <div class="blog-post-share">
+                    <h5 class="title">Share:</h5>
+                    <ul class="list-wrap">
+                      <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                      <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+                      <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                      <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                      <li>
+                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="blog-avatar-wrap mb-65">
+            <div class="blog-avatar-img">
+              <a href="#"><img src="assets/img/blog/avatar.png" alt="img" /></a>
+            </div>
+            <div class="blog-avatar-info">
+              <span class="designation">Autor</span>
+              <h4 class="name"><a href="#">{post.data.author}</a></h4>
+              <p>
+                Finanappreciate your trust greatly Our clients choose dentace
+                ducts because kn ow we are the best area Awaitingare really.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
