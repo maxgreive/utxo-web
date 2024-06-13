@@ -37,4 +37,9 @@ services:
     icon: flaticon-business-presentation
     link: /services/business-management
 
+# CTA Section
+ctaSection:
+  title: Let's Discuss About How We Can Help Make Your Business Better
+  buttonLabel: Termin vereinbaren
+  buttonLink: https://cal.com/martinbetz
 ---
