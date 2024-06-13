@@ -1,3 +1,5 @@
+export const COLORS = ["#7AC6BA", "#283583"]
+
 export const MENUS = [
   {
     label: "nav.home",

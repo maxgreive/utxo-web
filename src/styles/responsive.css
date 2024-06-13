@@ -585,7 +585,7 @@
 .testimonial-content-five {
 	padding-right: 70px;
 }
-.testimonial-nav-five {
+.swiper-navigation {
 	right: -90px;
 }
 .testimonial-img-five .shape-one {
@@ -2037,7 +2037,7 @@
 .testimonial-content-five {
 	padding-right: 0;
 }
-.testimonial-nav-five {
+.swiper-navigation {
 	display: none;
 }
 .project-area-four .section-title {

@@ -1,0 +1,150 @@
+---
+import Image from "astro/components/Image.astro";
+import TestimonialImage from "../images/h5_testimonial_img.png";
+import Shape01 from "../images/h5_testimonial_shape01.png";
+import Shape02 from "../images/h5_testimonial_shape02.png";
+import Shape03 from "../images/h5_testimonial_shape03.png";
+
+const { page } = Astro.props;
+const content = page.frontmatter.testimonials;
+---
+
+<section class="testimonial-area-five">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-6 col-md-8">
+        <div class="testimonial-img-five">
+          <Image src={TestimonialImage} alt="" />
+          <Image src={Shape01} alt="" class="shape-one" />
+          <Image src={Shape02} alt="" class="shape-two" />
+          <Image src={Shape03} alt="" class="shape-three" />
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="testimonial-content-five">
+          <div
+            class="section-title-four mb-50 tg-heading-subheading animation-style3"
+          >
+            <span class="sub-title tg-element-title">{content.subtitle}</span>
+            <h2 class="title tg-element-title">
+              {content.title}
+            </h2>
+          </div>
+          <div class="testimonial-item-wrap-five">
+            <div class="swiper">
+              <div class="swiper-wrapper testimonial-active-five">
+                {
+                  content.items.map((item) => (
+                    <div class="swiper-slide testimonial-item">
+                      <div class="testimonial-content">
+                        <div class="content-top">
+                          <div class="rating">
+                            <i class="fas fa-star" />
+                            <i class="fas fa-star" />
+                            <i class="fas fa-star" />
+                            <i class="fas fa-star" />
+                            <i class="fas fa-star" />
+                          </div>
+                          <div class="testimonial-quote">
+                            <img src="/assets/img/icons/quote.svg" alt="" />
+                          </div>
+                        </div>
+                        <p class="line-clamp-4">{item.quote}</p>
+                        <div class="testimonial-avatar">
+                          <div class="avatar-thumb">
+                            <img src={item.image} alt="" />
+                          </div>
+                          <div class="avatar-info">
+                            <h2 class="title">{item.author}</h2>
+                            <span>{item.position}</span>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  ))
+                }
+              </div>
+            </div>
+            <div class="swiper-navigation">
+              <button type="button" class="swiper-button-prev">
+                <i class="flaticon-right-arrow"></i>
+              </button>
+              <button type="button" class="swiper-button-next">
+                <i class="flaticon-right-arrow"></i>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+  import Swiper from "swiper";
+  import { Autoplay, Navigation } from "swiper/modules";
+  import { COLORS } from "../config";
+
+  import "swiper/css";
+  import "swiper/css/autoplay";
+
+  const swiper = new Swiper(".swiper", {
+    modules: [Autoplay, Navigation],
+    direction: "vertical",
+    slidesPerView: 1,
+    autoHeight: true,
+    spaceBetween: 0,
+    loop: true,
+    autoplay: {
+      delay: 5000,
+    },
+    navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev",
+    },
+  });
+
+  if (document.querySelector(".testimonial-area-five")) {
+    const colors = COLORS;
+
+    const numBalls = 30;
+    const balls = [];
+
+    for (let i = 0; i < numBalls; i++) {
+      let ball = document.createElement("div");
+      ball.classList.add("ball");
+      ball.style.background = colors[Math.floor(Math.random() * colors.length)];
+      ball.style.left = `${Math.floor(Math.random() * 100)}%`;
+      ball.style.top = `${Math.floor(Math.random() * 100)}%`;
+      ball.style.transform = `scale(${Math.random()})`;
+      ball.style.width = `${Math.random() * 10}px`;
+      ball.style.height = ball.style.width;
+      balls.push(ball);
+
+      document
+        .querySelector(".testimonial-area-five")
+        .insertAdjacentElement("beforeend", ball);
+    }
+
+    balls.forEach((el, i, ra) => {
+      let to = {
+        x: Math.random() * (i % 2 === 0 ? -10 : 11),
+        y: Math.random() * 12,
+      };
+
+      let anim = el.animate(
+        [
+          { transform: "translate(0, 0)" },
+          { transform: `translate(${to.x}rem, ${to.y}rem)` },
+        ],
+        {
+          duration: (Math.random() + 1) * 2000,
+          direction: "alternate",
+          fill: "both",
+          iterations: Infinity,
+          easing: "ease-in-out",
+        },
+      );
+    });
+  }
+</script>
