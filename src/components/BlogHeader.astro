@@ -1,0 +1,41 @@
+---
+import Image from "astro/components/Image.astro";
+import { useTranslatedPath, getLangFromUrl, useTranslations } from "../i18n/utils";
+const lang = getLangFromUrl(Astro.url);
+const translatePath = useTranslatedPath(lang);
+const t = useTranslations(lang);
+
+import Shape01 from "../images/breadcrumb_shape01.png"
+import Shape02 from "../images/breadcrumb_shape02.png"
+
+const { post } = Astro.props;
+---
+
+<section
+  class="breadcrumb-area breadcrumb-bg"
+  data-background="/assets/img/bg/breadcrumb_bg.jpg"
+>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="breadcrumb-content">
+          <h2 class="title">{post.data.title}</h2>
+          <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+              <li class="breadcrumb-item">
+                <a href={translatePath('/')}>{t('nav.home')}</a>
+              </li>
+              <li class="breadcrumb-item active" aria-current="page">
+                <a href={translatePath("/blog")}>{t('nav.blog')}</a>
+              </li>
+            </ol>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="breadcrumb-shape-wrap">
+    <Image src={Shape01} alt="Decorative Shape" />
+    <Image src={Shape02} alt="Decorative Shape" />
+  </div>
+</section>

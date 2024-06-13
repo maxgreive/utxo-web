@@ -1,0 +1,10 @@
+---
+import Layout from "../../layouts/Base.astro";
+import PostList from "../../components/PostList.astro";
+
+import { posts } from "../../helpers";
+---
+
+<Layout>
+  <PostList posts={posts} />
+</Layout>

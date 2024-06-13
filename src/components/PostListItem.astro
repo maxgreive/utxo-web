@@ -1,0 +1,41 @@
+---
+import { useTranslatedPath, getLangFromUrl } from "../i18n/utils";
+const lang = getLangFromUrl(Astro.url);
+const translatePath = useTranslatedPath(lang);
+
+const { post } = Astro.props;
+---
+
+<div class="col-md-6">
+  <div class="blog-post-item-two">
+    <div class="blog-post-thumb-two">
+      <a href={translatePath(post.slug)}>
+        <img src={post.data.cover} alt="" />
+      </a>
+      {
+        post.data.tags.length && (
+          <a href={translatePath(post.slug)} class="tag tag-two">
+            {post.data.tags[0]}
+          </a>
+        )
+      }
+    </div>
+    <div class="blog-post-content-two">
+      <h2 class="title">
+        <a href={translatePath(post.slug)}>{post.data.title}</a>
+      </h2>
+      <p>{post.data.description}</p>
+      <div class="blog-meta">
+        <ul class="list-wrap">
+          <li>
+            <a href={translatePath(post.slug)}>
+              <img src="assets/img/blog/blog_avatar01.png" alt="" />
+              {post.data.author}
+            </a>
+          </li>
+          <li><i class="far fa-calendar"></i>{post.data.date}</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

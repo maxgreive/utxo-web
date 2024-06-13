@@ -6,6 +6,7 @@ export const languages = {
 export const ui = {
   de: {
     'nav.home': 'Home',
+    'nav.blog': 'Blog',
     'nav.about': 'Über uns',
     'nav.services': 'Leistungen',
     'nav.contact': 'Kontakt',

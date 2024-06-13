@@ -22,6 +22,10 @@ export const MENUS = [
     ]
   },
   {
+    label: "nav.blog",
+    link: "/blog"
+  },
+  {
     label: "nav.contact",
     link: "/contact"
   }
