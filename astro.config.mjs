@@ -6,7 +6,7 @@ import purgecss from "astro-purgecss";
 export default defineConfig({
   integrations: [purgecss({
     safelist: {
-      standard: [/aos/]
+      standard: [/aos/, /swiper/]
     }
   })],
   locales: ["de", "en"],
