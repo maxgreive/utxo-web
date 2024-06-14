@@ -21,6 +21,6 @@ const { post } = Astro.props;
 ---
 
 <Layout>
-  <Header post={post} />
+  <Header title={post.data.title} />
   <PostContent post={post} />
 </Layout>

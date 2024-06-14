@@ -8961,7 +8961,7 @@ label {
 .blog-meta-three .list-wrap li {
   display: flex;
   align-items: center;
-  font-weight: 600;
+  font-weight: 400;
   font-size: 16px;
   color: var(--tg-paragraph-color);
   gap: 5px;

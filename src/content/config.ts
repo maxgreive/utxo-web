@@ -10,8 +10,8 @@ const blog = defineCollection({
       .transform((val) =>
         new Date(val).toLocaleDateString("de-DE", {
           year: "numeric",
-          month: "long",
-          day: "numeric",
+          month: "2-digit",
+          day: "2-digit",
         }),
       ),
     tags: z.array(z.string()).optional(),

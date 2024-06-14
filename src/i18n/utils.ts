@@ -17,3 +17,12 @@ export function useTranslatedPath(lang: keyof typeof ui) {
     return !showDefaultLang && l === defaultLang ? path : `/${l}${path}`
   }
 }
+
+export function filterPostsByLang(lang: keyof typeof ui, posts: any) {
+  return posts.filter(post => {
+    const [postLang,] = post.slug.split('/');
+    if (lang === postLang) return true;
+    if (lang === defaultLang && postLang.length > 2) return true;
+    return false;
+  });
+}
