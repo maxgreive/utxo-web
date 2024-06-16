@@ -10,12 +10,26 @@ const
 	{ translationLinks } = Astro.props,
 	pageTranslationsAvailableIn = `${uiStrings.pageTranslationsAvailableIn[ Astro.currentLocale]} `;
 ---
-{ pageTranslationsAvailableIn &&
-	<p>
-		{pageTranslationsAvailableIn}
-		{translationLinks.map((translation, index) => (
-			<a href={translation.relativeURL} hreflang={translation.locale}>
-				{translation.label}
-			</a><>{index < translationLinks.length - 1 ? ', ' : null}</>))}.
-	</p>
-}
+
+<select id="language-select">
+	<option selected disabled>{uiStrings[Astro.currentLocale][Astro.currentLocale]}</option>
+	{translationLinks.map((translation, index) => (
+		<option value={translation.relativeURL}>{translation.label}</option>
+	))}
+</select>
+
+<script>
+	document.getElementById('language-select').addEventListener('change', e => {
+		// @ts-ignore
+		window.location.href = e.target.value;
+	});
+</script>
+
+<style>
+	#language-select {
+		position: fixed;
+		bottom: 0;
+		right: 0;
+		z-index: 1;
+	}
+</style>

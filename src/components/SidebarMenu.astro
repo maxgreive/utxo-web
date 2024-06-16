@@ -1,0 +1,96 @@
+---
+import { Image } from "astro:assets";
+import Logo from "../images/logo/logo.png";
+import { SOCIALS } from "../config";
+
+import gallery1 from "../images/sb_insta01.jpg";
+---
+
+<div class="extra-info">
+  <div class="close-icon menu-close">
+    <button><i class="far fa-window-close"></i></button>
+  </div>
+  <div class="logo-side mb-30">
+    <a href="index.html">
+      <Image src={Logo} alt="Gerow Logo" width="151" />
+    </a>
+  </div>
+  <div class="side-info mb-30">
+    <div class="contact-list mb-30">
+      <h4>Office Address</h4>
+      <p>UTXO Solutions<br />Richard-Wagner-Str. 31<br />50674 Köln</p>
+    </div>
+    <div class="contact-list mb-30">
+      <h4>Phone</h4>
+      <p>+0989 7876 9865 9</p>
+      <p>+(090) 8765 86543 85</p>
+    </div>
+    <div class="contact-list mb-30">
+      <h4>Email</h4>
+      <p>info@utxo.solutions</p>
+    </div>
+  </div>
+  <ul class="side-instagram list-wrap">
+    <li>
+      <a href="#">
+        <Image src={gallery1} alt="Gallery Image" width="87" height="87" />
+      </a>
+    </li>
+    <li>
+      <a href="#">
+        <Image src={gallery1} alt="Gallery Image" width="87" height="87" />
+      </a>
+    </li>
+    <li>
+      <a href="#">
+        <Image src={gallery1} alt="Gallery Image" width="87" height="87" />
+      </a>
+    </li>
+    <li>
+      <a href="#">
+        <Image src={gallery1} alt="Gallery Image" width="87" height="87" />
+      </a>
+    </li>
+    <li>
+      <a href="#">
+        <Image src={gallery1} alt="Gallery Image" width="87" height="87" />
+      </a>
+    </li>
+    <li>
+      <a href="#">
+        <Image src={gallery1} alt="Gallery Image" width="87" height="87" />
+      </a>
+    </li>
+  </ul>
+  <div class="social-icon-right mt-30">
+    {
+      SOCIALS.map((item) => (
+        <a href={item.link}>
+          <i class={`fab ${item.icon}`} />
+        </a>
+      ))
+    }
+  </div>
+</div>
+<div class="offcanvas-overlay"></div>
+
+<script>
+  document
+    .querySelector(".menu-trigger")
+    .addEventListener("click", function (e) {
+      e.preventDefault();
+      document
+        .querySelectorAll(".extra-info, .offcanvas-overlay")
+        .forEach((el) => el.classList.add("active"));
+      return false;
+    });
+
+  document.querySelectorAll(".menu-close, .offcanvas-overlay").forEach((el) =>
+    el.addEventListener("click", function () {
+      document
+        .querySelectorAll(".extra-info, .offcanvas-overlay")
+        .forEach((itm) => itm.classList.remove("active"));
+      return false;
+    }),
+  );
+</script>

@@ -96,15 +96,8 @@ if (reference) {
     ))
   }
 </Html>
-<Header>
-  {
-    translationLinks.length > 0 && (
-      <TranslationsBanner>
-        <TranslationLinks {translationLinks} />
-      </TranslationsBanner>
-    )
-  }
-</Header>
+<Header />
+
 <main class="fix" id="main">
   <slot />
 </main>

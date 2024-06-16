@@ -6,7 +6,7 @@ export type navigationItem = Readonly<{
 export const headerMenu: Record<string, Record<string, navigationItem[]>> = {
 	en: {
 		items: [{
-			path: '/',
+			path: '/en',
 			label: 'Home',
 		},
 		{
@@ -24,16 +24,16 @@ export const headerMenu: Record<string, Record<string, navigationItem[]>> = {
 	},
 	de: {
 		items: [{
-			path: '/de/',
+			path: '/',
 			label: 'Home'
 		},
 		{
-			path: '/de/blog',
+			path: '/blog',
 			label: 'Blog'
 		},
 		{
-			path: '/de/thema',
-			label: 'Themen'
+			path: '/services',
+			label: 'Leistungen'
 		},]
 	},
 };
