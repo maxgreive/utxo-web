@@ -1,4 +1,4 @@
-export type Locale = "en" | "nl" | "de" | string;
+export type Locale = "de" | "en" | "nl" | string;
 
 interface Fallback {
 	[key: string]: string
@@ -10,7 +10,7 @@ type PathNames = {
 };
 
 export const defaultLocale: string = "de"
-export const locales = ["en", "nl", "de"]
+export const locales = ["de", "en", "nl"]
 export const fallback: Fallback = {
 	nl: "en",
 }

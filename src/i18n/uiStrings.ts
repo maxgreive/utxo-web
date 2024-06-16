@@ -39,12 +39,12 @@ export const uiStrings: TypeUIStrings = {
 	},
 	tagHeadingSingular: {
 		en: 'Tag',
-		de: 'Thema',
+		de: 'Tag',
 		nl: 'Onderwerp'
 	},
 	tagHeadingPlural: {
 		en: 'Tags',
-		de: 'Themen',
+		de: 'Tags',
 		nl: 'Onderwerpen'
 	},
 	postsPerTagPageDescription: {

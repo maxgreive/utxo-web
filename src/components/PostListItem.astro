@@ -1,0 +1,55 @@
+---
+const { post } = Astro.props;
+import { getRelativePostPath } from "@src/utilities/getPostPath";
+import FormattedDate from "./FormattedDate.astro";
+import { getPostDescription } from "@src/utilities/getPageDescription";
+const { frontmatter } = Astro.props,
+  collection = frontmatter.collection;
+---
+
+<div class="col-md-6">
+  <div class="blog-post-item-two">
+    <div class="blog-post-thumb-two">
+      <a
+        href={`${getRelativePostPath(Astro.currentLocale, collection, post.slug)}`}
+      >
+        <img src={post.data.previewImage} alt="" />
+      </a>
+      {
+        post.data.tags.length && (
+          <a
+            href={`${getRelativePostPath(Astro.currentLocale, collection, post.slug)}`}
+            class="tag tag-two"
+          >
+            {post.data.tags[0]}
+          </a>
+        )
+      }
+    </div>
+    <div class="blog-post-content-two">
+      <h2 class="title">
+        <a
+          href={`${getRelativePostPath(Astro.currentLocale, collection, post.slug)}`}
+          >{post.data.title}</a
+        >
+      </h2>
+      <p class="line-clamp-3">{getPostDescription(post)}</p>
+      <div class="blog-meta">
+        <ul class="list-wrap">
+          <li>
+            <a
+              href={`${getRelativePostPath(Astro.currentLocale, collection, post.slug)}`}
+            >
+              <img src="assets/img/blog/blog_avatar01.png" alt="" />
+              {post.data.author}
+            </a>
+          </li>
+          <li>
+            <i class="far fa-calendar"></i>
+            <FormattedDate date={post.data.pubDate} />
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

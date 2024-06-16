@@ -44,7 +44,7 @@ const posts = await getPublishedPosts(Astro.currentLocale, collection);
                 </a>
               </div>
               <div class="blog-post-content-two">
-                <h2 class="title">
+                <h2 class="title line-clamp-2">
                   <a href={`${getRelativePostPath(Astro.currentLocale, collection, post.slug)}`}>{post.data.title}</a>
                 </h2>
                 <p class="line-clamp-4">{getPostDescription(post)}</p>

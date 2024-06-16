@@ -5,15 +5,15 @@ interface Props {
 	tags: string[]
 }
 const {tags} = Astro.props
-const uiString = tags.length === 1 ? uiStrings.tagHeadingSingular[Astro.currentLocale] : uiStrings.tagHeadingPlural[Astro.currentLocale] 
+const uiString = tags.length === 1 ? uiStrings.tagHeadingSingular[Astro.currentLocale] : uiStrings.tagHeadingPlural[Astro.currentLocale]
 ---
 
-<p>
-	{uiString}:
+<div>
+	<span class="h5 title">{uiString}:</span>
 	{tags.map((tag, index) => (
 		<a href={`${getTagPath(Astro.currentLocale, tag)}`}>{tag}</a>
 		<span>{index < tags.length - 1 ?
 			', ' : ''
 		}</span>
 	))}.
-</p>
+</div>

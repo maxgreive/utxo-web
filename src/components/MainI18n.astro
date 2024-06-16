@@ -21,7 +21,7 @@ import type { CommonFrontmatter } from "@src/types";
 
 interface Props {
   frontmatter: CommonFrontmatter;
-  collection: string;
+  collection: "blog" | "pages";
 }
 export interface TranslationLink {
   absoluteURL: string;
@@ -120,7 +120,7 @@ if (reference) {
     item.style = `background-image: url("${item.dataset.background}")`;
   });
 
-  const slideToggle = (element) => {
+  const slideToggle = (element: any) => {
     element.classList.toggle("show");
     if (element.style.maxHeight) {
       element.style.maxHeight = null;
