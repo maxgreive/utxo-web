@@ -4,6 +4,7 @@ description: 'Lorem ipsum dolor sit amet'
 pubDate: 'Jul 08 2022'
 previewImage: '/blog-placeholder-3.jpg'
 reference: first-post
+author: Martin Betz
 tags:
   - Consectetur
   - Sagittis
