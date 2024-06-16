@@ -1,0 +1,22 @@
+---
+import type { Person } from '@utilities/people'
+import { people, getPersonPath } from '@utilities/people'
+const { authorFullName  = '' } = Astro.props
+
+let person: Person = people.find(person => {return person.fullName === authorFullName})
+
+---
+<div class="blog-avatar-wrap mb-65">
+  <div class="blog-avatar-img">
+    <a href="#">
+      <img src={person.avatar} alt={`${person.fullName} profile picture`} />
+    </a>
+  </div>
+  <div class="blog-avatar-info">
+    <span class="designation">Autor</span>
+    <h4 class="name"><a href="#">{person.fullName}</a></h4>
+    <p>
+      {person.description[Astro.currentLocale]}
+    </p>
+  </div>
+</div>

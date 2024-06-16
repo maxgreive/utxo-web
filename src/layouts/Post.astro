@@ -1,12 +1,15 @@
 ---
 import Byline from "@components/Byline.astro";
+import BlogAuthorSection from "@components/BlogAuthorSection.astro";
 import PostTags from "@components/PostTags.astro";
 import MainI18n from "@components/MainI18n.astro";
 import BlogHeader from "@components/BlogHeader.astro";
+
 import type { CollectionEntry } from "astro:content";
 import FormattedDate from "@components/FormattedDate.astro";
 
 type Props = CollectionEntry<"blog">["data"];
+
 
 const frontmatter = Astro.props,
   { title, pubDate, updatedDate, previewImage, tags, author } = Astro.props,
@@ -87,21 +90,7 @@ const frontmatter = Astro.props,
                 </div>
               </div>
             </div>
-            <div class="blog-avatar-wrap mb-65">
-              <div class="blog-avatar-img">
-                <a href="#">
-                  <img src="assets/img/blog/avatar.png" alt="img" />
-                </a>
-              </div>
-              <div class="blog-avatar-info">
-                <span class="designation">Autor</span>
-                <h4 class="name"><a href="#">{author}</a></h4>
-                <p>
-                  Finanappreciate your trust greatly Our clients choose dentace
-                  ducts because kn ow we are the best area Awaitingare really.
-                </p>
-              </div>
-            </div>
+            <BlogAuthorSection authorFullName={author} />
           </div>
         </div>
       </div>
