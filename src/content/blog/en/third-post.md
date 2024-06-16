@@ -1,10 +1,10 @@
 ---
 title: 'Third post'
-author: 'Ana Grigoryan'
+author: Martin Betz
 description: ''
 pubDate: 'Jul 15 2022'
 previewImage: '/blog-placeholder-2.jpg'
-tags: 
+tags:
   - markdown
 reference: third-post
 ---
@@ -54,13 +54,13 @@ The blockquote element represents content that is quoted from another source, op
 #### Syntax
 
 ```markdown
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.  
+> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
 > **Note** that you can use _Markdown syntax_ within a blockquote.
 ```
 
 #### Output
 
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.  
+> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
 > **Note** that you can use _Markdown syntax_ within a blockquote.
 
 ### Blockquote with attribution
