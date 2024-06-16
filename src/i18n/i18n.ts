@@ -9,7 +9,7 @@ type PathNames = {
 	}
 };
 
-export const defaultLocale: string = "en"
+export const defaultLocale: string = "de"
 export const locales = ["en", "nl", "de"]
 export const fallback: Fallback = {
 	nl: "en",

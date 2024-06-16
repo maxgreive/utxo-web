@@ -1,6 +1,7 @@
 ---
 title: 'Erster Post'
 description: 'Dagegen tadelt und hasst man mit Recht'
+author: Martin Betz
 pubDate: 'Jul 07 2022'
 previewImage: '/blog-placeholder-3.jpg'
 reference: first-post
