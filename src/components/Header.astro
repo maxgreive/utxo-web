@@ -1,202 +1,36 @@
 ---
-import Search from "./Search.astro";
-import SidebarMenu from "./SidebarMenu.astro";
-import {
-  getLangFromUrl,
-  useTranslations,
-  useTranslatedPath,
-} from "../i18n/utils";
-import { Image } from "astro:assets";
-import Logo from "../images/logo/logo.png";
+import { defaultLocale, fallback } from "@i18n/i18n";
+import HeaderLink from "./HeaderLink.astro";
+import { headerMenu } from "@src/header";
+import type { navigationItem } from "@src/header";
 
-const lang = getLangFromUrl(Astro.url);
-const translatePath = useTranslatedPath(lang);
-const t = useTranslations(lang);
-
-import { MENUS } from "../config";
+// If no items are available for the page's locale, the items for the defaultLocale will be used:
+const menuLocale: string = headerMenu[Astro.currentLocale]
+  ? Astro.currentLocale
+  : fallback[Astro.currentLocale] || defaultLocale;
+const headerMenuItems: navigationItem[] = headerMenu[menuLocale].items;
 ---
 
 <header>
-  <div id="sticky-header" class="menu-area menu-area-five">
-    <div class="container-fluid">
-      <div class="row g-0">
-        <div class="col-12">
-          <div class="menu-wrap">
-            <nav class="menu-nav">
-              <div class="offcanvas-menu offcanvas-menu-three">
-                <a href="#" class="menu-trigger">
-                  <span></span>
-                  <span></span>
-                  <span></span>
-                </a>
-              </div>
-              <div class="logo">
-                <a href={translatePath("/")}>
-                  <Image src={Logo} alt="Gerow Logo" height="29" />
-                </a>
-              </div>
-              <div class="navbar-wrap main-menu d-none d-lg-flex">
-                <ul class="navigation">
-                  {
-                    MENUS.map((item) => (
-                      <li class={item.children ? "menu-item-has-children" : ""}>
-                        <a href={translatePath(item.link)}>{t(item.label)}</a>
-                        {item.children && (
-                          <ul class="sub-menu">
-                            {item.children.map((child) => (
-                              <li>
-                                <a href={translatePath(child.link)}>
-                                  {t(child.label)}
-                                  {child.new && <span class="badge">New</span>}
-                                </a>
-                              </li>
-                            ))}
-                          </ul>
-                        )}
-                      </li>
-                    ))
-                  }
-                </ul>
-              </div>
-              <div class="header-action header-action-five d-none d-md-block">
-                <ul class="list-wrap">
-                  <li class="header-search">
-                    <a href="#" data-target=".search-popup-wrap"
-                      ><i class="flaticon-search"></i></a
-                    >
-                  </li>
-                  <li class="header-contact-two header-contact-four">
-                    <div class="icon">
-                      <i class="flaticon-mail"></i>
-                    </div>
-                    <div class="content">
-                      <span>{t("email")}</span>
-                      <a href="mailto:info@utx.solutions">info@utx.solutions</a>
-                    </div>
-                  </li>
-                  <li class="header-btn header-btn-four">
-                    <a href="contact.html" class="btn btn-two border-btn"
-                      >Get Consultant</a
-                    >
-                  </li>
-                </ul>
-              </div>
-              <div class="mobile-nav-toggler">
-                <i class="fas fa-bars"></i>
-              </div>
-            </nav>
-          </div>
-
-          <div class="mobile-menu">
-            <nav class="menu-box">
-              <div class="close-btn">
-                <i class="fas fa-times"></i>
-              </div>
-              <div class="nav-logo">
-                <a href={translatePath("/")}><Image src={Logo} alt="Logo" /></a>
-              </div>
-              <div class="mobile-search">
-                <form action="#">
-                  <input type="text" placeholder="Search here …" />
-                  <button><i class="flaticon-search"></i></button>
-                </form>
-              </div>
-              <div class="menu-outer">
-                <ul class="navigation">
-                  {
-                    MENUS.map((item) => (
-                      <li class={item.children ? "menu-item-has-children" : ""}>
-                        <a href={translatePath(item.link)}>{t(item.label)}</a>
-                        {item.children && (
-                          <ul class="sub-menu">
-                            {item.children.map((child) => (
-                              <li>
-                                <a href={translatePath(child.link)}>
-                                  {t(child.label)}
-                                  {child.new && <span class="badge">New</span>}
-                                </a>
-                              </li>
-                            ))}
-                          </ul>
-                        )}
-                      </li>
-                    ))
-                  }
-                </ul>
-              </div>
-              <div class="social-links">
-                <ul class="clearfix list-wrap">
-                  <li>
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="fab fa-instagram"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="fab fa-youtube"></i></a>
-                  </li>
-                </ul>
-              </div>
-            </nav>
-          </div>
-          <div class="menu-backdrop"></div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <Search />
-  <SidebarMenu />
+  <nav>
+    <slot />
+    <ul class="header__list">
+      {
+        headerMenuItems.map((item) => (
+          <HeaderLink href={item.path}>{item.label}</HeaderLink>
+        ))
+      }
+    </ul>
+  </nav>
 </header>
 
-<script>
-  //Mobile Nav Hide Show
-  if (document.querySelector(".mobile-menu")) {
-    //SubMenu Dropdown Toggle
-    if (document.querySelector(".menu-area li.menu-item-has-children ul")) {
-      document
-        .querySelectorAll(".menu-area .navigation li.menu-item-has-children")
-        .forEach((element) => {
-          element.insertAdjacentHTML(
-            "beforeend",
-            '<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div>',
-          );
-        });
-    }
-
-    //Dropdown Button
-    document
-      .querySelector(".mobile-menu li.menu-item-has-children .dropdown-btn")
-      ?.addEventListener("click", (event) => {
-        (event.target as HTMLInputElement)
-          ?.closest(".dropdown-btn")
-          ?.classList.toggle("open");
-        (event.target as HTMLInputElement)
-          ?.closest(".menu-item-has-children")
-          ?.querySelector(".sub-menu")
-          ?.classList.toggle("open");
-      });
-
-    //Menu Toggle Btn
-    document
-      .querySelector(".mobile-nav-toggler")
-      ?.addEventListener("click", () => {
-        document.body.classList.add("mobile-menu-visible");
-      });
-
-    //Menu Toggle Btn
-    document
-      .querySelectorAll(".menu-backdrop, .mobile-menu .close-btn")
-      .forEach((element) =>
-        element.addEventListener("click", () => {
-          document.body.classList.remove("mobile-menu-visible");
-        }),
-      );
+<style>
+  .header__list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1em;
+    max-width: 100%;
+    overflow-x: auto;
   }
-</script>
+</style>
