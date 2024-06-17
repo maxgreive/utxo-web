@@ -107,6 +107,8 @@ if (reference) {
 <script>
   import AOS from "aos";
   import "aos/dist/aos.css";
+  import Chocolat from "chocolat";
+  import 'chocolat/dist/css/chocolat.css';
 
   AOS.init({
     duration: 1000,
@@ -156,4 +158,6 @@ if (reference) {
         ?.classList.add("active-height");
     }
   });
+
+  Chocolat(document.querySelectorAll(".popup-image, .popup-video"));
 </script>

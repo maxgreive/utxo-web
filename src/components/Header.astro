@@ -14,6 +14,7 @@ const menuLocale: string = headerMenu[Astro.currentLocale]
   : fallback[Astro.currentLocale] || defaultLocale;
 const headerMenuItems: navigationItem[] = headerMenu[menuLocale].items;
 ---
+
 <div id="header-fixed-height"></div>
 <header>
   <div id="sticky-header" class="menu-area menu-area-five">
@@ -30,7 +31,7 @@ const headerMenuItems: navigationItem[] = headerMenu[menuLocale].items;
                 </a>
               </div>
               <div class="logo">
-                <a href="/">
+                <a href={headerMenuItems[0].path}>
                   <Image src={Logo} alt="Gerow Logo" height="29" />
                 </a>
               </div>
