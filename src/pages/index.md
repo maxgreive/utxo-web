@@ -6,8 +6,8 @@ collection: blog
 
 # Hero Section
 hero:
-  title: Best Finance <span>Consulting</span> Planning Agency Make Your Success
-  subtitle: We make effect on your business
+  title: Become <span>Customer First</span> 
+  subtitle: Understand your customer and grow beyond
   intro: Agilos helps you to convert your data into a strategic asset and get touch business insight
   ctaText: See our services
   ctaLink: /services
