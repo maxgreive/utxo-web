@@ -1,0 +1,99 @@
+---
+import Byline from "@components/Byline.astro";
+import BlogAuthorSection from "@components/BlogAuthorSection.astro";
+import PostTags from "@components/PostTags.astro";
+import MainI18n from "@components/MainI18n.astro";
+import BlogHeader from "@components/BlogHeader.astro";
+
+import type { CollectionEntry } from "astro:content";
+import FormattedDate from "@components/FormattedDate.astro";
+
+type Props = CollectionEntry<"blog">["data"];
+
+
+const frontmatter = Astro.props,
+  { title, pubDate, updatedDate, previewImage, tags, author } = Astro.props,
+  realTags: string[] = tags.filter((tag) => {
+    return tag !== "other";
+  });
+---
+
+<MainI18n {frontmatter} collection="pages">
+  <BlogHeader {frontmatter} />
+  <section class="blog-details-area pt-120 pb-120">
+    <div class="container">
+      <div class="blog-details-wrap">
+        <div class="row justify-content-center">
+          <div class="col col-lg-9">
+            <div class="blog-details-thumb">
+              {
+                previewImage && (
+                  <img width={1020} height={510} src={previewImage} alt="" />
+                )
+              }
+            </div>
+            <div class="blog-details-content">
+              <h2 class="title">{title}</h2>
+              <div class="blog-meta-three">
+                <ul class="list-wrap">
+                  <!-- <Byline authorFullName={author} {pubDate} {updatedDate} /> -->
+
+                  <li>
+                    <i class="far fa-calendar"></i>
+                    <FormattedDate date={pubDate} />
+                  </li>
+                  <li>
+                    <img src="assets/img/blog/blog_avatar01.png" alt="" /> by <a
+                      href="blog-details.html">{author}</a
+                    >
+                  </li>
+                  <li>
+                    <i class="fas fa-tags"></i>
+                    {tags.map((tag) => <a href="blog.html">{tag}</a>)}
+                  </li>
+                </ul>
+              </div>
+
+              <div>
+                <slot />
+              </div>
+
+              <div class="bd-content-bottom">
+                <div class="row align-items-center">
+                  {
+                    realTags.length > 0 && (
+                      <div class="col-md-7">
+                        <div class="post-tags">
+                          <PostTags tags={realTags} />
+                        </div>
+                      </div>
+                    )
+                  }
+                  <div class="col-md-5">
+                    <div class="blog-post-share">
+                      <h5 class="title">Share:</h5>
+                      <ul class="list-wrap">
+                        <li>
+                          <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        </li>
+                        <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                        <li>
+                          <a href="#"><i class="fab fa-instagram"></i></a>
+                        </li>
+                        <li>
+                          <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <BlogAuthorSection authorFullName={author} />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</MainI18n>

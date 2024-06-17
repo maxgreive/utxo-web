@@ -2096,7 +2096,7 @@ label {
   color: var(--tg-white);
   font-size: 44px;
   line-height: 1.1;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
 }
 
 .breadcrumb-content .breadcrumb {
@@ -8947,7 +8947,7 @@ label {
 .blog-details-content>.title {
   font-size: 36px;
   margin-bottom: 20px;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
 }
 
 .blog-meta-three .list-wrap {
@@ -9127,6 +9127,7 @@ label {
 .bd-content-bottom .post-tags .title {
   margin-bottom: 0;
   font-size: 18px;
+  font-weight: 600;
   color: var(--tg-paragraph-color);
 }
 

@@ -5,8 +5,8 @@ import Shape01 from "../images/h5_testimonial_shape01.png";
 import Shape02 from "../images/h5_testimonial_shape02.png";
 import Shape03 from "../images/h5_testimonial_shape03.png";
 
-const { page } = Astro.props;
-const content = page.frontmatter.testimonials;
+const { frontmatter } = Astro.props;
+const content = frontmatter.testimonials;
 ---
 
 <section class="testimonial-area-five">
@@ -34,7 +34,7 @@ const content = page.frontmatter.testimonials;
             <div class="swiper">
               <div class="swiper-wrapper testimonial-active-five">
                 {
-                  content.items.map((item) => (
+                  content.items.map((item: { quote: unknown; image: string; author: unknown; position: unknown; }) => (
                     <div class="swiper-slide testimonial-item">
                       <div class="testimonial-content">
                         <div class="content-top">

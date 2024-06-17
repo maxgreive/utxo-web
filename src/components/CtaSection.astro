@@ -1,11 +1,8 @@
 ---
 import { Image } from "astro:assets";
-import { useTranslatedPath, getLangFromUrl } from "../i18n/utils";
 import Shape from "../images/h9_cta_shape.png";
 
-const lang = getLangFromUrl(Astro.url);
-const translatePath = useTranslatedPath(lang);
-const { page } = Astro.props;
+const { frontmatter } = Astro.props;
 ---
 
 <section class="cta-area-seven fix">
@@ -17,17 +14,17 @@ const { page } = Astro.props;
           class="section-title-two white-title text-center text-lg-start tg-heading-subheading animation-style3"
         >
           <h2 class="title tg-element-title">
-            {page.frontmatter.ctaSection.title}
+            {frontmatter.ctaSection.title}
           </h2>
         </div>
       </div>
       <div class="col-lg-5">
         <div class="cta-btn-two">
           <a
-            href={translatePath(page.frontmatter.ctaSection.buttonLink)}
+            href={frontmatter.ctaSection.buttonLink}
             class="btn btn-three border-btn"
           >
-            {page.frontmatter.ctaSection.buttonLabel}
+            {frontmatter.ctaSection.buttonLabel}
           </a>
         </div>
       </div>

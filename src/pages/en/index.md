@@ -1,5 +1,8 @@
 ---
-layout: ../../layouts/Index.astro
+title: Home
+layout: '@layouts/Index.astro'
+reference: home
+collection: blog
 
 # Hero Section
 hero:
@@ -62,4 +65,8 @@ testimonials:
       position: Mantrafant
       quote: We particularly liked the systematic and structured approach, so that we learned more relevant information about our product and our customers in the JTBD Interview Sprint in just 2 days (6 interviews) than in the previous 3 years. After less than a week, we were able to directly triple our advertising campaign effectiveness with the results. Not only did we improve our marketing and sales, but we also got a better product out of it.
       image: /assets/img/images/testi_avatar01.png
+
 ---
+Herzlich Willkommen!
+
+Dies ist eine Demo-Webseite für den [Astro i18n blog starter](https://github.com/kslstn/astro-i18n-blog-starter).

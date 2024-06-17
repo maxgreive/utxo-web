@@ -1,19 +1,18 @@
 ---
 import Search from "./Search.astro";
 import SidebarMenu from "./SidebarMenu.astro";
-import {
-  getLangFromUrl,
-  useTranslations,
-  useTranslatedPath,
-} from "../i18n/utils";
-import { Image } from "astro:assets";
+import { defaultLocale, fallback } from "@i18n/i18n";
+import Image from "astro/components/Image.astro";
 import Logo from "../images/logo/logo.png";
+import HeaderLink from "./HeaderLink.astro";
+import { headerMenu } from "@src/header";
+import type { navigationItem } from "@src/header";
 
-const lang = getLangFromUrl(Astro.url);
-const translatePath = useTranslatedPath(lang);
-const t = useTranslations(lang);
-
-import { MENUS } from "../config";
+// If no items are available for the page's locale, the items for the defaultLocale will be used:
+const menuLocale: string = headerMenu[Astro.currentLocale]
+  ? Astro.currentLocale
+  : fallback[Astro.currentLocale] || defaultLocale;
+const headerMenuItems: navigationItem[] = headerMenu[menuLocale].items;
 ---
 
 <header>
@@ -31,28 +30,16 @@ import { MENUS } from "../config";
                 </a>
               </div>
               <div class="logo">
-                <a href={translatePath("/")}>
+                <a href="/">
                   <Image src={Logo} alt="Gerow Logo" height="29" />
                 </a>
               </div>
               <div class="navbar-wrap main-menu d-none d-lg-flex">
                 <ul class="navigation">
                   {
-                    MENUS.map((item) => (
-                      <li class={item.children ? "menu-item-has-children" : ""}>
-                        <a href={translatePath(item.link)}>{t(item.label)}</a>
-                        {item.children && (
-                          <ul class="sub-menu">
-                            {item.children.map((child) => (
-                              <li>
-                                <a href={translatePath(child.link)}>
-                                  {t(child.label)}
-                                  {child.new && <span class="badge">New</span>}
-                                </a>
-                              </li>
-                            ))}
-                          </ul>
-                        )}
+                    headerMenuItems.map((item) => (
+                      <li>
+                        <HeaderLink href={item.path}>{item.label}</HeaderLink>
                       </li>
                     ))
                   }
@@ -70,7 +57,7 @@ import { MENUS } from "../config";
                       <i class="flaticon-mail"></i>
                     </div>
                     <div class="content">
-                      <span>{t("email")}</span>
+                      <span>Email</span>
                       <a href="mailto:info@utx.solutions">info@utx.solutions</a>
                     </div>
                   </li>
@@ -86,14 +73,13 @@ import { MENUS } from "../config";
               </div>
             </nav>
           </div>
-
           <div class="mobile-menu">
             <nav class="menu-box">
               <div class="close-btn">
                 <i class="fas fa-times"></i>
               </div>
               <div class="nav-logo">
-                <a href={translatePath("/")}><Image src={Logo} alt="Logo" /></a>
+                <a href="/"><Image src={Logo} alt="Logo" /></a>
               </div>
               <div class="mobile-search">
                 <form action="#">
@@ -104,21 +90,9 @@ import { MENUS } from "../config";
               <div class="menu-outer">
                 <ul class="navigation">
                   {
-                    MENUS.map((item) => (
-                      <li class={item.children ? "menu-item-has-children" : ""}>
-                        <a href={translatePath(item.link)}>{t(item.label)}</a>
-                        {item.children && (
-                          <ul class="sub-menu">
-                            {item.children.map((child) => (
-                              <li>
-                                <a href={translatePath(child.link)}>
-                                  {t(child.label)}
-                                  {child.new && <span class="badge">New</span>}
-                                </a>
-                              </li>
-                            ))}
-                          </ul>
-                        )}
+                    headerMenuItems.map((item) => (
+                      <li>
+                        <HeaderLink href={item.path}>{item.label}</HeaderLink>
                       </li>
                     ))
                   }

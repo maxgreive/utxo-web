@@ -1,27 +1,22 @@
 ---
-import { type CollectionEntry } from "astro:content";
 import PostListItem from "./PostListItem.astro";
 
-type Props = {
-  posts: CollectionEntry<"blog">[];
-};
-
+const { frontmatter } = Astro.props;
 const { posts } = Astro.props;
 ---
 
 <section class="blog-area pt-120 pb-120">
   <div class="container">
     <div class="inner-blog-wrap">
-        <div class="row justify-content-center">
-          <div class="col">
-            <div class="blog-post-wrap">
-              <div class="row">
-                {(posts ?? []).map((post) => <PostListItem post={post} />)}
-              </div>
+      <div class="row justify-content-center">
+        <div class="col">
+          <div class="blog-post-wrap">
+            <div class="row">
+              {(posts ?? []).map((post: any) => <PostListItem post={post} {frontmatter} />)}
             </div>
           </div>
         </div>
       </div>
     </div>
   </div>
-</div>
+</section>

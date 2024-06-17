@@ -1,18 +1,11 @@
 ---
 import Image from "astro/components/Image.astro";
-import {
-  useTranslatedPath,
-  getLangFromUrl,
-  useTranslations,
-} from "../i18n/utils";
-const lang = getLangFromUrl(Astro.url);
-const translatePath = useTranslatedPath(lang);
-const t = useTranslations(lang);
 
 import Shape01 from "../images/breadcrumb_shape01.png";
 import Shape02 from "../images/breadcrumb_shape02.png";
 
-const { title } = Astro.props;
+const { frontmatter } = Astro.props,
+  title = frontmatter.title;
 ---
 
 <section
@@ -27,10 +20,10 @@ const { title } = Astro.props;
           <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
               <li class="breadcrumb-item">
-                <a href={translatePath("/")}>{t("nav.home")}</a>
+                <a href="/">Home</a>
               </li>
               <li class="breadcrumb-item active" aria-current="page">
-                <a href={translatePath("/blog")}>{t("nav.blog")}</a>
+                <a href="/blog">Blog</a>
               </li>
             </ol>
           </nav>

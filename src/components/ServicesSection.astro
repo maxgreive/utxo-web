@@ -1,12 +1,9 @@
 ---
 import { Image } from "astro:assets";
-import { useTranslatedPath, getLangFromUrl } from "../i18n/utils";
 
 import Shape01 from "../images/h9_services_shape01.png";
 import Shape02 from "../images/h9_services_shape02.png";
-const lang = getLangFromUrl(Astro.url);
-const translatePath = useTranslatedPath(lang);
-const { page } = Astro.props;
+const { frontmatter } = Astro.props;
 ---
 
 <section class="services-area-eleven section-pt-120 section-pb-90">
@@ -16,16 +13,16 @@ const { page } = Astro.props;
         <div
           class="section-title-four text-center mb-50 tg-heading-subheading animation-style3"
         >
-          <span class="sub-title tg-element-title">{page.frontmatter.serviceSubtitle}</span>
+          <span class="sub-title tg-element-title">{frontmatter.serviceSubtitle}</span>
           <h2 class="title tg-element-title">
-            {page.frontmatter.serviceTitle}
+            {frontmatter.serviceTitle}
           </h2>
         </div>
       </div>
     </div>
     <div class="row gutter-24 justify-content-center">
       {
-        page.frontmatter.services.items.map((service) => (
+        frontmatter.services.items.map((service: { icon: string; link: string | URL; title: unknown; text: unknown; }) => (
           <div class="col-lg-4 col-md-6">
             <div class="features-item-six features-item-seven">
               <div class="features-item-six-top">
@@ -33,12 +30,12 @@ const { page } = Astro.props;
                   <i class={service.icon} />
                 </div>
                 <h2 class="title">
-                  <a href={translatePath(service.link)}>{service.title}</a>
+                  <a href={service.link}>{service.title}</a>
                 </h2>
               </div>
               <div class="features-content-six">
                 <p>{service.text}</p>
-                <a href={translatePath(service.link)} class="link-btn">
+                <a href={service.link} class="link-btn">
                   Read More
                   <img src="/assets/img/icons/right-arrow.svg" alt="" />
                 </a>

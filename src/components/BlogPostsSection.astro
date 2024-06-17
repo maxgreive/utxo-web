@@ -1,8 +1,14 @@
 ---
-import { posts } from "../helpers";
-import { getLangFromUrl, filterPostsByLang } from "../i18n/utils";
-const lang = getLangFromUrl(Astro.url);
-const filteredPosts = filterPostsByLang(lang, posts);
+import getPublishedPosts from "@utilities/getPublishedPosts";
+import { getRelativePostPath } from '@utilities/getPostPath';
+import { getPostDescription } from "@utilities/getPageDescription";
+import FormattedDate from '@components/FormattedDate.astro'
+
+const { frontmatter } = Astro.props,
+  title = frontmatter.title,
+  collection = frontmatter.collection;
+
+const posts = await getPublishedPosts(Astro.currentLocale, collection);
 ---
 
 <section
@@ -26,33 +32,33 @@ const filteredPosts = filterPostsByLang(lang, posts);
     </div>
     <div class="row justify-content-center">
       {
-        filteredPosts.slice(0, 3).map((post) => (
+        posts.map((post) => (
           <div class="col-lg-4 col-md-6 col-sm-10">
             <div class="blog-post-item-two">
               <div class="blog-post-thumb-two">
-                <a href={`/blog/${post.slug}`}>
-                  <img src={post.data.cover} alt="" />
+                <a href={`${getRelativePostPath(Astro.currentLocale, collection, post.slug)}`}>
+                  <img src={post.data.previewImage} alt="" />
                 </a>
                 <a href="blog.html" class="tag">
                   {post.data.tags[0]}
                 </a>
               </div>
               <div class="blog-post-content-two">
-                <h2 class="title">
-                  <a href={`/blog/${post.slug}`}>{post.data.title}</a>
+                <h2 class="title line-clamp-2">
+                  <a href={`${getRelativePostPath(Astro.currentLocale, collection, post.slug)}`}>{post.data.title}</a>
                 </h2>
-                <p class="line-clamp-4">{post.data.description}</p>
+                <p class="line-clamp-4">{getPostDescription(post)}</p>
                 <div class="blog-meta">
                   <ul class="list-wrap">
                     <li>
-                      <a href={`/blog/${post.slug}`}>
+                      <a href={`${getRelativePostPath(Astro.currentLocale, collection, post.slug)}`}>
                         <img src="assets/img/blog/blog_avatar01.png" alt="" />
                         {post.data.author}
                       </a>
                     </li>
                     <li>
                       <i class="far fa-calendar" />
-                      {post.data.date}
+                      <FormattedDate date={post.data.pubDate} />
                     </li>
                   </ul>
                 </div>

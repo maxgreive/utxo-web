@@ -1,11 +1,8 @@
 ---
 import { Image } from "astro:assets";
 import { SOCIALS } from "../config";
-import whiteLogo from "../images/logo/w_logo02.png";
-import { getLangFromUrl, useTranslations } from "../i18n/utils";
-
-const lang = getLangFromUrl(Astro.url);
-const t = useTranslations(lang);
+import whiteLogo from "../images/logo/w_logo.png";
+import { uiStrings } from '@i18n/uiStrings';
 ---
 
 <footer>
@@ -18,7 +15,7 @@ const t = useTranslations(lang);
         <div class="row">
           <div class="col-lg-3 col-md-7">
             <div class="footer-widget">
-              <h4 class="fw-title">{t("footer.title1")}</h4>
+              <h4 class="fw-title">Information</h4>
               <div class="footer-info">
                 <ul class="list-wrap">
                   <li>
@@ -55,7 +52,7 @@ const t = useTranslations(lang);
           </div>
           <div class="col-lg-2 col-md-5 col-sm-6">
             <div class="footer-widget">
-              <h4 class="fw-title">{t("footer.title2")}</h4>
+              <h4 class="fw-title">Menü</h4>
               <div class="footer-link">
                 <ul class="list-wrap">
                   <li><a href="about.html">Company</a></li>
@@ -69,7 +66,7 @@ const t = useTranslations(lang);
           </div>
           <div class="col-lg-3 col-md-5 col-sm-6">
             <div class="footer-widget">
-              <h4 class="fw-title">{t("footer.title3")}</h4>
+              <h4 class="fw-title">Quick Links</h4>
               <div class="footer-link">
                 <ul class="list-wrap">
                   <li><a href="contact.html">How it’s Work</a></li>
@@ -83,7 +80,7 @@ const t = useTranslations(lang);
           </div>
           <div class="col-lg-4 col-md-7">
             <div class="footer-widget">
-              <h4 class="fw-title">{t("footer.title4")}</h4>
+              <h4 class="fw-title">Newsletter</h4>
               <div class="footer-newsletter">
                 <p>
                   Melden Sie sich zum Newsletter an. Wir halten Sie über

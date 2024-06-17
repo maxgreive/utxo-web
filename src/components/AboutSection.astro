@@ -1,19 +1,11 @@
 ---
 import { Image } from "astro:assets";
-import {
-  useTranslatedPath,
-  getLangFromUrl,
-  useTranslations,
-} from "../i18n/utils";
 
 import Shape01 from "../images/h9_about_shape01.png";
 import Shape02 from "../images/h9_about_shape02.png";
 import AboutImg from "../images/h9_about_img.jpg";
 
-const { page } = Astro.props;
-const lang = getLangFromUrl(Astro.url);
-const translatePath = useTranslatedPath(lang);
-const t = useTranslations(lang);
+const { frontmatter } = Astro.props;
 ---
 
 <section

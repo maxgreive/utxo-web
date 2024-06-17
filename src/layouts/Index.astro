@@ -1,18 +1,23 @@
 ---
-import Layout from "../layouts/Base.astro";
-import Hero from "../components/Hero.astro";
-import AboutSection from "../components/AboutSection.astro";
-import ServicesSection from "../components/ServicesSection.astro";
-import CtaSection from "../components/CtaSection.astro";
-import TestimonialSection from "../components/TestimonialSection.astro";
-import BlogPostsSection from "../components/BlogPostsSection.astro";
+import MainI18n from "@components/MainI18n.astro";
+import type { CommonFrontmatter } from "@src/types";
+import Hero from "@components/Hero.astro";
+import AboutSection from "@components/AboutSection.astro";
+import ServicesSection from "@components/ServicesSection.astro";
+import CtaSection from "@components/CtaSection.astro";
+import TestimonialSection from "@components/TestimonialSection.astro";
+import BlogPostsSection from "@components/BlogPostsSection.astro";
+interface Props {
+  frontmatter: CommonFrontmatter;
+}
+const { frontmatter } = Astro.props;
 ---
 
-<Layout>
-  <Hero page={Astro.props} />
-  <AboutSection page={Astro.props} />
-  <ServicesSection page={Astro.props} />
-  <CtaSection page={Astro.props} />
-  <TestimonialSection page={Astro.props} />
-  <BlogPostsSection page={Astro.props} />
-</Layout>
+<MainI18n {frontmatter} collection="blog">
+  <Hero {frontmatter} />
+  <AboutSection {frontmatter} />
+  <ServicesSection {frontmatter} />
+  <CtaSection {frontmatter} />
+  <TestimonialSection {frontmatter} />
+  <BlogPostsSection {frontmatter} />
+</MainI18n>

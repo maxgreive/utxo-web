@@ -1,11 +1,7 @@
 ---
-import { SOCIALS } from "../config";
-import { useTranslatedPath, getLangFromUrl } from "../i18n/utils";
-const lang = getLangFromUrl(Astro.url);
-const translatePath = useTranslatedPath(lang);
-
-const { page } = Astro.props;
-const content = page.frontmatter.hero;
+import { SOCIALS } from "@src/config";
+const { frontmatter } = Astro.props;
+const content = frontmatter.hero;
 ---
 
 <section
@@ -28,15 +24,11 @@ const content = page.frontmatter.hero;
             data-aos-delay="300"
             set:html={content.title}
           />
-          <p
-            data-aos="fade-up"
-            data-aos-delay="500"
-            set:html={content.intro}
-          />
+          <p data-aos="fade-up" data-aos-delay="500" set:html={content.intro} />
 
           <div class="banner-btn-seven" data-aos="fade-up" data-aos-delay="700">
             <a
-              href={translatePath(content.ctaLink)}
+              href="#"
               class="btn btn-three border-btn"
               set:text={content.ctaText}
             />
