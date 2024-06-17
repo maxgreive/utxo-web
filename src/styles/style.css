@@ -8504,6 +8504,8 @@ label {
   position: relative;
   border-radius: 10px 10px 0 0;
   overflow: hidden;
+  border: 1px solid #E7E7E7;
+  border-bottom: 0;
 }
 
 .blog-post-thumb-two img {
