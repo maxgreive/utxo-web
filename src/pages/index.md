@@ -17,30 +17,18 @@ services:
   serviceTitle: The Best Choice For All Your Business Needs
   serviceSubtitle: Providing Services
   items:
-    - title: Business Management
-      text: Lorem ipsum dolor amera consect failerey adipiscing el sed eiumod aawea tempor incididuntrem ipsumr econsecte.
-      link: /services/business-management
-      icon: flaticon-layers
-    - title: Market Analysis & Research
-      text: Lorem ipsum dolor amera consect failerey adipiscing el sed eiumod aawea tempor incididuntrem ipsumr econsecte.
-      icon: flaticon-mission
-      link: /services/business-management
-    - title: Core Finance Advisor
-      text: Lorem ipsum dolor amera consect failerey adipiscing el sed eiumod aawea tempor incididuntrem ipsumr econsecte.
-      icon: flaticon-investment
-      link: /services/business-management
-    - title: Audit & Evaluation
-      text: Lorem ipsum dolor amera consect failerey adipiscing el sed eiumod aawea tempor incididuntrem ipsumr econsecte.
-      icon: flaticon-taxes
-      link: /services/business-management
-    - title: Consultancy & Advice
-      text: Lorem ipsum dolor amera consect failerey adipiscing el sed eiumod aawea tempor incididuntrem ipsumr econsecte.
-      icon: flaticon-data-management
-      link: /services/business-management
-    - title: Business Strategy & Planning
-      text: Lorem ipsum dolor amera consect failerey adipiscing el sed eiumod aawea tempor incididuntrem ipsumr econsecte.
-      icon: flaticon-business-presentation
-      link: /services/business-management
+    - title: Customer Research Sprints
+      text: We help you to gain profitable insights and successful results in a very short time. From day one. Guaranteed.
+      link: /services/customer-research-sprints
+      icon: flaticon-megaphone
+    - title: Jobs to Be Done Workshop
+      text: You want to develop products and services for my company that will take customers out of your hands?
+      icon: flaticon-round-table
+      link: /services/mastering-jobs-to-be-done-online-workshop
+    - title: Product Improvement Sprints
+      text: We analyze your customer needs and help you translate it into a blueprint for a winning product. This takes usually less then 20% of the time of doing it yourself with trial and error.
+      icon: flaticon-rocket
+      link: /services/product-improvement-sprints
 
 # CTA Section
 ctaSection:

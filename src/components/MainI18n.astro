@@ -117,7 +117,7 @@ if (reference) {
 
   document.querySelectorAll("[data-background]").forEach((item) => {
     // @ts-ignore
-    item.style = `background-image: url("${item.dataset.background}")`;
+    item.style = `background-image: url(${item.dataset.background})`;
   });
 
   const slideToggle = (element: any) => {
