@@ -3,44 +3,94 @@ import Header from "@components/Header.astro";
 import Html from "@components/Html.astro";
 import { uiStrings } from "@i18n/uiStrings";
 import { locales, defaultLocale } from "@i18n/i18n";
-const title = uiStrings.pageNotFoundHeading[defaultLocale]
+const title = uiStrings.pageNotFoundHeading[defaultLocale];
 ---
 
 <Html frontmatter={{ title, description: title }}>
   <Header />
+
   <main id="main">
-    <article class="prose">
-      {locales.map((locale)=>(
-        <h1 lang={locale} style="display: none">{uiStrings.pageNotFoundHeading[locale]}</h1>
-        <p lang={locale} style="display: none">{uiStrings.pageNotFoundBody[locale]}</p>
-        <>
-          {locale === defaultLocale &&
-            <noscript>
-              <h1 lang={defaultLocale}>{uiStrings.pageNotFoundHeading[defaultLocale]}</h1>
-              <p lang={defaultLocale}>{uiStrings.pageNotFoundBody[defaultLocale]}</p>
-            </noscript>
-          }
-        </>
-      ))}
-      <slot />
-    </article>
+    <section class="error-area">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="error-content">
+              <h1 class="error-404">4<span>0</span>4</h1>
+              {
+                locales.map((locale) => (
+                  <>
+                    <h2 lang={locale} style="display: none" class="title">
+                      {uiStrings.pageNotFoundHeading[locale]}
+                    </h2>
+                    <p lang={locale} style="display: none">
+                      {uiStrings.pageNotFoundBody[locale]}
+                    </p>
+                    <a
+                      lang={locale}
+                      href="/"
+                      class="btn btn-three"
+                      style="display: none"
+                    >
+                      Go Back To Home
+                    </a>
+
+                    <>
+                      {locale === defaultLocale && (
+                        <noscript>
+                          <h2 lang={defaultLocale} class="title">
+                            {uiStrings.pageNotFoundHeading[defaultLocale]}
+                          </h2>
+                          <p lang={defaultLocale}>
+                            {uiStrings.pageNotFoundBody[defaultLocale]}
+                          </p>
+                          <a
+                            lang={defaultLocale}
+                            href="/"
+                            class="btn btn-three"
+                          >
+                            Go Back To Home
+                          </a>
+                        </noscript>
+                      )}
+                    </>
+                  </>
+                ))
+              }
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
   </main>
 </Html>
 
-<script define:vars={{locales: locales, defaultLocale: defaultLocale}}>
-  (function(){
-    const agentLanguage = window.navigator.language.slice(0, defaultLocale.length);
-    const selectedLanguage = locales.includes(agentLanguage) ? agentLanguage : defaultLocale
-    let nodes = []
-    for (const locale of locales){
-      nodes = [...nodes, ...document.querySelectorAll(`#main [lang="${locale}"]`)]
+<script define:vars={{ locales: locales, defaultLocale: defaultLocale }}>
+  (function () {
+    const agentLanguage = window.navigator.language.slice(
+      0,
+      defaultLocale.length,
+    );
+    const selectedLanguage = locales.includes(agentLanguage)
+      ? agentLanguage
+      : defaultLocale;
+    let nodes = [];
+    for (const locale of locales) {
+      nodes = [
+        ...nodes,
+        ...document.querySelectorAll(`#main [lang="${locale}"]`),
+      ];
     }
-    for (const node of nodes){
-      if (node.getAttribute('lang') !== selectedLanguage) node.remove()
-      else{
-        if (node.tagName.toLowerCase() === 'h1') document.title = node.innerHTML
-        node.style['display'] = 'block'
+    for (const node of nodes) {
+      if (node.getAttribute("lang") !== selectedLanguage) node.remove();
+      else {
+        if (node.tagName.toLowerCase() === "h1")
+          document.title = node.innerHTML;
+        if (node.tagName.toLowerCase() === "a") {
+          node.style["display"] = "inline-block";
+        } else {
+          node.style["display"] = "block";
+        }
       }
     }
-  })()
+  })();
 </script>

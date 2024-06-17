@@ -10,15 +10,15 @@ export const headerMenu: Record<string, Record<string, navigationItem[]>> = {
 			label: 'Home',
 		},
 		{
-			path: '/blog',
+			path: '/en/blog',
 			label: 'Blog'
 		},
 		{
-			path: '/tag',
+			path: '/en/tag',
 			label: 'Tags'
 		},
 		{
-			path: '/about',
+			path: '/en/about',
 			label: 'About'
 		}]
 	},

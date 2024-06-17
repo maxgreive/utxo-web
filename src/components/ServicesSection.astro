@@ -1,5 +1,6 @@
 ---
 import { Image } from "astro:assets";
+import { uiStrings } from "@i18n/uiStrings";
 
 import Shape01 from "../images/h9_services_shape01.png";
 import Shape02 from "../images/h9_services_shape02.png";
@@ -36,7 +37,7 @@ const { frontmatter } = Astro.props;
               <div class="features-content-six">
                 <p class="line-clamp-3">{service.text}</p>
                 <a href={service.link} class="link-btn">
-                  Read More
+                  {uiStrings.readMore[Astro.currentLocale]}
                   <img src="/assets/img/icons/right-arrow.svg" alt="" />
                 </a>
               </div>

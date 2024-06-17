@@ -139,4 +139,17 @@ if (reference) {
         return false;
       });
     });
+
+  window.addEventListener("scroll", function () {
+    const scroll = window.scrollY;
+    if (scroll < 245) {
+      document.querySelector("#sticky-header")?.classList.remove("sticky-menu");
+      document.querySelector(".scroll-to-target")?.classList.remove("open");
+      document.querySelector("#header-fixed-height")?.classList.remove("active-height");
+    } else {
+      document.querySelector("#sticky-header")?.classList.add("sticky-menu");
+      document.querySelector(".scroll-to-target")?.classList.add("open");
+      document.querySelector("#header-fixed-height")?.classList.add("active-height");
+    }
+  });
 </script>

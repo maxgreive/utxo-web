@@ -7,6 +7,10 @@ interface TypeUIStrings {
 }
 
 export const uiStrings: TypeUIStrings = {
+	readMore: {
+		en: 'Read more',
+		de: 'Weiterlesen'
+	},
 	siteDescription: {
 		en: 'All the basics for a brand-new blog.',
 		de: 'Die Basics für eine niegelnagelneues Blog',
@@ -58,13 +62,13 @@ export const uiStrings: TypeUIStrings = {
 		nl: 'Profiel van'
 	},
 	pageNotFoundHeading: {
-		en: 'Page not found',
-		de: 'Seite nicht gefunden',
-		nl: 'Pagina niet gevonden'
+		en: 'Oops! Nothing was found!',
+		de: 'Oops! Nothing was found!',
+		nl: 'Oops! Nothing was found!'
 	},
 	pageNotFoundBody: {
-		en: '404!',
-		de: '404!',
-		nl: '404!'
+		en: 'It could be you or us, but there is no page here. It might have been moved or deleted.',
+		de: 'It could be you or us, but there is no page here. It might have been moved or deleted.',
+		nl: 'It could be you or us, but there is no page here. It might have been moved or deleted.',
 	},
 };

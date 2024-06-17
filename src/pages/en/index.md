@@ -45,7 +45,7 @@ services:
 # CTA Section
 ctaSection:
   title: Let's Discuss About How We Can Help Make Your Business Better
-  buttonLabel: Termin vereinbaren
+  buttonLabel: Schedule a Call
   buttonLink: https://cal.com/martinbetz
 
 # Testimonials Section

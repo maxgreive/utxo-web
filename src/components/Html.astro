@@ -20,6 +20,9 @@ const lang = Astro.currentLocale
     </Head>
   </head>
   <body>
+    <button class="scroll-top scroll-to-target" data-target="html">
+      <i class="fas fa-angle-up"></i>
+    </button>
     {includeSkipLink &&
       <SkipLink />
     }
@@ -27,7 +30,7 @@ const lang = Astro.currentLocale
 	</body>
   {mode === 'development' &&
     <script>
-      setTimeout(()=>{
+      setTimeout(() => {
         const main = document.getElementById('main')
         if (main === null) window.alert("This template doesn't have a #main element. It's required for the skip link to work.")
       }, 1000)
