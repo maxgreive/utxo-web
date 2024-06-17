@@ -1,0 +1,48 @@
+---
+import { BRANDS } from "@src/config";
+---
+
+<div class="brand-aera-two pb-80">
+  <div class="container">
+    <div class="row brand-active">
+      <div class="swiper" data-client-swiper>
+        <div class="swiper-wrapper">
+          {
+            BRANDS.map((brand) => (
+              <div class="col-lg-12 swiper-slide">
+                <div class="brand-item">
+                  <img src={brand.image} alt="" />
+                </div>
+              </div>
+            ))
+          }
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  import Swiper from "swiper";
+  import { Autoplay } from "swiper/modules";
+  import "swiper/css";
+  import "swiper/css/autoplay";
+
+  const swiper = new Swiper("[data-client-swiper]", {
+    direction: "horizontal",
+    modules: [Autoplay],
+    slidesPerView: 2,
+    autoplay: {
+      delay: 5000,
+    },
+    loop: true,
+    breakpoints: {
+      640: {
+        slidesPerView: 3,
+      },
+      960: {
+        slidesPerView: 5,
+      },
+    }
+  });
+</script>

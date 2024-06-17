@@ -31,7 +31,7 @@ const content = frontmatter.testimonials;
             </h2>
           </div>
           <div class="testimonial-item-wrap-five">
-            <div class="swiper">
+            <div class="swiper" data-testimonial-swiper>
               <div class="swiper-wrapper testimonial-active-five">
                 {
                   content.items.map((item: { quote: unknown; image: string; author: unknown; position: unknown; }) => (
@@ -88,7 +88,7 @@ const content = frontmatter.testimonials;
   import "swiper/css";
   import "swiper/css/autoplay";
 
-  const swiper = new Swiper(".swiper", {
+  const swiper = new Swiper("[data-testimonial-swiper]", {
     modules: [Autoplay, Navigation],
     direction: "vertical",
     slidesPerView: 1,

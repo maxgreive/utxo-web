@@ -2,6 +2,7 @@
 import MainI18n from "@components/MainI18n.astro";
 import type { CommonFrontmatter } from "@src/types";
 import Hero from "@components/Hero.astro";
+import ClientLogos from "@components/ClientLogos.astro";
 import AboutSection from "@components/AboutSection.astro";
 import ServicesSection from "@components/ServicesSection.astro";
 import CtaSection from "@components/CtaSection.astro";
@@ -17,6 +18,7 @@ const { frontmatter } = Astro.props;
   <Hero {frontmatter} />
   <AboutSection {frontmatter} />
   <ServicesSection {frontmatter} />
+  <ClientLogos {frontmatter} />
   <CtaSection {frontmatter} />
   <TestimonialSection {frontmatter} />
   <BlogPostsSection {frontmatter} />

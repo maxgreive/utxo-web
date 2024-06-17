@@ -41,3 +41,30 @@ export const SOCIALS = [
     icon: 'fa-linkedin'
   }
 ]
+
+export const BRANDS = [
+  {
+    image: '/assets/img/logos/brand-steadybit.png',
+    name: 'Steadybit'
+  },
+  {
+    image: '/assets/img/logos/brand-eduapes.png',
+    name: 'Eduapes'
+  },
+  {
+    image: '/assets/img/logos/brand-emlak.png',
+    name: 'Emlak'
+  },
+  {
+    image: '/assets/img/logos/brand-tuev.png',
+    name: 'TÜV Rheinland'
+  },
+  {
+    image: '/assets/img/logos/brand-dittmar.png',
+    name: 'Dittmar & Friends'
+  },
+  {
+    image: '/assets/img/logos/brand-pwc.png',
+    name: 'PWC'
+  },
+]
