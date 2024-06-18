@@ -17,11 +17,6 @@ const lang = Astro.currentLocale
   <head>
     <Head {frontmatter} {includeCanonicalMeta} >
       <slot name="head" />
-      <style>
-        .mobile-menu {
-          transform: translateX(101%);
-        }
-      </style>
     </Head>
   </head>
   <body>
