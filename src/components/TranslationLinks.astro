@@ -10,7 +10,7 @@ const { translationLinks } = Astro.props,
 	pageTranslationsAvailableIn = `${uiStrings.pageTranslationsAvailableIn[Astro.currentLocale]} `;
 ---
 
-<select id="language-select">
+<select id="language-select" aria-label="Select language">
 	<option selected disabled
 		>{uiStrings[Astro.currentLocale][Astro.currentLocale]}</option
 	>

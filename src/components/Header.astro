@@ -2,7 +2,7 @@
 import Search from "./Search.astro";
 import SidebarMenu from "./SidebarMenu.astro";
 import { defaultLocale, fallback } from "@i18n/i18n";
-import Image from "astro/components/Image.astro";
+import { Picture } from "astro:assets";
 import Logo from "../images/logo/logo.png";
 import HeaderLink from "./HeaderLink.astro";
 import { headerMenu } from "@src/header";
@@ -32,7 +32,7 @@ const headerMenuItems: navigationItem[] = headerMenu[menuLocale].items;
               </div>
               <div class="logo">
                 <a href={headerMenuItems[0].path}>
-                  <Image src={Logo} alt="Gerow Logo" height="29" />
+                  <Picture src={Logo} formats={['avif', 'webp']} height={29} alt="Logo" />
                 </a>
               </div>
               <div class="navbar-wrap main-menu d-none d-lg-flex">
@@ -80,12 +80,14 @@ const headerMenuItems: navigationItem[] = headerMenu[menuLocale].items;
                 <i class="fas fa-times"></i>
               </div>
               <div class="nav-logo">
-                <a href="/"><Image src={Logo} alt="Logo" /></a>
+                <a href="/">
+                  <Picture src={Logo} formats={['avif', 'webp']} alt="Logo" />
+                </a>
               </div>
               <div class="mobile-search">
                 <form action="#">
                   <input type="text" placeholder="Search here …" />
-                  <button><i class="flaticon-search"></i></button>
+                  <button aria-label="Search"><i class="flaticon-search"></i></button>
                 </form>
               </div>
               <div class="menu-outer">

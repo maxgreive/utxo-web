@@ -1,8 +1,7 @@
 ---
-import Image from "astro/components/Image.astro";
-
 import Shape01 from "../images/breadcrumb_shape01.png";
 import Shape02 from "../images/breadcrumb_shape02.png";
+import { Picture } from "astro:assets";
 
 const { frontmatter } = Astro.props,
   title = frontmatter.title;
@@ -32,7 +31,7 @@ const { frontmatter } = Astro.props,
     </div>
   </div>
   <div class="breadcrumb-shape-wrap">
-    <Image src={Shape01} alt="Decorative Shape" />
-    <Image src={Shape02} alt="Decorative Shape" />
+    <Picture src={Shape01} formats={["avif", "webp"]} alt="Decorative Shape" />
+    <Picture src={Shape02} formats={["avif", "webp"]} alt="Decorative Shape" />
   </div>
 </section>
