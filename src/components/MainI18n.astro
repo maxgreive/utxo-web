@@ -95,20 +95,20 @@ if (reference) {
       />
     ))
   }
-</Html>
-<Header />
+  <Header />
 
-<main class="fix" id="main">
-  <slot />
-</main>
-<Footer />
-{translationLinks.length > 0 && <TranslationLinks {translationLinks} />}
+  <main class="fix" id="main">
+    <slot />
+  </main>
+  <Footer />
+  {translationLinks.length > 0 && <TranslationLinks {translationLinks} />}
+</Html>
 
 <script>
   import AOS from "aos";
   import "aos/dist/aos.css";
   import Chocolat from "chocolat";
-  import 'chocolat/dist/css/chocolat.css';
+  import "chocolat/dist/css/chocolat.css";
 
   AOS.init({
     duration: 1000,
