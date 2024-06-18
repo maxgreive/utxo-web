@@ -14,12 +14,8 @@ export const headerMenu: Record<string, Record<string, navigationItem[]>> = {
 			label: 'Blog'
 		},
 		{
-			path: '/en/tag',
-			label: 'Tags'
-		},
-		{
-			path: '/en/about',
-			label: 'About'
+			path: '/en/services',
+			label: 'Services'
 		}]
 	},
 	de: {

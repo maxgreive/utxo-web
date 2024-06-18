@@ -1,5 +1,8 @@
 ---
 title: Mastering Jobs to Be Done Online Workshop
+pubDate: 'Jul 22 2022'
+description: This workshop is for you if one of the following sentences applies to you. I want to develop products and services for my company
+
 ---
 
 This workshop is for you if one of the following sentences applies to you:

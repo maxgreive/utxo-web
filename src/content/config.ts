@@ -22,7 +22,11 @@ const serviceCollection = defineCollection({
 	type: 'content',
 	// Type-check frontmatter using a schema
 	schema: z.object({
-		title: z.string()
+		title: z.string(),
+		reference: z.string().optional(),
+		description: z.string().optional(),
+		pubDate: z.coerce.date(),
+		tags: z.array(z.string()).default(['other']),
 	})
 });
 

@@ -1,7 +1,7 @@
 ---
 import getPublishedPosts from "@utilities/getPublishedPosts";
 import MainI18n from "@components/MainI18n.astro";
-import PostList from "@components/PostList.astro";
+import ServicesList from "@components/ServicesList.astro";
 import PageHeader from "@components/PageHeader.astro";
 
 const { frontmatter } = Astro.props,
@@ -12,5 +12,5 @@ const posts = await getPublishedPosts(Astro.currentLocale, collection);
 
 <MainI18n {frontmatter} collection="pages">
   <PageHeader {frontmatter} />
-  <PostList posts={posts} {frontmatter} />
+  <ServicesList posts={posts} {frontmatter} />
 </MainI18n>
