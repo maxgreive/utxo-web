@@ -14,28 +14,26 @@ import "../styles/style.css";
 import "../styles/responsive.css";
 
 interface Props {
-	frontmatter: CommonFrontmatter;
-	includeCanonicalMeta?: boolean;
+  frontmatter: CommonFrontmatter;
+  includeCanonicalMeta?: boolean;
 }
 
 const mode = import.meta.env.MODE,
-	{ frontmatter, includeCanonicalMeta = true } = Astro.props,
-	title = frontmatter.title
-		? `${frontmatter.title} | ${siteTitle}`
-		: siteTitle,
-	description = frontmatter.description,
-	file = frontmatter.file,
-	previewImage = frontmatter.previewImage || "/blog-placeholder-1.jpg",
-	canonicalURL = new URL(
-		frontmatter.canonicalURL || Astro.url.pathname,
-		Astro.site,
-	),
-	faviconIco = mode === "development" ? "/favicon-dev.ico" : "/favicon.ico",
-	faviconSVG = mode === "development" ? "/favicon-dev.svg" : "/favicon.svg",
-	appleTouchIcon =
-		mode === "development"
-			? "/apple-touch-icon-dev.png"
-			: "/apple-touch-icon.png";
+  { frontmatter, includeCanonicalMeta = true } = Astro.props,
+  title = frontmatter.title ? `${frontmatter.title} | ${siteTitle}` : siteTitle,
+  description = frontmatter.description,
+  file = frontmatter.file,
+  previewImage = frontmatter.previewImage || "/blog-placeholder-1.jpg",
+  canonicalURL = new URL(
+    frontmatter.canonicalURL || Astro.url.pathname,
+    Astro.site,
+  ),
+  faviconIco = mode === "development" ? "/favicon-dev.ico" : "/favicon.ico",
+  faviconSVG = mode === "development" ? "/favicon-dev.svg" : "/favicon.svg",
+  appleTouchIcon =
+    mode === "development"
+      ? "/apple-touch-icon-dev.png"
+      : "/apple-touch-icon.png";
 ---
 
 <!-- Global Metadata -->
@@ -79,3 +77,9 @@ const mode = import.meta.env.MODE,
 <meta property="twitter:title" content={title} />
 {description && <meta property="twitter:description" content={description} />}
 <meta property="twitter:image" content={new URL(previewImage, Astro.url)} />
+
+<style>
+  .mobile-menu {
+    transform: translateX(101%);
+  }
+</style>
