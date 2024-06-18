@@ -1,5 +1,6 @@
 ---
 import { BRANDS } from "@src/config";
+import { Picture } from "astro:assets";
 ---
 
 <div class="brand-area-two pb-80">
@@ -11,7 +12,13 @@ import { BRANDS } from "@src/config";
             BRANDS.map((brand) => (
               <div class="col-lg-12 swiper-slide">
                 <div class="brand-item">
-                  <img src={brand.image} alt="" />
+                  <Picture
+                    src={brand.image}
+                    formats={["avif", "webp"]}
+                    width={160}
+                    height={60}
+                    alt=""
+                  />
                 </div>
               </div>
             ))
@@ -43,6 +50,6 @@ import { BRANDS } from "@src/config";
       960: {
         slidesPerView: 5,
       },
-    }
+    },
   });
 </script>

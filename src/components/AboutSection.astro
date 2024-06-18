@@ -1,5 +1,5 @@
 ---
-import { Image } from "astro:assets";
+import { Picture } from "astro:assets";
 
 import Shape01 from "../images/h9_about_shape01.png";
 import Shape02 from "../images/h9_about_shape02.png";
@@ -26,9 +26,10 @@ const { frontmatter } = Astro.props;
           </h2>
         </div>
         <div class="about-img-fifteen">
-          <Image
+          <Picture
             src={AboutImg}
             width="420"
+            formats={["avif", "webp"]}
             alt="img"
             data-aos="fade-right"
             data-aos-delay="200"
@@ -90,8 +91,9 @@ const { frontmatter } = Astro.props;
     </div>
   </div>
   <div class="about-shape-six">
-    <Image src={Shape01} alt="Shape Background" />
-    <Image
+    <Picture formats={["avif", "webp"]} src={Shape01} alt="Shape Background" />
+    <Picture
+      formats={["avif", "webp"]}
       src={Shape02}
       alt="Shape Background"
       data-aos="fade-left"

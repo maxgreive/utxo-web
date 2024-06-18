@@ -2,6 +2,7 @@
 const { post } = Astro.props;
 import { getRelativePostPath } from "@src/utilities/getPostPath";
 import FormattedDate from "./FormattedDate.astro";
+import { Picture } from "astro:assets";
 import { getPostDescription } from "@src/utilities/getPageDescription";
 const { frontmatter } = Astro.props,
   collection = frontmatter.collection;
@@ -13,7 +14,13 @@ const { frontmatter } = Astro.props,
       <a
         href={`${getRelativePostPath(Astro.currentLocale, collection, post.slug)}`}
       >
-        <img src={post.data.previewImage} alt="" />
+        <Picture
+          src={post.data.previewImage}
+          formats={["avif", "webp"]}
+          alt={post.data.title}
+          width={510}
+          height={200}
+        />
       </a>
       {
         post.data.tags.length && (
@@ -40,7 +47,13 @@ const { frontmatter } = Astro.props,
             <a
               href={`${getRelativePostPath(Astro.currentLocale, collection, post.slug)}`}
             >
-              <img src="/assets/img/blog/blog_avatar01.png" alt="" />
+              <Picture
+                src="/assets/img/blog/blog_avatar01.png"
+                width={65}
+                height={65}
+                formats={["avif", "webp"]}
+                alt="Avatar"
+              />
               {post.data.author}
             </a>
           </li>

@@ -1,5 +1,5 @@
 ---
-import { Image } from "astro:assets";
+import { Picture } from "astro:assets";
 import Logo from "../images/logo/logo.png";
 import { SOCIALS } from "../config";
 
@@ -12,7 +12,12 @@ import gallery1 from "../images/sb_insta01.jpg";
   </div>
   <div class="logo-side mb-30">
     <a href="index.html">
-      <Image src={Logo} alt="Gerow Logo" width="151" />
+      <Picture
+        formats={["avif", "webp"]}
+        src={Logo}
+        alt="Gerow Logo"
+        width="151"
+      />
     </a>
   </div>
   <div class="side-info mb-30">
@@ -33,32 +38,68 @@ import gallery1 from "../images/sb_insta01.jpg";
   <ul class="side-instagram list-wrap">
     <li>
       <a href="#">
-        <Image src={gallery1} alt="Gallery Image" width="87" height="87" />
+        <Picture
+          formats={["avif", "webp"]}
+          src={gallery1}
+          alt="Gallery Image"
+          width="87"
+          height="87"
+        />
       </a>
     </li>
     <li>
       <a href="#">
-        <Image src={gallery1} alt="Gallery Image" width="87" height="87" />
+        <Picture
+          formats={["avif", "webp"]}
+          src={gallery1}
+          alt="Gallery Image"
+          width="87"
+          height="87"
+        />
       </a>
     </li>
     <li>
       <a href="#">
-        <Image src={gallery1} alt="Gallery Image" width="87" height="87" />
+        <Picture
+          formats={["avif", "webp"]}
+          src={gallery1}
+          alt="Gallery Image"
+          width="87"
+          height="87"
+        />
       </a>
     </li>
     <li>
       <a href="#">
-        <Image src={gallery1} alt="Gallery Image" width="87" height="87" />
+        <Picture
+          formats={["avif", "webp"]}
+          src={gallery1}
+          alt="Gallery Image"
+          width="87"
+          height="87"
+        />
       </a>
     </li>
     <li>
       <a href="#">
-        <Image src={gallery1} alt="Gallery Image" width="87" height="87" />
+        <Picture
+          formats={["avif", "webp"]}
+          src={gallery1}
+          alt="Gallery Image"
+          width="87"
+          height="87"
+        />
       </a>
     </li>
     <li>
       <a href="#">
-        <Image src={gallery1} alt="Gallery Image" width="87" height="87" />
+        <Picture
+          formats={["avif", "webp"]}
+          src={gallery1}
+          alt="Gallery Image"
+          width="87"
+          height="87"
+        />
       </a>
     </li>
   </ul>

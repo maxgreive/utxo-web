@@ -1,6 +1,7 @@
 ---
 import type { Person } from "@utilities/people";
 import { people, getPersonPath } from "@utilities/people";
+import { Picture } from "astro:assets";
 const { authorFullName = "" } = Astro.props;
 
 let person: Person = people.find((person) => {
@@ -13,7 +14,13 @@ let person: Person = people.find((person) => {
     person.avatar && (
       <div class="blog-avatar-img">
         <a href={getPersonPath(Astro.currentLocale, person.id)}>
-          <img src={person.avatar} alt={`${person.fullName} profile picture`} />
+          <Picture
+            src={person.avatar}
+            formats={["avif", "webp"]}
+            width={115}
+            height={115}
+            alt={`${person.fullName} profile picture`}
+          />
         </a>
       </div>
     )

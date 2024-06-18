@@ -1,5 +1,6 @@
 ---
 import { SOCIALS } from "@src/config";
+import { Picture } from "astro:assets";
 const { frontmatter } = Astro.props;
 const content = frontmatter.hero;
 ---
@@ -34,15 +35,21 @@ const content = frontmatter.hero;
             />
           </div>
           <div class="banner-content-shape">
-            <img
+            <Picture
               src="/assets/img/banner/h9_hero_shape01.png"
               alt="shape"
+              width={534}
+              height={312}
+              formats={["avif", "webp"]}
               data-aos="fade-up-right"
               data-aos-delay="800"
             />
-            <img
+            <Picture
               src="/assets/img/banner/h9_hero_shape02.png"
               alt="shape"
+              width={453}
+              height={257}
+              formats={["avif", "webp"]}
               data-aos="fade-down-left"
               data-aos-delay="800"
             />

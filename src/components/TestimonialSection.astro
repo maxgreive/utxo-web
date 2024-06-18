@@ -71,13 +71,25 @@ const content = frontmatter.testimonials;
                               <i class="fas fa-star" />
                             </div>
                             <div class="testimonial-quote">
-                              <img src="/assets/img/icons/quote.svg" alt="" />
+                              <Picture
+                                src="/assets/img/icons/quote.svg"
+                                formats={["avif", "webp"]}
+                                width={65}
+                                height={46}
+                                alt="Quotation Marks Icon"
+                              />
                             </div>
                           </div>
                           <p class="line-clamp-4">{item.quote}</p>
                           <div class="testimonial-avatar">
                             <div class="avatar-thumb">
-                              <img src={item.image} alt="" />
+                              <Picture
+                                src={item.image}
+                                formats={["avif", "webp"]}
+                                width={65}
+                                height={65}
+                                alt=""
+                              />
                             </div>
                             <div class="avatar-info">
                               <h2 class="title">{item.author}</h2>

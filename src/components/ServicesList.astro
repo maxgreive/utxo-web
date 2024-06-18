@@ -1,5 +1,6 @@
 ---
 import { getRelativePostPath } from "@src/utilities/getPostPath";
+import { Picture } from "astro:assets";
 
 const { frontmatter } = Astro.props;
 const { posts } = Astro.props,
@@ -33,7 +34,13 @@ const { posts } = Astro.props,
                   class="link-btn"
                 >
                   See Details
-                  <img src="/assets/img/icons/right-arrow.svg" alt="" />
+                  <Picture
+                    src="/assets/img/icons/right-arrow.svg"
+                    width={19}
+                    height={12}
+                    formats={["avif", "webp"]}
+                    alt="Right Arrow Icon"
+                  />
                 </a>
               </div>
             </div>

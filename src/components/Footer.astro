@@ -1,5 +1,5 @@
 ---
-import { Image } from "astro:assets";
+import { Picture } from "astro:assets";
 import { SOCIALS } from "../config";
 import whiteLogo from "../images/logo/w_logo.png";
 import { uiStrings } from '@i18n/uiStrings';
@@ -102,7 +102,7 @@ import { uiStrings } from '@i18n/uiStrings';
             <div class="left-sider">
               <div class="f-logo">
                 <a href="index.html">
-                  <Image src={whiteLogo} alt="" height={29} />
+                  <Picture src={whiteLogo} alt="UTXO Logo" formats={["avif", "webp"]} height={29} />
                 </a>
               </div>
               <div class="copyright-text">

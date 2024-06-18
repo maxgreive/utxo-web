@@ -1,5 +1,5 @@
 ---
-import { Image } from "astro:assets";
+import { Picture } from "astro:assets";
 import Shape from "../images/h9_cta_shape.png";
 
 const { frontmatter } = Astro.props;
@@ -31,8 +31,9 @@ const { frontmatter } = Astro.props;
     </div>
   </div>
   <div class="cta-shape">
-    <Image
+    <Picture
       src={Shape}
+      formats={["avif", "webp"]}
       alt="shape"
       data-aos="fade-down-left"
       data-aos-delay="400"

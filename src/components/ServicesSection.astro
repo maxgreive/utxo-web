@@ -1,5 +1,5 @@
 ---
-import { Image } from "astro:assets";
+import { Picture } from "astro:assets";
 import { uiStrings } from "@i18n/uiStrings";
 
 import Shape01 from "../images/h9_services_shape01.png";
@@ -14,7 +14,9 @@ const { frontmatter } = Astro.props;
         <div
           class="section-title-four text-center mb-50 tg-heading-subheading animation-style3"
         >
-          <span class="sub-title tg-element-title">{frontmatter.serviceSubtitle}</span>
+          <span class="sub-title tg-element-title"
+            >{frontmatter.serviceSubtitle}</span
+          >
           <h2 class="title tg-element-title">
             {frontmatter.serviceTitle}
           </h2>
@@ -23,40 +25,55 @@ const { frontmatter } = Astro.props;
     </div>
     <div class="row gutter-24 justify-content-center">
       {
-        frontmatter.services.items.map((service: { icon: string; link: string | URL; title: unknown; text: unknown; }) => (
-          <div class="col-lg-4 col-md-6">
-            <div class="features-item-six features-item-seven">
-              <div class="features-item-six-top">
-                <div class="features-icon-six">
-                  <i class={service.icon} />
+        frontmatter.services.items.map(
+          (service: {
+            icon: string;
+            link: string | URL;
+            title: unknown;
+            text: unknown;
+          }) => (
+            <div class="col-lg-4 col-md-6">
+              <div class="features-item-six features-item-seven">
+                <div class="features-item-six-top">
+                  <div class="features-icon-six">
+                    <i class={service.icon} />
+                  </div>
+                  <h2 class="title">
+                    <a href={service.link}>{service.title}</a>
+                  </h2>
                 </div>
-                <h2 class="title">
-                  <a href={service.link}>{service.title}</a>
-                </h2>
-              </div>
-              <div class="features-content-six">
-                <p class="line-clamp-3">{service.text}</p>
-                <a href={service.link} class="link-btn">
-                  {uiStrings.readMore[Astro.currentLocale]}
-                  <img src="/assets/img/icons/right-arrow.svg" alt="" />
-                </a>
+                <div class="features-content-six">
+                  <p class="line-clamp-3">{service.text}</p>
+                  <a href={service.link} class="link-btn">
+                    {uiStrings.readMore[Astro.currentLocale]}
+                    <Picture
+                      src="/assets/img/icons/right-arrow.svg"
+                      formats={["avif", "webp"]}
+                      width={19}
+                      height={12}
+                      alt="Right Arrow Icon"
+                    />
+                  </a>
+                </div>
               </div>
             </div>
-          </div>
-        ))
+          ),
+        )
       }
     </div>
   </div>
   <div class="services-shape-five">
-    <Image
+    <Picture
       src={Shape01}
       alt="shape"
+      formats={["avif", "webp"]}
       data-aos="fade-down-left"
       data-aos-delay="400"
     />
-    <Image
+    <Picture
       src={Shape02}
       alt="shape"
+      formats={["avif", "webp"]}
       data-aos="fade-up-right"
       data-aos-delay="400"
     />
