@@ -18,6 +18,15 @@ const blogCollection = defineCollection({
 	}),
 });
 
+const serviceCollection = defineCollection({
+	type: 'content',
+	// Type-check frontmatter using a schema
+	schema: z.object({
+		title: z.string()
+	})
+});
+
 export const collections = {
-	'blog' : blogCollection,
+	'blog': blogCollection,
+	'services': serviceCollection
 };

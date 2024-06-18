@@ -1,0 +1,32 @@
+---
+import { getCollection } from "astro:content";
+import { locales } from "@i18n/i18n";
+import Page from "@layouts/Page.astro";
+import { getLocaleFromUrl } from "@i18n/utilities";
+import { getRelativePostPath } from "@utilities/getPostPath";
+
+export async function getStaticPaths() {
+  const collection = "services";
+  const serviceEntries = await getCollection(collection);
+  let entriesToRender = [];
+  for (let locale of locales) {
+    const localeEntries = serviceEntries
+      .filter((entry) => getLocaleFromUrl(entry.slug) === locale)
+      .map((entry) => ({
+        params: {
+          slug: `${getRelativePostPath(locale, collection, entry.slug, false)}`,
+        },
+        props: { entry },
+      }));
+    entriesToRender.push(...localeEntries);
+  }
+  return entriesToRender;
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+---
+
+<Page frontmatter={entry.data}>
+  <Content />
+</Page>

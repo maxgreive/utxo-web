@@ -21,6 +21,11 @@ export const collectionDirectoryNames: PathNames = {
 		de: 'blog',
 		nl: 'blog'
 	},
+	services: {
+		en: 'services',
+		de: 'services',
+		nl: 'services'
+	}
 }
 export const directoryNames: PathNames = {
 	// Define the path for the tag pages (tags list, posts per tag).

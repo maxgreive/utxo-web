@@ -1,5 +1,4 @@
 ---
-layout: "@layouts/Page.astro"
 title: Mastering Jobs to Be Done Online Workshop
 ---
 
