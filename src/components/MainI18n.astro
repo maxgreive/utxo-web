@@ -160,15 +160,24 @@ if (reference) {
     }
   });
 
-  if (document.querySelector('.scroll-to-target')) {
-  document.querySelector(".scroll-to-target").addEventListener('click', function (e) {
-    const el = e.target as HTMLButtonElement;
-    const target = el.closest('.scroll-to-target').getAttribute('data-target');
-    const scrollElement = document.querySelector(target);
-    const headerHeight = document.querySelector('.sticky-menu')?.getBoundingClientRect().height || 0;
-    window.scrollBy(0, scrollElement.getBoundingClientRect().top - headerHeight);
-  });
-}
+  if (document.querySelector(".scroll-to-target")) {
+    document
+      .querySelector(".scroll-to-target")
+      .addEventListener("click", (e) => {
+        const el = e.target as HTMLButtonElement;
+        const target = el
+          .closest(".scroll-to-target")
+          .getAttribute("data-target");
+        const scrollElement = document.querySelector(target);
+        const headerHeight =
+          document.querySelector(".sticky-menu")?.getBoundingClientRect()
+            .height || 0;
+        window.scrollBy(
+          0,
+          scrollElement.getBoundingClientRect().top - headerHeight,
+        );
+      });
+  }
 
   Chocolat(document.querySelectorAll(".popup-image, .popup-video"));
 </script>
