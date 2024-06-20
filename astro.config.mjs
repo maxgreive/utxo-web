@@ -1,6 +1,6 @@
 import { defineConfig } from 'astro/config';
 import mdx from '@astrojs/mdx';
-import rehypeExternalLinks from 'rehype-external-links'
+import rehypeExternalLinks from 'rehype-external-links';
 import { defaultLocale, locales } from './src/i18n/i18n';
 import { site } from './src/consts';
 
@@ -8,6 +8,7 @@ const sitemapLocales = Object.fromEntries(locales.map((_, i) => [locales[i], loc
 
 import sitemap from '@astrojs/sitemap';
 import purgecss from 'astro-purgecss';
+import criticalCss from "astro-critical-css";
 
 // https://astro.build/config
 export default defineConfig({
@@ -28,7 +29,8 @@ export default defineConfig({
 			safelist: {
 				standard: [/aos/, /swiper/]
 			}
-		})
+		}),
+		criticalCss()
 	],
 	i18n: {
 		defaultLocale: defaultLocale,
