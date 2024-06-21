@@ -39,18 +39,15 @@ services:
   title: The Best Choice For All Your Business Needs
   subtitle: Providing Services
   items:
-    - title: Customer Research Sprints
-      text: We help you to gain profitable insights and successful results in a very short time. From day one. Guaranteed.
+    - title: Customer Insight Sprints
+      text: Within 4-6 weeks, we help you develop clear value propositions for product, marketing and sales - all based on customer insights
       link: /services/customer-research-sprints
-      icon: flaticon-megaphone
-    - title: Jobs to Be Done Workshop
-      text: You want to develop products and services for my company that will take customers out of your hands?
+      icon: flaticon-rocket
+    - title: Mastering Jobs to be done online course
+      text: For everyone who wants to learn and use our tools. Especially useful for people working in marketing, product development and innovation management. We teach you everything you need to know. 
       icon: flaticon-round-table
       link: /services/mastering-jobs-to-be-done-online-workshop
-    - title: Product Improvement Sprints
-      text: We analyze your customer needs and help you translate it into a blueprint for a winning product. This takes usually less then 20% of the time of doing it yourself with trial and error.
-      icon: flaticon-rocket
-      link: /services/product-improvement-sprints
+
 
 # CTA Section
 ctaSection:
