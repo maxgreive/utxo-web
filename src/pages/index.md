@@ -6,16 +6,32 @@ collection: blog
 
 # Hero Section
 hero:
-  title: Become <span>Customer First</span> 
+  title: Become <span>Customer First</span>
   subtitle: Understand your customer and grow
-  intro: Everyone wants to be understood and cared for. This builds trust. And trust is the basis for sustainable growth. 
+  intro: Everyone wants to be understood and cared for. This builds trust. And trust is the basis for sustainable growth.
   ctaText: See how we can help you
   ctaLink: /services
 
+# About Section
+about:
+  title: We Do Financial Planning And Consulting
+  subtitle: ensure high availability of your services
+  text: We are helping to lead the charge; we can help you build on your pas aeret successes and prepare for future. Our Group is recognized as one of the World's leading Industry following.
+  text2: helping to lead the charge we can help you build on your passucc esses and prepare for future.
+  bulletpoints:
+    - 100% Better Results
+    - Promis TimelineI Guarantee
+    - Suspe Ndisse Suscipit
+    - Review Credit Reports
+    - Suspe Ndisse Suscipit
+    - Review Credit Reports
+
+
+
 # Service Section
 services:
-  serviceTitle: 
-  serviceSubtitle: Providing Services
+  title: The Best Choice For All Your Business Needs
+  subtitle: Providing Services
   items:
     - title: Customer Research Sprints
       text: We help you to gain profitable insights and successful results in a very short time. From day one. Guaranteed.

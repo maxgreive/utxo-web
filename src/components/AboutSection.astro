@@ -18,12 +18,18 @@ const { frontmatter } = Astro.props;
         <div
           class="section-title-four text-center text-lg-start mb-35 tg-heading-subheading animation-style3"
         >
-          <span class="sub-title tg-element-title"
-            >Ensure High Availability of Your Services</span
-          >
-          <h2 class="title tg-element-title">
-            We Do Financial Planning <br /> And Consulting
-          </h2>
+          {
+            frontmatter.about.subtitle && (
+              <span class="sub-title tg-element-title">
+                {frontmatter.about.subtitle}
+              </span>
+            )
+          }
+          {
+            frontmatter.about.title && (
+              <h2 class="title tg-element-title">{frontmatter.about.title}</h2>
+            )
+          }
         </div>
         <div class="about-img-fifteen">
           <Picture
@@ -45,27 +51,27 @@ const { frontmatter } = Astro.props;
       </div>
       <div class="col-lg-6">
         <div class="about-content-fifteen">
-          <p>
-            We are helping to lead the charge; we can help you build on your pas
-            aeret successes and prepare for future. Our Group is recognized as
-            one of the World's leading Industry following.
-          </p>
-          <p class="info-two">
-            helping to lead the charge we can help you build on your passucc
-            esses and prepare for future.
-          </p>
-          <div class="about-list-two about-list-four mb-45">
-            <ul class="list-wrap">
-              <li><i class="fas fa-arrow-right"></i>100% Better results</li>
-              <li>
-                <i class="fas fa-arrow-right"></i>promis timelineI guarantee
-              </li>
-              <li><i class="fas fa-arrow-right"></i>Suspe ndisse suscipit</li>
-              <li><i class="fas fa-arrow-right"></i>Review Credit Reports</li>
-              <li><i class="fas fa-arrow-right"></i>Suspe ndisse suscipit</li>
-              <li><i class="fas fa-arrow-right"></i>Review Credit Reports</li>
-            </ul>
-          </div>
+          {frontmatter.about.text && <p>{frontmatter.about.text}</p>}
+          {
+            frontmatter.about.text2 && (
+              <p class="info-two">{frontmatter.about.text2}</p>
+            )
+          }
+
+          {
+            frontmatter.about.bulletpoints.length && (
+              <div class="about-list-two about-list-four mb-45">
+                <ul class="list-wrap">
+                  {frontmatter.about.bulletpoints.map((bullet: String) => (
+                    <li>
+                      <i class="fas fa-arrow-right" />
+                      {bullet}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )
+          }
           <div class="clients-box-wrap">
             <div class="clients-box-two">
               <div class="icon">

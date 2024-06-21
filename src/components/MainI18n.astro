@@ -168,7 +168,11 @@ if (reference) {
         const target = el
           .closest(".scroll-to-target")
           .getAttribute("data-target");
+        if (!target) return;
+
         const scrollElement = document.querySelector(target);
+        if (!scrollElement) return;
+
         const headerHeight =
           document.querySelector(".sticky-menu")?.getBoundingClientRect()
             .height || 0;
