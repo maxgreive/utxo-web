@@ -12,6 +12,9 @@ hero:
   ctaText: See our services
   ctaLink: /services
 
+about:
+  title: Title
+
 # Service Section
 services:
   serviceTitle: The Best Choice For All Your Business Needs
