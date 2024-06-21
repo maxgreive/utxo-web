@@ -1,8 +1,14 @@
 ---
 import { Picture } from "astro:assets";
 import Logo from "../images/logo/logo.png";
+import { defaultLocale, fallback } from "@i18n/i18n";
 import { SOCIALS } from "../config";
-
+import { headerMenu } from "@src/header";
+import type { navigationItem } from "@src/header";
+const menuLocale: string = headerMenu[Astro.currentLocale]
+  ? Astro.currentLocale
+  : fallback[Astro.currentLocale] || defaultLocale;
+const headerMenuItems: navigationItem[] = headerMenu[menuLocale].items;
 import gallery1 from "../images/sb_insta01.jpg";
 ---
 
@@ -11,7 +17,7 @@ import gallery1 from "../images/sb_insta01.jpg";
     <button aria-label="Close"><i class="far fa-window-close"></i></button>
   </div>
   <div class="logo-side mb-30">
-    <a href="index.html">
+    <a href={headerMenuItems[0].path}>
       <Picture
         formats={["avif", "webp"]}
         src={Logo}
@@ -132,6 +138,6 @@ import gallery1 from "../images/sb_insta01.jpg";
         .querySelectorAll(".extra-info, .offcanvas-overlay")
         .forEach((itm) => itm.classList.remove("active"));
       return false;
-    }),
+    })
   );
 </script>
