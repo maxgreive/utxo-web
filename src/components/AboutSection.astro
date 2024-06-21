@@ -59,7 +59,7 @@ const { frontmatter } = Astro.props;
           }
 
           {
-            frontmatter.about.bulletpoints.length && (
+            frontmatter.about.bulletpoints && (
               <div class="about-list-two about-list-four mb-45">
                 <ul class="list-wrap">
                   {frontmatter.about.bulletpoints.map((bullet: String) => (
