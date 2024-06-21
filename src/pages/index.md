@@ -14,23 +14,23 @@ hero:
 
 # About Section
 about:
-  title: We Do Financial Planning And Consulting
-  subtitle: ensure high availability of your services
-  text: We are helping to lead the charge; we can help you build on your pas aeret successes and prepare for future. Our Group is recognized as one of the World's leading Industry following.
-  text2: helping to lead the charge we can help you build on your passucc esses and prepare for future.
+  title: We provide deep customer insights to fuel your business growth
+  subtitle: Qualitative research that translates into operative progress
+  text: You want to enter a new market? Or explore new revenue streams? But you worry, that the investments in product development won't pay out? You want to reduce the risk of missing product-market fit? Then we are here for you.
+  text2: We help you map a clear way to build products, marketing and sales, that your customers will love. 
   bulletpoints:
-    - 100% Better Results
-    - Promis TimelineI Guarantee
-    - Suspe Ndisse Suscipit
-    - Review Credit Reports
-    - Suspe Ndisse Suscipit
-    - Review Credit Reports
+    - Over 1000 successfull research projects done
+    - Unique and proven system
+    - Tangible results in 4-6 weeks
+    - Finally understand your customer
+    - Data driven decision making
+    - 10x ROI in 90% of our projects
   boxes:
-    - label: Spread Clients
-      number: 60M
+    - label: Successfull projects
+      number: >1000
       icon: flaticon-family
-    - label: Spread Clients
-      number: 60M
+    - label: ROI in 90% of projects
+      number: 10x
       icon: flaticon-family
 
 
