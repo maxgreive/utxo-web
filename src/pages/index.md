@@ -17,7 +17,7 @@ about:
   title: We provide deep customer insights to fuel your business growth
   subtitle: Qualitative research that translates into operative progress
   text: You want to enter a new market? Or explore new revenue streams? But you worry, that the investments in product development won't pay out? You want to reduce the risk of missing product-market fit? Then we are here for you.
-  text2: We help you map a clear way to build products, marketing and sales, that your customers will love. 
+  text2: We help you map a clear way to build products, marketing and sales, that your customers will love.
   bulletpoints:
     - Over 1000 successfull research projects done
     - Unique and proven system
@@ -25,14 +25,14 @@ about:
     - Finally understand your customer
     - Data driven decision making
     - 10x ROI in 90% of our projects
+
   boxes:
     - label: Projects
-      number: >1000
+      number: ">1000"
       icon: flaticon-family
     - label: Average ROI
       number: 10x
       icon: flaticon-family
-
 
 # Service Section
 services:
