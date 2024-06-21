@@ -73,24 +73,20 @@ const { frontmatter } = Astro.props;
             )
           }
           <div class="clients-box-wrap">
-            <div class="clients-box-two">
-              <div class="icon">
-                <i class="flaticon-family"></i>
-              </div>
-              <div class="content">
-                <h2 class="title">60M</h2>
-                <span>Spread Clients</span>
-              </div>
-            </div>
-            <div class="clients-box-two">
-              <div class="icon">
-                <i class="flaticon-trophy"></i>
-              </div>
-              <div class="content">
-                <h2 class="title">12M</h2>
-                <span>Spread Clients</span>
-              </div>
-            </div>
+            {
+              frontmatter.about.boxes &&
+                frontmatter.about.boxes.map((box: any) => (
+                  <div class="clients-box-two">
+                    <div class="icon">
+                      <i class={box.icon} />
+                    </div>
+                    <div class="content">
+                      <h2 class="title">{box.number}</h2>
+                      <span>{box.label}</span>
+                    </div>
+                  </div>
+                ))
+            }
           </div>
         </div>
       </div>

@@ -25,7 +25,13 @@ about:
     - Review Credit Reports
     - Suspe Ndisse Suscipit
     - Review Credit Reports
-
+  boxes:
+    - label: Spread Clients
+      number: 60M
+      icon: flaticon-family
+    - label: Spread Clients
+      number: 60M
+      icon: flaticon-family
 
 
 # Service Section
