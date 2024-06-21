@@ -28,5 +28,8 @@ const { Content } = await entry.render();
 ---
 
 <Page frontmatter={entry.data}>
+  {entry.data.previewImage && (
+    <div class="services-details-thumb"><img src={entry.data.previewImage} /></div>
+  )}
   <Content />
 </Page>

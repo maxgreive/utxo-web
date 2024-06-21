@@ -23,7 +23,7 @@ export const collectionDirectoryNames: PathNames = {
 	},
 	services: {
 		en: 'services',
-		de: 'services',
+		de: 'Leistungen',
 		nl: 'services'
 	}
 }
