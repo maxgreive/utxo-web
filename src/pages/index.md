@@ -25,7 +25,6 @@ about:
     - Finally understand your customer
     - Data driven decision making
     - 10x ROI in 90% of our projects
-    
   boxes:
     - label: Projects
       number: >1000
