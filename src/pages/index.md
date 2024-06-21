@@ -7,14 +7,14 @@ collection: blog
 # Hero Section
 hero:
   title: Become <span>Customer First</span> 
-  subtitle: Understand your customer and grow beyond
-  intro: Agilos helps you to convert your data into a strategic asset and get touch business insight
-  ctaText: See our services
+  subtitle: Understand your customer and grow
+  intro: Everyone wants to be understood and cared for. This builds trust. And trust is the basis for sustainable growth. 
+  ctaText: See how we can help you
   ctaLink: /services
 
 # Service Section
 services:
-  serviceTitle: The Best Choice For All Your Business Needs
+  serviceTitle: 
   serviceSubtitle: Providing Services
   items:
     - title: Customer Research Sprints
