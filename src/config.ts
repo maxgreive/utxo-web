@@ -1,35 +1,61 @@
 export const COLORS = ["#7AC6BA", "#283583"]
 
-export const MENUS = [
-  {
-    label: "nav.home",
-    link: "/"
-  },
-  {
-    label: "nav.services",
-    link: "/services",
-    children: [
+type MenuItem = Readonly<{
+  path: string,
+  label: string
+}>
+
+export type navigationItem = Readonly<{
+  title: string,
+  items: Array<MenuItem>,
+}>
+
+export const footerMenu: Record<string, Record<string, navigationItem[]>> = {
+	en: {
+		items: [
       {
-        label: "nav.jobs-to-be-done",
-        link: "/services/jobs-to-be-done-training",
-        new: false
+        title: "Menu",
+        items: [
+          {
+            label: "Imprint",
+            path: "/en/imprint",
+          }
+        ]
       },
       {
-        label: "nav.customer-research-sprints",
-        link: "/services/customer-research-sprints",
-        new: false
+        title: "Quick Links",
+        items: [
+          {
+            label: "Contact",
+            path: "/en/contact",
+          }
+        ]
       }
     ]
-  },
-  {
-    label: "nav.blog",
-    link: "/blog"
-  },
-  {
-    label: "nav.contact",
-    link: "/contact"
-  }
-]
+	},
+	de: {
+		items: [
+      {
+        title: "Menü",
+        items: [
+          {
+            label: "Impressum",
+            path: "/impressum",
+          }
+        ]
+      },
+      {
+        title: "Quick Links",
+        items: [
+          {
+            label: "Kontakt",
+            path: "/kontakt",
+          }
+        ]
+      }
+    ]
+	},
+};
 
 export const SOCIALS = [
   {

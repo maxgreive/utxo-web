@@ -2,7 +2,15 @@
 import { Picture } from "astro:assets";
 import { SOCIALS } from "../config";
 import whiteLogo from "../images/logo/w_logo.png";
-import { uiStrings } from '@i18n/uiStrings';
+import { uiStrings } from "@i18n/uiStrings";
+import { footerMenu } from "../config";
+import { defaultLocale, fallback } from "@i18n/i18n";
+import type { navigationItem } from "../config";
+
+const menuLocale: string = footerMenu[Astro.currentLocale]
+  ? Astro.currentLocale
+  : fallback[Astro.currentLocale] || defaultLocale;
+const footerMenuItems: navigationItem[] = footerMenu[menuLocale].items;
 ---
 
 <footer>
@@ -50,34 +58,26 @@ import { uiStrings } from '@i18n/uiStrings';
               </div>
             </div>
           </div>
-          <div class="col-lg-2 col-md-5 col-sm-6">
-            <div class="footer-widget">
-              <h4 class="fw-title">Menü</h4>
-              <div class="footer-link">
-                <ul class="list-wrap">
-                  <li><a href="about.html">Company</a></li>
-                  <li><a href="contact.html">Careers</a></li>
-                  <li><a href="contact.html">Press media</a></li>
-                  <li><a href="blog.html">Our Blog</a></li>
-                  <li><a href="contact.html">Privacy Policy</a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-5 col-sm-6">
-            <div class="footer-widget">
-              <h4 class="fw-title">Quick Links</h4>
-              <div class="footer-link">
-                <ul class="list-wrap">
-                  <li><a href="contact.html">How it’s Work</a></li>
-                  <li><a href="contact.html">Partners</a></li>
-                  <li><a href="contact.html">Testimonials</a></li>
-                  <li><a href="contact.html">Case Studies</a></li>
-                  <li><a href="contact.html">Pricing</a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          {
+            footerMenuItems &&
+              footerMenuItems.map((menu) => (
+                <div class="col-lg-2 col-md-5 col-sm-6">
+                  <div class="footer-widget">
+                    <h4 class="fw-title">{menu.title}</h4>
+                    <div class="footer-link">
+                      <ul class="list-wrap">
+                        {menu.items &&
+                          menu.items.map((item) => (
+                            <li>
+                              <a href={item.path}>{item.label}</a>
+                            </li>
+                          ))}
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              ))
+          }
           <div class="col-lg-4 col-md-7">
             <div class="footer-widget">
               <h4 class="fw-title">Newsletter</h4>
@@ -102,7 +102,12 @@ import { uiStrings } from '@i18n/uiStrings';
             <div class="left-sider">
               <div class="f-logo">
                 <a href="index.html">
-                  <Picture src={whiteLogo} alt="UTXO Logo" formats={["avif", "webp"]} height={29} />
+                  <Picture
+                    src={whiteLogo}
+                    alt="UTXO Logo"
+                    formats={["avif", "webp"]}
+                    height={29}
+                  />
                 </a>
               </div>
               <div class="copyright-text">
