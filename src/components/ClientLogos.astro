@@ -3,31 +3,33 @@ import { BRANDS } from "@src/config";
 import { Picture } from "astro:assets";
 ---
 
-<div class="brand-area-two pb-80">
-  <div class="container">
-    <div class="row brand-active">
-      <div class="swiper" data-client-swiper>
-        <div class="swiper-wrapper">
-          {
-            BRANDS.map((brand) => (
-              <div class="col-lg-12 swiper-slide">
-                <div class="brand-item">
-                  <Picture
-                    src={brand.image}
-                    formats={["avif", "webp"]}
-                    width={160}
-                    height={60}
-                    alt=""
-                  />
+{
+  BRANDS && (
+    <div class="brand-area-two pb-80">
+      <div class="container">
+        <div class="row brand-active">
+          <div class="swiper" data-client-swiper>
+            <div class="swiper-wrapper">
+              {BRANDS.map((brand) => (
+                <div class="col-lg-12 swiper-slide">
+                  <div class="brand-item">
+                    <Picture
+                      src={brand.image}
+                      formats={["avif", "webp"]}
+                      width={160}
+                      height={60}
+                      alt=""
+                    />
+                  </div>
                 </div>
-              </div>
-            ))
-          }
+              ))}
+            </div>
+          </div>
         </div>
       </div>
     </div>
-  </div>
-</div>
+  )
+}
 
 <script>
   import Swiper from "swiper";
@@ -35,21 +37,24 @@ import { Picture } from "astro:assets";
   import "swiper/css";
   import "swiper/css/autoplay";
 
-  const swiper = new Swiper("[data-client-swiper]", {
-    direction: "horizontal",
-    modules: [Autoplay],
-    slidesPerView: 2,
-    autoplay: {
-      delay: 5000,
-    },
-    loop: true,
-    breakpoints: {
-      640: {
-        slidesPerView: 3,
+  const clientSwiper = "[data-client-swiper]";
+  if (document.querySelector(clientSwiper)) {
+    const swiper = new Swiper(clientSwiper, {
+      direction: "horizontal",
+      modules: [Autoplay],
+      slidesPerView: 2,
+      autoplay: {
+        delay: 5000,
       },
-      960: {
-        slidesPerView: 5,
+      loop: true,
+      breakpoints: {
+        640: {
+          slidesPerView: 3,
+        },
+        960: {
+          slidesPerView: 5,
+        },
       },
-    },
-  });
+    });
+  }
 </script>

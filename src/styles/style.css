@@ -11633,7 +11633,7 @@ label {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  gap: 30px;
+  justify-content: space-between;
 }
 
 .clients-box-two {

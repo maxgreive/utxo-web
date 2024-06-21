@@ -7,75 +7,75 @@ import Shape02 from "../images/h9_services_shape02.png";
 const { frontmatter } = Astro.props;
 ---
 
-<section class="services-area-eleven section-pt-120 section-pb-90">
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-lg-6">
-        <div
-          class="section-title-four text-center mb-50 tg-heading-subheading animation-style3"
-        >
-          <span class="sub-title tg-element-title"
-            >{frontmatter.services.subtitle}</span
-          >
-          <h2 class="title tg-element-title">
-            {frontmatter.services.title}
-          </h2>
+{
+  frontmatter.services && (
+    <section class="services-area-eleven section-pt-120 section-pb-90">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-6">
+            <div class="section-title-four text-center mb-50 tg-heading-subheading animation-style3">
+              <span class="sub-title tg-element-title">
+                {frontmatter.services.subtitle}
+              </span>
+              <h2 class="title tg-element-title">
+                {frontmatter.services.title}
+              </h2>
+            </div>
+          </div>
         </div>
-      </div>
-    </div>
-    <div class="row gutter-24 justify-content-center">
-      {
-        frontmatter.services.items.map(
-          (service: {
-            icon: string;
-            link: string | URL;
-            title: unknown;
-            text: unknown;
-          }) => (
-            <div class="col-lg-4 col-md-6">
-              <div class="features-item-six features-item-seven">
-                <div class="features-item-six-top">
-                  <div class="features-icon-six">
-                    <i class={service.icon} />
+        <div class="row gutter-24 justify-content-center">
+          {frontmatter.services.items.map(
+            (service: {
+              icon: string;
+              link: string | URL;
+              title: unknown;
+              text: unknown;
+            }) => (
+              <div class="col-lg-4 col-md-6">
+                <div class="features-item-six features-item-seven">
+                  <div class="features-item-six-top">
+                    <div class="features-icon-six">
+                      <i class={service.icon} />
+                    </div>
+                    <h2 class="title">
+                      <a href={service.link}>{service.title}</a>
+                    </h2>
                   </div>
-                  <h2 class="title">
-                    <a href={service.link}>{service.title}</a>
-                  </h2>
-                </div>
-                <div class="features-content-six">
-                  <p class="line-clamp-3">{service.text}</p>
-                  <a href={service.link} class="link-btn">
-                    {uiStrings.readMore[Astro.currentLocale]}
-                    <Picture
-                      src="/assets/img/icons/right-arrow.svg"
-                      formats={["avif", "webp"]}
-                      width={19}
-                      height={12}
-                      alt="Right Arrow Icon"
-                    />
-                  </a>
+                  <div class="features-content-six">
+                    <p class="line-clamp-3">{service.text}</p>
+                    <a href={service.link} class="link-btn">
+                      {uiStrings.readMore[Astro.currentLocale]}
+                      <Picture
+                        src="/assets/img/icons/right-arrow.svg"
+                        formats={["avif", "webp"]}
+                        width={19}
+                        height={12}
+                        alt="Right Arrow Icon"
+                      />
+                    </a>
+                  </div>
                 </div>
               </div>
-            </div>
-          ),
-        )
-      }
-    </div>
-  </div>
-  <div class="services-shape-five">
-    <Picture
-      src={Shape01}
-      alt="shape"
-      formats={["avif", "webp"]}
-      data-aos="fade-down-left"
-      data-aos-delay="400"
-    />
-    <Picture
-      src={Shape02}
-      alt="shape"
-      formats={["avif", "webp"]}
-      data-aos="fade-up-right"
-      data-aos-delay="400"
-    />
-  </div>
-</section>
+            )
+          )}
+        </div>
+      </div>
+      <div class="services-shape-five">
+        <Picture
+          src={Shape01}
+          alt="shape"
+          formats={["avif", "webp"]}
+          data-aos="fade-down-left"
+          data-aos-delay="400"
+        />
+        <Picture
+          src={Shape02}
+          alt="shape"
+          formats={["avif", "webp"]}
+          data-aos="fade-up-right"
+          data-aos-delay="400"
+        />
+      </div>
+    </section>
+  )
+}

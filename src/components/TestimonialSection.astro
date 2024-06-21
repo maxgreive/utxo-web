@@ -9,122 +9,122 @@ const { frontmatter } = Astro.props;
 const content = frontmatter.testimonials;
 ---
 
-<section class="testimonial-area-five">
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-lg-6 col-md-8">
-        <div class="testimonial-img-five">
-          <Picture
-            src={TestimonialImage}
-            formats={["avif", "webp"]}
-            alt="Testimonial Person"
-          />
-          <Picture
-            src={Shape01}
-            formats={["avif", "webp"]}
-            alt="Shape"
-            class="shape-one"
-          />
-          <Picture
-            src={Shape02}
-            formats={["avif", "webp"]}
-            alt="Shape"
-            class="shape-two"
-          />
-          <Picture
-            src={Shape03}
-            formats={["avif", "webp"]}
-            alt="Shape"
-            class="shape-three"
-          />
-        </div>
-      </div>
-      <div class="col-lg-6">
-        <div class="testimonial-content-five">
-          <div
-            class="section-title-four mb-50 tg-heading-subheading animation-style3"
-          >
-            <span class="sub-title tg-element-title">{content.subtitle}</span>
-            <h2 class="title tg-element-title">
-              {content.title}
-            </h2>
+{
+  content && (
+    <section class="testimonial-area-five">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-6 col-md-8">
+            <div class="testimonial-img-five">
+              <Picture
+                src={TestimonialImage}
+                formats={["avif", "webp"]}
+                alt="Testimonial Person"
+              />
+              <Picture
+                src={Shape01}
+                formats={["avif", "webp"]}
+                alt="Shape"
+                class="shape-one"
+              />
+              <Picture
+                src={Shape02}
+                formats={["avif", "webp"]}
+                alt="Shape"
+                class="shape-two"
+              />
+              <Picture
+                src={Shape03}
+                formats={["avif", "webp"]}
+                alt="Shape"
+                class="shape-three"
+              />
+            </div>
           </div>
-          <div class="testimonial-item-wrap-five">
-            <div class="swiper" data-testimonial-swiper>
-              <div class="swiper-wrapper testimonial-active-five">
-                {
-                  content.items.map(
-                    (item: {
-                      quote: unknown;
-                      image: string;
-                      author: unknown;
-                      position: unknown;
-                    }) => (
-                      <div class="swiper-slide testimonial-item">
-                        <div class="testimonial-content">
-                          <div class="content-top">
-                            <div class="rating">
-                              <i class="fas fa-star" />
-                              <i class="fas fa-star" />
-                              <i class="fas fa-star" />
-                              <i class="fas fa-star" />
-                              <i class="fas fa-star" />
+          <div class="col-lg-6">
+            <div class="testimonial-content-five">
+              <div class="section-title-four mb-50 tg-heading-subheading animation-style3">
+                <span class="sub-title tg-element-title">
+                  {content.subtitle}
+                </span>
+                <h2 class="title tg-element-title">{content.title}</h2>
+              </div>
+              <div class="testimonial-item-wrap-five">
+                <div class="swiper" data-testimonial-swiper>
+                  <div class="swiper-wrapper testimonial-active-five">
+                    {content.items.map(
+                      (item: {
+                        quote: unknown;
+                        image: string;
+                        author: unknown;
+                        position: unknown;
+                      }) => (
+                        <div class="swiper-slide testimonial-item">
+                          <div class="testimonial-content">
+                            <div class="content-top">
+                              <div class="rating">
+                                <i class="fas fa-star" />
+                                <i class="fas fa-star" />
+                                <i class="fas fa-star" />
+                                <i class="fas fa-star" />
+                                <i class="fas fa-star" />
+                              </div>
+                              <div class="testimonial-quote">
+                                <Picture
+                                  src="/assets/img/icons/quote.svg"
+                                  formats={["avif", "webp"]}
+                                  width={65}
+                                  height={46}
+                                  alt="Quotation Marks Icon"
+                                />
+                              </div>
                             </div>
-                            <div class="testimonial-quote">
-                              <Picture
-                                src="/assets/img/icons/quote.svg"
-                                formats={["avif", "webp"]}
-                                width={65}
-                                height={46}
-                                alt="Quotation Marks Icon"
-                              />
-                            </div>
-                          </div>
-                          <p class="line-clamp-4">{item.quote}</p>
-                          <div class="testimonial-avatar">
-                            <div class="avatar-thumb">
-                              <Picture
-                                src={item.image}
-                                formats={["avif", "webp"]}
-                                width={65}
-                                height={65}
-                                alt=""
-                              />
-                            </div>
-                            <div class="avatar-info">
-                              <h2 class="title">{item.author}</h2>
-                              <span>{item.position}</span>
+                            <p class="line-clamp-4">{item.quote}</p>
+                            <div class="testimonial-avatar">
+                              <div class="avatar-thumb">
+                                <Picture
+                                  src={item.image}
+                                  formats={["avif", "webp"]}
+                                  width={65}
+                                  height={65}
+                                  alt=""
+                                />
+                              </div>
+                              <div class="avatar-info">
+                                <h2 class="title">{item.author}</h2>
+                                <span>{item.position}</span>
+                              </div>
                             </div>
                           </div>
                         </div>
-                      </div>
-                    ),
-                  )
-                }
+                      )
+                    )}
+                  </div>
+                </div>
+                <div class="swiper-navigation">
+                  <button
+                    type="button"
+                    class="swiper-button-prev"
+                    aria-label="Previous Slide"
+                  >
+                    <i class="flaticon-right-arrow" />
+                  </button>
+                  <button
+                    type="button"
+                    class="swiper-button-next"
+                    aria-label="Next Slide"
+                  >
+                    <i class="flaticon-right-arrow" />
+                  </button>
+                </div>
               </div>
-            </div>
-            <div class="swiper-navigation">
-              <button
-                type="button"
-                class="swiper-button-prev"
-                aria-label="Previous Slide"
-              >
-                <i class="flaticon-right-arrow"></i>
-              </button>
-              <button
-                type="button"
-                class="swiper-button-next"
-                aria-label="Next Slide"
-              >
-                <i class="flaticon-right-arrow"></i>
-              </button>
             </div>
           </div>
         </div>
       </div>
-    </div>
-  </div>
-</section>
+    </section>
+  )
+}
 
 <script>
   import Swiper from "swiper";
@@ -134,25 +134,24 @@ const content = frontmatter.testimonials;
   import "swiper/css";
   import "swiper/css/autoplay";
 
-  const swiper = new Swiper("[data-testimonial-swiper]", {
-    modules: [Autoplay, Navigation],
-    direction: "vertical",
-    slidesPerView: 1,
-    autoHeight: true,
-    spaceBetween: 0,
-    loop: true,
-    autoplay: {
-      delay: 5000,
-    },
-    navigation: {
-      nextEl: ".swiper-button-next",
-      prevEl: ".swiper-button-prev",
-    },
-  });
-
   if (document.querySelector(".testimonial-area-five")) {
-    const colors = COLORS;
+    const swiper = new Swiper("[data-testimonial-swiper]", {
+      modules: [Autoplay, Navigation],
+      direction: "vertical",
+      slidesPerView: 1,
+      autoHeight: true,
+      spaceBetween: 0,
+      loop: true,
+      autoplay: {
+        delay: 5000,
+      },
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
 
+    const colors = COLORS;
     const numBalls = 30;
     const balls = [];
 
@@ -189,7 +188,7 @@ const content = frontmatter.testimonials;
           fill: "both",
           iterations: Infinity,
           easing: "ease-in-out",
-        },
+        }
       );
     });
   }

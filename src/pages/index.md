@@ -44,7 +44,7 @@ services:
       link: /services/customer-research-sprints
       icon: flaticon-rocket
     - title: Mastering Jobs to be done online course
-      text: For everyone who wants to learn and use our tools. Especially useful for people working in marketing, product development and innovation management. We teach you everything you need to know. 
+      text: For everyone who wants to learn and use our tools. Especially useful for people working in marketing, product development and innovation management. We teach you everything you need to know.
       icon: flaticon-round-table
       link: /services/mastering-jobs-to-be-done-online-workshop
 
@@ -73,6 +73,11 @@ testimonials:
       quote: We particularly liked the systematic and structured approach, so that we learned more relevant information about our product and our customers in the JTBD Interview Sprint in just 2 days (6 interviews) than in the previous 3 years. After less than a week, we were able to directly triple our advertising campaign effectiveness with the results. Not only did we improve our marketing and sales, but we also got a better product out of it.
       image: /assets/img/images/testi_avatar01.png
 
+# Blog Posts Section
+blog:
+  title: Read Our Latest Updates
+  subtitle: News & Blogs
+  description: Ever find yourself staring at your computer screen a good consulting slogan to come to mind? Oftentimes.
 ---
 Herzlich Willkommen!
 
