@@ -25,11 +25,12 @@ about:
     - Finally understand your customer
     - Data driven decision making
     - 10x ROI in 90% of our projects
+    
   boxes:
-    - label: Successfull projects
+    - label: Projects
       number: >1000
       icon: flaticon-family
-    - label: ROI in 90% of projects
+    - label: Average ROI
       number: 10x
       icon: flaticon-family
 
