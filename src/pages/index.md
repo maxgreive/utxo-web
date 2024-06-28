@@ -20,13 +20,12 @@ about:
   text2: We help you map a clear way to build products, marketing and sales, that your customers will love.
   bulletpoints:
     - Over 700 projects
-    - Unique and proven system
+    - 13x ROI
     - First tangible results in 4-6 weeks
     - Full result within in 18 month
-    - 13x ROI in 90% of our projects
-
+    
   boxes:
-    - label: Projects
+    - label: Successful projects
       number: ">700"
       icon: flaticon-family
     - label: Average ROI
