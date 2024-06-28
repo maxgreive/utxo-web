@@ -3,7 +3,8 @@ import Search from "./Search.astro";
 import SidebarMenu from "./SidebarMenu.astro";
 import { defaultLocale, fallback } from "@i18n/i18n";
 import { Picture } from "astro:assets";
-import Logo from "/src/images/logo/logo.png";
+import Logo from "/src/images/logo/utxo-logo-color.svg";
+import { uiStrings } from "@i18n/uiStrings";
 import HeaderLink from "./HeaderLink.astro";
 import { headerMenu } from "@src/header";
 import type { navigationItem } from "@src/header";
@@ -32,7 +33,12 @@ const headerMenuItems: navigationItem[] = headerMenu[menuLocale].items;
               </div>
               <div class="logo">
                 <a href={headerMenuItems[0].path}>
-                  <Picture src={Logo} formats={['avif', 'webp']} height={29} alt="Logo" />
+                  <Picture
+                    src={Logo}
+                    formats={["avif", "webp"]}
+                    height={34}
+                    alt="Logo"
+                  />
                 </a>
               </div>
               <div class="navbar-wrap main-menu d-none d-lg-flex">
@@ -59,12 +65,16 @@ const headerMenuItems: navigationItem[] = headerMenu[menuLocale].items;
                     </div>
                     <div class="content">
                       <span>Email</span>
-                      <a href="mailto:info@utx.solutions">info@utx.solutions</a>
+                      <a href="mailto:info@utxo.solutions"
+                        >info@utxo.solutions</a
+                      >
                     </div>
                   </li>
                   <li class="header-btn header-btn-four">
-                    <a href="contact.html" class="btn btn-two border-btn"
-                      >Get Consultant</a
+                    <a
+                      href="https://cal.com/martinbetz"
+                      class="btn btn-two border-btn"
+                      >{uiStrings.contactButton[Astro.currentLocale]}</a
                     >
                   </li>
                 </ul>
@@ -81,13 +91,20 @@ const headerMenuItems: navigationItem[] = headerMenu[menuLocale].items;
               </div>
               <div class="nav-logo">
                 <a href="/">
-                  <Picture src={Logo} formats={['avif', 'webp']} alt="Logo" />
+                  <Picture
+                    src={Logo}
+                    formats={["avif", "webp"]}
+                    width={650}
+                    alt="Logo"
+                  />
                 </a>
               </div>
               <div class="mobile-search">
                 <form action="#">
                   <input type="text" placeholder="Search here …" />
-                  <button aria-label="Search"><i class="flaticon-search"></i></button>
+                  <button aria-label="Search"
+                    ><i class="flaticon-search"></i></button
+                  >
                 </form>
               </div>
               <div class="menu-outer">
@@ -142,7 +159,7 @@ const headerMenuItems: navigationItem[] = headerMenu[menuLocale].items;
         .forEach((element) => {
           element.insertAdjacentHTML(
             "beforeend",
-            '<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div>',
+            '<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div>'
           );
         });
     }
@@ -173,7 +190,7 @@ const headerMenuItems: navigationItem[] = headerMenu[menuLocale].items;
       .forEach((element) =>
         element.addEventListener("click", () => {
           document.body.classList.remove("mobile-menu-visible");
-        }),
+        })
       );
   }
 </script>

@@ -1,7 +1,7 @@
 ---
 import { Picture } from "astro:assets";
 import { SOCIALS } from "../config";
-import whiteLogo from "../images/logo/w_logo.png";
+import whiteLogo from "../images/logo/utxo-logo-white.svg";
 import { footerMenu } from "../config";
 import { defaultLocale, fallback } from "@i18n/i18n";
 import type { navigationItem } from "../config";
@@ -38,10 +38,10 @@ const footerMenuItems: navigationItem[] = footerMenu[menuLocale].items;
                       <i class="flaticon-phone-call"></i>
                     </div>
                     <div class="content">
-                      <a href="tel:0123456789">+49 221 9999</a>
+                      <a href="tel:+4922116841669">+49 221 1684 1669</a>
                     </div>
                   </li>
-                  <li>
+                  <!-- <li>
                     <div class="icon">
                       <i class="flaticon-clock"></i>
                     </div>
@@ -52,7 +52,7 @@ const footerMenuItems: navigationItem[] = footerMenu[menuLocale].items;
                         >
                       </p>
                     </div>
-                  </li>
+                  </li> -->
                   <slot />
                 </ul>
               </div>
@@ -106,12 +106,12 @@ const footerMenuItems: navigationItem[] = footerMenu[menuLocale].items;
                     src={whiteLogo}
                     alt="UTXO Logo"
                     formats={["avif", "webp"]}
-                    height={29}
+                    height={34}
                   />
                 </a>
               </div>
               <div class="copyright-text">
-                <p>Copyright © gerow | All Right Reserved</p>
+                <p>Copyright © {(new Date()).getFullYear()} UTXO Solutions</p>
               </div>
             </div>
           </div>
