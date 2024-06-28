@@ -59,12 +59,16 @@ export const footerMenu: Record<string, Record<string, navigationItem[]>> = {
 
 export const SOCIALS = [
   {
-    link: '',
-    icon: 'fa-twitter'
+    link: 'https://www.tiktok.com/@utxo.solutions',
+    icon: 'fa-tiktok'
   },
   {
     link: 'https://www.linkedin.com/company/utxosolutions/',
     icon: 'fa-linkedin'
+  },
+  {
+    link: 'https://www.youtube.com/@utxo.solutions',
+    icon: 'fa-youtube'
   }
 ]
 
