@@ -48,6 +48,10 @@ services:
       icon: flaticon-round-table
       link: /services/mastering-jobs-to-be-done-online-workshop
 
+# Clients Section
+clients:
+  title: Our awesome clients
+  subtitle: Brands we are working with
 
 # CTA Section
 ctaSection:

@@ -6,15 +6,15 @@ reference: imprint
 
 ## Angaben gemäß § 5 TMG
 
-Peter Rochel
-UTXO Solutions
-c/O Oberwasser Consulting® – Inh. Peter Rochel
-Neusser Wall 15
+Peter Rochel<br>
+UTXO Solutions<br>
+c/O Oberwasser Consulting® &ndash; Inh. Peter Rochel<br>
+Neusser Wall 15<br>
 50670 Köln
 
 ## Kontakt
 
-Telefon: +4922116841669
+Telefon: +4922116841669<br>
 E-Mail: p.rochel@oberwasser-consulting.de
 
 ## Umsatzsteuer-ID

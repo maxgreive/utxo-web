@@ -71,4 +71,8 @@ export const uiStrings: TypeUIStrings = {
 		de: 'It could be you or us, but there is no page here. It might have been moved or deleted.',
 		nl: 'It could be you or us, but there is no page here. It might have been moved or deleted.',
 	},
+	contactButton: {
+		en: 'Contact us',
+		de: 'Kontakt'
+	}
 };

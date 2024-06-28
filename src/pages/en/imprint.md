@@ -14,7 +14,7 @@ Neusser Wall 15
 
 ## Contact
 
-Phone: +4922116841669
+Phone: +49 221 168 416 69
 E-Mail: p.rochel@oberwasser-consulting.de
 
 ## VAT Identification Number
