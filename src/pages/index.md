@@ -19,16 +19,15 @@ about:
   text: You want to enter a new market? Or explore new revenue streams? But you worry, that the investments in product development won't pay out? You want to reduce the risk of missing product-market fit? Then we are here for you.
   text2: We help you map a clear way to build products, marketing and sales, that your customers will love.
   bulletpoints:
-    - Over 1000 successfull research projects done
+    - Over 700 projects
     - Unique and proven system
-    - Tangible results in 4-6 weeks
-    - Finally understand your customer
-    - Data driven decision making
-    - 10x ROI in 90% of our projects
+    - First tangible results in 4-6 weeks
+    - Full result within in 18 month
+    - 13x ROI in 90% of our projects
 
   boxes:
     - label: Projects
-      number: ">1000"
+      number: ">700"
       icon: flaticon-family
     - label: Average ROI
       number: 10x
