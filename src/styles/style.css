@@ -9500,6 +9500,7 @@ label {
   color: var(--tg-lavender);
   margin-top: 3px;
   margin-right: 12px;
+  flex-basis: 28px;
 }
 
 .footer-info .list-wrap li .content a,

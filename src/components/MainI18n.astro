@@ -100,8 +100,20 @@ if (reference) {
   <main class="fix" id="main">
     <slot />
   </main>
-  <Footer />
-  {translationLinks.length > 0 && <TranslationLinks {translationLinks} />}
+  <Footer>
+    {
+      translationLinks.length > 0 && (
+        <li>
+          <div class="icon">
+            <i class="fa fa-language" />
+          </div>
+          <div class="content">
+            <TranslationLinks {translationLinks} />
+          </div>
+        </li>
+      )
+    }
+  </Footer>
 </Html>
 
 <script>
@@ -178,7 +190,7 @@ if (reference) {
             .height || 0;
         window.scrollBy(
           0,
-          scrollElement.getBoundingClientRect().top - headerHeight,
+          scrollElement.getBoundingClientRect().top - headerHeight
         );
       });
   }

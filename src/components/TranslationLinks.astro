@@ -29,10 +29,12 @@ const { translationLinks } = Astro.props,
 </script>
 
 <style>
-	#language-select {
-		position: fixed;
-		bottom: 0;
-		right: 0;
-		z-index: 1;
+	select#language-select {
+		background-color: transparent;
+		color: var(--tg-gray-three);
+		border: 0;
+		text-transform: capitalize;
+		border-radius: 4px;
+		padding: 0;
 	}
 </style>

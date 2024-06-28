@@ -28,7 +28,7 @@ export const headerMenu: Record<string, Record<string, navigationItem[]>> = {
 			label: 'Blog'
 		},
 		{
-			path: '/services',
+			path: '/leistungen',
 			label: 'Leistungen'
 		},]
 	},

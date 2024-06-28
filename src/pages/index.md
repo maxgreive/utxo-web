@@ -10,7 +10,7 @@ hero:
   subtitle: Understand your customer and grow
   intro: Everyone wants to be understood and cared for. This builds trust. And trust is the basis for sustainable growth.
   ctaText: See how we can help you
-  ctaLink: /services
+  ctaLink: /leistungen
 
 # About Section
 about:
@@ -19,14 +19,16 @@ about:
   text: You want to enter a new market? Or explore new revenue streams? But you worry, that the investments in product development won't pay out? You want to reduce the risk of missing product-market fit? Then we are here for you.
   text2: We help you map a clear way to build products, marketing and sales, that your customers will love.
   bulletpoints:
-    - Over 700 projects
-    - 13x ROI
-    - First tangible results in 4-6 weeks
-    - Full result within in 18 month
-    
+    - Over 1000 successfull research projects done
+    - Unique and proven system
+    - Tangible results in 4-6 weeks
+    - Finally understand your customer
+    - Data driven decision making
+    - 10x ROI in 90% of our projects
+
   boxes:
-    - label: Successful projects
-      number: ">700"
+    - label: Projects
+      number: ">1000"
       icon: flaticon-family
     - label: Average ROI
       number: 10x

@@ -1,4 +1,5 @@
 ---
+import { uiStrings } from "@i18n/uiStrings";
 import { getRelativePostPath } from "@src/utilities/getPostPath";
 import { Picture } from "astro:assets";
 
@@ -33,7 +34,7 @@ const { posts } = Astro.props,
                   href={`${getRelativePostPath(Astro.currentLocale, collection, post.slug)}`}
                   class="link-btn"
                 >
-                  See Details
+                  {uiStrings.readMore[Astro.currentLocale]}
                   <Picture
                     src="/assets/img/icons/right-arrow.svg"
                     width={19}
