@@ -97,4 +97,40 @@ export const BRANDS = [
     image: '/assets/img/logos/brand-pwc.png',
     name: 'PWC'
   },
+  {
+    image: '/assets/img/logos/brand-4limpact.png',
+    name: '4L Impact'
+  },
+  {
+    image: '/assets/img/logos/brand-armour.png',
+    name: 'Digital Armour'
+  },
+  {
+    image: '/assets/img/logos/brand-burda.png',
+    name: 'Burda Forward'
+  },
+  {
+    image: '/assets/img/logos/brand-db.png',
+    name: 'Deutsche Bahn'
+  },
+  {
+    image: '/assets/img/logos/brand-focus.png',
+    name: 'Focus Online'
+  },
+  {
+    image: '/assets/img/logos/brand-kolula.png',
+    name: 'Kolula SUP'
+  },
+  {
+    image: '/assets/img/logos/brand-priogo.png',
+    name: 'Priogo'
+  },
+  {
+    image: '/assets/img/logos/brand-vw.png',
+    name: 'Volkswagen'
+  },
+  {
+    image: '/assets/img/logos/brand-wework.png',
+    name: 'Wework'
+  },
 ]

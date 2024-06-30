@@ -60,6 +60,7 @@ const { frontmatter } = Astro.props;
       direction: "horizontal",
       modules: [Autoplay],
       slidesPerView: 2,
+      slidesPerGroup: 2,
       autoplay: {
         delay: 5000,
       },
@@ -67,12 +68,15 @@ const { frontmatter } = Astro.props;
       breakpoints: {
         640: {
           slidesPerView: 3,
+          slidesPerGroup: 2
         },
         960: {
           slidesPerView: 4,
+          slidesPerGroup: 2
         },
         1200: {
           slidesPerView: 6,
+          slidesPerGroup: 4
         },
       },
     });

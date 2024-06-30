@@ -7,7 +7,9 @@ interface Props {
 }
 
 const { translationLinks } = Astro.props,
-	pageTranslationsAvailableIn = `${uiStrings.pageTranslationsAvailableIn[Astro.currentLocale]} `;
+	pageTranslationsAvailableIn = `${
+		uiStrings.pageTranslationsAvailableIn[Astro.currentLocale]
+	} `;
 ---
 
 <select id="language-select" aria-label="Select language">
@@ -22,10 +24,12 @@ const { translationLinks } = Astro.props,
 </select>
 
 <script>
-	document.getElementById("language-select")?.addEventListener("change", (e) => {
-		// @ts-ignore:next-line
-		window.location.href = e.target.value;
-	});
+	document
+		.getElementById("language-select")
+		?.addEventListener("change", (e) => {
+			// @ts-ignore:next-line
+			window.location.href = e.target.value;
+		});
 </script>
 
 <style>
@@ -36,5 +40,8 @@ const { translationLinks } = Astro.props,
 		text-transform: capitalize;
 		border-radius: 4px;
 		padding: 0;
+		-moz-appearance: caret;
+		-webkit-appearance: caret;
+		appearance: caret;
 	}
 </style>
