@@ -31,5 +31,7 @@ const { Content } = await entry.render();
   {entry.data.previewImage && (
     <div class="services-details-thumb"><img src={entry.data.previewImage} /></div>
   )}
-  <Content />
+  <div class="prose">
+    <Content />
+  </div>
 </Page>

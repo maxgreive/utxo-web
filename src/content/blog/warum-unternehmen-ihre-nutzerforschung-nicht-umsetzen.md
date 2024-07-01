@@ -5,7 +5,7 @@ author: Martin Betz
 pubDate: 'Jul 22 2022'
 previewImage: 'https://utxo.solutions/wp-content/uploads/2024/02/file-e0Q8FidXTo4YoCXULCd89lnc.jpg'
 reference: second-post
-tags: [Lockungen, Verführen]
+tags: [Kundenforschung]
 ---
 Im letzten Beitrag haben wir uns mit der Frage beschäftigt, wie viel Sie in Kundenforschung investieren sollten . Dies ist ein Folgebeitrag. Wir werden uns mit der Frage beschäftigen, warum Unternehmen es versäumen, die Erkenntnisse aus der Kundenforschung umzusetzen. Denn häufig kommt es vor, dass Unternehmen nach der Nutzerforschung nichts unternehmen. Versuchen wir also zu verstehen, warum das passiert und wie es vermieden werden kann.
 

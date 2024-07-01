@@ -42,10 +42,10 @@ services:
     - title: Mastering Jobs to be done online course
       text: For everyone who wants to learn and use our tools. Especially useful for people working in marketing, product development and innovation management. We teach you everything you need to know.
       icon: flaticon-round-table
-      link: /services/mastering-jobs-to-be-done-online-workshop
+      link: /leistungen/mastering-jobs-to-be-done-online-workshop
     - title: Customer Insight Sprints
       text: Within 4-6 weeks, we help you develop clear value propositions for product, marketing and sales - all based on customer insights
-      link: /services/customer-research-sprints
+      link: /leistungen/customer-research-sprints
       icon: flaticon-rocket
     - title: Enterprise Transformation Service
       text:
