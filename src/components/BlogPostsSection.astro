@@ -4,8 +4,7 @@ import { getRelativePostPath } from "@utilities/getPostPath";
 import { getPostDescription } from "@utilities/getPageDescription";
 import FormattedDate from "@components/FormattedDate.astro";
 import { Picture } from "astro:assets";
-import type { Person } from "@utilities/people";
-import { people, getPersonPath } from "@utilities/people";
+import { people, getPersonPath, type Person } from "@utilities/people";
 
 const { frontmatter } = Astro.props,
   title = frontmatter.title,
@@ -47,7 +46,7 @@ const posts = collection
     <div class="row justify-content-center">
       {
         posts &&
-          posts.map((post) => {
+        posts.slice(0, 3).map((post) => {
             let person: Person = people.find((person) => {
               return person.fullName === post.data.author;
             });
