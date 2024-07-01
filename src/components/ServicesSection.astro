@@ -28,8 +28,9 @@ const { frontmatter } = Astro.props;
             (service: {
               icon: string;
               link: string | URL;
-              title: unknown;
-              text: unknown;
+              title: string;
+              linkLabel: string;
+              text: string;
             }) => (
               <div class="col-lg-4 col-md-6">
                 <div class="features-item-six features-item-seven">
@@ -44,7 +45,8 @@ const { frontmatter } = Astro.props;
                   <div class="features-content-six">
                     <p class="line-clamp-3">{service.text}</p>
                     <a href={service.link} class="link-btn">
-                      {uiStrings.readMore[Astro.currentLocale]}
+                      {service.linkLabel ? service.linkLabel
+                        : uiStrings.readMore[Astro.currentLocale]}
                       <Picture
                         src="/assets/img/icons/right-arrow.svg"
                         formats={["avif", "webp"]}

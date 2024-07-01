@@ -39,14 +39,19 @@ services:
   title: The Best Choice For All Your Business Needs
   subtitle: Providing Services
   items:
-    - title: Customer Insight Sprints
-      text: Within 4-6 weeks, we help you develop clear value propositions for product, marketing and sales - all based on customer insights
-      link: /services/customer-research-sprints
-      icon: flaticon-rocket
     - title: Mastering Jobs to be done online course
       text: For everyone who wants to learn and use our tools. Especially useful for people working in marketing, product development and innovation management. We teach you everything you need to know.
       icon: flaticon-round-table
       link: /services/mastering-jobs-to-be-done-online-workshop
+    - title: Customer Insight Sprints
+      text: Within 4-6 weeks, we help you develop clear value propositions for product, marketing and sales - all based on customer insights
+      link: /services/customer-research-sprints
+      icon: flaticon-rocket
+    - title: Enterprise Transformation Service
+      text:
+      icon: flaticon-rocket
+      link: https://cal.com/martinbetz
+      linkLabel: Sprechen Sie uns an
 
 # Clients Section
 clients:

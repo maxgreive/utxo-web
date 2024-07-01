@@ -4,12 +4,16 @@ import { getRelativePostPath } from "@utilities/getPostPath";
 import { getPostDescription } from "@utilities/getPageDescription";
 import FormattedDate from "@components/FormattedDate.astro";
 import { Picture } from "astro:assets";
+import type { Person } from "@utilities/people";
+import { people, getPersonPath } from "@utilities/people";
 
 const { frontmatter } = Astro.props,
   title = frontmatter.title,
   collection = frontmatter.collection;
 
-const posts = collection ? await getPublishedPosts(Astro.currentLocale, collection) : [];
+const posts = collection
+  ? await getPublishedPosts(Astro.currentLocale, collection)
+  : [];
 ---
 
 <section
@@ -43,31 +47,14 @@ const posts = collection ? await getPublishedPosts(Astro.currentLocale, collecti
     <div class="row justify-content-center">
       {
         posts &&
-          posts.map((post) => (
-            <div class="col-lg-4 col-md-6 col-sm-10">
-              <div class="blog-post-item-two">
-                <div class="blog-post-thumb-two">
-                  <a
-                    href={`${getRelativePostPath(
-                      Astro.currentLocale,
-                      collection,
-                      post.slug
-                    )}`}
-                  >
-                    <Picture
-                      src={post.data.previewImage}
-                      formats={["avif", "webp"]}
-                      width={450}
-                      height={255}
-                      alt={post.data.title}
-                    />
-                  </a>
-                  <a href="blog.html" class="tag">
-                    {post.data.tags[0]}
-                  </a>
-                </div>
-                <div class="blog-post-content-two">
-                  <h2 class="title line-clamp-2">
+          posts.map((post) => {
+            let person: Person = people.find((person) => {
+              return person.fullName === post.data.author;
+            });
+            return (
+              <div class="col-lg-4 col-md-6 col-sm-10">
+                <div class="blog-post-item-two">
+                  <div class="blog-post-thumb-two">
                     <a
                       href={`${getRelativePostPath(
                         Astro.currentLocale,
@@ -75,40 +62,58 @@ const posts = collection ? await getPublishedPosts(Astro.currentLocale, collecti
                         post.slug
                       )}`}
                     >
-                      {post.data.title}
+                      <Picture
+                        src={post.data.previewImage}
+                        formats={["avif", "webp"]}
+                        width={450}
+                        height={255}
+                        alt={post.data.title}
+                      />
                     </a>
-                  </h2>
-                  <p class="line-clamp-4">{getPostDescription(post)}</p>
-                  <div class="blog-meta">
-                    <ul class="list-wrap">
-                      <li>
-                        <a
-                          href={`${getRelativePostPath(
-                            Astro.currentLocale,
-                            collection,
-                            post.slug
-                          )}`}
-                        >
-                          <Picture
-                            src="/assets/img/blog/blog_avatar01.png"
-                            formats={["avif", "webp"]}
-                            alt="Avatar"
-                            width={65}
-                            height={65}
-                          />
-                          {post.data.author}
-                        </a>
-                      </li>
-                      <li>
-                        <i class="far fa-calendar" />
-                        <FormattedDate date={post.data.pubDate} />
-                      </li>
-                    </ul>
+                    <a href="blog.html" class="tag">
+                      {post.data.tags[0]}
+                    </a>
+                  </div>
+                  <div class="blog-post-content-two">
+                    <h2 class="title line-clamp-2">
+                      <a
+                        href={`${getRelativePostPath(
+                          Astro.currentLocale,
+                          collection,
+                          post.slug
+                        )}`}
+                      >
+                        {post.data.title}
+                      </a>
+                    </h2>
+                    <p class="line-clamp-4">{getPostDescription(post)}</p>
+                    <div class="blog-meta">
+                      <ul class="list-wrap">
+                        <li>
+                          <a
+                            href={getPersonPath(Astro.currentLocale, person.id)}
+                          >
+                            <Picture
+                              src={person.avatar}
+                              formats={["avif", "webp"]}
+                              alt="Avatar"
+                              width={65}
+                              height={65}
+                            />
+                            {person.fullName}
+                          </a>
+                        </li>
+                        <li>
+                          <i class="far fa-calendar" />
+                          <FormattedDate date={post.data.pubDate} />
+                        </li>
+                      </ul>
+                    </div>
                   </div>
                 </div>
               </div>
-            </div>
-          ))
+            );
+          })
       }
     </div>
   </div>
