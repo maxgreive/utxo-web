@@ -49,7 +49,7 @@ services:
       icon: flaticon-rocket
     - title: Enterprise Transformation Service
       text:
-      icon: flaticon-rocket
+      icon: flaticon-mission
       link: https://cal.com/martinbetz
       linkLabel: Sprechen Sie uns an
 
