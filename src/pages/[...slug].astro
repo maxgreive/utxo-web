@@ -28,9 +28,57 @@ const { Content } = await entry.render();
 ---
 
 <Page frontmatter={entry.data}>
-  {entry.data.previewImage && (
-    <div class="services-details-thumb"><img src={entry.data.previewImage} /></div>
-  )}
+  {
+    entry.data.previewImage && (
+      <div class="services-details-thumb">
+        <img src={entry.data.previewImage} />
+      </div>
+    )
+  }
+  {
+    entry.data.sidebar && (
+      <div slot="left-column">
+        <aside class="services-sidebar">
+          {entry.data.sidebar.downloadText && (
+            <div class="services-widget">
+              <h4 class="sw-title">Downloads</h4>
+              <div class="services-brochure-wrap">
+                <p>{entry.data.sidebar.downloadText}</p>
+                <a
+                  href={entry.data.sidebar.downloadLink}
+                  target="_blank"
+                  download=""
+                  class="download-btn"
+                >
+                  <i class="far fa-file-pdf" />
+                  {entry.data.sidebar.downloadButtonLabel}
+                </a>
+              </div>
+            </div>
+          )}
+          <div class="services-widget">
+            <h4 class="sw-title">Projekt anfragen</h4>
+            <div class="services-widget-form">
+              <form action="#">
+                <div class="form-grp">
+                  <input type="text" placeholder="Ihr Name" />
+                </div>
+                <div class="form-grp">
+                  <input type="email" placeholder="Email-Adresse" />
+                </div>
+                <div class="form-grp">
+                  <textarea name="message" placeholder="Nachricht" />
+                </div>
+                <button type="submit" class="submit-btn">
+                  Absenden
+                </button>
+              </form>
+            </div>
+          </div>
+        </aside>
+      </div>
+    )
+  }
   <div class="prose">
     <Content />
   </div>

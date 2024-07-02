@@ -3,6 +3,10 @@ title: Mastering Jobs to Be Done Online Workshop
 pubDate: 'Jul 22 2022'
 description: This workshop is for you if one of the following sentences applies to you. I want to develop products and services for my company
 previewImage: https://themedox.com/demo/gerow/assets/img/services/services_details01.jpg
+sidebar:
+  downloadText: "Wenn du denkst: Das bin ich, aber ist es das wert? Dann findest du hier weitere Informationen, um diese Frage mit einem klaren \"Ja\" beantworten zu können:"
+  downloadLink: https://utxo.solutions/wp-content/uploads/2023/12/UTXO_Mastering-JTBD-Innovation_Live_Online_Workshop_v2_2.pdf
+  downloadButtonLabel: Download PDF
 ---
 
 ## Dieser Workshop ist für Sie, wenn einer der folgenden Sätze auf Sie zutrifft:

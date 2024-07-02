@@ -3,6 +3,10 @@ title: Kundenforschungssprints
 pubDate: 'Jul 22 2022'
 description: There are countless innovative ideas on how a business model, products or marketing could be improved
 previewImage: https://themedox.com/demo/gerow/assets/img/services/services_details01.jpg
+sidebar:
+  downloadText: ""
+  downloadLink: ""
+  downloadButtonLabel: ""
 ---
 
 ## Innovative Ideen, messbare Ergebnisse
