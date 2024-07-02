@@ -1,18 +1,27 @@
 ---
-const { post } = Astro.props;
 import { getRelativePostPath } from "@src/utilities/getPostPath";
 import FormattedDate from "./FormattedDate.astro";
 import { Picture } from "astro:assets";
 import { getPostDescription } from "@src/utilities/getPageDescription";
-const { frontmatter } = Astro.props,
+import { people, getPersonPath, type Person } from "@src/utilities/people";
+
+const { frontmatter, post } = Astro.props,
   collection = frontmatter.collection;
+
+let person: Person = people.find((person) => {
+  return person.fullName === post.data.author;
+});
 ---
 
 <div class="col-md-6">
   <div class="blog-post-item-two">
     <div class="blog-post-thumb-two">
       <a
-        href={`${getRelativePostPath(Astro.currentLocale, collection, post.slug)}`}
+        href={`${getRelativePostPath(
+          Astro.currentLocale,
+          collection,
+          post.slug
+        )}`}
       >
         <Picture
           src={post.data.previewImage}
@@ -25,7 +34,11 @@ const { frontmatter } = Astro.props,
       {
         post.data.tags.length && (
           <a
-            href={`${getRelativePostPath(Astro.currentLocale, collection, post.slug)}`}
+            href={`${getRelativePostPath(
+              Astro.currentLocale,
+              collection,
+              post.slug
+            )}`}
             class="tag tag-two"
           >
             {post.data.tags[0]}
@@ -36,8 +49,11 @@ const { frontmatter } = Astro.props,
     <div class="blog-post-content-two">
       <h2 class="title">
         <a
-          href={`${getRelativePostPath(Astro.currentLocale, collection, post.slug)}`}
-          >{post.data.title}</a
+          href={`${getRelativePostPath(
+            Astro.currentLocale,
+            collection,
+            post.slug
+          )}`}>{post.data.title}</a
         >
       </h2>
       <p class="line-clamp-3">{getPostDescription(post)}</p>
@@ -45,16 +61,16 @@ const { frontmatter } = Astro.props,
         <ul class="list-wrap">
           <li>
             <a
-              href={`${getRelativePostPath(Astro.currentLocale, collection, post.slug)}`}
+              href={getPersonPath(Astro.currentLocale, person.id)}
             >
               <Picture
-                src="/assets/img/blog/blog_avatar01.png"
+                src={person.avatar}
                 width={65}
                 height={65}
                 formats={["avif", "webp"]}
                 alt="Avatar"
               />
-              {post.data.author}
+              {person.fullName}
             </a>
           </li>
           <li>
