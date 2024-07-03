@@ -37,7 +37,7 @@ const { Content } = await entry.render();
   }
   {
     entry.data.sidebar && (
-      <div slot="left-column">
+      <div slot="left-column" class="col-12 col-lg-3 order-2 order-lg-1">
         <aside class="services-sidebar">
           {entry.data.sidebar.downloadText && (
             <div class="services-widget">
