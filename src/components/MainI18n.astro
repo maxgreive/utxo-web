@@ -120,8 +120,9 @@ if (reference) {
   import AOS from "aos";
   import "aos/dist/aos.css";
   // @ts-ignore:next-line
-  import Chocolat from "chocolat";
-  import "chocolat/dist/css/chocolat.css";
+  import GLightbox from "glightbox";
+
+  const lightbox = GLightbox({});
 
   AOS.init({
     duration: 1000,
@@ -194,6 +195,4 @@ if (reference) {
         );
       });
   }
-
-  Chocolat(document.querySelectorAll(".popup-image, .popup-video"));
 </script>
