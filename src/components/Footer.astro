@@ -2,14 +2,15 @@
 import { Picture } from "astro:assets";
 import { SOCIALS } from "../config";
 import whiteLogo from "../images/logo/utxo-logo-white.svg";
-import { footerMenu } from "../config";
 import { defaultLocale, fallback } from "@i18n/i18n";
-import type { navigationItem } from "../config";
+import { footerMenu } from "../config";
+import { headerMenu } from "@src/header";
 
 const menuLocale: string = footerMenu[Astro.currentLocale]
-  ? Astro.currentLocale
-  : fallback[Astro.currentLocale] || defaultLocale;
-const footerMenuItems: navigationItem[] = footerMenu[menuLocale].items;
+    ? Astro.currentLocale
+    : fallback[Astro.currentLocale] || defaultLocale,
+  headerMenuItems = headerMenu[menuLocale].items,
+  footerMenuItems = footerMenu[menuLocale].items;
 ---
 
 <footer>
@@ -100,18 +101,22 @@ const footerMenuItems: navigationItem[] = footerMenu[menuLocale].items;
         <div class="row align-items-center">
           <div class="col-md-6">
             <div class="left-sider">
-              <div class="f-logo">
-                <a href="index.html">
-                  <Picture
-                    src={whiteLogo}
-                    alt="UTXO Logo"
-                    formats={["avif", "webp"]}
-                    height={34}
-                  />
-                </a>
-              </div>
+              {
+                headerMenuItems[0] && (
+                  <div class="f-logo">
+                    <a href={headerMenuItems[0]?.path}>
+                      <Picture
+                        src={whiteLogo}
+                        alt="UTXO Logo"
+                        formats={["avif", "webp"]}
+                        height={34}
+                      />
+                    </a>
+                  </div>
+                )
+              }
               <div class="copyright-text">
-                <p>Copyright © {(new Date()).getFullYear()} UTXO Solutions</p>
+                <p>Copyright © {new Date().getFullYear()} UTXO Solutions</p>
               </div>
             </div>
           </div>
