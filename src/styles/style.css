@@ -9526,16 +9526,16 @@ label {
   margin-bottom: 0;
 }
 
-.footer-link .list-wrap li a {
+footer .list-wrap li a {
   color: var(--tg-gray-three);
   position: relative;
 }
 
-.footer-link .list-wrap li a:hover {
+footer .list-wrap li a:hover {
   color: var(--tg-white);
 }
 
-.footer-link .list-wrap li a::before {
+footer .list-wrap li a::before {
   content: "";
   position: absolute;
   left: 0;
@@ -9552,7 +9552,7 @@ label {
   transition: transform 0.4s cubic-bezier(.74, .72, .27, .24);
 }
 
-.footer-link .list-wrap li a:hover::before {
+footer .list-wrap li a:hover::before {
   -webkit-transform-origin: left top;
   -ms-transform-origin: left top;
   transform-origin: left top;
