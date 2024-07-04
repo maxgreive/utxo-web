@@ -2520,7 +2520,6 @@ label {
   font-size: 18px;
   display: flex;
   align-items: baseline;
-  text-transform: capitalize;
   color: var(--tg-secondary-color);
   margin-bottom: 14px;
 }

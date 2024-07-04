@@ -6,49 +6,62 @@ collection: blog
 
 # Hero Section
 hero:
-  title: Best Finance <span>Consulting</span> Planning Agency Make Your Success
-  subtitle: We make effect on your business
-  intro: Agilos helps you to convert your data into a strategic asset and get touch business insight
-  ctaText: See our services
-  ctaLink: /services
+  title: Become <span>Customer First</span>
+  subtitle: Understand your customer and grow
+  intro: Everyone wants to be understood and cared for. This builds trust. And trust is the basis for sustainable growth.
+  ctaText: See how we can help you
+  ctaLink: /en/services
 
+# About Section
 about:
-  title: About
+  title: We provide deep customer insights to fuel your business growth
+  subtitle: Qualitative research that translates into operative progress
+  text: You want to enter a new market? Or explore new revenue streams? But you worry, that the investments in product development won't pay out? You want to reduce the risk of missing product-market fit? Then we are here for you.
+  text2: We help you map a clear way to build products, marketing and sales, that your customers will love.
+  bulletpoints:
+    - Over 1000 successfull research projects done
+    - Unique and proven system
+    - Tangible results in 4-6 weeks
+    - Finally understand your customer
+    - Data driven decision making
+    - 10x ROI in 90% of our projects
+
+  boxes:
+    - label: Projects
+      number: "1000+"
+      icon: flaticon-family
+    - label: Average ROI
+      number: 10x
+      icon: flaticon-family
 
 # Service Section
 services:
-  serviceTitle: The Best Choice For All Your Business Needs
-  serviceSubtitle: Providing Services
+  title: The Best Choice For All Your Business Needs
+  subtitle: Providing Services
   items:
-    - title: Business Management
-      text: Lorem ipsum dolor amera consect failerey adipiscing el sed eiumod aawea tempor incididuntrem ipsumr econsecte.
-      link: /services/business-management
-      icon: flaticon-layers
-    - title: Market Analysis & Research
-      text: Lorem ipsum dolor amera consect failerey adipiscing el sed eiumod aawea tempor incididuntrem ipsumr econsecte.
+    - title: Mastering Jobs to be done online course
+      text: For everyone who wants to learn and use our tools. Especially useful for people working in marketing, product development and innovation management. We teach you everything you need to know.
+      icon: flaticon-round-table
+      link: /leistungen/mastering-jobs-to-be-done-online-workshop
+    - title: Customer Insight Sprints
+      text: Within 4-6 weeks, we help you develop clear value propositions for product, marketing and sales - all based on customer insights
+      link: /leistungen/customer-research-sprints
+      icon: flaticon-rocket
+    - title: Enterprise Transformation Service
+      text: We accompany you in the transformation of your company and help you to establish customer-oriented structures.
       icon: flaticon-mission
-      link: /services/business-management
-    - title: Core Finance Advisor
-      text: Lorem ipsum dolor amera consect failerey adipiscing el sed eiumod aawea tempor incididuntrem ipsumr econsecte.
-      icon: flaticon-investment
-      link: /services/business-management
-    - title: Audit & Evaluation
-      text: Lorem ipsum dolor amera consect failerey adipiscing el sed eiumod aawea tempor incididuntrem ipsumr econsecte.
-      icon: flaticon-taxes
-      link: /services/business-management
-    - title: Consultancy & Advice
-      text: Lorem ipsum dolor amera consect failerey adipiscing el sed eiumod aawea tempor incididuntrem ipsumr econsecte.
-      icon: flaticon-data-management
-      link: /services/business-management
-    - title: Business Strategy & Planning
-      text: Lorem ipsum dolor amera consect failerey adipiscing el sed eiumod aawea tempor incididuntrem ipsumr econsecte.
-      icon: flaticon-business-presentation
-      link: /services/business-management
+      link: https://cal.com/martinbetz
+      linkLabel: Talk to us
+
+# Clients Section
+clients:
+  title: Our awesome clients
+  subtitle: Brands we are working with
 
 # CTA Section
 ctaSection:
   title: Let's Discuss About How We Can Help Make Your Business Better
-  buttonLabel: Schedule a Call
+  buttonLabel: Termin vereinbaren
   buttonLink: https://cal.com/martinbetz
 
 # Testimonials Section
@@ -69,7 +82,9 @@ testimonials:
       quote: We particularly liked the systematic and structured approach, so that we learned more relevant information about our product and our customers in the JTBD Interview Sprint in just 2 days (6 interviews) than in the previous 3 years. After less than a week, we were able to directly triple our advertising campaign effectiveness with the results. Not only did we improve our marketing and sales, but we also got a better product out of it.
       image: /assets/img/images/testi_avatar01.png
 
+# Blog Posts Section
+blog:
+  title: Read Our Latest Updates
+  subtitle: News & Blogs
+  description: Stay up to date with our latest insights, tips and best practices in market research, customer centricity and business growth.
 ---
-Herzlich Willkommen!
-
-Dies ist eine Demo-Webseite für den [Astro i18n blog starter](https://github.com/kslstn/astro-i18n-blog-starter).

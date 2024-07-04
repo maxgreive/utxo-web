@@ -1,93 +1,90 @@
 ---
-title: Home
+title: Startseite
 layout: '@layouts/Index.astro'
-reference: home
+reference: startseite
 collection: blog
 
 # Hero Section
 hero:
-  title: Become <span>Customer First</span>
-  subtitle: Understand your customer and grow
-  intro: Everyone wants to be understood and cared for. This builds trust. And trust is the basis for sustainable growth.
-  ctaText: See how we can help you
+  title: Werden Sie <span>Kundenorientiert</span>
+  subtitle: Verstehen Sie Ihre Kunden und wachsen Sie
+  intro: Jeder möchte verstanden und umsorgt werden. Dies schafft Vertrauen. Und Vertrauen ist die Basis für nachhaltiges Wachstum.
+  ctaText: Wie wir Ihnen helfen können
   ctaLink: /leistungen
 
 # About Section
 about:
-  title: We provide deep customer insights to fuel your business growth
-  subtitle: Qualitative research that translates into operative progress
-  text: You want to enter a new market? Or explore new revenue streams? But you worry, that the investments in product development won't pay out? You want to reduce the risk of missing product-market fit? Then we are here for you.
-  text2: We help you map a clear way to build products, marketing and sales, that your customers will love.
+  title: Wir liefern Kundeninsights für Ihr Unternehmenswachstum
+  subtitle: Qualitative Forschung, die in operative Fortschritte umgesetzt wird
+  text: Möchten Sie einen neuen Markt erschließen? Oder neue Einnahmequellen erkunden? Sorgen Sie sich, dass die Investitionen in die Produktentwicklung sich nicht auszahlen? Möchten Sie das Risiko eines fehlenden Produkt-Markt-Fits reduzieren? Dann sind wir für Sie da.
+  text2: Wir helfen Ihnen, einen klaren Weg zu entwickeln, um Produkte, Marketing und Vertrieb zu gestalten, die Ihre Kunden lieben werden.
   bulletpoints:
-    - Over 1000 successfull research projects done
-    - Unique and proven system
-    - Tangible results in 4-6 weeks
-    - Finally understand your customer
-    - Data driven decision making
-    - 10x ROI in 90% of our projects
+    - Über 1000 erfolgreich abgeschlossene Forschungsprojekte
+    - Einzigartiges und bewährtes System
+    - Konkrete Ergebnisse in 4-6 Wochen
+    - Endlich Ihre Kunden verstehen
+    - Datengetriebene Entscheidungsfindung
+    - 10x ROI in 90% unserer Projekte
 
   boxes:
-    - label: Projects
-      number: ">1000"
+    - label: Projekte
+      number: "1000+"
       icon: flaticon-family
-    - label: Average ROI
+    - label: Ø ROI
       number: 10x
       icon: flaticon-family
 
 # Service Section
 services:
-  title: The Best Choice For All Your Business Needs
-  subtitle: Providing Services
+  title: Die beste Wahl für all Ihre Unternehmensbedürfnisse
+  subtitle: Unsere Dienstleistungen
   items:
-    - title: Mastering Jobs to be done online course
-      text: For everyone who wants to learn and use our tools. Especially useful for people working in marketing, product development and innovation management. We teach you everything you need to know.
+    - title: "'Mastering Jobs to be Done' Online-Kurs"
+      text: Für alle, die unsere Werkzeuge erlernen und nutzen möchten. Besonders nützlich für Personen im Marketing, in der Produktentwicklung und im Innovationsmanagement. Wir vermitteln Ihnen alles, was Sie wissen müssen.
       icon: flaticon-round-table
       link: /leistungen/mastering-jobs-to-be-done-online-workshop
     - title: Customer Insight Sprints
-      text: Within 4-6 weeks, we help you develop clear value propositions for product, marketing and sales - all based on customer insights
+      text: Innerhalb von 4-6 Wochen helfen wir Ihnen, klare Wertversprechen für Produkt, Marketing und Vertrieb zu entwickeln - alles basierend auf Kundeninsights.
       link: /leistungen/customer-research-sprints
       icon: flaticon-rocket
-    - title: Enterprise Transformation Service
-      text:
+    - title: Unternehmens-Transformationsservice
+      text: Wir begleiten Sie bei der Transformation Ihres Unternehmens und helfen Ihnen, kundenorientierte Strukturen zu etablieren.
       icon: flaticon-mission
       link: https://cal.com/martinbetz
       linkLabel: Sprechen Sie uns an
 
 # Clients Section
 clients:
-  title: Our awesome clients
-  subtitle: Brands we are working with
+  title: Unsere großartigen Kunden
+  subtitle: Marken, mit denen wir zusammenarbeiten
 
 # CTA Section
 ctaSection:
-  title: Let's Discuss About How We Can Help Make Your Business Better
+  title: Besprechen wir, wie wir Ihr Geschäft verbessern können
   buttonLabel: Termin vereinbaren
   buttonLink: https://cal.com/martinbetz
 
 # Testimonials Section
 testimonials:
-  title: What our awesome customers say
-  subtitle: Our Testimonials
+  title: Das sagen unsere großartigen Kunden
+  subtitle: Kundenstimmen
   items:
     - author: Michael von Pidoll
       position: TÜV Rheinland AG
-      quote: The JTBD methodology was communicated in a very understandable way, and the interviews were conducted in a very professional manner. The project offers us the chance to address our customers with new service offers in a more targeted way.
+      quote: Die JTBD-Methodik wurde sehr verständlich vermittelt, und die Interviews wurden professionell durchgeführt. Das Projekt bietet uns die Möglichkeit, unsere Kunden gezielter mit neuen Serviceangeboten anzusprechen.
       image: /assets/img/images/testi_avatar01.png
     - author: Manuel Gerding
       position: steadybit
-      quote: We went from zero practical experience with JTBD to an operational small research team that can use JTBD independently in the future within 2 weeks! An unrestricted 110% recommendation.
+      quote: Innerhalb von zwei Wochen sind wir von null praktischer Erfahrung mit JTBD zu einem einsatzfähigen kleinen Forschungsteam gewechselt, das JTBD künftig selbstständig nutzen kann! Uneingeschränkte 110% Empfehlung.
       image: /assets/img/images/testi_avatar01.png
     - author: Stefan Hück
       position: Mantrafant
-      quote: We particularly liked the systematic and structured approach, so that we learned more relevant information about our product and our customers in the JTBD Interview Sprint in just 2 days (6 interviews) than in the previous 3 years. After less than a week, we were able to directly triple our advertising campaign effectiveness with the results. Not only did we improve our marketing and sales, but we also got a better product out of it.
+      quote: Besonders gefallen hat uns der systematische und strukturierte Ansatz, durch den wir in nur zwei Tagen (6 Interviews) mehr relevante Informationen über unser Produkt und unsere Kunden im JTBD-Interview-Sprint erfahren haben als in den letzten drei Jahren. Nach weniger als einer Woche konnten wir die Effektivität unserer Werbekampagne mit den Ergebnissen direkt verdreifachen. Wir haben nicht nur unser Marketing und unseren Vertrieb verbessert, sondern auch ein besseres Produkt entwickelt.
       image: /assets/img/images/testi_avatar01.png
 
 # Blog Posts Section
 blog:
-  title: Read Our Latest Updates
-  subtitle: News & Blogs
-  description: Ever find yourself staring at your computer screen a good consulting slogan to come to mind? Oftentimes.
+  title: Lesen Sie unsere neuesten Updates
+  subtitle: Nachrichten & Blogs
+  description: Bleiben Sie auf dem Laufenden mit unseren neuesten Erkenntnissen, Tipps und Best Practices in den Bereichen Marktforschung, Kundenorientierung und Unternehmenswachstum.
 ---
-Herzlich Willkommen!
-
-Dies ist eine Demo-Webseite für den [Astro i18n blog starter](https://github.com/kslstn/astro-i18n-blog-starter).
