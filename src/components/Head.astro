@@ -14,6 +14,7 @@ import "../styles/flaticon.css";
 import "../styles/default.css";
 import "../styles/style.css";
 import "../styles/responsive.css";
+import "../styles/glightbox.min.css";
 
 interface Props {
   frontmatter: CommonFrontmatter;
@@ -84,3 +85,10 @@ const mode = import.meta.env.MODE,
 <meta property="twitter:title" content={title} />
 {description && <meta property="twitter:description" content={description} />}
 <meta property="twitter:image" content={new URL(previewImage, Astro.url)} />
+
+<script src="/assets/js/glightbox.min.js" is:inline></script>
+
+<script>
+  // @ts-ignore
+  window.GLightbox({});
+</script>
