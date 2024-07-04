@@ -1,7 +1,7 @@
 ---
 title: Startseite
 layout: '@layouts/Index.astro'
-reference: startseite
+reference: home
 collection: blog
 
 # Hero Section
