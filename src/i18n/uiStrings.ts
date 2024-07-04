@@ -58,5 +58,9 @@ export const uiStrings: TypeUIStrings = {
 	contactButton: {
 		en: 'Contact us',
 		de: 'Kontakt'
+	},
+	watchVideo: {
+		en: 'Watch the<br>video',
+		de: 'Video<br>ansehen'
 	}
 };

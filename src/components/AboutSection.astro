@@ -4,6 +4,7 @@ import { Picture } from "astro:assets";
 import Shape01 from "../images/h9_about_shape01.png";
 import Shape02 from "../images/h9_about_shape02.png";
 import AboutImg from "../images/h9_about_img.jpg";
+import { uiStrings } from "@i18n/uiStrings";
 
 const { frontmatter } = Astro.props;
 ---
@@ -40,14 +41,12 @@ const { frontmatter } = Astro.props;
               />
               <a
                 href={frontmatter.about.video}
-                class="play-btn"
+                class="glightbox play-btn"
                 data-aos="fade-up"
                 data-aos-delay="400"
               >
                 <i class="fas fa-play" />{" "}
-                <span>
-                  Watch The <br /> Video
-                </span>
+                <span set:html={uiStrings.watchVideo[Astro.currentLocale]} />
               </a>
             </div>
           </div>

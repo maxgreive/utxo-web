@@ -11589,7 +11589,6 @@ footer .list-wrap li a:hover::before {
   font-weight: 700;
   color: var(--tg-white);
   font-family: var(--tg-heading-font-family);
-  text-transform: capitalize;
   line-height: 1.1;
 }
 
