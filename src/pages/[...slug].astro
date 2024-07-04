@@ -4,6 +4,7 @@ import { locales } from "@i18n/i18n";
 import Page from "@layouts/Page.astro";
 import { getLocaleFromUrl } from "@i18n/utilities";
 import { getRelativePostPath } from "@utilities/getPostPath";
+import ServiceSidebar from "@components/ServiceSidebar.astro";
 
 export async function getStaticPaths() {
   const collection = "services";
@@ -38,44 +39,7 @@ const { Content } = await entry.render();
   {
     entry.data.sidebar && (
       <div slot="left-column" class="col-12 col-lg-3 order-2 order-lg-1">
-        <aside class="services-sidebar">
-          {entry.data.sidebar.downloadText && (
-            <div class="services-widget">
-              <h4 class="sw-title">Downloads</h4>
-              <div class="services-brochure-wrap">
-                <p>{entry.data.sidebar.downloadText}</p>
-                <a
-                  href={entry.data.sidebar.downloadLink}
-                  target="_blank"
-                  download=""
-                  class="download-btn"
-                >
-                  <i class="far fa-file-pdf" />
-                  {entry.data.sidebar.downloadButtonLabel}
-                </a>
-              </div>
-            </div>
-          )}
-          <div class="services-widget">
-            <h4 class="sw-title">Projekt anfragen</h4>
-            <div class="services-widget-form">
-              <form action="#">
-                <div class="form-grp">
-                  <input type="text" placeholder="Ihr Name" />
-                </div>
-                <div class="form-grp">
-                  <input type="email" placeholder="Email-Adresse" />
-                </div>
-                <div class="form-grp">
-                  <textarea name="message" placeholder="Nachricht" />
-                </div>
-                <button type="submit" class="submit-btn">
-                  Absenden
-                </button>
-              </form>
-            </div>
-          </div>
-        </aside>
+        <ServiceSidebar content={entry.data.sidebar} title={entry.data.title} />
       </div>
     )
   }

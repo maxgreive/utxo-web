@@ -61,7 +61,7 @@ clients:
 
 # CTA Section
 ctaSection:
-  title: Besprechen wir, wie wir Ihr Geschäft verbessern können
+  title: Entdecken Sie die Potenziale Ihrer Kundenbeziehungen
   buttonLabel: Termin vereinbaren
   buttonLink: https://cal.com/martinbetz
 

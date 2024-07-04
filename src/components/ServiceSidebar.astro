@@ -1,0 +1,54 @@
+---
+const {content, title} = Astro.props;
+---
+
+<aside class="services-sidebar">
+  {
+    content.downloadText && (
+      <div class="services-widget">
+        <h4 class="sw-title">Downloads</h4>
+        <div class="services-brochure-wrap">
+          <p>{content.downloadText}</p>
+          <a
+            href={content.downloadLink}
+            target="_blank"
+            download=""
+            class="download-btn"
+          >
+            <i class="far fa-file-pdf" />
+            {content.downloadButtonLabel}
+          </a>
+        </div>
+      </div>
+    )
+  }
+  <div class="services-widget">
+    <h4 class="sw-title">Projektanfrage</h4>
+    <div class="services-widget-form">
+      <form
+        data-netlify="true"
+        netlify-honeypot
+        name="feedback"
+        method="POST"
+        action="/success"
+      >
+        <p hidden>
+          <label>
+            Don&lsquo;t fill this out if you&lsquo;re human: <input name="bot-field" />
+          </label>
+        </p>
+        <div class="form-grp">
+          <input type="text" placeholder="Ihr Name" name="name" />
+        </div>
+        <div class="form-grp">
+          <input type="email" placeholder="Email-Adresse *" name="email" required />
+        </div>
+        <div class="form-grp">
+          <textarea name="message" placeholder="Nachricht" name="message"></textarea>
+        </div>
+        <input type="hidden" name="topic" value={title} />
+        <button type="submit" class="submit-btn">Absenden</button>
+      </form>
+    </div>
+  </div>
+</aside>
