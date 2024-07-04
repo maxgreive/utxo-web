@@ -10686,7 +10686,6 @@ footer .list-wrap li a:hover::before {
 .banner-content-eight>.title {
   font-weight: 800;
   font-size: 50px;
-  text-transform: capitalize;
   color: var(--tg-white);
   margin-bottom: 15px;
 }

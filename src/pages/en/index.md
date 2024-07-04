@@ -18,6 +18,7 @@ about:
   subtitle: Qualitative research that translates into operative progress
   text: You want to enter a new market? Or explore new revenue streams? But you worry, that the investments in product development won't pay out? You want to reduce the risk of missing product-market fit? Then we are here for you.
   text2: We help you map a clear way to build products, marketing and sales, that your customers will love.
+  video: https://vimeo.com/463483315
   bulletpoints:
     - Over 1000 successfull research projects done
     - Unique and proven system
