@@ -1031,6 +1031,7 @@ label {
 
 .nav-logo img {
   max-width: 135px;
+  height: auto;
 }
 
 .mobile-search {
