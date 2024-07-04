@@ -119,9 +119,10 @@ if (reference) {
 <script>
   import AOS from "aos";
   import "aos/dist/aos.css";
-  // @ts-ignore:next-line
-  import GLightbox from "glightbox";
+  import "/node_modules/glightbox/dist/js/glightbox.js";
+  import "/node_modules/glightbox/dist/css/glightbox.min.css";
 
+  // @ts-ignore:next-line
   const lightbox = GLightbox({});
 
   AOS.init({
