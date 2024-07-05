@@ -26,6 +26,8 @@ const serviceCollection = defineCollection({
 		reference: z.string().optional(),
 		description: z.string().optional(),
 		pubDate: z.coerce.date(),
+		icon: z.string().optional(),
+		pageHeader: z.string().optional(),
 		tags: z.array(z.string()).default(['other']),
 		previewImage: z.string().optional(),
 		sidebar: z.object({

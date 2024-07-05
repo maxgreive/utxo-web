@@ -1,8 +1,9 @@
 ---
 title: Kundenforschungssprints
 pubDate: 'Jul 22 2022'
-description: There are countless innovative ideas on how a business model, products or marketing could be improved
+description: Mit unserer Expertise und Methodik verhelfen wir Ihnen in kürzester Zeit zu gewinnbringenden Erkenntnissen und erfolgreichen Ergebnissen. Vom ersten Tag an.
 previewImage: https://themedox.com/demo/gerow/assets/img/services/services_details01.jpg
+icon: flaticon-rating
 sidebar:
   downloadText: ""
   downloadLink: ""

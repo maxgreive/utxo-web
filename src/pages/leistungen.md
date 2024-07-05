@@ -1,7 +1,8 @@
 ---
 layout: '@layouts/ServicesOverview.astro'
 collection: services
-title: The features that make our Service unique
-subtitle: What we do for you
-description: Morem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elita Florai Psum Dolor Amet, Consectetuolor Sit Amet, Consectetu.
+title: Leistungen
+subtitle: Was wir für Sie leisten können
+introTitle: Unsere maßgeschneiderten Dienstleistungen für Ihren Erfolg
+description: Entdecken Sie unsere umfassenden Dienstleistungen, die darauf abzielen, Ihr Unternehmen auf die nächste Stufe zu heben. Lassen Sie uns gemeinsam Ihre Ziele erreichen und Ihr Wachstum vorantreiben.
 ---

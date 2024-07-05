@@ -1,8 +1,9 @@
 ---
 title: Mastering Jobs to Be Done Online Workshop
 pubDate: 'Jul 22 2022'
-description: This workshop is for you if one of the following sentences applies to you. I want to develop products and services for my company
+description: Melden Sie sich noch heute an und machen Sie den ersten Schritt, um die Jobs-to-Be-Done-Methodik in Ihrem Unternehmen erfolgreich umzusetzen. Gemeinsam erreichen wir Ihre Ziele!
 previewImage: https://themedox.com/demo/gerow/assets/img/services/services_details01.jpg
+icon: flaticon-round-table
 sidebar:
   downloadText: "Wenn du denkst: Das bin ich, aber ist es das wert? Dann findest du hier weitere Informationen, um diese Frage mit einem klaren \"Ja\" beantworten zu können:"
   downloadLink: https://utxo.solutions/wp-content/uploads/2023/12/UTXO_Mastering-JTBD-Innovation_Live_Online_Workshop_v2_2.pdf
