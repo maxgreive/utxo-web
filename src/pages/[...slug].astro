@@ -5,6 +5,7 @@ import Page from "@layouts/Page.astro";
 import { getLocaleFromUrl } from "@i18n/utilities";
 import { getRelativePostPath } from "@utilities/getPostPath";
 import ServiceSidebar from "@components/ServiceSidebar.astro";
+import Accordion from "@components/Accordion.astro";
 
 export async function getStaticPaths() {
   const collection = "services";
@@ -46,4 +47,5 @@ const { Content } = await entry.render();
   <div class="prose">
     <Content />
   </div>
+  {entry.data.questions && <Accordion questions={entry.data.questions} />}
 </Page>

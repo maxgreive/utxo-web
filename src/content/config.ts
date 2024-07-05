@@ -30,6 +30,10 @@ const serviceCollection = defineCollection({
 		pageHeader: z.string().optional(),
 		tags: z.array(z.string()).default(['other']),
 		previewImage: z.string().optional(),
+		questions: z.array(z.object({
+			question: z.string(),
+			answer: z.string()
+		})).optional(),
 		sidebar: z.object({
 			downloadText: z.string().optional(),
 			downloadLink: z.string().optional(),
