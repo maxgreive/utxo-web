@@ -3,6 +3,7 @@ title: Home
 layout: '@layouts/Index.astro'
 reference: home
 collection: blog
+description: UTXO Solutions is your expert agency for strategic customer research. We help companies gain in-depth customer insights and use them to develop outstanding products that conquer the market.
 
 # Hero Section
 hero:
