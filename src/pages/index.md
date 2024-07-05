@@ -3,6 +3,7 @@ title: Startseite
 layout: '@layouts/Index.astro'
 reference: home
 collection: blog
+description: UTXO Solutions ist Ihre Expertenagentur für strategische Kundenforschung. Wir unterstützen Unternehmen dabei, tiefgehende Kundeninsights zu gewinnen und daraus herausragende Produkte zu entwickeln, die den Markt erobern.
 
 # Hero Section
 hero:
