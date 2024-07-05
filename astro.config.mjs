@@ -13,9 +13,6 @@ import criticalCss from "astro-critical-css";
 // https://astro.build/config
 export default defineConfig({
 	site: site,
-	build: {
-		inlineStylesheets: "always"
-	},
 	integrations: [
 		mdx(),
 		sitemap({
