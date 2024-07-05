@@ -41,6 +41,10 @@ export const footerMenu: Record<string, Record<string, navigationItem[]>> = {
           {
             label: "Impressum",
             path: "/impressum",
+          },
+          {
+            label: "Datenschutz",
+            path: "/datenschutz",
           }
         ]
       },
@@ -48,8 +52,12 @@ export const footerMenu: Record<string, Record<string, navigationItem[]>> = {
         title: "Quick Links",
         items: [
           {
+            label: "Leistungen",
+            path: "/leistungen"
+          },
+          {
             label: "Kontakt",
-            path: "/kontakt",
+            path: "mailto:info@utxo.solutions",
           }
         ]
       }
