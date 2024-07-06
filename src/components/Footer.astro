@@ -1,22 +1,24 @@
 ---
-import { Picture } from "astro:assets";
+import { Picture, getImage } from "astro:assets";
 import { SOCIALS } from "../config";
 import whiteLogo from "../images/logo/utxo-logo-white.svg";
 import { defaultLocale, fallback } from "@i18n/i18n";
 import { footerMenu } from "../config";
 import { headerMenu } from "@src/header";
+import backgroundImage from "../images/footer_bg.jpg";
 
 const menuLocale: string = footerMenu[Astro.currentLocale]
     ? Astro.currentLocale
     : fallback[Astro.currentLocale] || defaultLocale,
   headerMenuItems = headerMenu[menuLocale].items,
+  sectionBackground = await getImage({ src: backgroundImage }),
   footerMenuItems = footerMenu[menuLocale].items;
 ---
 
 <footer>
   <div
     class="footer-area footer-bg"
-    data-background="/assets/img/bg/footer_bg.jpg"
+    style={`background-image: url('${sectionBackground.src}')`}
   >
     <div class="container">
       <div class="footer-top">

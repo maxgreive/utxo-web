@@ -1,16 +1,18 @@
 ---
 import Shape01 from "../images/breadcrumb_shape01.png";
 import Shape02 from "../images/breadcrumb_shape02.png";
-import { Picture } from "astro:assets";
+import { Picture, getImage } from "astro:assets";
+import backgroundImage from "../images/breadcrumb_bg.jpg";
 
 const { frontmatter } = Astro.props,
   title = frontmatter.title,
-  pageHeader = frontmatter.pageHeader;
+  pageHeader = frontmatter.pageHeader,
+  sectionBackground = await getImage({ src: backgroundImage });
 ---
 
 <section
   class="breadcrumb-area breadcrumb-bg"
-  data-background="/assets/img/bg/breadcrumb_bg.jpg"
+  style={`background-image: url('${sectionBackground.src}')`}
 >
   <div class="container">
     <div class="row">
