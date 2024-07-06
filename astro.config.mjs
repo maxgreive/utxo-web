@@ -8,7 +8,6 @@ const sitemapLocales = Object.fromEntries(locales.map((_, i) => [locales[i], loc
 
 import sitemap from '@astrojs/sitemap';
 import purgecss from 'astro-purgecss';
-// import criticalCss from "astro-critical-css";
 
 // https://astro.build/config
 export default defineConfig({
@@ -26,8 +25,7 @@ export default defineConfig({
 			safelist: {
 				standard: [/aos/, /swiper/]
 			}
-		}),
-		// criticalCss()
+		})
 	],
 	i18n: {
 		defaultLocale: defaultLocale,
