@@ -1117,9 +1117,9 @@ label {
 }
 
 .mobile-menu-visible .mobile-menu {
-  -webkit-transform: translateX(0%)!important;
-  -ms-transform: translateX(0%)!important;
-  transform: translateX(0%)!important;
+  -webkit-transform: translateX(0%);
+  -ms-transform: translateX(0%);
+  transform: translateX(0%);
 }
 
 .mobile-menu .navigation li.current>a:before {
@@ -1451,7 +1451,7 @@ label {
 }
 
 .extra-info.active {
-  transform: translateX(0)!important;
+  transform: translateX(0);
 }
 
 .close-icon {
