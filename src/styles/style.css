@@ -10666,6 +10666,12 @@ footer .list-wrap li a:hover::before {
   background-position: center;
 }
 
+@media screen and (min-width: 992px) {
+  .banner-bg-eight {
+    background: url("/assets/img/banner/h9_hero_bg.jpg");
+  }
+}
+
 .banner-content-eight {
   background: var(--tg-secondary-color);
   padding: 180px 270px 180px 130px;
