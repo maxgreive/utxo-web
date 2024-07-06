@@ -23,7 +23,7 @@ const menuLocale: string = footerMenu[Astro.currentLocale]
         <div class="row">
           <div class="col-lg-3 col-md-7">
             <div class="footer-widget">
-              <h4 class="fw-title">Information</h4>
+              <div class="fw-title">Information</div>
               <div class="footer-info">
                 <ul class="list-wrap">
                   <!-- <li>
@@ -64,7 +64,7 @@ const menuLocale: string = footerMenu[Astro.currentLocale]
               footerMenuItems.map((menu) => (
                 <div class="col-lg-2 col-md-5 col-sm-6">
                   <div class="footer-widget">
-                    <h4 class="fw-title">{menu.title}</h4>
+                    <div class="fw-title">{menu.title}</div>
                     <div class="footer-link">
                       <ul class="list-wrap">
                         {menu.items &&
@@ -81,7 +81,7 @@ const menuLocale: string = footerMenu[Astro.currentLocale]
           }
           <!-- <div class="col-lg-4 col-md-7">
             <div class="footer-widget">
-              <h4 class="fw-title">Newsletter</h4>
+              <div class="fw-title">Newsletter</div>
               <div class="footer-newsletter">
                 <p>
                   Melden Sie sich zum Newsletter an. Wir halten Sie über

@@ -1216,8 +1216,8 @@ label {
   position: relative;
   display: block;
   line-height: 24px;
-  padding: 10px 60px 10px 25px;
-  font-size: 16px;
+  padding: 15px 60px 15px 25px;
+  font-size: 18px;
   font-weight: 700;
   color: var(--tg-heading-font-color);
   text-transform: capitalize;
@@ -9472,6 +9472,7 @@ label {
   position: relative;
   padding-bottom: 18px;
   margin-bottom: 16px;
+  font-weight: var(--tg-heading-font-weight);
 }
 
 .footer-widget .fw-title::before {
