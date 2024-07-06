@@ -24,8 +24,7 @@ export default defineConfig({
 		}),
 		purgecss({
 			safelist: {
-				standard: [/aos/, /swiper/],
-				greedy: [/glightbox/]
+				standard: [/aos/, /swiper/]
 			}
 		}),
 		criticalCss()
