@@ -146,11 +146,15 @@ const headerMenuItems: navigationItem[] = headerMenu[menuLocale].items;
 
 <style>
   .mobile-menu {
-    transform: translate(101%);
+    -webkit-transform: translateX(101%);
+    -ms-transform: translateX(101%);
+    transform: translateX(101%);
   }
 
   .mobile-menu-visible .mobile-menu {
-    transform: translate(0);
+    -webkit-transform: translateX(0);
+    -ms-transform: translateX(0);
+    transform: translateX(0);
   }
 </style>
 
