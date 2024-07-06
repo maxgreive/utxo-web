@@ -38,6 +38,9 @@ importers:
       axios:
         specifier: ^1.7.2
         version: 1.7.2
+      follow-redirects:
+        specifier: ^1.15.6
+        version: 1.15.6
       glightbox:
         specifier: ^3.3.0
         version: 3.3.0
