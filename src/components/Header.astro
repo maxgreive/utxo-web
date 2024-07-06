@@ -8,6 +8,7 @@ import { uiStrings } from "@i18n/uiStrings";
 import HeaderLink from "./HeaderLink.astro";
 import { headerMenu } from "@src/header";
 import type { navigationItem } from "@src/header";
+import { SOCIALS } from "@src/config";
 
 // If no items are available for the page's locale, the items for the defaultLocale will be used:
 const menuLocale: string = headerMenu[Astro.currentLocale]
@@ -120,21 +121,15 @@ const headerMenuItems: navigationItem[] = headerMenu[menuLocale].items;
               </div>
               <div class="social-links">
                 <ul class="clearfix list-wrap">
-                  <li>
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="fab fa-instagram"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="fab fa-youtube"></i></a>
-                  </li>
+                  {
+                    SOCIALS.map((item) => (
+                      <li>
+                        <a href={item.link}>
+                          <i class={`fab ${item.icon}`} />
+                        </a>
+                      </li>
+                    ))
+                  }
                 </ul>
               </div>
             </nav>
@@ -159,7 +154,7 @@ const headerMenuItems: navigationItem[] = headerMenu[menuLocale].items;
         .forEach((element) => {
           element.insertAdjacentHTML(
             "beforeend",
-            '<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div>'
+            '<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div>',
           );
         });
     }
@@ -190,7 +185,7 @@ const headerMenuItems: navigationItem[] = headerMenu[menuLocale].items;
       .forEach((element) =>
         element.addEventListener("click", () => {
           document.body.classList.remove("mobile-menu-visible");
-        })
+        }),
       );
   }
 </script>

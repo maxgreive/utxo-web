@@ -1504,6 +1504,7 @@ label {
 .side-instagram img {
   width: 100%;
   border-radius: 5px;
+  height: auto;
 }
 
 .social-icon-right>a {
