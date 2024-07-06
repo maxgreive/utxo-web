@@ -1092,11 +1092,11 @@ label {
   height: 100%;
   z-index: 99;
   border-radius: 0px;
-  transition: all 0.3s cubic-bezier(0.785, 0.135, 0.15, 0.86);
   -moz-transition: all 0.3s cubic-bezier(0.785, 0.135, 0.15, 0.86);
   -webkit-transition: all 0.3s cubic-bezier(0.785, 0.135, 0.15, 0.86);
   -ms-transition: all 0.3s cubic-bezier(0.785, 0.135, 0.15, 0.86)e;
   -o-transition: all 0.3s cubic-bezier(0.785, 0.135, 0.15, 0.86);
+  transition: all 0.3s cubic-bezier(0.785, 0.135, 0.15, 0.86);
   -webkit-transform: translateX(101%);
   -ms-transform: translateX(101%);
   transform: translateX(101%);
