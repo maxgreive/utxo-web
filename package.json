@@ -19,6 +19,7 @@
     "aos": "^2.3.4",
     "astro": "^4.10.2",
     "astro-purgecss": "^4.1.1",
+    "axios": "^1.7.2",
     "glightbox": "^3.3.0",
     "markdown-it": "^14.1.0",
     "normalize.css": "^8.0.1",
