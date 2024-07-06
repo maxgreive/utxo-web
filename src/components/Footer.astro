@@ -126,7 +126,7 @@ const menuLocale: string = footerMenu[Astro.currentLocale]
                 {
                   SOCIALS.map((item) => (
                     <li>
-                      <a href={item.link}>
+                      <a href={item.link} aria-label="Social Link">
                         <i class={`fab ${item.icon}`} />
                       </a>
                     </li>
