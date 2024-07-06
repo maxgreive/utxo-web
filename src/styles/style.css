@@ -97,6 +97,7 @@ body {
 img,
 .img {
   max-width: 100%;
+  height: auto;
   transition: all 0.3s ease-out 0s;
 }
 
@@ -1216,8 +1217,8 @@ label {
   position: relative;
   display: block;
   line-height: 24px;
-  padding: 10px 60px 10px 25px;
-  font-size: 16px;
+  padding: 15px 60px 15px 25px;
+  font-size: 18px;
   font-weight: 700;
   color: var(--tg-heading-font-color);
   text-transform: capitalize;
@@ -1471,7 +1472,7 @@ label {
   padding-top: 25px;
 }
 
-.contact-list h4 {
+.contact-list > div {
   color: var(--tg-heading-font-color);
   font-weight: 700;
   font-size: 18px;
@@ -1504,6 +1505,7 @@ label {
 .side-instagram img {
   width: 100%;
   border-radius: 5px;
+  height: auto;
 }
 
 .social-icon-right>a {
@@ -9471,6 +9473,7 @@ label {
   position: relative;
   padding-bottom: 18px;
   margin-bottom: 16px;
+  font-weight: var(--tg-heading-font-weight);
 }
 
 .footer-widget .fw-title::before {
@@ -10664,6 +10667,12 @@ footer .list-wrap li a:hover::before {
   background-position: center;
 }
 
+@media screen and (max-width: 991.98px) {
+  .banner-bg-eight {
+    background-image: none!important;
+  }
+}
+
 .banner-content-eight {
   background: var(--tg-secondary-color);
   padding: 180px 270px 180px 130px;
@@ -10692,18 +10701,11 @@ footer .list-wrap li a:hover::before {
 
 .banner-content-eight .title span {
   position: relative;
-  display: inline-block;
-}
-
-.banner-content-eight .title span::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  bottom: 5px;
-  width: 100%;
-  height: 12px;
-  background: var(--tg-primary-color);
-  z-index: -1;
+  display: inline;
+  background: linear-gradient(0, var(--tg-primary-color) 0%, var(--tg-primary-color) 30%, transparent 30%, transparent 100%);
+  padding:0 6px;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
 }
 
 .banner-content-eight p {

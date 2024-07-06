@@ -20,13 +20,13 @@ const lang = Astro.currentLocale
     </Head>
   </head>
   <body>
-    <button class="scroll-top scroll-to-target" data-target="html" aria-label="Scroll to top">
-      <i class="fas fa-angle-up"></i>
-    </button>
     {includeSkipLink &&
       <SkipLink />
     }
 		<slot/>
+    <button class="scroll-top scroll-to-target" data-target="html" aria-label="Scroll to top">
+      <i class="fas fa-angle-up"></i>
+    </button>
 	</body>
   {mode === 'development' &&
     <script>

@@ -1,29 +1,31 @@
 ---
-import { Picture } from "astro:assets";
+import { Picture, getImage } from "astro:assets";
 import { SOCIALS } from "../config";
 import whiteLogo from "../images/logo/utxo-logo-white.svg";
 import { defaultLocale, fallback } from "@i18n/i18n";
 import { footerMenu } from "../config";
 import { headerMenu } from "@src/header";
+import backgroundImage from "../images/footer_bg.jpg";
 
 const menuLocale: string = footerMenu[Astro.currentLocale]
     ? Astro.currentLocale
     : fallback[Astro.currentLocale] || defaultLocale,
   headerMenuItems = headerMenu[menuLocale].items,
+  sectionBackground = await getImage({ src: backgroundImage }),
   footerMenuItems = footerMenu[menuLocale].items;
 ---
 
 <footer>
   <div
     class="footer-area footer-bg"
-    data-background="/assets/img/bg/footer_bg.jpg"
+    style={`background-image: url('${sectionBackground.src}')`}
   >
     <div class="container">
       <div class="footer-top">
         <div class="row">
           <div class="col-lg-3 col-md-7">
             <div class="footer-widget">
-              <h4 class="fw-title">Information</h4>
+              <div class="fw-title">Information</div>
               <div class="footer-info">
                 <ul class="list-wrap">
                   <!-- <li>
@@ -64,7 +66,7 @@ const menuLocale: string = footerMenu[Astro.currentLocale]
               footerMenuItems.map((menu) => (
                 <div class="col-lg-2 col-md-5 col-sm-6">
                   <div class="footer-widget">
-                    <h4 class="fw-title">{menu.title}</h4>
+                    <div class="fw-title">{menu.title}</div>
                     <div class="footer-link">
                       <ul class="list-wrap">
                         {menu.items &&
@@ -81,7 +83,7 @@ const menuLocale: string = footerMenu[Astro.currentLocale]
           }
           <!-- <div class="col-lg-4 col-md-7">
             <div class="footer-widget">
-              <h4 class="fw-title">Newsletter</h4>
+              <div class="fw-title">Newsletter</div>
               <div class="footer-newsletter">
                 <p>
                   Melden Sie sich zum Newsletter an. Wir halten Sie über
@@ -126,7 +128,7 @@ const menuLocale: string = footerMenu[Astro.currentLocale]
                 {
                   SOCIALS.map((item) => (
                     <li>
-                      <a href={item.link}>
+                      <a href={item.link} aria-label="Social Link">
                         <i class={`fab ${item.icon}`} />
                       </a>
                     </li>

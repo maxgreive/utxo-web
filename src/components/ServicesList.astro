@@ -5,7 +5,8 @@ import { Picture } from "astro:assets";
 
 const { frontmatter } = Astro.props;
 const { posts } = Astro.props,
-  collection = frontmatter.collection;
+collection = frontmatter.collection,
+services = frontmatter.services || [];
 ---
 
 <section class="services-area-seven pt-120 pb-90">
@@ -21,7 +22,7 @@ const { posts } = Astro.props,
     </div>
     <div class="row justify-content-center">
       {
-        (posts ?? []).map((post: any) => (
+        ([...posts, ...services] ?? []).map((post: any) => (
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="features-item-three">
               <div class="features-icon-three">
@@ -31,10 +32,10 @@ const { posts } = Astro.props,
                 <h2 class="title">{post.data.title}</h2>
                 <p class="line-clamp-3">{post.data.description}</p>
                 <a
-                  href={`${getRelativePostPath(Astro.currentLocale, collection, post.slug)}`}
+                  href={`${post.slug ? getRelativePostPath(Astro.currentLocale, collection, post.slug) : post.data.link}`}
                   class="link-btn"
                 >
-                  {uiStrings.readMore[Astro.currentLocale]}
+                  {post.data.linkLabel || uiStrings.readMore[Astro.currentLocale]}
                   <Picture
                     src="/assets/img/icons/right-arrow.svg"
                     width={19}
