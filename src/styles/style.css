@@ -432,6 +432,7 @@ label {
   height: 35px;
   line-height: 35px;
   position: fixed;
+  display: flex;
   bottom: -10%;
   right: 30px;
   font-size: var(--tg-body-font-size);
@@ -444,6 +445,11 @@ label {
   transition: 1s ease;
   border: none;
 }
+
+.scroll-top .fas {
+  margin: auto;
+}
+
 
 .scroll-top.open {
   bottom: 30px;
