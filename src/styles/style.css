@@ -10667,6 +10667,12 @@ footer .list-wrap li a:hover::before {
   background-position: center;
 }
 
+@media screen and (max-width: 991.98px) {
+  .banner-bg-eight {
+    background-image: none!important;
+  }
+}
+
 .banner-content-eight {
   background: var(--tg-secondary-color);
   padding: 180px 270px 180px 130px;
