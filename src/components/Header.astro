@@ -144,22 +144,6 @@ const headerMenuItems: navigationItem[] = headerMenu[menuLocale].items;
   <SidebarMenu />
 </header>
 
-<style>
-  .mobile-menu {
-    transform: translateX(101%);
-    transition: none;
-  }
-
-  .mobile-menu-visible .mobile-menu {
-    transform: translateX(0);
-  }
-
-  .menu-backdrop {
-    opacity: 0;
-    transition: none;
-  }
-</style>
-
 <script>
   //Mobile Nav Hide Show
   if (document.querySelector(".mobile-menu")) {

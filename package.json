@@ -17,6 +17,7 @@
     "@sindresorhus/slugify": "^2.2.1",
     "aos": "^2.3.4",
     "astro": "^4.10.2",
+    "astro-critical-css": "^0.0.4",
     "astro-purgecss": "^4.1.1",
     "glightbox": "^3.3.0",
     "markdown-it": "^14.1.0",

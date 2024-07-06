@@ -90,15 +90,6 @@ import short4 from "../images/short4.jpg";
 </div>
 <div class="offcanvas-overlay"></div>
 
-<style>
-  @media screen and (max-width: 991.98px) {
-    .extra-info,
-    .offcanvas-overlay {
-      display: none;
-    }
-  }
-</style>
-
 <script>
   document
     .querySelector(".menu-trigger")
@@ -116,6 +107,6 @@ import short4 from "../images/short4.jpg";
         .querySelectorAll(".extra-info, .offcanvas-overlay")
         .forEach((itm) => itm.classList.remove("active"));
       return false;
-    }),
+    })
   );
 </script>
