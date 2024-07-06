@@ -13,6 +13,7 @@ import short1 from "../images/short1.jpg";
 import short2 from "../images/short2.jpg";
 import short3 from "../images/short3.jpg";
 import short4 from "../images/short4.jpg";
+import { uiStrings } from "@i18n/uiStrings";
 ---
 
 <div class="extra-info">
@@ -31,16 +32,16 @@ import short4 from "../images/short4.jpg";
   </div>
   <div class="side-info mb-30">
     <div class="contact-list mb-30">
-      <h4>Office Address</h4>
+      <div>{uiStrings.address[Astro.currentLocale]}</div>
       <p>UTXO Solutions<br />Richard-Wagner-Str. 31<br />50674 Köln</p>
     </div>
     <div class="contact-list mb-30">
-      <h4>Phone</h4>
+      <div>{uiStrings.phone[Astro.currentLocale]}</div>
       <p>+49 221 1684 1669</p>
     </div>
     <div class="contact-list mb-30">
-      <h4>Email</h4>
-      <p>info@utxo.solutions</p>
+      <div>Email</div>
+      <p><a href="mailto:info@utxo.solutions">info@utxo.solutions</a></p>
     </div>
   </div>
   <ul class="side-instagram list-wrap">

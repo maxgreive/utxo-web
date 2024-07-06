@@ -62,5 +62,13 @@ export const uiStrings: TypeUIStrings = {
 	watchVideo: {
 		en: 'Watch the<br>video',
 		de: 'Video<br>ansehen'
+	},
+	phone: {
+		en: 'Phone',
+		de: 'Telefon'
+	},
+	address: {
+		en: 'Office Address',
+		de: 'Adresse'
 	}
 };

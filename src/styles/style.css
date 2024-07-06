@@ -1471,7 +1471,7 @@ label {
   padding-top: 25px;
 }
 
-.contact-list h4 {
+.contact-list > div {
   color: var(--tg-heading-font-color);
   font-weight: 700;
   font-size: 18px;
