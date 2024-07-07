@@ -52,8 +52,10 @@ status = 301
 from = "/newsletter/how-to-speed-up-customer-research/"
 to = "/en/blog/how-to-speed-up-customer-research/"
 status = 301
+
+[[redirects]]
 from = "/podcast/deutsche-telekoms-dirk-roeder-navigating-blockchain-and-bitcoin-in-the-corporate-world/"
-to = ""
+to = "/en/blog/deutsche-telekoms-dirk-roeder-navigating-blockchain-and-bitcoin-in-the-corporate-world/"
 
 [[redirects]]
 from = "/newsletter/how-to-achieve-product-language-fit/"
@@ -212,5 +214,5 @@ status = 301
 
 [[redirects]]
 from = "/newsletter/customer-research-for-treasure-hunting-pirates/"
+to = "/en/blog/customer-research-for-treasure-hunting-pirates/"
 status = 301
-to = ""/en/blog/customer-research-for-treasure-hunting-pirates/"
