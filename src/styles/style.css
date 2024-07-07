@@ -444,6 +444,7 @@ label {
   background: var(--tg-primary-color);
   transition: 1s ease;
   border: none;
+  padding: 0;
 }
 
 .scroll-top.open {
