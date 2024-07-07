@@ -3,7 +3,7 @@ import { defineCollection, z } from 'astro:content';
 const blogCollection = defineCollection({
 	type: 'content',
 	// Type-check frontmatter using a schema
-	schema: z.object({
+	schema: ({ image }) => z.object({
 		title: z.string(),
 		description: z.string().optional(),
 		author: z.string().optional(),
@@ -11,7 +11,7 @@ const blogCollection = defineCollection({
 		// Transform string to Date object
 		pubDate: z.coerce.date(),
 		updatedDate: z.coerce.date().optional(),
-		previewImage: z.string().optional(),
+		previewImage: image().optional(),
 		secret: z.boolean().default(false),
 		tags: z.array(z.string()).default(['other']),
 		canonicalURL: z.string().optional(),
@@ -21,7 +21,7 @@ const blogCollection = defineCollection({
 const serviceCollection = defineCollection({
 	type: 'content',
 	// Type-check frontmatter using a schema
-	schema: z.object({
+	schema: ({image}) => z.object({
 		title: z.string(),
 		reference: z.string().optional(),
 		description: z.string().optional(),
@@ -29,7 +29,7 @@ const serviceCollection = defineCollection({
 		icon: z.string().optional(),
 		pageHeader: z.string().optional(),
 		tags: z.array(z.string()).default(['other']),
-		previewImage: z.string().optional(),
+		previewImage: image().optional(),
 		questions: z.array(z.object({
 			question: z.string(),
 			answer: z.string()

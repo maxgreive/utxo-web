@@ -3,7 +3,7 @@ title: "Warum Unternehmen ihre Nutzerforschung nicht umsetzen"
 description: "Im letzten Beitrag haben wir uns mit der Frage beschäftigt, wie viel Sie in Kundenforschung investieren sollten . Dies ist ein Folgebeitrag. Wir werden uns mit der Frage beschäftigen, warum Unternehmen es versäumen, die Erkenntnisse aus der Kundenforschung umzusetzen."
 author: Martin Betz
 pubDate: 'Jul 22 2022'
-previewImage: 'https://utxo.solutions/wp-content/uploads/2024/02/file-e0Q8FidXTo4YoCXULCd89lnc.jpg'
+previewImage: './images/file-e0Q8FidXTo4YoCXULCd89lnc.jpg'
 reference: second-post
 tags: [Kundenforschung]
 ---

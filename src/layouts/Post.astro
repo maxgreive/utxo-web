@@ -1,5 +1,5 @@
 ---
-import { Picture } from "astro:assets";
+import { Picture, getImage } from "astro:assets";
 import Byline from "@components/Byline.astro";
 import BlogAuthorSection from "@components/BlogAuthorSection.astro";
 import PostTags from "@components/PostTags.astro";
@@ -10,11 +10,10 @@ import type { CollectionEntry } from "astro:content";
 import FormattedDate from "@components/FormattedDate.astro";
 import { people, getPersonPath, type Person } from "@src/utilities/people";
 
-type Props = CollectionEntry<"blog">["data"];
-
 const frontmatter = Astro.props,
-  { title, pubDate, updatedDate, previewImage, tags, author } = Astro.props,
-  realTags: string[] = tags.filter((tag) => {
+  { title, pubDate, tags, author } = Astro.props,
+  previewImageFile = await getImage({ src: frontmatter.previewImage }),
+  realTags: string[] = tags.filter((tag: any) => {
     return tag !== "other";
   });
 
@@ -32,9 +31,9 @@ let person: Person = people.find((person) => {
           <div class="col col-lg-9 prose">
             <div class="blog-details-thumb">
               {
-                previewImage && (
+                previewImageFile.src && (
                   <Picture
-                    src={previewImage}
+                    src={previewImageFile.src}
                     width={1020}
                     height={510}
                     formats={["avif", "webp"]}
@@ -53,21 +52,26 @@ let person: Person = people.find((person) => {
                     <i class="far fa-calendar"></i>
                     <FormattedDate date={pubDate} />
                   </li>
-                  <li>
-                    <Picture
-                      src={person.avatar}
-                      alt={author}
-                      formats={["avif", "webp"]}
-                      width={24}
-                      height={24}
-                    /> by <a
-                      href={getPersonPath(Astro.currentLocale, person.id)}
-                      }>{person.fullName}</a
-                    >
-                  </li>
+                  {
+                    person && person.avatar && (
+                      <li>
+                        <Picture
+                          src={person.avatar}
+                          alt={author}
+                          formats={["avif", "webp"]}
+                          width={24}
+                          height={24}
+                        />{" "}
+                        by{" "}
+                        <a href={getPersonPath(Astro.currentLocale, person.id)}>
+                          {person.fullName}
+                        </a>
+                      </li>
+                    )
+                  }
                   <li>
                     <i class="fas fa-tags"></i>
-                    {tags.map((tag) => <a href="blog.html">{tag}</a>)}
+                    {tags.map((tag: any) => <a href="blog.html">{tag}</a>)}
                   </li>
                 </ul>
               </div>

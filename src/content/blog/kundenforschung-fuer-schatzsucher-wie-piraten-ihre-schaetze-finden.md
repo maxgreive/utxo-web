@@ -3,7 +3,7 @@ title: "Kundenforschung für Schatzsucher: Wie Piraten Ihre Schätze Finden"
 description: "Entdecken Sie die geheimen Methoden der Schatzsuche durch die Augen eines Piraten! Erfahren Sie, wie Annahmen, Personas, Surveys, Big Data und die \"Jobs to be Done\"-Methode dabei helfen, versteckte Schätze ohne Karten zu finden. Lernen Sie von den Geschichten erfolgreicher Piraten und wenden Sie diese Strategien auf Ihr eigenes Abenteuer an."
 author: Martin Betz
 pubDate: 'Jul 01 2024'
-previewImage: 'https://utxo.solutions/wp-content/uploads/2024/03/file-Rj4sm7f9VoeMuRjBQ4rRcimJ-1.jpg'
+previewImage: './images/file-Rj4sm7f9VoeMuRjBQ4rRcimJ-1.jpg'
 reference: piraten
 tags: [JTBD, Kundenforschung]
 ---
