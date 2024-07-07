@@ -3,7 +3,7 @@ title: Sind Umfragen für die Produktentwicklung nützlich?
 description: Erfahren Sie, warum Umfragen oft keine guten Ergebnisse für die Produktentwicklung liefern und welche Fallstricke es gibt. Entdecken Sie alternative Ansätze, um tiefere Einblicke in die Bedürfnisse Ihrer Kunden zu gewinnen.
 author: Martin Betz
 pubDate: 'Jul 22 2024'
-previewImage: 'https://utxo.solutions/wp-content/uploads/2024/03/file-P4dgqFTRcab0QLDZSlEARYED-1.jpg'
+previewImage: './images/file-P4dgqFTRcab0QLDZSlEARYED-1.jpg'
 reference: nutzen
 tags: [Methodik, Produktentwicklung, Umfrage]
 ---

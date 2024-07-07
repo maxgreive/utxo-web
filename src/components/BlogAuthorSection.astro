@@ -9,27 +9,31 @@ let person: Person = people.find((person) => {
 });
 ---
 
-<div class="blog-avatar-wrap mb-65">
-  {
-    person.avatar && (
-      <div class="blog-avatar-img">
-        <a href={getPersonPath(Astro.currentLocale, person.id)}>
-          <Picture
-            src={person.avatar}
-            formats={["avif", "webp"]}
-            width={115}
-            height={115}
-            alt={`${person.fullName} profile picture`}
-          />
-        </a>
+{
+  person && (
+    <div class="blog-avatar-wrap mb-65">
+      {person.avatar && (
+        <div class="blog-avatar-img">
+          <a href={getPersonPath(Astro.currentLocale, person.id)}>
+            <Picture
+              src={person.avatar}
+              formats={["avif", "webp"]}
+              width={115}
+              height={115}
+              alt={`${person.fullName} profile picture`}
+            />
+          </a>
+        </div>
+      )}
+      <div class="blog-avatar-info">
+        <span class="designation">Autor</span>
+        {person.fullName && (
+          <h4 class="name">
+            <a href="#">{person.fullName}</a>
+          </h4>
+        )}
+        {person.description && <p>{person.description[Astro.currentLocale]}</p>}
       </div>
-    )
-  }
-  <div class="blog-avatar-info">
-    <span class="designation">Autor</span>
-    <h4 class="name"><a href="#">{person.fullName}</a></h4>
-    <p>
-      {person.description[Astro.currentLocale]}
-    </p>
-  </div>
-</div>
+    </div>
+  )
+}

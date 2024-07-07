@@ -1,44 +1,46 @@
 ---
 import { getRelativePostPath } from "@src/utilities/getPostPath";
 import FormattedDate from "./FormattedDate.astro";
-import { Picture } from "astro:assets";
+import { Picture, getImage } from "astro:assets";
 import { getPostDescription } from "@src/utilities/getPageDescription";
 import { people, getPersonPath, type Person } from "@src/utilities/people";
+import { getTagPath } from "@src/utilities/tags";
 
 const { frontmatter, post } = Astro.props,
-  collection = frontmatter.collection;
+  collection = frontmatter.collection,
+  coverImage = await getImage({ src: post.data.previewImage });
 
 let person: Person = people.find((person) => {
   return person.fullName === post.data.author;
 });
 ---
 
-<div class="col-md-6">
+<div class="col-md-4">
   <div class="blog-post-item-two">
     <div class="blog-post-thumb-two">
-      <a
-        href={`${getRelativePostPath(
-          Astro.currentLocale,
-          collection,
-          post.slug
-        )}`}
-      >
-        <Picture
-          src={post.data.previewImage}
-          formats={["avif", "webp"]}
-          alt={post.data.title}
-          width={510}
-          height={200}
-        />
-      </a>
       {
-        post.data.tags.length && (
+        coverImage.src && (
           <a
             href={`${getRelativePostPath(
               Astro.currentLocale,
               collection,
-              post.slug
+              post.slug,
             )}`}
+          >
+            <Picture
+              src={coverImage.src}
+              formats={["avif", "webp"]}
+              alt={post.data.title}
+              width={510}
+              height={200}
+            />
+          </a>
+        )
+      }
+      {
+        post.data.tags.length && (
+          <a
+            href={`${getTagPath(Astro.currentLocale, post.data.tags[0])}`}
             class="tag tag-two"
           >
             {post.data.tags[0]}
@@ -52,27 +54,29 @@ let person: Person = people.find((person) => {
           href={`${getRelativePostPath(
             Astro.currentLocale,
             collection,
-            post.slug
+            post.slug,
           )}`}>{post.data.title}</a
         >
       </h2>
       <p class="line-clamp-3">{getPostDescription(post)}</p>
       <div class="blog-meta">
         <ul class="list-wrap">
-          <li>
-            <a
-              href={getPersonPath(Astro.currentLocale, person.id)}
-            >
-              <Picture
-                src={person.avatar}
-                width={65}
-                height={65}
-                formats={["avif", "webp"]}
-                alt="Avatar"
-              />
-              {person.fullName}
-            </a>
-          </li>
+          {
+            person && person.id && (
+              <li>
+                <a href={getPersonPath(Astro.currentLocale, person.id)}>
+                  <Picture
+                    src={person.avatar}
+                    width={65}
+                    height={65}
+                    formats={["avif", "webp"]}
+                    alt="Avatar"
+                  />
+                  {person.fullName}
+                </a>
+              </li>
+            )
+          }
           <li>
             <i class="far fa-calendar"></i>
             <FormattedDate date={post.data.pubDate} />

@@ -3,7 +3,7 @@ title: 'Was ist der Unterschied zwischen Benutzerforschung und Kundenforschung?'
 description: 'Die offensichtliche Antwort wäre: In der einen geht es um unsere Benutzer, in der anderen um unsere Kunden. Und während unsere Benutzer in manchen Fällen unsere Kunden sein können, sind sie es oft nicht.'
 author: Martin Betz
 pubDate: 'Jul 07 2022'
-previewImage: 'https://utxo.solutions/wp-content/uploads/2024/02/file-736dWJl2BWhORVJvHy8LqQ5G.png'
+previewImage: './images/file-736dWJl2BWhORVJvHy8LqQ5G.png'
 reference: first-post
 tags: [User Research]
 ---

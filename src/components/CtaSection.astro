@@ -1,7 +1,7 @@
 ---
 import { Picture, getImage } from "astro:assets";
 import Shape from "../images/h9_cta_shape.png";
-import backgroundImage from "../images/h9_cta_bg.jpg";
+import backgroundImage from "@src/images/h9_cta_bg.jpg";
 
 const { frontmatter } = Astro.props,
   sectionBackground = await getImage({ src: backgroundImage });

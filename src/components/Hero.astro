@@ -3,7 +3,7 @@ import { SOCIALS } from "@src/config";
 import { Picture, getImage } from "astro:assets";
 const { frontmatter } = Astro.props;
 const content = frontmatter.hero;
-import backgroundImage from '../images/h9_hero_bg.jpg';
+import backgroundImage from '@src/images/h9_hero_bg.jpg';
 const sectionBackground = await getImage({src: backgroundImage});
 ---
 
