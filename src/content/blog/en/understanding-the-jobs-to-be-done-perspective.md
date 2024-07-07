@@ -1,5 +1,6 @@
 ---
 title: "Understanding the jobs to be done perspective"
+author: Martin Betz
 pubDate: "2024-01-17"
 categories:
   - "newsletter"
@@ -9,10 +10,6 @@ tags:
   - "structure"
 previewImage: "../images/DALL·E-2024-01-16-23.25.33-An-artistic-depiction-of-a-businessman-in-an-office-with-one-wall-dedicated-to-explanations-about-customer-research.-The-wall-is-filled-with-various-.png"
 ---
-
-![](../images/DALL·E-2024-01-16-23.25.33-An-artistic-depiction-of-a-businessman-in-an-office-with-one-wall-dedicated-to-explanations-about-customer-research.-The-wall-is-filled-with-various--1024x585.png)
-
-## Understanding the jobs to be done perspective
 
 Humans are always in one of two states. They either decide, what they will do or they do, what they decided to do. This blog focuses on understanding, why people decide the way they do. The framework that we at UTXO Solutions use for that is based on the Jobs to be done theory. Here is how it looks like on a very high level:
 

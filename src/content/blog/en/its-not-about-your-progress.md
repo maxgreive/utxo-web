@@ -1,5 +1,6 @@
 ---
 title: "It's not about your progress"
+author: Martin Betz
 pubDate: "2023-11-17"
 categories:
   - "newsletter"
@@ -9,10 +10,6 @@ tags:
   - "progress"
 previewImage: "../images/DALL·E-2024-01-09-10.21.10-A-guy-buying-a-coffee-at-a-coffee-shop.-The-image-is-in-a-watercolor-and-geometric-style-featuring-colors-of-blue-and-mint.-The-scene-is-depicted-in-.png"
 ---
-
-![](../images/DALL·E-2024-01-09-10.21.10-A-guy-buying-a-coffee-at-a-coffee-shop.-The-image-is-in-a-watercolor-and-geometric-style-featuring-colors-of-blue-and-mint.-The-scene-is-depicted-in--1024x585.png)
-
-## It's not about your progress
 
 ### Customers don't give you money. They accept having to pay for something they want.
 

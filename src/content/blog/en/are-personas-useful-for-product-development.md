@@ -1,5 +1,6 @@
 ---
 title: "Are personas useful for product development?"
+author: Martin Betz
 pubDate: "2024-01-15"
 categories:
   - "newsletter"
@@ -9,10 +10,6 @@ tags:
   - "structure"
 previewImage: "../images/DALL·E-2024-01-14-23.54.27-A-persona-sheet-used-in-marketing-or-product-development-in-a-watercolor-and-slightly-geometric-style.-The-sheet-should-include-various-sections-for-.png"
 ---
-
-
-
-## Are personas useful for product development?
 
 One common tool in product design are personas. The idea behind a persona is to have a more detailed description of your target customer. This supposedly helps you in getting into your customers perspective. But are they useful as a tool?
 

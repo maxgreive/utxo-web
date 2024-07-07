@@ -1,5 +1,6 @@
 ---
 title: "How to convince your boss?"
+author: Martin Betz
 pubDate: "2024-02-05"
 categories:
   - "newsletter"
@@ -9,10 +10,6 @@ tags:
   - "how-to"
 previewImage: "../images/DALL·E-2024-02-05-00.32.45-Enhance-the-previous-scene-with-clearer-more-detailed-faces-on-both-the-employee-and-the-boss.-The-employee-is-confidently-explaining-a-new-proposal.webp"
 ---
-
-
-
-## How to convince your boss?
 
 A good leader hires people to tell him, what to do. A bad leader hires people and tells them what to do. Of course, this depends on the quality of people you can hire. And there is a lot of middle ground. In most companies, when you have an idea, you need to convince your boss, that it is a good idea. This is, even if we don't admit it, sales. Selling your ideas to your boss. Because he has to make the decision in your favor.
 

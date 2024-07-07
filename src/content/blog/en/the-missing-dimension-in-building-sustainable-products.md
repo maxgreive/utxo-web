@@ -1,5 +1,6 @@
 ---
 title: "The missing dimension in building sustainable products"
+author: Martin Betz
 pubDate: "2024-01-29"
 categories:
   - "newsletter"
@@ -9,10 +10,6 @@ tags:
   - "sustainability"
 previewImage: "../images/DALL·E-2024-01-28-23.20.11-A-watercolor-slightly-geometric-styled-painting-depicting-a-dad-and-his-son-playing-with-building-blocks-resembling-Lego-in-a-living-room.-Add-some.png"
 ---
-
-
-
-## The missing dimension in building sustainable products
 
 Taking care for our planet is undoubtly one of the major responsibilities of our time. We want to keep living here. So we should not ruin it. And the more we think about it, the more we discover areas of our live affected by it. We started with not polluting rivers and throwing our trash away in nature. We went on to reducing the carbon footprint of our energy sources. And since some time now we know about the impact of the products we use. Everything we use, must be produced. Everything we stop using, has to go somewhere. And in between, there is a whole area.
 

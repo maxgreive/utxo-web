@@ -1,5 +1,6 @@
 ---
 title: "How to challenge your own beliefs"
+author: Martin Betz
 pubDate: "2023-11-24"
 categories:
   - "newsletter"
@@ -9,10 +10,6 @@ tags:
   - "rationality"
 previewImage: "../images/DALL·E-2023-11-13-17.38.23-An-image-of-a-person-reengineering-her-own-brain-with-an-emphasis-on-creativity-and-introspection.-The-dominant-colors-in-the-scene-are-blue-and-mint.png"
 ---
-
-![](../images/DALL·E-2023-11-13-17.38.23-An-image-of-a-person-reengineering-her-own-brain-with-an-emphasis-on-creativity-and-introspection.-The-dominant-colors-in-the-scene-are-blue-and-mint-1024x585.png)
-
-## Challenging your own beliefs
 
 On a very high level, there are only three things to master in business.
 

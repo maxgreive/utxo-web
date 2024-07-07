@@ -1,5 +1,6 @@
 ---
 title: "Are surveys useful for product development"
+author: Martin Betz
 pubDate: "2024-03-07"
 categories:
   - "newsletter"
@@ -9,10 +10,6 @@ tags:
   - "survey"
 previewImage: "../images/file-P4dgqFTRcab0QLDZSlEARYED-1.jpg"
 ---
-
-![man looking at survey results](../images/file-P4dgqFTRcab0QLDZSlEARYED-1-1024x585.jpg)
-
-## Are surveys useful for product development?
 
 When it comes to customer research there are two very common ways to do it. Two ways, that are common but don't bring good results. The first one is [working with your own assumptions](https://utxo.solutions/newsletter/we-assume-a-world-that-isnt-there/) instead of talking to your customers. Technically, that's no customer research, but sometimes empathy get's confused with knowledge. The other is doing surveys. The appeal of a survey is the ease of doing it. We just write down our assumptions and then we ask people what they think about them. We can start with something like [google form](https://forms.google.com/) and we are good to go. As it is a quantitative method we could just send our survey to anyone remotely relevant and hope for the best. It's easy and cheap.
 

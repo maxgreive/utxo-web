@@ -1,5 +1,6 @@
 ---
 title: "How to avoid customers trying to negotiate your prices down"
+author: Martin Betz
 pubDate: "2024-01-10"
 categories:
   - "newsletter"
@@ -9,10 +10,6 @@ tags:
   - "partnership"
 previewImage: "../images/DALL·E-2024-01-09-22.11.25-Two-businessmen-shaking-hands-symbolizing-their-good-business-partnership.-The-image-is-in-a-watercolor-and-geometric-style-featuring-colors-of-blue.png"
 ---
-
-
-
-## How to avoid customers trying to negotiate your prices down
 
 I recently had a discussion with someone in the mechanical engineering industry. He described a struggle, that is unfortunately rather common. Not only in engineering, but in basically every creative project as well. It is the struggle of **customers trying to negotiate your prices down**. Here is how it goes:
 

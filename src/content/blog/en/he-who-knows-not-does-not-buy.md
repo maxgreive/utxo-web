@@ -1,5 +1,6 @@
 ---
 title: "He who knows not, does not buy"
+author: Martin Betz
 pubDate: "2023-12-01"
 categories:
   - "newsletter"
@@ -9,10 +10,6 @@ tags:
   - "uncertainty"
 previewImage: "../images/DALL·E-2023-11-30-22.42.09-Eine-Frau-in-einem-Business-Kleid-steht-in-einem-Laden-und-versucht-sich-zwischen-zwei-Produkten-zu-entscheiden.-Ihr-Gesichtsausdruck-zeigt-Verwirrun.png"
 ---
-
-![](../images/DALL·E-2023-11-30-22.42.09-Eine-Frau-in-einem-Business-Kleid-steht-in-einem-Laden-und-versucht-sich-zwischen-zwei-Produkten-zu-entscheiden.-Ihr-Gesichtsausdruck-zeigt-Verwirrun-1024x585.png)
-
-## He who knows not, does not buy
 
 Our brain is at its core lazy. It tries to think as little as possible.
 

@@ -1,5 +1,6 @@
 ---
 title: "How to avoid the confirming research bias?"
+author: Martin Betz
 pubDate: "2024-01-22"
 categories:
   - "newsletter"
@@ -9,10 +10,6 @@ tags:
   - "customer-research"
 previewImage: "../images/DALL·E-2024-01-21-20.55.56-A-watercolor-slightly-geometric-styled-painting-depicting-a-customer-research-scenario.-The-scene-includes-a-customer-with-their-mouth-duct-taped-and.png"
 ---
-
-
-
-## How to avoid the confirming research bias?
 
 When you are in business for a long time, you usually know what you do. At least to a certain degree. Else you wouldn't be in business anymore. That doesn't mean, that you ever did customer research since your company existed. And when you do customer research for the first time, you are prone to falling for the confirming research bias. 
 

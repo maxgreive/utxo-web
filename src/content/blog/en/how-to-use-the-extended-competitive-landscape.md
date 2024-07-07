@@ -1,5 +1,6 @@
 ---
 title: "How to use the extended competitive landscape?"
+author: Martin Betz
 pubDate: "2024-03-05"
 categories:
   - "newsletter"
@@ -9,10 +10,6 @@ tags:
   - "jobs-to-be-done"
 previewImage: "../images/file-XZdfiujXMH190AR0OvIZzf5T.png"
 ---
-
-![extended competitive landscape](../images/file-XZdfiujXMH190AR0OvIZzf5T-1024x585.png)
-
-## How to use the extended competitive landscape?
 
 The beauty of the [jobs to be done perspective](https://utxo.solutions/newsletter/understanding-the-jobs-to-be-done-perspective/) is the extended competitive landscape. Competitive landscape is the summary of all the solutions our customers may buy. Things they could choose instead of us. And usually we see only a small part of it. What jobs to be done (JTBD) enables us, is to see the full picture. To extend the view. Because seeing the whole competition shows us, where we can get market shares the easy way.
 

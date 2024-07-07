@@ -1,5 +1,6 @@
 ---
 title: "The stories we tell ourselves when we fail"
+author: Martin Betz
 pubDate: "2024-02-12"
 categories:
   - "newsletter"
@@ -9,10 +10,6 @@ tags:
   - "personal"
 previewImage: "../images/file-bITzkiUdsRr9618NyO6PEfsx-5.png"
 ---
-
-
-
-## The stories we tell ourselves when we fail
 
 What do you do, when your product doesn't sell the way you want to? When you put in all the effort, but don't get the results? When you try your best, but it feels like it's all in vain? What's the story, that you tell yourself at night? I have talked to loads of people in exactly this situation. Because one of the deadliest combinations in business is , when two things meet. The inability to sell your product at a profitable price. And the inability to be honest about it.
 

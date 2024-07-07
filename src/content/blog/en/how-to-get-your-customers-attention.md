@@ -1,5 +1,6 @@
 ---
 title: "How to get your customers attention?"
+author: Martin Betz
 pubDate: "2024-02-07"
 categories:
   - "newsletter"
@@ -9,10 +10,6 @@ tags:
   - "wheel-of-progress"
 previewImage: "../images/file-8u7NExDQCpRLhewgHQ9diaXA.jpg"
 ---
-
-
-
-## How to get your customers attention?
 
 Do you know the feeling of having a really great product, but your customer just don't notice you? When you are super sure, people would buy, if they just listened, how well you can help them? How valuable your product is? But for some reason, you can't get their attention?
 

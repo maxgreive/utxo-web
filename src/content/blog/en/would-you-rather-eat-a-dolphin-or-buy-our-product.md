@@ -1,5 +1,6 @@
 ---
 title: "Would you rather eat a dolphin or buy our product?"
+author: Martin Betz
 pubDate: "2023-12-15"
 categories:
   - "newsletter"
@@ -9,10 +10,6 @@ tags:
   - "feedback"
 previewImage: "../images/DALL·E-2023-12-13-15.41.51-A-watercolor-geometric-style-illustration-depicting-a-small-dolphin-figurine-on-a-plate-in-a-restaurant-setting.-The-dolphin-should-be-portrayed-as-a-.png"
 ---
-
-![](../images/DALL·E-2023-12-13-15.41.51-A-watercolor-geometric-style-illustration-depicting-a-small-dolphin-figurine-on-a-plate-in-a-restaurant-setting.-The-dolphin-should-be-portrayed-as-a--1024x585.png)
-
-## Would you rather eat a dolphin or buy our product?
 
 The current **state of market research** is pretty weird. To see what I mean, try the following:
 

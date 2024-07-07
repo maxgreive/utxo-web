@@ -1,5 +1,6 @@
 ---
 title: "What are good metrics"
+author: Martin Betz
 pubDate: "2023-11-15"
 categories:
   - "newsletter"
@@ -9,10 +10,6 @@ tags:
   - "metrics"
 previewImage: "../images/DALL·E-2023-11-09-16.46.38-A-wide-image-of-a-workshop-wall-filled-with-an-array-of-business-metrics.-The-wall-features-a-variety-of-geometric-shapes-representing-different-chart.png"
 ---
-
-![](../images/DALL·E-2023-11-09-16.46.38-A-wide-image-of-a-workshop-wall-filled-with-an-array-of-business-metrics.-The-wall-features-a-variety-of-geometric-shapes-representing-different-chart-1024x585.png)
-
-# What are good metrics?
 
 There are two types of metrics: **points** and **vectors**.
 

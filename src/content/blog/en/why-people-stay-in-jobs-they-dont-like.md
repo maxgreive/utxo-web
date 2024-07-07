@@ -1,5 +1,6 @@
 ---
 title: "Why do people stay in jobs they don't like?"
+author: Martin Betz
 pubDate: "2024-01-08"
 categories:
   - "newsletter"
@@ -9,10 +10,6 @@ tags:
   - "wheel-of-progress"
 previewImage: "../images/DALL·E-2024-01-07-18.55.37-A-businesswoman-sitting-in-front-of-a-laptop-in-an-open-office-space-looking-lost.-The-image-is-in-a-watercolor-and-geometric-style-featuring-colors-.png"
 ---
-
-![Sad businesswoman in an office](../images/DALL·E-2024-01-07-18.55.37-A-businesswoman-sitting-in-front-of-a-laptop-in-an-open-office-space-looking-lost.-The-image-is-in-a-watercolor-and-geometric-style-featuring-colors--1024x585.png)
-
-## Why people stay in jobs they don't like?
 
 A friend of mine recently switched her job. This made her think, why it took her so long. Why did she stay in a job, she despised. And why do so many others? Not just with our work. Accepting a suboptimal solution and just continuing on autopilot is a common theme. So why do people do it?
 

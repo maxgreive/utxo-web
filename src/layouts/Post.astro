@@ -69,10 +69,14 @@ let person: Person = people.find((person) => {
                       </li>
                     )
                   }
-                  <li>
-                    <i class="fas fa-tags"></i>
-                    {tags.map((tag: any) => <a href="blog.html">{tag}</a>)}
-                  </li>
+                  {
+                    realTags.length && (
+                      <li>
+                        <i class="fas fa-tags" />
+                        <PostTags tags={realTags} hideLabel={true} />
+                      </li>
+                    )
+                  }
                 </ul>
               </div>
 
@@ -83,7 +87,7 @@ let person: Person = people.find((person) => {
               <div class="bd-content-bottom">
                 <div class="row align-items-center">
                   {
-                    realTags.length > 0 && (
+                    realTags.length && (
                       <div class="col-md-7">
                         <div class="post-tags">
                           <PostTags tags={realTags} />

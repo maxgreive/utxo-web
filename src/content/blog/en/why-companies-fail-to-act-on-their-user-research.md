@@ -1,5 +1,6 @@
 ---
 title: "Why companies fail to act on their user research"
+author: Martin Betz
 pubDate: "2024-02-22"
 categories:
   - "newsletter"
@@ -9,10 +10,6 @@ tags:
   - "invest"
 previewImage: "../images/file-e0Q8FidXTo4YoCXULCd89lnc.jpg"
 ---
-
-
-
-## Why companies fail to act on their customer research?
 
 In the last post, we covered the question, [how much you should invest in customer research](https://utxo.solutions/newsletter/how-much-should-i-invest-in-user-research/). This is a follow up post. We will cover the question, why companies fail to act on the knowledge they gained in customer research. Because quite often, when companies do user research, they fail to act on it afterwards. So let's try to understand, why this happens and how it can be avoided.
 

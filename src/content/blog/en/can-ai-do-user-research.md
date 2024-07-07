@@ -1,5 +1,6 @@
 ---
 title: "Can AI do user research?"
+author: Martin Betz
 pubDate: "2024-02-15"
 categories:
   - "newsletter"
@@ -9,10 +10,6 @@ tags:
   - "structure"
 previewImage: "../images/file-Zqn8d8ncdZoHIhYTFGa0gdhK.png"
 ---
-
-
-
-## Can AI do user research?
 
 AI is everywhere and it is changing everything. Even product development. Even user research. "How do you incorporate AI in your user research" is one of the most frequent sentences I hear lately. A great question. How do you? We experiment a lot with it. Here is what I found:
 

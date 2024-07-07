@@ -1,5 +1,6 @@
 ---
 title: "How to separate problem and solution?"
+author: Martin Betz
 pubDate: "2024-01-24"
 categories:
   - "newsletter"
@@ -9,10 +10,6 @@ tags:
   - "problem-solution-fit"
 previewImage: "../images/DALL·E-2024-01-23-16.44.18-A-watercolor-slightly-geometric-styled-painting-depicting-a-magnifying-glass-and-a-cogwheel-crushing-into-each-other.-This-scene-symbolizes-the-confl.png"
 ---
-
-
-
-## How to separate problem and solution?
 
 You can only solve problems, that you understand. You can only understand a problem, that you investigate. And to do that, you have to have at least some hypothesis about the problem. And if you have a hypothesis for the problem, you often have a solution in mind already. This is just human nature - jumping to conclusions. 
 

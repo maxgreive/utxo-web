@@ -1,19 +1,24 @@
 ---
-import { getTagPath } from '@utilities/tags';
-import {uiStrings} from "@i18n/uiStrings";
+import { getTagPath } from "@utilities/tags";
+import { uiStrings } from "@i18n/uiStrings";
 interface Props {
-	tags: string[]
+	tags: string[];
+	hideLabel?: boolean;
 }
-const {tags} = Astro.props
-const uiString = tags.length === 1 ? uiStrings.tagHeadingSingular[Astro.currentLocale] : uiStrings.tagHeadingPlural[Astro.currentLocale]
+const { tags, hideLabel } = Astro.props;
+const uiString =
+	tags.length === 1
+		? uiStrings.tagHeadingSingular[Astro.currentLocale]
+		: uiStrings.tagHeadingPlural[Astro.currentLocale];
 ---
 
 <div>
-	<span class="h5 title">{uiString}:</span>
-	{tags.map((tag, index) => (
-		<a href={`${getTagPath(Astro.currentLocale, tag)}`}>{tag}</a>
-		<span>{index < tags.length - 1 ?
-			', ' : ''
-		}</span>
-	))}.
+	{!hideLabel && <span class="h5 title">{uiString}:</span>}
+	{
+		tags.map((tag, index) => (
+			<>
+				<a href={`${getTagPath(Astro.currentLocale, tag)}`}>{tag}{index < tags.length - 1 ? ", " : ""}</a>
+			</>
+		))
+	}.
 </div>

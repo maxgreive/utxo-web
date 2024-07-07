@@ -1,5 +1,6 @@
 ---
 title: "Questioning artificial intelligence?"
+author: Martin Betz
 pubDate: "2024-02-08"
 categories:
   - "newsletter"
@@ -9,10 +10,6 @@ tags:
   - "thinking-ahead"
 previewImage: "../images/file-w6tHvawDGiWJsvSVFizStlw5.png"
 ---
-
-![](../images/file-w6tHvawDGiWJsvSVFizStlw5-1024x585.png)
-
-## Questioning artificial intelligence?
 
 When we look at the way AI is used today, there is one major flaw: No one asks enough questions. Not the user and not the AI. I have been observing, how people use AI for quite some time now. ChatGPT and others made huge breakthroughs in accessibility of conversational AI. As a result, many new ways of using it came up within the last year. A classical result of democratizing a breakthrough technology. Everyone plays around with it. Builds with it. And finds his or her own style. However, there seem to be mainly four ways, how people use conversational AI:
 

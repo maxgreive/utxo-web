@@ -1,5 +1,6 @@
 ---
 title: "The most important skills when starting a business"
+author: Martin Betz
 pubDate: "2024-01-05"
 categories:
   - "newsletter"
@@ -10,15 +11,11 @@ tags:
 previewImage: "../images/DALL·E-2024-01-03-16.41.31-A-businessman-looking-at-a-giant-masterplan-on-an-office-wall.-The-image-is-in-a-watercolor-and-geometric-style-featuring-colors-of-blue-and-mint.-Th.png"
 ---
 
-![](../images/DALL·E-2024-01-03-16.41.31-A-businessman-looking-at-a-giant-masterplan-on-an-office-wall.-The-image-is-in-a-watercolor-and-geometric-style-featuring-colors-of-blue-and-mint.-Th-1024x585.png)
-
-## What are the most important business skills?
-
 Yesterday I held a talk about entrepreneuship. _**"How to start a successful business"**_ is probably the question I recieved most over the last 2 years. At least if I don't count "how are you" and my son asking me "where is xyz toy". Way more people think about starting a business then actually do. The biggest reason for this is: **uncertainty**.
 
 I want to take one slide out from the presentation. It's the following slide about the most important skills you need in business:
 
-![](../images/presentation-slide-business-skills-1024x573.png)
+
 
 The context from the previous slides is: You need a lot more business skills then professional skills. From all the business skills, the three most important ones are:
 

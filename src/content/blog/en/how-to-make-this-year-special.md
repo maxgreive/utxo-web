@@ -1,5 +1,6 @@
 ---
 title: "How to make this year special"
+author: Martin Betz
 pubDate: "2023-12-31"
 categories:
   - "newsletter"
@@ -10,11 +11,7 @@ tags:
 previewImage: "../images/DALL·E-2023-12-30-20.38.47-New-Years-Eve-fireworks-over-the-city-of-Bonn-Germany-viewed-from-the-Drachenfels.-The-image-is-in-a-watercolor-and-geometric-style-featuring-colo.png"
 ---
 
-![](../images/DALL·E-2023-12-30-20.38.47-New-Years-Eve-fireworks-over-the-city-of-Bonn-Germany-viewed-from-the-Drachenfels.-The-image-is-in-a-watercolor-and-geometric-style-featuring-colo-1024x585.png)
-
-## How to make this year special?
-
-### Happy new year everyone. This year is going to be special. 
+**Happy new year everyone. This year is going to be special.**
 
 Well, I guess every year will be special on the 1st of January. It's the magic of every beginning. Most things look shiny when started. Sure, they will get tough before they become easy. But I am optimistic, so this year will probably truly be special.
 

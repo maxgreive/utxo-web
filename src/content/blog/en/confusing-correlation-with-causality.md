@@ -1,5 +1,6 @@
 ---
 title: "Confusing correlation with causality"
+author: Martin Betz
 pubDate: "2023-12-18"
 categories:
   - "newsletter"
@@ -9,24 +10,6 @@ tags:
   - "rationality"
 previewImage: "../images/DALL·E-2023-12-15-11.27.50-A-businessman-dressed-in-a-sleek-suit-stands-in-the-center-of-the-image-looking-amazed-with-wide-eyes-and-a-slightly-open-mouth.-Around-him-numero.png"
 ---
-
-
-
-<figure>
-
-![](../images/DALL·E-2023-12-15-11.27.50-A-businessman-dressed-in-a-sleek-suit-stands-in-the-center-of-the-image-looking-amazed-with-wide-eyes-and-a-slightly-open-mouth.-Around-him-numero-1024x585.png)
-
-<figcaption>
-
-"It is all connected, isn't it?"
-
-</figcaption>
-
-</figure>
-
-
-
-## Confusing correlation with causality
 
 Some time ago, there was a [study on life expectations of parents](https://www.mpg.de/14064449/children-influence-parents-life-expectancy). It is my favourite study on the mixup of correlation and causality to this day. Here is the basic outline:
 

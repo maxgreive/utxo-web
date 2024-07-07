@@ -1,5 +1,6 @@
 ---
 title: "What makes your business fit?"
+author: Martin Betz
 pubDate: "2023-11-27"
 categories:
   - "newsletter"
@@ -11,10 +12,6 @@ tags:
   - "product-market-fit"
 previewImage: "../images/DALL·E-2023-11-20-17.52.51-A-very-muscular-man-with-a-hipster-beard-dressed-in-a-suit-is-trying-to-solve-a-puzzle-in-a-semi-full-cafe.-The-art-style-combines-watercolor-with-g.png"
 ---
-
-![](../images/DALL·E-2023-11-20-17.52.51-A-very-muscular-man-with-a-hipster-beard-dressed-in-a-suit-is-trying-to-solve-a-puzzle-in-a-semi-full-cafe.-The-art-style-combines-watercolor-with-g-1024x585.png)
-
-## What makes your business fit?
 
 ### Success is the combination of a lot of things going right
 

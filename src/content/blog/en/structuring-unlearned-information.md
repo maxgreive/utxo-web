@@ -1,5 +1,6 @@
 ---
 title: "Structuring unlearned information"
+author: Martin Betz
 pubDate: "2023-11-22"
 categories:
   - "newsletter"
@@ -10,10 +11,6 @@ tags:
   - "thinking-ahead"
 previewImage: "../images/DALL·E-2023-11-13-13.56.44-A-woman-placing-cubes-of-data-into-labeled-boxes.-The-scene-is-dominated-by-blue-and-mint-colors-blending-a-watercolor-aesthetic-with-slightly-geomet.png"
 ---
-
-![](../images/DALL·E-2023-11-13-13.56.44-A-woman-placing-cubes-of-data-into-labeled-boxes.-The-scene-is-dominated-by-blue-and-mint-colors-blending-a-watercolor-aesthetic-with-slightly-geomet-1024x585.png)
-
-## Structuring unlearned information
 
 I recently cleaned up our corporate folder structure. The challenge with this is, that you have two types of data. Existing data and future data.
 

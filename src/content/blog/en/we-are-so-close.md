@@ -1,5 +1,6 @@
 ---
 title: "We are so close"
+author: Martin Betz
 pubDate: "2023-11-29"
 categories:
   - "newsletter"
@@ -9,10 +10,6 @@ tags:
   - "make-or-buy"
 previewImage: "../images/DALL·E-2023-12-06-17.27.57-A-watercolor-geometric-style-illustration-depicting-a-businessman-mid-air-almost-reaching-the-top-of-a-cliff.-The-dynamic-pose-of-the-businessman-sho.png"
 ---
-
-![](../images/DALL·E-2023-12-06-17.27.57-A-watercolor-geometric-style-illustration-depicting-a-businessman-mid-air-almost-reaching-the-top-of-a-cliff.-The-dynamic-pose-of-the-businessman-sho-1024x585.png)
-
-## How being close to your goal makes you loose perspective
 
 One fundamental decision in business is the **make or buy decision**. Should you do something yourself or hire someone to do it.
 

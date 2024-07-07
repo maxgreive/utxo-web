@@ -1,5 +1,6 @@
 ---
 title: "Christmas special: AI picture outtakes"
+author: Martin Betz
 pubDate: "2023-12-22"
 categories:
   - "newsletter"
@@ -45,7 +46,7 @@ This didn’t work, so we changed the process to:
 - Then everything will work out
 - It’s a greenfield approach that takes off like a rocket
 
-We are pretty happy with the new process ![😅](https://s.w.org/images/core/emoji/14.0.0/svg/1f605.svg)
+We are pretty happy with the new process 😅
 
 ![](../images/DALL·E-2023-12-15-11.31.28-A-simplified-landscape-oriented-watercolor-painting-in-a-geometric-style-depicting-a-streamlined-process-flow-from-left-to-right-less-crowded-and-mo-1024x585.png)
 
@@ -99,7 +100,7 @@ I removed lime and lavender from the prompts, but sometimes mint comes up in lea
 
 ![](../images/DALL·E-2023-12-15-12.18.54-A-simplified-and-less-crowded-watercolor-geometric-style-illustration-that-visualizes-the-concept-of-product-language-fit.-The-image-should-focus-on-t-1024x585.png)
 
-The last outtakes are going to be from the [correlation vs causality post](https://utxo.solutions/blog/confusing-correlation-with-causality). I tried really hard to put this in a picture. One attempt was someone overly believing into all of his data being connected. It is a previous iteration of the picture that made it, just slightly more mad ![🤯](https://s.w.org/images/core/emoji/14.0.0/svg/1f92f.svg)
+The last outtakes are going to be from the [correlation vs causality post](https://utxo.solutions/blog/confusing-correlation-with-causality). I tried really hard to put this in a picture. One attempt was someone overly believing into all of his data being connected. It is a previous iteration of the picture that made it, just slightly more mad 🤯
 
 ![](../images/DALL·E-2023-12-15-11.19.52-Enhance-the-previous-image-by-adding-a-paper-scroll-banner-at-the-bottom.-On-the-banner-the-phrase-_Its-All-Connected_-is-written-in-an-elegant-cla-1024x585.png)
 
@@ -116,9 +117,9 @@ But look at his face. The conviction! It kind of says it all.
 
 ![](../images/DALL·E-2023-12-15-12.26.19-A-watercolor-geometric-style-painting-depicting-a-man-in-a-suit-sitting-at-a-dinner-table-telling-his-wife-_The-more-steak-I-eat-the-more-people-bu-1024x585.png)
 
-PS: The header-picture for this post is from the correlation vs causality post as well. It’s the attempt to redraw [this spurilous correlation](https://www.tylervigen.com/spurious-correlations) of per capita cheese consumption and people dying from being entangled in their bedsheets. Let’s say, the data looks cheesy ![😁](https://s.w.org/images/core/emoji/14.0.0/svg/1f601.svg)
+PS: The header-picture for this post is from the correlation vs causality post as well. It’s the attempt to redraw [this spurilous correlation](https://www.tylervigen.com/spurious-correlations) of per capita cheese consumption and people dying from being entangled in their bedsheets. Let’s say, the data looks cheesy 😁
 
-With this, I wish you a happy christmas with the first attempt of “draw christmas”. Some things are just easy to explain ![🎄](https://s.w.org/images/core/emoji/14.0.0/svg/1f384.svg)
+With this, I wish you a happy christmas with the first attempt of “draw christmas”. Some things are just easy to explain 🎄
 
 
 

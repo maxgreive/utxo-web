@@ -1,5 +1,6 @@
 ---
 title: "Whats the difference between user research and customer research?"
+author: Martin Betz
 pubDate: "2024-02-27"
 categories:
   - "newsletter"
@@ -9,10 +10,6 @@ tags:
   - "product-market-fit"
 previewImage: "../images/file-736dWJl2BWhORVJvHy8LqQ5G.png"
 ---
-
-
-
-## What's the difference between user research and customer research?
 
 The obvious answer would be: one is about our user, the other about our customers. And while in some cases, our users can be our customers, often they are not. So lets's have a look, when we need to do user research and when customer research. And why.
 

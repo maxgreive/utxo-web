@@ -1,5 +1,6 @@
 ---
 title: "Why talking to your customers sometimes feels hard?​"
+author: Martin Betz
 pubDate: "2024-01-12"
 categories:
   - "newsletter"
@@ -9,10 +10,6 @@ tags:
   - "thinking-ahead"
 previewImage: "../images/DALL·E-2024-01-11-23.17.48-Two-businesspeople-having-a-discussion-but-looking-exhausted.-The-style-is-watercolor-with-a-slightly-geometric-touch.-The-color-scheme-is-predominant.png"
 ---
-
-
-
-## Why talking to your customers sometimes feels hard?
 
 We talk a lot about the need to talk to your customers in this blog. And about the benefits of understanding other perspectives then your own. But sometimes, talking to people is hard. In general, not just customers. It requires energy. At least, if we want to do it right. And right means, that "talking to" mostly means "listening to".  
 
