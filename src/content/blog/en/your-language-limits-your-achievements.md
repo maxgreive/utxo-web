@@ -37,7 +37,7 @@ The **second** thing is consistency. Stick to a term and don't mix it up. This s
 
 The **third** thing is, to alter the existing language as little as possible. Remember Esperanto? It's a well engineered language, intended for global use. It is easy to learn and close to many other languages. Yet the global language is English. It's a weird language with many anomalies. But it's the spoken language. Try to agree on key terms. But don't overdue it. Finding the common language is a means to an end. Not an end of means.
 
-One of the easier things to do is sticking to a [framework](https://utxo.solutions/newsletter/understanding-the-jobs-to-be-done-perspective/). A framework defines a language and the language works within the framework. If the framework covers your needs, so will the language. Plus, you won't have to argue about which meaning you want. I know a company that kept on discussing if it's digitalization or digitization for over 6 month.
+One of the easier things to do is sticking to a [framework](/en/blog/understanding-the-jobs-to-be-done-perspective/). A framework defines a language and the language works within the framework. If the framework covers your needs, so will the language. Plus, you won't have to argue about which meaning you want. I know a company that kept on discussing if it's digitalization or digitization for over 6 month.
 
 ### It doesn't stop at the language
 
@@ -52,7 +52,7 @@ However, a goal alone isn't enough as well. You will need:
 - responsibilities
 - and so on
 
-The [basics](https://utxo.solutions/newsletter/most-important-business-skills/) of running projects and a company. But if you have a common language and a common vision, you can agree on that. The projects without it often end like the tower of babel.
+The [basics](/en/blog/most-important-business-skills/) of running projects and a company. But if you have a common language and a common vision, you can agree on that. The projects without it often end like the tower of babel.
 
 ## Want to use our language framework?
 

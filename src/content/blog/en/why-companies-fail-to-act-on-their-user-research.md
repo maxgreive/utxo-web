@@ -11,7 +11,7 @@ tags:
 previewImage: "../images/file-e0Q8FidXTo4YoCXULCd89lnc.jpg"
 ---
 
-In the last post, we covered the question, [how much you should invest in customer research](https://utxo.solutions/newsletter/how-much-should-i-invest-in-user-research/). This is a follow up post. We will cover the question, why companies fail to act on the knowledge they gained in customer research. Because quite often, when companies do user research, they fail to act on it afterwards. So let's try to understand, why this happens and how it can be avoided.
+In the last post, we covered the question, [how much you should invest in customer research](/en/blog/how-much-should-i-invest-in-user-research/). This is a follow up post. We will cover the question, why companies fail to act on the knowledge they gained in customer research. Because quite often, when companies do user research, they fail to act on it afterwards. So let's try to understand, why this happens and how it can be avoided.
 
 The classic situation for this is:
 
@@ -46,7 +46,7 @@ My sailing teacher always said: If you say, that something should be done, say w
 
 ### Lack of authority
 
-Similar to lack of responsibility, you might have someone who feels responsible. He would do the necessary steps, but can't do it alone. He may not get the support from management or can't access relevant resources. This is often the case, when the person with the problem has low decision power. They got the allowance for doing a customer research project but not for the follow-up. Then you need to [convince your boss](https://utxo.solutions/newsletter/how-to-convince-your-boss/).
+Similar to lack of responsibility, you might have someone who feels responsible. He would do the necessary steps, but can't do it alone. He may not get the support from management or can't access relevant resources. This is often the case, when the person with the problem has low decision power. They got the allowance for doing a customer research project but not for the follow-up. Then you need to [convince your boss](/en/blog/how-to-convince-your-boss/).
 
 ### Lack of budget
 
@@ -54,13 +54,13 @@ Sometimes there is the misconception that knowing the solution is the solution. 
 
 ### Lack of clarity
 
-I will dedicate a whole article to this later due to the complexity, but here is the basic story. Good customer research is hypothesis forming. This means that you go into the research without a solution in mind. Everything is in the air. You learn about the customer. Not about the customer in relation to your product. Our customers usually do have a product or at least a product idea. Yet the result of the research may be that the product doesn't fit the [job to be done](https://utxo.solutions/newsletter/understanding-the-jobs-to-be-done-perspective/). You may find out, that the change you have to make is rather big. At least if you want to get the full benefit.
+I will dedicate a whole article to this later due to the complexity, but here is the basic story. Good customer research is hypothesis forming. This means that you go into the research without a solution in mind. Everything is in the air. You learn about the customer. Not about the customer in relation to your product. Our customers usually do have a product or at least a product idea. Yet the result of the research may be that the product doesn't fit the [job to be done](/en/blog/understanding-the-jobs-to-be-done-perspective/). You may find out, that the change you have to make is rather big. At least if you want to get the full benefit.
 
 If there isn't enough clarity about this upfront, customers are sometimes unprepared. And if they are reluctant to change a lot, they may change nothing. And if this happens it is most of the time a failure of the company that did the research.
 
 ### Lack of openness
 
-It is kind of the same problem but from the other side. Lack of clarity means that the research team failed to prepare the customer for the change. They haven't been clear on what will and will not be the result of the research. And how the follow ups may look like. Lack of openness means, that the customer didn't want to learn something anyway. Companies often do customer research to confirm what they already believe. As a research company they are to be rejected as customers. Here is a more detailed article on the [confirming research bias](https://utxo.solutions/newsletter/how-to-avoid-the-confirming-research-bias/).
+It is kind of the same problem but from the other side. Lack of clarity means that the research team failed to prepare the customer for the change. They haven't been clear on what will and will not be the result of the research. And how the follow ups may look like. Lack of openness means, that the customer didn't want to learn something anyway. Companies often do customer research to confirm what they already believe. As a research company they are to be rejected as customers. Here is a more detailed article on the [confirming research bias](/en/blog/how-to-avoid-the-confirming-research-bias/).
 
 ### Lack of skill
 
@@ -72,6 +72,6 @@ This is a nice description for: The culture is unable to support innovation. The
 
 ### So how do I avoid this happening to me?
 
-There is no easy fix to this. Most of it comes down to [honest communication](https://utxo.solutions/newsletter/your-language-limits-your-achievements/). Think about what you will do with the results after the research. Plan budget and get stakeholder buy-in during the research. Openly discuss what you can expect from the research. Be honest, if it isn't what you want from it. Don't do customer research, just because it looks amazing. And if nothing is happening after the research sprint, ask why. And get help if needed. 
+There is no easy fix to this. Most of it comes down to [honest communication](/en/blog/your-language-limits-your-achievements/). Think about what you will do with the results after the research. Plan budget and get stakeholder buy-in during the research. Openly discuss what you can expect from the research. Be honest, if it isn't what you want from it. Don't do customer research, just because it looks amazing. And if nothing is happening after the research sprint, ask why. And get help if needed. 
 
 You did the customer research for a reason. Don't let your insights go to waste.

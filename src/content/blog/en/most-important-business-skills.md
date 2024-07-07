@@ -33,7 +33,7 @@ Sales is, as I had to learn the hard way, **THE most important skill**. If you h
 
 It's also the skill, that most people coming from employment don't have. They simply did not have to sell (at least not for money). Most companies have dedicated sales teams.
 
-Selling transitions very well into other skills as well. Leadership is selling ideas to your people. Hiring is selling your company as a great place to work. [It's even selling your own goals to yourself](https://utxo.solutions/newsletter/how-to-make-this-year-special/). I guess, it is the most important skill next to learning.
+Selling transitions very well into other skills as well. Leadership is selling ideas to your people. Hiring is selling your company as a great place to work. [It's even selling your own goals to yourself](/en/blog/how-to-make-this-year-special/). I guess, it is the most important skill next to learning.
 
 ### Marketing
 

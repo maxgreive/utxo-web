@@ -29,7 +29,7 @@ Every product is hired for a specific job. The consumer wants to make some progr
 
 Let's look at an industry with very low satisfaction rates. Clothing. According to [statista](https://www.statista.com/), German consumers send back 32% of all clothing bought online. Some other countries are even higher than that. This means, that for every two pieces of clothing, that you buy, three need to be produced. Increasing the environmental impact by 50%. Ok, the exact calculation is more complex and nuanced, but you see the point. If your product doesn't fit the customers job, the customer will keep searching.
 
-Let's say, the [customers job](https://utxo.solutions/newsletter/understanding-the-jobs-to-be-done-perspective/) for most clothing is "Help me look good". They see something online. They think, will make them look good. Then it arrives, they try it on and don't look good. That means, the job is not done. And they will return the product. But what, if you knew, how your customer defines "good"? Know, what makes them look good. Even before they try it on in front of a mirror?
+Let's say, the [customers job](/en/blog/understanding-the-jobs-to-be-done-perspective/) for most clothing is "Help me look good". They see something online. They think, will make them look good. Then it arrives, they try it on and don't look good. That means, the job is not done. And they will return the product. But what, if you knew, how your customer defines "good"? Know, what makes them look good. Even before they try it on in front of a mirror?
 
 Another example are toys for children. There is so much useless stuff out there. Children toys are mainly bought by parents. As a parent, I have usually one of three jobs:
 

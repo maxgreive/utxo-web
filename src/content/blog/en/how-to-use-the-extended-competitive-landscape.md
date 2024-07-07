@@ -11,7 +11,7 @@ tags:
 previewImage: "../images/file-XZdfiujXMH190AR0OvIZzf5T.png"
 ---
 
-The beauty of the [jobs to be done perspective](https://utxo.solutions/newsletter/understanding-the-jobs-to-be-done-perspective/) is the extended competitive landscape. Competitive landscape is the summary of all the solutions our customers may buy. Things they could choose instead of us. And usually we see only a small part of it. What jobs to be done (JTBD) enables us, is to see the full picture. To extend the view. Because seeing the whole competition shows us, where we can get market shares the easy way.
+The beauty of the [jobs to be done perspective](/en/blog/understanding-the-jobs-to-be-done-perspective/) is the extended competitive landscape. Competitive landscape is the summary of all the solutions our customers may buy. Things they could choose instead of us. And usually we see only a small part of it. What jobs to be done (JTBD) enables us, is to see the full picture. To extend the view. Because seeing the whole competition shows us, where we can get market shares the easy way.
 
 ### Where did we look for competition in the past?
 
@@ -27,7 +27,7 @@ This however means, that our products don't compete with other products. They co
 
 "Help me get to work". This is a job, people would buy a car for. Now we could consider: "Which car does it best?" When we look at car advertisement, a lot of it is about features, aesthetics and price. And sure, in a car to car competition, this might be OK. But even a [smart](http://smart.com) won't beat a bike when it comes to the ease of finding a parking spot.
 
-So the bike is part of the extended competitive landscape. So is public transportation. However, home office is part of the extended competitive landscape as well. Because when we work from home, we can simply walk to work. And it is way faster than a car. You may think this obvious. But even after COVID, try [asking the CEO of Volkswagen about who their competition is](https://youtu.be/8RL-oDmqnks?si=Xd0Xh24P3dbIPVOd).  Right, [Tesla](http://tesla.com) and [Toyota](http://toyota.com). Because they are similar. [But comparing and competing are not the same.](https://utxo.solutions/newsletter/confusing-correlation-with-causality/)
+So the bike is part of the extended competitive landscape. So is public transportation. However, home office is part of the extended competitive landscape as well. Because when we work from home, we can simply walk to work. And it is way faster than a car. You may think this obvious. But even after COVID, try [asking the CEO of Volkswagen about who their competition is](https://youtu.be/8RL-oDmqnks?si=Xd0Xh24P3dbIPVOd).  Right, [Tesla](http://tesla.com) and [Toyota](http://toyota.com). Because they are similar. [But comparing and competing are not the same.](/en/blog/confusing-correlation-with-causality/)
 
 The same applies to other jobs a car will get done. Help me get an adrenaline kick is something we could buy a [Porsche](http://porsche.com) for. Or a motorcycle. But you could also go skydiving.
 

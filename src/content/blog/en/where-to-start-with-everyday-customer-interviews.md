@@ -13,7 +13,7 @@ previewImage: "../images/file-l0KqLT55gi6BHNW08ecNsnNr.png"
 
 This is for all the people that never did true customer research but would like to have the benefits. To everyone who wants to build an amazing product but doesn't know where to start. And to all the people that don't have the money to hire professionals for the job. This is everyday customer interviews 101.
 
-Customer research is important. The customer buys the product but only if it creates progress he desires. We can build products to satisfy our own needs but then we are the only customer. But doing good customer research requires a lot of skill. Either we have the skill or we need to hire someone, who has it. That's why customer research is skipped more often then it should be. When we have neither the skill nor the budget. Or we simply [don't want to talk to our customers.](https://utxo.solutions/newsletter/why-talking-to-your-customers-sometimes-feels-hard/) 
+Customer research is important. The customer buys the product but only if it creates progress he desires. We can build products to satisfy our own needs but then we are the only customer. But doing good customer research requires a lot of skill. Either we have the skill or we need to hire someone, who has it. That's why customer research is skipped more often then it should be. When we have neither the skill nor the budget. Or we simply [don't want to talk to our customers.](/en/blog/why-talking-to-your-customers-sometimes-feels-hard/) 
 
 This is where everyday customer interviews come into play.
 
@@ -25,7 +25,7 @@ I was sitting at my barber shop the other day. While it is a small barbershop th
 
 He told me, that he switched because a lot of his friends are working there. He likes the colleagues. He left the old barbershop because that was where he learned the trade. And they still treated him like a trainee. In the new one he can choose his vacation freely and even take two month of vacation. That's why he didn't mind earning less in the new barbershop then in the old one.
 
-To me, this means nothing. But if you own a barbershop, this is valuable information. [How can you get people to happily work for you](https://utxo.solutions/newsletter/why-people-stay-in-jobs-they-dont-like/), even if you pay them less then the competition.
+To me, this means nothing. But if you own a barbershop, this is valuable information. [How can you get people to happily work for you](/en/blog/why-people-stay-in-jobs-they-dont-like/), even if you pay them less then the competition.
 
 ### Why should I do this?
 

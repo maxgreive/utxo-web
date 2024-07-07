@@ -13,7 +13,7 @@ previewImage: "../images/DALL·E-2024-02-01-23.13.35-A-watercolor-and-slightly-g
 
 Should I invest in customer research? Whenever I get this question, my answer is usually something like: I don't know. How would you know, if you should? What are your metrics, for making this decision? What happened in the past, that made you think about this question? We don't sell something to companies, unless they need it. Whether someone needs our services can never be our decision.
 
-However, as we sell customer research, we researched this exact question. Why do people buy customer research at all. Or in [Jobs to be done](https://utxo.solutions/newsletter/understanding-the-jobs-to-be-done-perspective/) terms: For what job do they hire customer research. We found, that there are five main jobs, that companies hire our research sprints for:
+However, as we sell customer research, we researched this exact question. Why do people buy customer research at all. Or in [Jobs to be done](/en/blog/understanding-the-jobs-to-be-done-perspective/) terms: For what job do they hire customer research. We found, that there are five main jobs, that companies hire our research sprints for:
 
 - Help me to improve my product
 - Help me to communicate more efficiently

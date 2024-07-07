@@ -25,7 +25,7 @@ With your boss, this means:
 - How does he measure success
 - Only try to convince him of things that benefit him
 
-I guess, you can already see, where this is going. The [jobs to be done perspective](https://utxo.solutions/newsletter/understanding-the-jobs-to-be-done-perspective/) can help you with selling ideas to your boss. Here is how:
+I guess, you can already see, where this is going. The [jobs to be done perspective](/en/blog/understanding-the-jobs-to-be-done-perspective/) can help you with selling ideas to your boss. Here is how:
 
 ### How to sell ideas to your boss using jobs to be done?
 

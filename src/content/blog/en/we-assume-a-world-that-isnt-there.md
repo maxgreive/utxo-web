@@ -23,7 +23,7 @@ We live in a world where we don't have perfect information. There are many thing
 
 Known assumptions are those where we **know them to be unknown**. They are sometimes called the known unknowns. We assume something and know it to be only an approximation. We can tell how confident we are into the assumption and adopt our behavior accordingly.
 
-They are the most **easy to work with**. We can design hypothesis and experiments ([see this article](https://utxo.solutions/newsletter/where-to-start-when-your-business-isnt-running/)) and test them. We can also gauge, how relevent they are and how much effort we should put into verifying them.
+They are the most **easy to work with**. We can design hypothesis and experiments ([see this article](/en/blog/where-to-start-when-your-business-isnt-running/)) and test them. We can also gauge, how relevent they are and how much effort we should put into verifying them.
 
 An **example** would be to think, that our users buy our product for a specific reason, although we didn't test it yet.
 

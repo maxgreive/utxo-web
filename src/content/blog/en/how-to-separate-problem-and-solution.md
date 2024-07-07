@@ -48,7 +48,7 @@ The reason why this happens, is that they replace the question in their head. 
 
 ### Why is the separation of problem and solution so important?
 
-The short answer is: It overloads your thinking. You want some clarity on how the problem looks like. If you look at everything at once, the picture is too big. [We need to focus on single elements.](https://utxo.solutions/newsletter/understanding-the-jobs-to-be-done-perspective/) Else you can't truly understand the whole problem. 
+The short answer is: It overloads your thinking. You want some clarity on how the problem looks like. If you look at everything at once, the picture is too big. [We need to focus on single elements.](/en/blog/understanding-the-jobs-to-be-done-perspective/) Else you can't truly understand the whole problem. 
 
 Imagine looking at a big picture. Your eyeballs look at small parts of the big picture in quick succession. And then your brain puzzles them together to one big picture. The whole picture is only in your head, never in your eyes. If you try to see the whole picture with your eyes at once, everything becomes blurry. 
 
@@ -58,7 +58,7 @@ The second thing is, that you look through a filter. If you look at the problem 
 
 ### But how can I do it?
 
-Have a [process](https://utxo.solutions/newsletter/how-to-speed-up-customer-research/). Trust the process. Follow the process. It is only natural, that you want to think about your product. That's why you are doing the whole problem-understanding and customer research. The best way to not think about your product or service, is when you have trust in it not being forgotten. To know, that there will be a time, when you will think only about your product, helps. 
+Have a [process](/en/blog/how-to-speed-up-customer-research/). Trust the process. Follow the process. It is only natural, that you want to think about your product. That's why you are doing the whole problem-understanding and customer research. The best way to not think about your product or service, is when you have trust in it not being forgotten. To know, that there will be a time, when you will think only about your product, helps. 
 
 This is why this happens with people doing a customer research sprint with us for the first time. They don't know the process, which makes it hard to trust the process. But once you have seen, how it all works out, it's easy to separate problem and solution.  
 

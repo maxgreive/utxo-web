@@ -49,7 +49,7 @@ Asking neutral questions is work. Most questions contain a primer. You don't wan
 
 #### 5) Know what you are looking for
 
-For that I can recommend our article on ["structuring unlearned information"](https://utxo.solutions/newsletter/structuring-unlearned-information/).
+For that I can recommend our article on ["structuring unlearned information"](/en/blog/structuring-unlearned-information/).
 
 ## Want to learn how to ask better questions?
 

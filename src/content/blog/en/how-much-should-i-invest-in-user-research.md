@@ -31,7 +31,7 @@ Where:
 - **Effort and Sacrifice:** What do I have to do? Not pay, but do.
 - **Value:** How much I’m willing to pay.
 
-The biggest thing in this to me is percieved likelihood of achievement. You can do a customer survey. It is cheap, fast and very little effort. But it won't help you much with building a successful product. People don't act like they say they will. A jobs to be done customer research sprint takes a bit longer, is a bit more effort and will cost you a bit more. But it has a high likelihood of achievement. However, it is about your perception. If you believe in surveys or [personas](https://utxo.solutions/newsletter/are-personas-useful-for-product-development/), go for it.
+The biggest thing in this to me is percieved likelihood of achievement. You can do a customer survey. It is cheap, fast and very little effort. But it won't help you much with building a successful product. People don't act like they say they will. A jobs to be done customer research sprint takes a bit longer, is a bit more effort and will cost you a bit more. But it has a high likelihood of achievement. However, it is about your perception. If you believe in surveys or [personas](/en/blog/are-personas-useful-for-product-development/), go for it.
 
 Customer research investment metrics - rule of ten
 
@@ -51,7 +51,7 @@ If you will invest 500.000€ in the development of your product, plan 50.000€
 
 ### But what about market complexity and my own knowledge?
 
-Personally, I consider myself a [rationalist](https://www.lesswrong.com/). My presumption is always, that I may be wrong. And that if I am wrong, I may be sure to be right. So even when I am sure, I have to question myself. Therefore, assuming to know your customer and knowing your customer are not the same to me. I would rather know than [assume](https://utxo.solutions/newsletter/we-assume-a-world-that-isnt-there/). 
+Personally, I consider myself a [rationalist](https://www.lesswrong.com/). My presumption is always, that I may be wrong. And that if I am wrong, I may be sure to be right. So even when I am sure, I have to question myself. Therefore, assuming to know your customer and knowing your customer are not the same to me. I would rather know than [assume](/en/blog/we-assume-a-world-that-isnt-there/). 
 
 Market complexity is difficult to judge. Some markets appear complex, but are rather easy. Some are the other way around. I know someone, who sells analytics-software to pharma CEOs. They cost multiple million euros per year. You would think, that this is a complex market. And yet, it is in parts very simple. The main decision element is, whether the CEO has been told by a trusted peer, that the product is great. On the other hand, selling coffee seems easy, yet isn't. It's a low price everyday item. We don't think much about, what coffee we buy and why. This makes the whole decision pattern weird and complex.
 

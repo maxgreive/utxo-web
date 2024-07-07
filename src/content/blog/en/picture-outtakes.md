@@ -50,7 +50,7 @@ We are pretty happy with the new process 😅
 
 ![](../images/DALL·E-2023-12-15-11.31.28-A-simplified-landscape-oriented-watercolor-painting-in-a-geometric-style-depicting-a-streamlined-process-flow-from-left-to-right-less-crowded-and-mo-1024x585.png)
 
-Getting to this picturestyle had some interesting iterations as well, like this watercolor without geometric image for the [“Where to start, when your business isn’t running”](https://utxo.solutions/newsletter/where-to-start-when-your-business-isnt-running/) picture
+Getting to this picturestyle had some interesting iterations as well, like this watercolor without geometric image for the [“Where to start, when your business isn’t running”](/en/blog/where-to-start-when-your-business-isnt-running/) picture
 
 <figure>
 
@@ -84,11 +84,11 @@ Our dandy warhole participant was so interested, that he even moved his chair in
 
 ![](../images/DALL·E-2023-12-15-11.58.28-Wide-watercolor-illustration-capturing-the-essence-of-pop-art-vibrancy.-A-professional-office-space-with-blue-walls-contrasts-with-mint-colored-furnit-1024x585.png)
 
-The post about the [near win bias](https://utxo.solutions/newsletter/we-are-so-close/) was rather difficult. I tried different chasing scenarios, like people trying to catch a butterfly. At some point, they started running away from the butterfly. The butterfly even makes a gesture of “why are you running away” with his little arms:
+The post about the [near win bias](/en/blog/we-are-so-close/) was rather difficult. I tried different chasing scenarios, like people trying to catch a butterfly. At some point, they started running away from the butterfly. The butterfly even makes a gesture of “why are you running away” with his little arms:
 
 ![](../images/DALL·E-2023-12-15-12.08.45-Multiple-businesspeople-viewed-from-behind-chasing-a-single-butterfly-in-a-park.-The-style-is-watercolor-geometric-with-a-color-palette-of-blue-and-1024x585.png)
 
-For the [uncertainty post](https://utxo.solutions/newsletter/he-who-knows-not-does-not-buy/), I tried to create a confused brain. I guess, the picture is kind of accurate:
+For the [uncertainty post](/en/blog/he-who-knows-not-does-not-buy/), I tried to create a confused brain. I guess, the picture is kind of accurate:
 
 ![](../images/DALL·E-2023-12-15-12.12.59-Ein-verwirrtes-Gehirn-dargestellt-im-Stil-eines-geometrischen-Aquarells.-Die-Farbpalette-besteht-hauptsachlich-aus-Blau-und-Minttonen.-Das-Bild-soll-1024x585.png)
 
@@ -96,7 +96,7 @@ I also tried to develop our logos in the same way. This logo was the moment, I r
 
 ![](../images/DALL·E-2023-12-15-12.13.41-Ein-minimalistisches-klar-erkennbares-und-geschaftlich-aussehendes-Icon-das-einen-Online-Kurs-symbolisiert-geeignet-fur-kleine-Grosen.-Weniger-pfla.png)
 
-I removed lime and lavender from the prompts, but sometimes mint comes up in leafs. Like in the [product language fit post](https://utxo.solutions/newsletter/how-to-achieve-product-language-fit/)\-picture. Asking it to draw a concept visualization doesn’t work that well yet. The prompt is too open.
+I removed lime and lavender from the prompts, but sometimes mint comes up in leafs. Like in the [product language fit post](/en/blog/how-to-achieve-product-language-fit/)\-picture. Asking it to draw a concept visualization doesn’t work that well yet. The prompt is too open.
 
 ![](../images/DALL·E-2023-12-15-12.18.54-A-simplified-and-less-crowded-watercolor-geometric-style-illustration-that-visualizes-the-concept-of-product-language-fit.-The-image-should-focus-on-t-1024x585.png)
 

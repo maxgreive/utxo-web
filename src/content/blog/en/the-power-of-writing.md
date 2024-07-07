@@ -11,7 +11,7 @@ tags:
 previewImage: "../images/DALL·E-2024-01-25-23.55.58-A-watercolor-slightly-geometric-styled-painting-depicting-a-man-in-his-thirties-wearing-a-hoodie-sitting-at-his-desk-at-night-writing-a-newsletter-.png"
 ---
 
-This is the 30th episode of this newsletter / blog. I published the [first episode](https://utxo.solutions/newsletter/where-to-start-when-your-business-isnt-running/) on the 13th of November 2023. Here is what I learned about the power of writing since then.
+This is the 30th episode of this newsletter / blog. I published the [first episode](/en/blog/where-to-start-when-your-business-isnt-running/) on the 13th of November 2023. Here is what I learned about the power of writing since then.
 
 ### Writing clears your mind
 
@@ -27,7 +27,7 @@ I am not new to writing. I had a blog before, started writing a book, wrote lots
 
 ### Writing shows your unknown unknowns
 
-In our core methodology, the [jobs to be done innovation framework](https://utxo.solutions/newsletter/understanding-the-jobs-to-be-done-perspective/), I am rather new. My business partner [Peter](https://www.linkedin.com/in/peterrochel/) is the one, that developed most of the framework over almost 20 years. He is responsible for the great quality, our customers can expect. To me, this is still a learning journey. 
+In our core methodology, the [jobs to be done innovation framework](/en/blog/understanding-the-jobs-to-be-done-perspective/), I am rather new. My business partner [Peter](https://www.linkedin.com/in/peterrochel/) is the one, that developed most of the framework over almost 20 years. He is responsible for the great quality, our customers can expect. To me, this is still a learning journey. 
 
 But I write about it. Often, I write about something and then we (Peter and I) have a long call. Sometimes, my understanding is quite good and the article turns out great. Sometimes, I discard everything and start anew. It helps me to accelerate my learning. And it helps me in discovering, what I don't know yet.  
 
@@ -45,7 +45,7 @@ You can't generate a long running blog overnight. Building good things takes tim
 
 In many business situations, I by now have a relevant article, I can share. Something that provides value in a given situation. And it saves time for me as well. It acts as a public portfolio of my thoughts. And it's good for SEO.  
 
-It also shows some progression. If you look at some of the [first articles](https://utxo.solutions/newsletter/why-do-people-decide-the-way-they-do/) and at [one of the last ones](https://utxo.solutions/newsletter/how-to-avoid-customers-trying-to-negotiate-your-prices-down/), there is a massive increase in quality. And they both will look very noob-style compared to those in a year or two. At least I hope so, else there wouldn't be progression. 
+It also shows some progression. If you look at some of the [first articles](/en/blog/why-do-people-decide-the-way-they-do/) and at [one of the last ones](/en/blog/how-to-avoid-customers-trying-to-negotiate-your-prices-down/), there is a massive increase in quality. And they both will look very noob-style compared to those in a year or two. At least I hope so, else there wouldn't be progression. 
 
 ### Writing consistently proofs something about yourself
 

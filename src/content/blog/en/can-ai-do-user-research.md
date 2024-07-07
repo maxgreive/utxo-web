@@ -49,7 +49,7 @@ At the same time, you have to ideate for potential solutions. What are their met
 
 From what I have seen so far, it doesn't work from a computing capability. The inability to stay within given constraints is a problem as well. If you give an AI model a well defined problem, it won't come up with a well defined solution. However, we will probably get there at some point. But we aren't there yet.
 
-However, AI is great at helping you to brainstorm. It doesn't solve the problem for you, but it helps you get to new ideas. [If you ask instead of command.](https://utxo.solutions/newsletter/questioning-artificial-intelligence/)
+However, AI is great at helping you to brainstorm. It doesn't solve the problem for you, but it helps you get to new ideas. [If you ask instead of command.](/en/blog/questioning-artificial-intelligence/)
 
 ### So AI isn't helpful in customer research?
 

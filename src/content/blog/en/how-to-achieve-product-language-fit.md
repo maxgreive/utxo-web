@@ -31,7 +31,7 @@ The sensible thing to do would be:
 6. Let the conversation evolve naturally.
 7. If you add value to the conversation, people will like you more
 
-No surprise, this is how you should do it in business as well. Join a group. **[Listen](https://utxo.solutions/newsletter/five-steps-to-ask-better-questions/)**. [**Understand**](https://utxo.solutions/newsletter/structuring-unlearned-information/) the topic. Show interest. Get invited in the conversation. **Add value**.
+No surprise, this is how you should do it in business as well. Join a group. **[Listen](/en/blog/five-steps-to-ask-better-questions/)**. [**Understand**](/en/blog/structuring-unlearned-information/) the topic. Show interest. Get invited in the conversation. **Add value**.
 
 Of course, this is harder to do then just run around and shout your message. Especially with social media, there is an imbalance of sending and recieving. But it's **more effective** as well.
 

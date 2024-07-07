@@ -70,7 +70,7 @@ Management usually speaks **another language** then the operational units. It's 
 
 Doing customer research requires skills. Not doing customer research requires luck. You can aquire skills. You can't aquire luck. So you need the skills.
 
-Think about this as a [make or buy decision](https://utxo.solutions/newsletter/we-are-so-close/) upfront. Most of the time you buy some skills and aquire some others along the way. Look at your framework and **check what you can and can't do on your own**.
+Think about this as a [make or buy decision](/en/blog/we-are-so-close/) upfront. Most of the time you buy some skills and aquire some others along the way. Look at your framework and **check what you can and can't do on your own**.
 
 ### 6) Can I integrate it into my business?
 

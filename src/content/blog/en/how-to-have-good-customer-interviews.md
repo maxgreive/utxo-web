@@ -52,9 +52,9 @@ And when it comes to finding the right people? "If I couldn't do it, why would y
 
 There are already some articles that go deeper into the topic of asking better questions. There we cover things like: 
 
-1. [Targeting past behaviour instead of "would you?"](https://utxo.solutions/newsletter/five-steps-to-ask-better-questions/) 
-2. [Asking non-leading questions](https://utxo.solutions/newsletter/would-you-rather-eat-a-dolphin-or-buy-our-product/)
-3. [Trying to find answers to things you need to know later in the process](https://utxo.solutions/newsletter/structuring-unlearned-information/)
+1. [Targeting past behaviour instead of "would you?"](/en/blog/five-steps-to-ask-better-questions/) 
+2. [Asking non-leading questions](/en/blog/would-you-rather-eat-a-dolphin-or-buy-our-product/)
+3. [Trying to find answers to things you need to know later in the process](/en/blog/structuring-unlearned-information/)
 
 I won't go deeper into it here. The overall message is: If you ask the wrong questions, you get answers, that won't help you. This again makes asking a bad experience. 
 
