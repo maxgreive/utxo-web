@@ -7,7 +7,7 @@ description: UTXO Solutions ist Ihre Expertenagentur für strategische Kundenfor
 
 # Hero Section
 hero:
-  title: Zukunftssicheres <span>Wachstum</span> durch <span>Kundenorientierung</span>
+  title: <span>Wachstum</span> durch <span>Kundenorientierung</span>
   subtitle: Verwandeln Sie Kundeninsights in Erfolgsgeschichten
   intro: Nutzen Sie unsere bewährten Methoden und einzigartigen Ansätze, um Ihre Produkte und Dienstleistungen perfekt auf die Bedürfnisse Ihrer Kunden abzustimmen.
   ctaText: Jetzt starten
@@ -16,24 +16,24 @@ hero:
 # About Section
 about:
   title: Wir liefern Kundeninsights für Ihr Unternehmenswachstum
-  subtitle: Qualitative Forschung, die in operative Fortschritte umgesetzt wird
-  text: Möchten Sie einen neuen Markt erschließen? Oder neue Einnahmequellen erkunden? Sorgen Sie sich, dass die Investitionen in die Produktentwicklung sich nicht auszahlen? Möchten Sie das Risiko eines fehlenden Produkt-Markt-Fits reduzieren? Dann sind wir für Sie da.
-  text2: Wir helfen Ihnen, einen klaren Weg zu entwickeln, um Produkte, Marketing und Vertrieb zu gestalten, die Ihre Kunden lieben werden.
+  subtitle: Qualitative Kundenforschung, die in operative Fortschritte umgesetzt wird
+  text: Möchten Sie einen neuen Markt erschließen? Oder neue Einnahmequellen erkunden? Sorgen Sie sich, dass die Investitionen in die Produktentwicklung sich nicht auszahlen? Möchten Sie das Risiko eines fehlenden Produkt-Markt-Fits reduzieren? Dann sind wir für Sie da!
+  text2: Wir helfen Ihnen, einen klaren Weg zu entwickeln, um Produkte, Marketing und Vertrieb zu gestalten, die Ihre Kunden lieben werden
   video: https://vimeo.com/463115067
   bulletpoints:
-    - Über 1000 erfolgreich abgeschlossene Forschungsprojekte
-    - Einzigartiges und bewährtes System
-    - Konkrete Ergebnisse in 4-6 Wochen
+    - Über 700 zufriedene Kunden
+    - Bewährtes System
+    - Ergebnisse in 4-6 Wochen
     - Endlich Ihre Kunden verstehen
-    - Datengetriebene Entscheidungsfindung
-    - 10x ROI in 90% unserer Projekte
+    - Vor den Markt kommen
+    - 13x besser als der Wettbewerb
 
   boxes:
     - label: Projekte
       number: "1000+"
       icon: flaticon-briefcase
     - label: Ø ROI
-      number: 10x
+      number: 13x
       icon: flaticon-rocket
 
 # Service Section
@@ -41,15 +41,15 @@ services:
   title: Die beste Wahl für all Ihre Unternehmensbedürfnisse
   subtitle: Unsere Dienstleistungen
   items:
-    - title: "'Mastering Jobs to be Done' Online-Kurs"
-      text: Für alle, die unsere Werkzeuge erlernen und nutzen möchten. Besonders nützlich für Personen im Marketing, in der Produktentwicklung und im Innovationsmanagement. Wir vermitteln Ihnen alles, was Sie wissen müssen.
-      icon: flaticon-round-table
-      link: /leistungen/mastering-jobs-to-be-done-online-workshop
-    - title: Customer Insight Sprints
+    - title: Customer Insight Sprint
       text: Innerhalb von 4-6 Wochen helfen wir Ihnen, klare Wertversprechen für Produkt, Marketing und Vertrieb zu entwickeln - alles basierend auf Kundeninsights.
       link: /leistungen/customer-research-sprints
       icon: flaticon-rating
-    - title: Unternehmens-Transformationsservice
+    - title: "Mastering Jobs to be Done Online-Kurs"
+      text: Für alle, die unsere Werkzeuge erlernen und nutzen möchten. Besonders nützlich für Personen im Marketing, in der Produktentwicklung und im Innovationsmanagement. Wir vermitteln Ihnen alles, was Sie wissen müssen.
+      icon: flaticon-round-table
+      link: /leistungen/mastering-jobs-to-be-done-online-workshop
+    - title: Unternehmens-Transformation
       text: Wir begleiten Sie bei der Transformation Ihres Unternehmens und helfen Ihnen, kundenorientierte Strukturen zu etablieren.
       icon: flaticon-mission
       link: https://cal.com/martinbetz
@@ -57,8 +57,8 @@ services:
 
 # Clients Section
 clients:
-  title: Unsere großartigen Kunden
-  subtitle: Marken, mit denen wir zusammenarbeiten
+  title: Einge unserer Kunden
+  subtitle: Marken, die von uns begeistert waren
 
 # CTA Section
 ctaSection:
@@ -68,7 +68,7 @@ ctaSection:
 
 # Testimonials Section
 testimonials:
-  title: Das sagen unsere großartigen Kunden
+  title: Das sagen unsere Kunden
   subtitle: Kundenstimmen
   items:
     - author: Michael von Pidoll

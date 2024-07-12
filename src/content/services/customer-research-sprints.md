@@ -1,8 +1,8 @@
 ---
-title: Kundenforschungssprints
+title: Customer Insight Sprints
 pubDate: 'Jul 22 2022'
 description: Mit unserer Expertise und Methodik verhelfen wir Ihnen in kürzester Zeit zu gewinnbringenden Erkenntnissen und erfolgreichen Ergebnissen. Vom ersten Tag an.
-previewImage: https://themedox.com/demo/gerow/assets/img/services/services_details01.jpg
+previewImage: /assets/img/images/Workshop_Lösungen_Alex.jpg
 icon: flaticon-rating
 sidebar:
   downloadText: ""
