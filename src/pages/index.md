@@ -74,15 +74,15 @@ testimonials:
     - author: Michael von Pidoll
       position: TÜV Rheinland AG
       quote: Die JTBD-Methodik wurde sehr verständlich vermittelt, und die Interviews wurden professionell durchgeführt. Das Projekt bietet uns die Möglichkeit, unsere Kunden gezielter mit neuen Serviceangeboten anzusprechen.
-      image: /assets/img/images/testi_avatar01.png
+      image: /assets/img/images/von-pidoll.jpg
     - author: Manuel Gerding
       position: steadybit
       quote: Innerhalb von zwei Wochen sind wir von null praktischer Erfahrung mit JTBD zu einem einsatzfähigen kleinen Forschungsteam gewechselt, das JTBD künftig selbstständig nutzen kann! Uneingeschränkte 110% Empfehlung.
-      image: /assets/img/images/testi_avatar01.png
+      image: /assets/img/images/gerding.png
     - author: Stefan Hück
       position: Mantrafant
       quote: Besonders gefallen hat uns der systematische und strukturierte Ansatz, durch den wir in nur zwei Tagen (6 Interviews) mehr relevante Informationen über unser Produkt und unsere Kunden im JTBD-Interview-Sprint erfahren haben als in den letzten drei Jahren. Nach weniger als einer Woche konnten wir die Effektivität unserer Werbekampagne mit den Ergebnissen direkt verdreifachen. Wir haben nicht nur unser Marketing und unseren Vertrieb verbessert, sondern auch ein besseres Produkt entwickelt.
-      image: /assets/img/images/testi_avatar01.png
+      image: /assets/img/images/hueck.jpg
 
 # Blog Posts Section
 blog:
