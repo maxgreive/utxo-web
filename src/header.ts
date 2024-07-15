@@ -8,28 +8,26 @@ export const headerMenu: Record<string, Record<string, navigationItem[]>> = {
 		items: [{
 			path: '/en',
 			label: 'Home',
+		}, {
+			path: '/en/services',
+			label: 'Services'
 		},
 		{
 			path: '/en/blog',
 			label: 'Blog'
-		},
-		{
-			path: '/en/services',
-			label: 'Services'
 		}]
 	},
 	de: {
 		items: [{
 			path: '/',
 			label: 'Home'
+		}, {
+			path: '/leistungen',
+			label: 'Leistungen'
 		},
 		{
 			path: '/blog',
 			label: 'Blog'
-		},
-		{
-			path: '/leistungen',
-			label: 'Leistungen'
-		},]
+		}]
 	},
 };
