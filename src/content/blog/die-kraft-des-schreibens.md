@@ -8,7 +8,7 @@ pubDate: "2024-01-26"tags:
 previewImage: "./images/DALL·E-2024-01-25-23.55.58-A-watercolor-slightly-geometric-styled-painting-depicting-a-man-in-his-thirties-wearing-a-hoodie-sitting-at-his-desk-at-night-writing-a-newsletter-.png"
 ---
 
-Dies ist die 30. Folge dieses Newsletters/Blogs. Ich habe die [erste Folge] (/blog/wo-starten-wenn-dein-Geschäft-nicht-läuft/) am 13. November 2023 veröffentlicht. Hier ist, was ich seither über die Macht des Schreibens gelernt habe.
+Dies ist die 30. Folge dieses Newsletters/Blogs. Ich habe die [erste Folge](/blog/wo-starten-wenn-dein-Geschäft-nicht-läuft/) am 13. November 2023 veröffentlicht. Hier ist, was ich seither über die Macht des Schreibens gelernt habe.
 
 ### Schreiben macht den Kopf frei
 
@@ -20,7 +20,7 @@ Aber sie sind nur die Überschrift und eine grobe Idee dazu. Ich wusste, dass es
 
 Das ist für mich extrem beruhigend. Ich weiß, wie ich über Dinge reden kann, wenn ich sie vorher aufgeschrieben habe. Ich finde Worte, wenn ich Worte auf Papier gefunden habe. Ich kann alles aufschreiben, weil ich es vor der Veröffentlichung korrigieren kann. Und das gibt erstaunlich viel Struktur in mein Denken.
 
-Das Schreiben ist nicht neu für mich. Ich hatte bereits einen Blog, habe ein Buch geschrieben, viele lange Beiträge für soziale Medien verfasst und so weiter. Ich schreibe auch [therapeutisches Schreiben] (https://www.youtube.com/watch?v=wAZn9dF3XTo&ab_channel=AndrewHuberman), hauptsächlich für die Veränderung von Gewohnheiten und die Konfliktbewältigung. Aber dies als geschäftliche Tätigkeit zu tun, fühlt sich auf eine neue Art erstaunlich an. Es schafft Raum für andere geschäftliche Gedanken.
+Das Schreiben ist nicht neu für mich. Ich hatte bereits einen Blog, habe ein Buch geschrieben, viele lange Beiträge für soziale Medien verfasst und so weiter. Ich schreibe auch [therapeutisches Schreiben](https://www.youtube.com/watch?v=wAZn9dF3XTo&ab_channel=AndrewHuberman), hauptsächlich für die Veränderung von Gewohnheiten und die Konfliktbewältigung. Aber dies als geschäftliche Tätigkeit zu tun, fühlt sich auf eine neue Art erstaunlich an. Es schafft Raum für andere geschäftliche Gedanken.
 
 ### Das Schreiben zeigt Ihre unbekannten Unbekannten
 
@@ -30,7 +30,7 @@ Aber ich schreibe darüber. Oft schreibe ich über etwas und dann haben wir (Pet
 
 ### Schreiben hilft, einfache Erklärungen zu finden
 
-Ich benutze [Hemingway] (https://hemingwayapp.com/) zum Schreiben. Es ist ein einfaches Textverarbeitungsprogramm mit Schwerpunkt auf der Lesbarkeit. Sie sehen immer, wie leicht Ihr Artikel zu lesen ist. Es ermutigt Sie, die aktive Stimme zu verwenden, indem es passives Schreiben hervorhebt. Lange und schwer lesbare Sätze werden markiert und es wird auf eine angemessene Anzahl von Adverbien und komplexen Wörtern geachtet.
+Ich benutze [Hemingway](https://hemingwayapp.com/) zum Schreiben. Es ist ein einfaches Textverarbeitungsprogramm mit Schwerpunkt auf der Lesbarkeit. Sie sehen immer, wie leicht Ihr Artikel zu lesen ist. Es ermutigt Sie, die aktive Stimme zu verwenden, indem es passives Schreiben hervorhebt. Lange und schwer lesbare Sätze werden markiert und es wird auf eine angemessene Anzahl von Adverbien und komplexen Wörtern geachtet.
 
 Das hilft mir dabei, eine leichte Sprache zu finden. Die Themen und Geisteshaltungen, über die ich spreche, sind manchmal schwer zu verstehen. Eine einfache Sprache hilft also dem Leser. Ich lerne auch, nachvollziehbare Beispiele zu finden, die meinen Standpunkt deutlich machen. Die bisherigen Rückmeldungen zeigen, dass der Text gut lesbar ist.
 

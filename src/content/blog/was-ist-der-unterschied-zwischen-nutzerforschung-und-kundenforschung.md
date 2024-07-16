@@ -12,11 +12,11 @@ Die offensichtliche Antwort lautet: Bei dem einen geht es um unsere Nutzer, bei 
 
 ### Was ist Nutzerforschung?
 
-Laut [Wikipedia] (https://en.wikipedia.org/wiki/User_research) geht es bei der Nutzerforschung darum, wie Menschen ein Produkt verwenden. Wenn jemand eine Schaufel kauft, was macht er dann damit? Gartenarbeit? Bauarbeiten? Leute verprügeln? Ein paar Augen aufmalen und mit ihr reden? Es kommt darauf an, wie die Menschen das Produkt benutzen.
+Laut [Wikipedia](https://en.wikipedia.org/wiki/User_research) geht es bei der Nutzerforschung darum, wie Menschen ein Produkt verwenden. Wenn jemand eine Schaufel kauft, was macht er dann damit? Gartenarbeit? Bauarbeiten? Leute verprügeln? Ein paar Augen aufmalen und mit ihr reden? Es kommt darauf an, wie die Menschen das Produkt benutzen.
 
 Forschung bedeutet normalerweise eine Reihe von qualitativen Interviews mit dem Benutzer. Dabei stellen wir Fragen wie: Was haben Sie das letzte Mal mit der Schaufel gemacht, als Sie sie benutzt haben? Wann haben Sie sie benutzt? Wie haben Sie sie benutzt? Warum haben Sie sie auf diese Weise benutzt? Was hat sich für dich verändert, nachdem du sie benutzt hast?
 
-Es ist wichtig zu beachten, dass gute Nutzerforschung über die beabsichtigte Nutzung hinausgeht. Menschen nutzen ein Produkt oft in einer Weise, die für sie hilfreich ist, aber nicht wie geplant. Hier ist ein gutes Beispiel für die [unbeabsichtigte Verwendung einer Bratpfanne] (https://www.youtube.com/watch?v=HA3SuHtCWo0&ab_channel=StoryfulViral). Manchmal kann die unbeabsichtigte Nutzung zur neuen Hauptnutzung werden, wie bei der [Post-It-Geschichte](https://www.post-it.com/3M/en_US/post-it/contact-us/about-us/).
+Es ist wichtig zu beachten, dass gute Nutzerforschung über die beabsichtigte Nutzung hinausgeht. Menschen nutzen ein Produkt oft in einer Weise, die für sie hilfreich ist, aber nicht wie geplant. Hier ist ein gutes Beispiel für die [unbeabsichtigte Verwendung einer Bratpfanne](https://www.youtube.com/watch?v=HA3SuHtCWo0&ab_channel=StoryfulViral). Manchmal kann die unbeabsichtigte Nutzung zur neuen Hauptnutzung werden, wie bei der [Post-It-Geschichte](https://www.post-it.com/3M/en_US/post-it/contact-us/about-us/).
 
 Der Hauptanwendungsfall für Benutzerforschung ist die Verbesserung des Produkts für Ihre Benutzer.
 

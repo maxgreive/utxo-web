@@ -52,7 +52,7 @@ Was, glauben Sie, wird in Ihrem Kunden vorgehen? Wenn er sieht, dass jemand ein 
 
 Ihr Kunde wird jetzt nicht kaufen. Er wird nicht einmal über Ihre Lösung nachdenken. Oder überhaupt an eine Lösung. Es ist ein ganzer Prozess, Vertrauen zu schaffen. Ihm die Möglichkeit zu geben, zu prüfen, ob er Ihre Lösung für geeignet hält. Und auch das kann einige Zeit in Anspruch nehmen. Es müssen einige Dinge im Leben Ihres Kunden passieren. Aber vielleicht erinnert er sich an Sie, wenn er in Phase zwei eintritt und aktiv nach einer Lösung sucht. Aufmerksamkeit gibt Ihnen einen Platz am Tisch. Sie ist die Option, die gewählt wird. Mehr nicht. Aber ohne sie können Sie nicht in die nächste Phase eintreten.
 
-Der Trick besteht darin, zu wissen, was die Probleme Ihrer Kunden sind. Und wie man die Probleme findet, die für die erste Phase relevant sind. Und dafür müssen Sie Ihren Kunden erst einmal zuhören. Oder um es mit den Worten von [Suzume] (https://youtu.be/5pTcio2hTSw?si=rK6rdhq8LGNFPVug) zu sagen: Wir hören zu, damit wir gehört werden können.
+Der Trick besteht darin, zu wissen, was die Probleme Ihrer Kunden sind. Und wie man die Probleme findet, die für die erste Phase relevant sind. Und dafür müssen Sie Ihren Kunden erst einmal zuhören. Oder um es mit den Worten von [Suzume](https://youtu.be/5pTcio2hTSw?si=rK6rdhq8LGNFPVug) zu sagen: Wir hören zu, damit wir gehört werden können.
 
 
 

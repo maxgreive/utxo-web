@@ -61,7 +61,7 @@ Die Befragung Ihrer zufriedenen Kunden ist auch eine Einstellungsfrage. Kunden, 
 
 Es gibt eine Reihe von [Artikeln über Fragen in diesem Blog](/tag/better-questions/). Darauf wird immer wieder zurückgegriffen. Wenn Sie keine zusätzliche Arbeit wollen, fragen Sie nicht danach. Wer um Veränderungen bittet, bittet um zusätzliche Arbeit.
 
-Ich habe [selbst viele Jahre lang als Produktmanager gearbeitet] (https://www.linkedin.com/in/martin-betz/). Sie sind für das Produkt verantwortlich. Daher sind Sie auch dafür verantwortlich, die Veränderung anzustoßen und sie umzusetzen. Und Ihre Karriere hängt davon ab, wie gut Ihr Produkt ist. Sie sehen den Konflikt darin, oder?
+Ich habe [selbst viele Jahre lang als Produktmanager gearbeitet](https://www.linkedin.com/in/martin-betz/). Sie sind für das Produkt verantwortlich. Daher sind Sie auch dafür verantwortlich, die Veränderung anzustoßen und sie umzusetzen. Und Ihre Karriere hängt davon ab, wie gut Ihr Produkt ist. Sie sehen den Konflikt darin, oder?
 
 ### Günstig zusammenfassen
 

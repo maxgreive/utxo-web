@@ -31,7 +31,7 @@ Das sind die Annahmen, von denen wir **nicht wissen, dass wir sie haben**. Sie w
 1. Wir sehen sie als Fakten an
 2. Wir sind uns nicht bewusst, dass wir auf diese Weise denken
 
-Wir **sehen sie als Tatsachen** könnte so etwas sein wie "der Himmel ist blau". [Der Himmel ist nicht wirklich blau, sondern violett, aber das können wir nicht sehen] (https://www.forbes.com/sites/briankoberlein/2017/01/11/earths-skies-are-violet-we-just-see-them-as-blue/?utm_source=better-business.beehiiv.com&utm_medium=referral&utm_campaign=we-assume-a-world-that-isn-t-there) Immer wenn unsere Überzeugung von einer Annahme groß genug ist, sehen wir sie als Tatsache an. Wir neigen dazu, zu unterschätzen, wie viele Dinge wir tatsächlich nicht wissen.
+Wir **sehen sie als Tatsachen** könnte so etwas sein wie "der Himmel ist blau". [Der Himmel ist nicht wirklich blau, sondern violett, aber das können wir nicht sehen](https://www.forbes.com/sites/briankoberlein/2017/01/11/earths-skies-are-violet-we-just-see-them-as-blue/?utm_source=better-business.beehiiv.com&utm_medium=referral&utm_campaign=we-assume-a-world-that-isn-t-there) Immer wenn unsere Überzeugung von einer Annahme groß genug ist, sehen wir sie als Tatsache an. Wir neigen dazu, zu unterschätzen, wie viele Dinge wir tatsächlich nicht wissen.
 
 Noch häufiger sind **Glaubenssätze, die uns nicht bewusst sind**. Dabei handelt es sich oft um kulturelle Überzeugungen oder um Dinge, die jeder um uns herum als selbstverständlich ansieht. Menschen, die eine Zeit lang in einer anderen Kultur arbeiten, stellen dies oft fest. Viele ihrer unbekannten Annahmen werden in Frage gestellt.
 

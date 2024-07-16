@@ -15,7 +15,7 @@ Wenn wir uns die Art und Weise ansehen, wie KI heute eingesetzt wird, gibt es ei
 - Erstellen von Inhalten (Bilder, Videos, Text, Code)
 - Automatisierung
 
-Natürlich sind das nicht alle KI-Anwendungsfälle. Aber das sind die wichtigsten, die ChatGPT und ähnliche Modelle so vielen Menschen zugänglich gemacht haben. Das sind die Fälle, in denen sich auch unerfahrene Benutzer in der Lage fühlen, damit zu arbeiten. Sie benötigen keine ganzen Teams von Entwicklern und Datenwissenschaftlern, um Anwendungsfälle zu erstellen. Denn Sie öffnen einfach [ChatGPT] (https://chat.openai.com/) oder [Midjourney] (https://www.midjourney.com/) oder eines der vielen anderen und beginnen mit Ihrer Idee. Die Dinge, die Sie tun wollen, sind normalerweise eine spezifischere Version von:
+Natürlich sind das nicht alle KI-Anwendungsfälle. Aber das sind die wichtigsten, die ChatGPT und ähnliche Modelle so vielen Menschen zugänglich gemacht haben. Das sind die Fälle, in denen sich auch unerfahrene Benutzer in der Lage fühlen, damit zu arbeiten. Sie benötigen keine ganzen Teams von Entwicklern und Datenwissenschaftlern, um Anwendungsfälle zu erstellen. Denn Sie öffnen einfach [ChatGPT](https://chat.openai.com/) oder [Midjourney](https://www.midjourney.com/) oder eines der vielen anderen und beginnen mit Ihrer Idee. Die Dinge, die Sie tun wollen, sind normalerweise eine spezifischere Version von:
 
 - Gib mir Informationen aus einer Datenquelle
 - Umstrukturierung dieser Daten für einen bestimmten Anwendungsfall
