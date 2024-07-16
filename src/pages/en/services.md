@@ -1,7 +1,15 @@
 ---
 layout: '@layouts/ServicesOverview.astro'
 collection: services
-title: The features that make our Service unique 🇬🇧
-subtitle: What we do for you 🇬🇧
-description: Morem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elita Florai Psum Dolor Amet, Consectetuolor Sit Amet, Consectetu. 🇬🇧
+title: Services
+subtitle: What we can do for you
+introTitle: Our customised services for your success
+description: Discover our comprehensive services aimed at taking your business to the next level. Let's work together to achieve your goals and drive your growth.
+services:
+  - data:
+      title: Business transformation service
+      description: We support you in the transformation of your company and help you to establish customer-orientated structures.
+      icon: flaticon-mission
+      link: https://cal.com/martinbetz
+      linkLabel: Talk to us
 ---

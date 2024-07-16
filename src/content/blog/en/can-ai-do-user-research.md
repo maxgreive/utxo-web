@@ -2,8 +2,6 @@
 title: "Can AI do user research?"
 author: Martin Betz
 pubDate: "2024-02-15"
-categories:
-  - "newsletter"
 tags:
   - "ai"
   - "customer-research"

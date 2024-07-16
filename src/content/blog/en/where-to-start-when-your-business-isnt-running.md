@@ -2,8 +2,6 @@
 title: "Where to start when your business isn't running"
 author: Martin Betz
 pubDate: "2023-11-13"
-categories:
-  - "newsletter"
 tags:
   - "business-strategy"
   - "experiments"

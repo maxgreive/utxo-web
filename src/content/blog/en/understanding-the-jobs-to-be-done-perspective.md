@@ -2,8 +2,6 @@
 title: "Understanding the jobs to be done perspective"
 author: Martin Betz
 pubDate: "2024-01-17"
-categories:
-  - "newsletter"
 tags:
   - "framework"
   - "jobs-to-be-done"

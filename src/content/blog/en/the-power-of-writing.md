@@ -2,8 +2,6 @@
 title: "The power of writing"
 author: Martin Betz
 pubDate: "2024-01-26"
-categories:
-  - "newsletter"
 tags:
   - "personal"
   - "progress"

@@ -2,8 +2,6 @@
 title: "What makes your business fit?"
 author: Martin Betz
 pubDate: "2023-11-27"
-categories:
-  - "newsletter"
 tags:
   - "business-culture-fit"
   - "problem-solution-fit"

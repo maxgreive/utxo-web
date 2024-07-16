@@ -2,8 +2,6 @@
 title: "Why do companies buy customer research at all?"
 author: Martin Betz
 pubDate: "2024-02-02"
-categories:
-  - "newsletter"
 tags:
   - "customer-research"
   - "innovation"

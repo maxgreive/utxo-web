@@ -1,13 +1,10 @@
 ---
 title: "Korrelation mit Kausalität verwechseln"
 author: Martin Betz
-pubDate: "2023-12-18"
-categories:
-  - "newsletter"
-tags:
-  - "kausalität"
-  - "korrelation"
-  - "rationalität"
+pubDate: "2023-12-18"tags:
+  - "causailty"
+  - "correlation"
+  - "rationality"
 previewImage: "./images/DALL·E-2023-12-15-11.27.50-A-businessman-dressed-in-a-sleek-suit-stands-in-the-center-of-the-image-looking-amazed-with-wide-eyes-and-a-slightly-open-mouth.-Around-him-numero.png"
 ---
 

@@ -1,10 +1,7 @@
 ---
 title: "Fünf Schritte, um bessere Fragen zu stellen"
 author: Martin Betz
-pubDate: "2023-12-04"
-categories:
-  - "newsletter"
-tags:
+pubDate: "2023-12-04"tags:
   - "better-questions"
   - "competing-against-luck"
   - "feedback"

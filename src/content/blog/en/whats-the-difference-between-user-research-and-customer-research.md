@@ -1,10 +1,7 @@
 ---
 title: "Whats the difference between user research and customer research?"
 author: Martin Betz
-pubDate: "2024-02-27"
-categories:
-  - "newsletter"
-tags:
+pubDate: "2024-02-27"tags:
   - "customer-research"
   - "framework"
   - "product-market-fit"

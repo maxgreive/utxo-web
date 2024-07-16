@@ -1,10 +1,7 @@
 ---
 title: "Sind Personas nützlich für die Produktentwicklung?"
 author: Martin Betz
-pubDate: "2024-01-15"
-categories:
-  - "newsletter"
-tags:
+pubDate: "2024-01-15"tags:
   - "framework"
   - "personas"
   - "structure"

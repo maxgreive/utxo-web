@@ -2,8 +2,6 @@
 title: "Questioning artificial intelligence?"
 author: Martin Betz
 pubDate: "2024-02-08"
-categories:
-  - "newsletter"
 tags:
   - "ai"
   - "better-questions"

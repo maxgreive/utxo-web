@@ -2,8 +2,6 @@
 title: "Your language limits your achievements"
 author: Martin Betz
 pubDate: "2024-01-31"
-categories:
-  - "newsletter"
 tags:
   - "framework"
   - "how-to"

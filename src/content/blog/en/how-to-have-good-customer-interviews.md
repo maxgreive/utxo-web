@@ -1,10 +1,7 @@
 ---
 title: "How to have good customer interviews?"
 author: Martin Betz
-pubDate: "2024-01-19"
-categories:
-  - "newsletter"
-tags:
+pubDate: "2024-01-19"tags:
   - "better-questions"
   - "customer-research"
   - "jobs-to-be-done"

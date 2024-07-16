@@ -2,8 +2,6 @@
 title: "The missing dimension in building sustainable products"
 author: Martin Betz
 pubDate: "2024-01-29"
-categories:
-  - "newsletter"
 tags:
   - "business-strategy"
   - "problem-solution-fit"

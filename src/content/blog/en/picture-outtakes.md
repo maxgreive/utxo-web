@@ -2,8 +2,6 @@
 title: "Christmas special: AI picture outtakes"
 author: Martin Betz
 pubDate: "2023-12-22"
-categories:
-  - "newsletter"
 tags:
   - "ai"
   - "humor"

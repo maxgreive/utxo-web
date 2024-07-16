@@ -2,8 +2,6 @@
 title: "Structuring unlearned information"
 author: Martin Betz
 pubDate: "2023-11-22"
-categories:
-  - "newsletter"
 tags:
   - "better-questions"
   - "data"

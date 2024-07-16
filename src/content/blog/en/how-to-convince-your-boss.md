@@ -2,8 +2,6 @@
 title: "How to convince your boss?"
 author: Martin Betz
 pubDate: "2024-02-05"
-categories:
-  - "newsletter"
 tags:
   - "decision-making"
   - "framework"

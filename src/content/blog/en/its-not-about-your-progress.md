@@ -2,8 +2,6 @@
 title: "It's not about your progress"
 author: Martin Betz
 pubDate: "2023-11-17"
-categories:
-  - "newsletter"
 tags:
   - "customer-focus"
   - "features"

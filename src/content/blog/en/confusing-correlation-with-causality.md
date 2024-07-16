@@ -1,10 +1,7 @@
 ---
 title: "Confusing correlation with causality"
 author: Martin Betz
-pubDate: "2023-12-18"
-categories:
-  - "newsletter"
-tags:
+pubDate: "2023-12-18"tags:
   - "causailty"
   - "correlation"
   - "rationality"

@@ -1,10 +1,7 @@
 ---
 title: "How to achieve product language fit"
 author: Martin Betz
-pubDate: "2023-12-13"
-categories:
-  - "newsletter"
-tags:
+pubDate: "2023-12-13"tags:
   - "buying-phases"
   - "customer-focus"
   - "product-language-fit"

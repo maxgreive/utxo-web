@@ -2,8 +2,6 @@
 title: "Five steps to ask better questions"
 author: Martin Betz
 pubDate: "2023-12-04"
-categories:
-  - "newsletter"
 tags:
   - "better-questions"
   - "competing-against-luck"

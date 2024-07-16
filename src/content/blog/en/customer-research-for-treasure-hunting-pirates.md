@@ -1,10 +1,7 @@
 ---
 title: "Customer research for treasure hunting pirates"
 author: Martin Betz
-pubDate: "2024-03-12"
-categories:
-  - "newsletter"
-tags:
+pubDate: "2024-03-12"tags:
   - "customer-research"
   - "framework"
   - "humor"

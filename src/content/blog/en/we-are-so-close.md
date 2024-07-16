@@ -2,8 +2,6 @@
 title: "We are so close"
 author: Martin Betz
 pubDate: "2023-11-29"
-categories:
-  - "newsletter"
 tags:
   - "bias"
   - "decision-making"
