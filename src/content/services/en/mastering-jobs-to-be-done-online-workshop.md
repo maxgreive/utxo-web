@@ -2,7 +2,7 @@
 title: Mastering Jobs to Be Done Online Workshop
 pubDate: 'Jul 22 2022'
 description: Register today and take the first step towards successfully implementing the Jobs-to-Be-Done methodology in your company. Together we will achieve your goals!
-previewImage: ./images/workshop-timer.jpg
+previewImage: ../images/workshop-timer.jpg
 icon: flaticon-round-table
 questions:
   - question: Is there a certificate?
