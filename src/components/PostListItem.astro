@@ -33,6 +33,8 @@ let person: Person = people.find((person) => {
               alt={post.data.title}
               width={510}
               height={200}
+              widths={[240, 320, 400, 600]}
+              sizes={`(max-width: 767px) 600px, (max-width: 992px) 240px, (max-width: 1199px) 320px, 400px`}
             />
           </a>
         )
