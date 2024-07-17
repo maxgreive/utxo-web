@@ -7,8 +7,7 @@ import { people, getPersonPath, type Person } from "@src/utilities/people";
 import { getTagPath } from "@src/utilities/tags";
 
 const { frontmatter, post } = Astro.props,
-  collection = frontmatter.collection,
-  coverImage = await getImage({ src: post.data.previewImage });
+  collection = frontmatter.collection;
 
 let person: Person = people.find((person) => {
   return person.fullName === post.data.author;
@@ -19,21 +18,20 @@ let person: Person = people.find((person) => {
   <div class="blog-post-item-two">
     <div class="blog-post-thumb-two">
       {
-        coverImage.src && (
+        post.data.previewImage && (
           <a
             href={`${getRelativePostPath(
               Astro.currentLocale,
               collection,
-              post.slug,
+              post.slug
             )}`}
           >
             <Picture
-              src={coverImage.src}
-              formats={["avif", "webp"]}
+              src={post.data.previewImage}
+              format="webp"
               alt={post.data.title}
-              width={510}
-              height={200}
               widths={[240, 320, 400, 600]}
+              inferSize
               sizes={`(max-width: 767px) 600px, (max-width: 992px) 240px, (max-width: 1199px) 320px, 400px`}
             />
           </a>
@@ -56,7 +54,7 @@ let person: Person = people.find((person) => {
           href={`${getRelativePostPath(
             Astro.currentLocale,
             collection,
-            post.slug,
+            post.slug
           )}`}>{post.data.title}</a
         >
       </h2>

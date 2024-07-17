@@ -36,7 +36,6 @@ const { frontmatter, collection } = Astro.props,
 let translationsAvailable = [];
 let translationLinks: TranslationLink[] = [];
 
-console.log('reference:', reference)
 if (reference) {
   if (collection === "pages") {
     // The current page is not part of a collection

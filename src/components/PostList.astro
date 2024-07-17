@@ -12,7 +12,11 @@ const { posts } = Astro.props;
         <div class="col">
           <div class="blog-post-wrap">
             <div class="row">
-              {(posts ?? []).map((post: any) => <PostListItem post={post} {frontmatter} />)}
+              {
+                (posts ?? []).map((post: any) => (
+                  <PostListItem post={post} {frontmatter} />
+                ))
+              }
             </div>
           </div>
         </div>
