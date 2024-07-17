@@ -7,6 +7,7 @@ tags:
   - "entrepreneurship"
   - "skills"
 previewImage: "../images/DALL·E-2024-01-03-16.41.31-A-businessman-looking-at-a-giant-masterplan-on-an-office-wall.-The-image-is-in-a-watercolor-and-geometric-style-featuring-colors-of-blue-and-mint.-Th.png"
+reference: most-important-business-skills
 ---
 
 Yesterday I held a talk about entrepreneuship. _**"How to start a successful business"**_ is probably the question I recieved most over the last 2 years. At least if I don't count "how are you" and my son asking me "where is xyz toy". Way more people think about starting a business then actually do. The biggest reason for this is: **uncertainty**.

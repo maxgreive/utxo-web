@@ -1,11 +1,13 @@
 ---
 title: "Wie vermeidet man den bestätigenden Forschungsbias?"
 author: Martin Betz
-pubDate: "2024-01-22"tags:
+pubDate: "2024-01-22"
+tags:
   - "better-questions"
   - "bias"
   - "customer-research"
 previewImage: "./images/DALL·E-2024-01-21-20.55.56-A-watercolor-slightly-geometric-styled-painting-depicting-a-customer-research-scenario.-The-scene-includes-a-customer-with-their-mouth-duct-taped-and.png"
+reference: how-to-avoid-the-confirming-research-bias
 ---
 
 Wenn man schon lange im Geschäft ist, weiß man normalerweise, was man tut. Zumindest bis zu einem gewissen Grad. Sonst wäre man ja nicht mehr im Geschäft. Das heißt aber nicht, dass Sie jemals Kundenforschung betrieben haben, seit Ihr Unternehmen existiert. Und wenn Sie zum ersten Mal Kundenforschung betreiben, sind Sie anfällig für den bestätigenden Forschungsbias.

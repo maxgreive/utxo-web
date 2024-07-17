@@ -1,13 +1,15 @@
 ---
 title: "Was macht Ihr Unternehmen fit?"
 author: Martin Betz
-pubDate: "2023-11-27"tags:
+pubDate: "2023-11-27"
+tags:
   - "business-culture-fit"
   - "problem-solution-fit"
   - "product-business-fit"
   - "product-language-fit"
   - "product-market-fit"
 previewImage: "./images/DALL·E-2023-11-20-17.52.51-A-very-muscular-man-with-a-hipster-beard-dressed-in-a-suit-is-trying-to-solve-a-puzzle-in-a-semi-full-cafe.-The-art-style-combines-watercolor-with-g.png"
+reference: what-makes-your-business-fit
 ---
 
 ### Erfolg ist die Kombination aus vielen Dingen, die richtig laufen

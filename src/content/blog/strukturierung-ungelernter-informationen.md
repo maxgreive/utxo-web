@@ -1,12 +1,14 @@
 ---
 title: "Strukturierung nicht gelernter Informationen"
 author: Martin Betz
-pubDate: "2023-11-22"tags:
+pubDate: "2023-11-22"
+tags:
   - "better-questions"
   - "data"
   - "structure"
   - "thinking-ahead"
 previewImage: "./images/DALL·E-2023-11-13-13.56.44-A-woman-placing-cubes-of-data-into-labeled-boxes.-The-scene-is-dominated-by-blue-and-mint-colors-blending-a-watercolor-aesthetic-with-slightly-geomet.png"
+reference: structuring-unlearned-information
 ---
 
 Vor kurzem habe ich unsere Unternehmensordnerstruktur aufgeräumt. Die Herausforderung dabei ist, dass man zwei Arten von Daten hat. Vorhandene Daten und zukünftige Daten.

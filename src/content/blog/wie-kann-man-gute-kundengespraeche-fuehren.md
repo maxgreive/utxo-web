@@ -1,11 +1,13 @@
 ---
 title: "Wie führt man gute Kundengespräche?"
 author: Martin Betz
-pubDate: "2024-01-19"tags:
+pubDate: "2024-01-19"
+tags:
   - "better-questions"
   - "customer-research"
   - "jobs-to-be-done"
 previewImage: "./images/DALL·E-2024-01-18-23.07.56-An-artistic-representation-of-a-customer-research-interview-situation-illustrated-in-a-watercolor-style-with-a-slightly-geometric-approach.-The-scene.png"
+reference: how-to-have-good-customer-interviews
 ---
 
 Es gibt einen häufigen Zweifel in Unternehmen, die einen [research sprint](/services/jobs-to-be-done-agency/) mit uns durchführen. Es ist: "Werden unsere Kunden uns sagen, was wir wissen müssen?" Es ist für sie schwer vorstellbar, dass jemand 60 bis 90 Minuten damit verbringen wird, Ihnen alles über seine Entscheidungsfindung zu erzählen. Nur damit sie sich verbessern können. Dies ist ein kurzer Leitfaden für gute Kundeninterviews mit aussagekräftigen Ergebnissen.

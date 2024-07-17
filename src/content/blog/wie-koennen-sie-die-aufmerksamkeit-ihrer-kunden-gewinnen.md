@@ -1,11 +1,13 @@
 ---
 title: "Wie können Sie die Aufmerksamkeit Ihrer Kunden gewinnen?"
 author: Martin Betz
-pubDate: "2024-02-07"tags:
+pubDate: "2024-02-07"
+tags:
   - "how-to"
   - "language"
   - "wheel-of-progress"
 previewImage: "./images/file-8u7NExDQCpRLhewgHQ9diaXA.jpg"
+reference: how-to-get-your-customers-attention
 ---
 
 Kennen Sie das Gefühl, ein wirklich tolles Produkt zu haben, aber Ihr Kunde nimmt Sie einfach nicht wahr? Wenn Sie super sicher sind, dass die Leute kaufen würden, wenn sie nur zuhören würden, wie gut Sie ihnen helfen können? Wie wertvoll Ihr Produkt ist? Aber aus irgendeinem Grund können Sie ihre Aufmerksamkeit nicht erlangen?

@@ -1,11 +1,13 @@
 ---
 title: "Wo soll man anfangen, wenn das Geschäft nicht läuft"
 author: Martin Betz
-pubDate: "2023-11-13"tags:
+pubDate: "2023-11-13"
+tags:
   - "business-strategy"
   - "experiments"
   - "hypothesis"
 previewImage: "./images/DALL·E-2023-11-07-15.15.20-A-wide-artistic-representation-of-a-new-beginning-using-a-watercolor-and-geometric-style-with-blue-and-mint-as-the-dominant-colors.-The-image-should.png"
+reference: where-to-start-when-your-business-isnt-running
 ---
 
 Dass Dinge nicht so laufen, wie man es sich wünscht, ist eher die Regel als die Ausnahme. Sie sollten also besser wissen, wie man sie beheben kann.

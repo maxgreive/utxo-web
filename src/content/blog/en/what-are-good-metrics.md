@@ -7,6 +7,7 @@ tags:
   - "how-to"
   - "metrics"
 previewImage: "../images/DALL·E-2023-11-09-16.46.38-A-wide-image-of-a-workshop-wall-filled-with-an-array-of-business-metrics.-The-wall-features-a-variety-of-geometric-shapes-representing-different-chart.png"
+reference: what-are-good-metrics
 ---
 
 There are two types of metrics: **points** and **vectors**.

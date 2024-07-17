@@ -1,11 +1,13 @@
 ---
 title: "Sind Personas nützlich für die Produktentwicklung?"
 author: Martin Betz
-pubDate: "2024-01-15"tags:
+pubDate: "2024-01-15"
+tags:
   - "framework"
   - "personas"
   - "structure"
 previewImage: "./images/DALL·E-2024-01-14-23.54.27-A-persona-sheet-used-in-marketing-or-product-development-in-a-watercolor-and-slightly-geometric-style.-The-sheet-should-include-various-sections-for-.png"
+reference: are-personas-useful-for-product-development
 ---
 
 Ein häufig verwendetes Werkzeug im Produktdesign sind Personas. Die Idee hinter einer Persona ist, eine detailliertere Beschreibung Ihres Zielkunden zu haben. Dies soll Ihnen helfen, sich in die Perspektive Ihrer Kunden hineinzuversetzen. Aber sind sie als Werkzeug nützlich?

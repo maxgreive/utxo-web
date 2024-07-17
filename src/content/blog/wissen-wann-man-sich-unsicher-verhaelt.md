@@ -1,11 +1,13 @@
 ---
 title: "Wissen, wann man sich unsicher verhält"
 author: Martin Betz
-pubDate: "2023-12-20"tags:
+pubDate: "2023-12-20"
+tags:
   - "business-strategy"
   - "entrepreneurship"
   - "personal"
 previewImage: "./images/DALL·E-2023-12-14-15.37.27-A-watercolor-geometric-style-painting-of-an-entrepreneur-standing-boldly-gazing-towards-the-horizon.-The-entrepreneurs-exterior-expression-is-confid.png"
+reference: knowing-when-to-act-insecure
 ---
 
 Besonders als Unternehmer müssen wir **kühn** und mutig sein. Wir müssen so tun, als wüssten wir, was zu tun ist, auch wenn wir es normalerweise nicht wissen. Wenn wir gefragt werden, wie das Geschäft läuft, läuft es immer großartig. Aus strategischen Gründen. Niemand möchte mit erfolglosen Unternehmen zusammenarbeiten, und Erfolg bringt Erfolg mit sich. Deshalb ist es sehr schwer, zu wissen, wann wir unsere Unsicherheiten tatsächlich zugeben können.

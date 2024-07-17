@@ -1,11 +1,13 @@
 ---
 title: "Die Geschichten, die wir uns erzählen, wenn wir versagen"
 author: Martin Betz
-pubDate: "2024-02-12"tags:
+pubDate: "2024-02-12"
+tags:
   - "entrepreneurship"
   - "failure"
   - "personal"
 previewImage: "./images/file-bITzkiUdsRr9618NyO6PEfsx-5.png"
+reference: the-stories-we-tell-ourselves-when-we-fail
 ---
 
 Was tun Sie, wenn sich Ihr Produkt nicht so verkauft, wie Sie es sich wünschen? Wenn Sie sich alle Mühe geben, aber keine Ergebnisse erzielen? Wenn du dein Bestes gibst, aber es sich so anfühlt, als wäre alles umsonst? Was ist das für eine Geschichte, die Sie sich nachts erzählen? Ich habe mit vielen Menschen gesprochen, die sich in genau dieser Situation befinden. Denn eine der tödlichsten Kombinationen im Geschäftsleben ist, wenn zwei Dinge aufeinandertreffen. Die Unfähigkeit, Ihr Produkt zu einem rentablen Preis zu verkaufen. Und die Unfähigkeit, dabei ehrlich zu sein.

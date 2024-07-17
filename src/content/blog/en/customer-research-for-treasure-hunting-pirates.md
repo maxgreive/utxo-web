@@ -1,11 +1,13 @@
 ---
 title: "Customer research for treasure hunting pirates"
 author: Martin Betz
-pubDate: "2024-03-12"tags:
+pubDate: "2024-03-12"
+tags:
   - "customer-research"
   - "framework"
   - "humor"
 previewImage: "../images/file-Rj4sm7f9VoeMuRjBQ4rRcimJ-1.jpg"
+reference: customer-research-for-treasure-hunting-pirates
 ---
 
 Imagine, you are a pirate. You have a ship, a captains hat and a parot. "A paarrrot" says the parrot. You have many things, that you love to do, but there is one you love beyond all others: Finding treasures. As every good pirate, you know, that treasures are buried by other pirates. If you have a treasure map, they are easy to find. But you have none. That's a severe hinderance to your treasure finding passion.

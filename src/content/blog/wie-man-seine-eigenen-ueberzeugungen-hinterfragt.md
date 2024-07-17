@@ -1,11 +1,13 @@
 ---
 title: "Wie man seine eigenen Überzeugungen hinterfragt"
 author: Martin Betz
-pubDate: "2023-11-24"tags:
+pubDate: "2023-11-24"
+tags:
   - "feedback"
   - "learning"
   - "rationality"
 previewImage: "./images/DALL·E-2023-11-13-17.38.23-An-image-of-a-person-reengineering-her-own-brain-with-an-emphasis-on-creativity-and-introspection.-The-dominant-colors-in-the-scene-are-blue-and-mint.png"
+reference: how-to-challenge-your-own-beliefs
 ---
 
 Auf einer sehr hohen Ebene gibt es nur drei Dinge, die man im Geschäftsleben beherrschen muss.

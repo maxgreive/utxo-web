@@ -1,11 +1,13 @@
 ---
 title: "Wo kann man mit alltäglichen Kundengesprächen beginnen?"
 author: Martin Betz
-pubDate: "2024-02-29"tags:
+pubDate: "2024-02-29"
+tags:
   - "better-questions"
   - "customer-research"
   - "how-to"
 previewImage: "./images/file-l0KqLT55gi6BHNW08ecNsnNr.png"
+reference: where-to-start-with-everyday-customer-interviews
 ---
 
 Dies ist für all diejenigen, die noch nie echte Kundenforschung betrieben haben, aber gerne die Vorteile nutzen würden. Für alle, die ein tolles Produkt entwickeln wollen, aber nicht wissen, wo sie anfangen sollen. Und für alle, die nicht das Geld haben, um Profis für diesen Job zu engagieren. Dies ist das tägliche Kundeninterview 101.

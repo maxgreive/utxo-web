@@ -1,11 +1,13 @@
 ---
 title: "Warum fällt es Ihnen manchmal schwer, mit Ihren Kunden zu sprechen?"
 author: Martin Betz
-pubDate: "2024-01-12"tags:
+pubDate: "2024-01-12"
+tags:
   - "conversation"
   - "experimental"
   - "thinking-ahead"
 previewImage: "./images/DALL·E-2024-01-11-23.17.48-Two-businesspeople-having-a-discussion-but-looking-exhausted.-The-style-is-watercolor-with-a-slightly-geometric-touch.-The-color-scheme-is-predominant.png"
+reference: why-talking-to-your-customers-sometimes-feels-hard
 ---
 
 Wir sprechen in diesem Blog viel über die Notwendigkeit, mit Ihren Kunden zu sprechen. Und über die Vorteile, die es mit sich bringt, andere Perspektiven als die eigene zu verstehen. Aber manchmal ist es schwer, mit Menschen zu sprechen. Im Allgemeinen, nicht nur mit Kunden. Es erfordert Energie. Zumindest, wenn wir es richtig machen wollen. Und richtig bedeutet, dass "mit jemandem reden" meistens "zuhören" bedeutet.

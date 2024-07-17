@@ -1,11 +1,13 @@
 ---
 title: "Würden Sie lieber einen Delfin essen oder unser Produkt kaufen?"
 author: Martin Betz
-pubDate: "2023-12-15"tags:
+pubDate: "2023-12-15"
+tags:
   - "better-questions"
   - "customer-research"
   - "feedback"
 previewImage: "./images/DALL·E-2023-12-13-15.41.51-A-watercolor-geometric-style-illustration-depicting-a-small-dolphin-figurine-on-a-plate-in-a-restaurant-setting.-The-dolphin-should-be-portrayed-as-a-.png"
+reference: would-you-rather-eat-a-dolphin-or-buy-our-product
 ---
 
 Der aktuelle **Zustand der Marktforschung** ist ziemlich seltsam. Um zu sehen, was ich meine, versuchen Sie das Folgende:

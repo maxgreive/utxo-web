@@ -1,11 +1,13 @@
 ---
 title: "Wir sind so nah dran"
 author: Martin Betz
-pubDate: "2023-11-29"tags:
+pubDate: "2023-11-29"
+tags:
   - "bias"
   - "decision-making"
   - "make-or-buy"
 previewImage: "./images/DALL·E-2023-12-06-17.27.57-A-watercolor-geometric-style-illustration-depicting-a-businessman-mid-air-almost-reaching-the-top-of-a-cliff.-The-dynamic-pose-of-the-businessman-sho.png"
+reference: we-are-so-close
 ---
 
 Eine grundlegende Entscheidung im Geschäftsleben ist die **Entscheidung, ob Sie etwas selbst machen oder kaufen**. Soll man etwas selbst machen oder jemanden damit beauftragen.

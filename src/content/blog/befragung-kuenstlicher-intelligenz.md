@@ -1,11 +1,13 @@
 ---
 title: "Künstliche Intelligenz in Frage stellen?"
 author: Martin Betz
-pubDate: "2024-02-08"tags:
+pubDate: "2024-02-08"
+tags:
   - "ai"
   - "better-questions"
   - "thinking-ahead"
 previewImage: "./images/file-w6tHvawDGiWJsvSVFizStlw5.png"
+reference: questioning-artificial-intelligence
 ---
 
 Wenn wir uns die Art und Weise ansehen, wie KI heute eingesetzt wird, gibt es einen großen Fehler: Niemand stellt genügend Fragen. Nicht der Nutzer und nicht die KI. Ich beobachte schon seit geraumer Zeit, wie Menschen KI nutzen. ChatGPT und andere haben große Durchbrüche in der Zugänglichkeit von KI im Dialog erzielt. Infolgedessen haben sich im letzten Jahr viele neue Nutzungsmöglichkeiten ergeben. Ein klassisches Ergebnis der Demokratisierung einer bahnbrechenden Technologie. Jeder spielt mit ihr herum. Baut mit ihr. Und findet seinen oder ihren eigenen Stil. Es scheint jedoch hauptsächlich vier Arten zu geben, wie Menschen Konversations-KI nutzen:

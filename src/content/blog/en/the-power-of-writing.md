@@ -7,6 +7,7 @@ tags:
   - "progress"
   - "writing"
 previewImage: "../images/DALL·E-2024-01-25-23.55.58-A-watercolor-slightly-geometric-styled-painting-depicting-a-man-in-his-thirties-wearing-a-hoodie-sitting-at-his-desk-at-night-writing-a-newsletter-.png"
+reference: the-power-of-writing
 ---
 
 This is the 30th episode of this newsletter / blog. I published the [first episode](/en/blog/where-to-start-when-your-business-isnt-running/) on the 13th of November 2023. Here is what I learned about the power of writing since then.

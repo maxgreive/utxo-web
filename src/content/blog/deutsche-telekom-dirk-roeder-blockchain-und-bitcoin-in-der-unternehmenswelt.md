@@ -1,11 +1,13 @@
 ---
 title: "Deutsche Telekoms Dirk Roeder: Blockchain und Bitcoin in der Unternehmenswelt"
 author: Martin Betz
-pubDate: "2023-12-11"tags:
+pubDate: "2023-12-11"
+tags:
   - "business-strategy"
   - "podcast"
   - "the-bitcoin-effekt"
 previewImage: "./images/file-Zqn8d8ncdZoHIhYTFGa0gdhK.png"
+reference: deutsche-telekoms-dirk-roeder-navigating-blockchain-and-bitcoin-in-the-corporate-world
 ---
 
 In einer Ära, in der Blockchain und Bitcoin die Geschäftswelt verändern, ist es entscheidend, ihre Auswirkungen aus unternehmerischer Perspektive zu verstehen. In der neuesten Folge des Innovate+Upgrade-Podcasts tauchen wir tief in dieses Thema ein mit Dirk Roeder, einer Schlüsselfigur im Web3-Infrastruktur- und Lösungsteam der Deutschen Telekom.

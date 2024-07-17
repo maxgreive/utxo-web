@@ -1,11 +1,13 @@
 ---
 title: "Wie kann man Problem und Lösung trennen?"
 author: Martin Betz
-pubDate: "2024-01-24"tags:
+pubDate: "2024-01-24"
+tags:
   - "bias"
   - "framework"
   - "problem-solution-fit"
 previewImage: "./images/DALL·E-2024-01-23-16.44.18-A-watercolor-slightly-geometric-styled-painting-depicting-a-magnifying-glass-and-a-cogwheel-crushing-into-each-other.-This-scene-symbolizes-the-confl.png"
+reference: how-to-separate-problem-and-solution
 ---
 
 Man kann nur Probleme lösen, die man versteht. Man kann ein Problem nur verstehen, wenn man es untersucht. Und um das zu tun, muss man zumindest eine Hypothese über das Problem haben. Und wenn man eine Hypothese über das Problem hat, hat man oft schon eine Lösung im Kopf. Das ist einfach die menschliche Natur - voreilige Schlüsse zu ziehen.

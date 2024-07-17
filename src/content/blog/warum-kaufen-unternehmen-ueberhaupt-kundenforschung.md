@@ -1,11 +1,13 @@
 ---
 title: "Warum kaufen Unternehmen überhaupt Kundenforschung??"
 author: Martin Betz
-pubDate: "2024-02-02"tags:
+pubDate: "2024-02-02"
+tags:
   - "customer-research"
   - "innovation"
   - "jobs-to-be-done"
 previewImage: "./images/DALL·E-2024-02-01-23.13.35-A-watercolor-and-slightly-geometric-style-illustration-of-a-businessman-in-the-iconic-pose-from-the-shut-up-and-take-my-money-meme-replacing-Fry.-T.png"
+reference: why-do-companies-buy-customer-research-at-all
 ---
 
 Sollte ich in Kundenforschung investieren? Wann immer ich diese Frage gestellt bekomme, lautet meine Antwort in der Regel so etwas wie: Ich weiß es nicht. Woher wollen Sie wissen, ob Sie es tun sollten? Was sind Ihre Kriterien, um diese Entscheidung zu treffen? Was ist in der Vergangenheit passiert, das Sie dazu gebracht hat, über diese Frage nachzudenken? Wir verkaufen den Unternehmen nichts, wenn sie es nicht brauchen. Ob jemand unsere Dienstleistungen braucht, kann niemals unsere Entscheidung sein.

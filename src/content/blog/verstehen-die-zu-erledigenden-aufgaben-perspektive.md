@@ -1,11 +1,13 @@
 ---
 title: "Die Perspektive der zu erledigenden Aufgaben verstehen"
 author: Martin Betz
-pubDate: "2024-01-17"tags:
+pubDate: "2024-01-17"
+tags:
   - "framework"
   - "jobs-to-be-done"
   - "structure"
 previewImage: "./images/DALL·E-2024-01-16-23.25.33-An-artistic-depiction-of-a-businessman-in-an-office-with-one-wall-dedicated-to-explanations-about-customer-research.-The-wall-is-filled-with-various-.png"
+reference: understanding-the-jobs-to-be-done-perspective
 ---
 
 Die Menschen befinden sich immer in einem von zwei Zuständen. Entweder entscheiden sie, was sie tun werden, oder sie tun, was sie beschlossen haben zu tun. Dieser Blog konzentriert sich auf das Verständnis, warum Menschen so entscheiden, wie sie es tun. Der Rahmen, den wir bei UTXO Solutions dafür verwenden, basiert auf der Theorie der zu erledigenden Aufgaben. So sieht es auf einer sehr hohen Ebene aus:

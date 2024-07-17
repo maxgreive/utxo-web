@@ -1,11 +1,13 @@
 ---
 title: "Deutsche Telekom's Dirk Roeder: Navigating Blockchain and Bitcoin in the Corporate World"
 author: Martin Betz
-pubDate: "2023-12-11"tags:
+pubDate: "2023-12-11"
+tags:
   - "business-strategy"
   - "podcast"
   - "the-bitcoin-effekt"
 previewImage: "../images/Telekom_Blockchain.png"
+reference: deutsche-telekoms-dirk-roeder-navigating-blockchain-and-bitcoin-in-the-corporate-world
 ---
 
 In an era where blockchain and Bitcoin are reshaping business landscapes, it's crucial to understand their impact from a corporate perspective. Our latest Innovate+Upgrade podcast episode delves into this topic with Dirk Roeder, a key figure at Deutsche Telekom's Web3 infrastructure and solution team.

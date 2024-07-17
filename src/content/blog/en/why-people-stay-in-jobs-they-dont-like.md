@@ -7,6 +7,7 @@ tags:
   - "jobs-to-be-done"
   - "wheel-of-progress"
 previewImage: "../images/DALL·E-2024-01-07-18.55.37-A-businesswoman-sitting-in-front-of-a-laptop-in-an-open-office-space-looking-lost.-The-image-is-in-a-watercolor-and-geometric-style-featuring-colors-.png"
+reference: why-people-stay-in-jobs-they-dont-like
 ---
 
 A friend of mine recently switched her job. This made her think, why it took her so long. Why did she stay in a job, she despised. And why do so many others? Not just with our work. Accepting a suboptimal solution and just continuing on autopilot is a common theme. So why do people do it?

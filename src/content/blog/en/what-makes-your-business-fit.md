@@ -9,6 +9,7 @@ tags:
   - "product-language-fit"
   - "product-market-fit"
 previewImage: "../images/DALL·E-2023-11-20-17.52.51-A-very-muscular-man-with-a-hipster-beard-dressed-in-a-suit-is-trying-to-solve-a-puzzle-in-a-semi-full-cafe.-The-art-style-combines-watercolor-with-g.png"
+reference: what-makes-your-business-fit
 ---
 
 ### Success is the combination of a lot of things going right

@@ -7,6 +7,7 @@ tags:
   - "competing-against-luck"
   - "feedback"
 previewImage: "../images/DALL·E-2023-12-03-22.20.04-A-business-interview-situation-depicted-in-a-geometric-watercolor-style-with-blue-and-mint-colors.-The-image-should-be-created-in-a-wide-format.png"
+reference: five-steps-to-ask-better-questions
 ---
 
 Customer feedback is necessary for improvement. If you want to know, how to build better products and services, you need to ask the people using them. The thing is, **asking questions is difficult**. At least, if you want honest answers.

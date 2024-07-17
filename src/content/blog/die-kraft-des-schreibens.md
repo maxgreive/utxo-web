@@ -1,11 +1,13 @@
 ---
 title: "Die Macht des Schreibens"
 author: Martin Betz
-pubDate: "2024-01-26"tags:
+pubDate: "2024-01-26"
+tags:
   - "personal"
   - "progress"
   - "writing"
 previewImage: "./images/DALL·E-2024-01-25-23.55.58-A-watercolor-slightly-geometric-styled-painting-depicting-a-man-in-his-thirties-wearing-a-hoodie-sitting-at-his-desk-at-night-writing-a-newsletter-.png"
+reference: the-power-of-writing
 ---
 
 Dies ist die 30. Folge dieses Newsletters/Blogs. Ich habe die [erste Folge](/blog/wo-starten-wenn-dein-Geschäft-nicht-läuft/) am 13. November 2023 veröffentlicht. Hier ist, was ich seither über die Macht des Schreibens gelernt habe.

@@ -1,11 +1,13 @@
 ---
 title: "Kann KI Nutzerforschung durchführen?"
 author: Martin Betz
-pubDate: "2024-02-15"tags:
+pubDate: "2024-02-15"
+tags:
   - "ai"
   - "customer-research"
   - "structure"
 previewImage: "./images/file-Zqn8d8ncdZoHIhYTFGa0gdhK.png"
+reference: can-ai-do-user-research
 ---
 
 KI ist überall und verändert alles, auch die Produktentwicklung und die Nutzerforschung. "Wie integrieren Sie KI in Ihre Nutzerforschung?" ist eine der häufigsten Fragen, die ich in letzter Zeit höre. Eine großartige Frage. Wie macht man das? Wir experimentieren viel damit. Hier ist, was ich herausgefunden habe:

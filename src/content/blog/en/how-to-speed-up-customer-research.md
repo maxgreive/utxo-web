@@ -7,6 +7,7 @@ tags:
   - "customer-research"
   - "how-to"
 previewImage: "../images/DALL·E-2023-12-07-22.58.51-A-watercolor-geometric-style-illustration-showing-a-research-framework-being-conducted-swiftly.-In-the-center-theres-a-prominent-clock-icon-symboli.png"
+reference: how-to-speed-up-customer-research
 ---
 
 There is this common misconception, that customer research is a tedious and academic process. Something that takes ages. Something that delivers results, that are hard to work with. And unfortunately, thats often true. So here is a checklist to avoid just that.

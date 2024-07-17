@@ -7,6 +7,7 @@ tags:
   - "how-to"
   - "jobs-to-be-done"
 previewImage: "./images/file-XZdfiujXMH190AR0OvIZzf5T.png"
+reference: how-to-use-the-extended-competitive-landscape
 ---
 
 Das Schöne an der [Perspektive der zu erledigenden Aufgaben](/blog/understanding-the-jobs-to-be-done-perspective/) ist die erweiterte Wettbewerbslandschaft. Die Wettbewerbslandschaft ist die Zusammenfassung aller Lösungen, die unsere Kunden kaufen könnten. Dinge, die sie anstelle von uns wählen könnten. Und normalerweise sehen wir nur einen kleinen Teil davon. Was uns Jobs to be done (JTBD) ermöglicht, ist, das gesamte Bild zu sehen. Den Blick zu erweitern. Denn der Blick auf die gesamte Konkurrenz zeigt uns, wo wir auf einfache Art und Weise Marktanteile gewinnen können.

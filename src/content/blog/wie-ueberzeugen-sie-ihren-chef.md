@@ -1,11 +1,13 @@
 ---
 title: "Wie überzeugen Sie Ihren Chef?"
 author: Martin Betz
-pubDate: "2024-02-05"tags:
+pubDate: "2024-02-05"
+tags:
   - "decision-making"
   - "framework"
   - "how-to"
 previewImage: "./images/DALL·E-2024-02-05-00.32.45-Enhance-the-previous-scene-with-clearer-more-detailed-faces-on-both-the-employee-and-the-boss.-The-employee-is-confidently-explaining-a-new-proposal.webp"
+reference: how-to-convince-your-boss
 ---
 
 Ein guter Leiter stellt Leute ein, die ihm sagen, was er tun soll. Eine schlechte Führungskraft stellt Leute ein und sagt ihnen, was sie tun sollen. Das hängt natürlich von der Qualität der Leute ab, die man einstellen kann. Und es gibt eine Menge Mittelwege. In den meisten Unternehmen muss man, wenn man eine Idee hat, seinen Chef davon überzeugen, dass es eine gute Idee ist. Das ist, auch wenn wir es nicht zugeben wollen, Verkauf. Verkaufen Sie Ihre Ideen an Ihren Chef. Denn er muss die Entscheidung zu Ihren Gunsten treffen.

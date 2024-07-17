@@ -1,11 +1,13 @@
 ---
 title: "How to achieve product language fit"
 author: Martin Betz
-pubDate: "2023-12-13"tags:
+pubDate: "2023-12-13"
+tags:
   - "buying-phases"
   - "customer-focus"
   - "product-language-fit"
 previewImage: "../images/DALL·E-2023-12-12-17.47.53-A-watercolor-geometric-style-illustration-of-a-businesswoman-whispering-something-into-the-ear-of-a-businessman-while-holding-a-small-present-in-one-.png"
+reference: how-to-achieve-product-language-fit
 ---
 
 Even if you have the best product, nobody will buy it, unless they understand the value it provides. Talking about your product in this way is called product language fit.

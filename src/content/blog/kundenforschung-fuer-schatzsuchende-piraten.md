@@ -1,11 +1,13 @@
 ---
 title: "Kundenforschung für Schatzsuchende Piraten"
 author: Martin Betz
-pubDate: "2024-03-12"tags:
+pubDate: "2024-03-12"
+tags:
   - "customer-research"
   - "framework"
   - "humor"
 previewImage: "./images/file-Rj4sm7f9VoeMuRjBQ4rRcimJ-1.jpg"
+reference: customer-research-for-treasure-hunting-pirates
 ---
 
 Stell dir vor, du bist ein Pirat. Du hast ein Schiff, einen Kapitänshut und einen Papagei. „Ein Paaapagei“, sagt der Papagei. Du hast viele Dinge, die du gerne tust, aber es gibt eines, das du über alles liebst: Schätze finden. Wie jeder gute Pirat weißt du, dass Schätze von anderen Piraten vergraben werden. Wenn du eine Schatzkarte hast, sind sie leicht zu finden. Aber du hast keine. Das ist ein großes Hindernis für deine Schatzsuchleidenschaft.

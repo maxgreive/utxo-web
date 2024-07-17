@@ -7,6 +7,7 @@ tags:
   - "experiments"
   - "hypothesis"
 previewImage: "../images/DALL·E-2023-11-07-15.15.20-A-wide-artistic-representation-of-a-new-beginning-using-a-watercolor-and-geometric-style-with-blue-and-mint-as-the-dominant-colors.-The-image-should.png"
+reference: where-to-start-when-your-business-isnt-running
 ---
 
 Things not going the way you want them to is more the norm then the exception. So you better know how to fix them.

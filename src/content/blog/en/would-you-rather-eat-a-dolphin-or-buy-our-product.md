@@ -7,6 +7,7 @@ tags:
   - "customer-research"
   - "feedback"
 previewImage: "../images/DALL·E-2023-12-13-15.41.51-A-watercolor-geometric-style-illustration-depicting-a-small-dolphin-figurine-on-a-plate-in-a-restaurant-setting.-The-dolphin-should-be-portrayed-as-a-.png"
+reference: would-you-rather-eat-a-dolphin-or-buy-our-product
 ---
 
 The current **state of market research** is pretty weird. To see what I mean, try the following:

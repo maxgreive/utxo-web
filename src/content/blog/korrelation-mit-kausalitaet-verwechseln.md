@@ -1,11 +1,13 @@
 ---
 title: "Korrelation mit Kausalität verwechseln"
 author: Martin Betz
-pubDate: "2023-12-18"tags:
+pubDate: "2023-12-18"
+tags:
   - "causailty"
   - "correlation"
   - "rationality"
 previewImage: "./images/DALL·E-2023-12-15-11.27.50-A-businessman-dressed-in-a-sleek-suit-stands-in-the-center-of-the-image-looking-amazed-with-wide-eyes-and-a-slightly-open-mouth.-Around-him-numero.png"
+reference: confusing-correlation-with-causality
 ---
 
 Vor einiger Zeit gab es eine [Studie zur Lebenserwartung von Eltern](https://www.mpg.de/14064449/children-influence-parents-life-expectancy). Es ist bis heute meine Lieblingsstudie über die Verwechslung von Korrelation und Kausalität. Hier ist die Grundzusammenfassung:

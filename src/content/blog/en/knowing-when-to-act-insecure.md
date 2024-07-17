@@ -7,6 +7,7 @@ tags:
   - "entrepreneurship"
   - "personal"
 previewImage: "../images/DALL·E-2023-12-14-15.37.27-A-watercolor-geometric-style-painting-of-an-entrepreneur-standing-boldly-gazing-towards-the-horizon.-The-entrepreneurs-exterior-expression-is-confid.png"
+reference: knowing-when-to-act-insecure
 ---
 
 Especially as entrepreneurs, we have to **act bold** and brave. We have to act as if we know what to do, even when we usually don't. When asked, how the business is going, it's always going great. For strategic reasons. No one wants to work with unsuccesful companies and success breeds success. Therefore it is very hard, to know, when we can actually admit our insecurities.

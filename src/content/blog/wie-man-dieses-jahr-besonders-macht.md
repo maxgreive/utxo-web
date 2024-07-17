@@ -1,11 +1,13 @@
 ---
 title: "Wie man dieses Jahr besonders macht"
 author: Martin Betz
-pubDate: "2023-12-31"tags:
+pubDate: "2023-12-31"
+tags:
   - "decision-making"
   - "how-to"
   - "thinking-ahead"
 previewImage: "./images/DALL·E-2023-12-30-20.38.47-New-Years-Eve-fireworks-over-the-city-of-Bonn-Germany-viewed-from-the-Drachenfels.-The-image-is-in-a-watercolor-and-geometric-style-featuring-colo.png"
+reference: how-to-make-this-year-special
 ---
 
 **Glückliches neues Jahr an alle. Dieses Jahr wird etwas Besonderes sein.**

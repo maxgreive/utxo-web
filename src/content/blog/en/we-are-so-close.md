@@ -7,6 +7,7 @@ tags:
   - "decision-making"
   - "make-or-buy"
 previewImage: "../images/DALL·E-2023-12-06-17.27.57-A-watercolor-geometric-style-illustration-depicting-a-businessman-mid-air-almost-reaching-the-top-of-a-cliff.-The-dynamic-pose-of-the-businessman-sho.png"
+reference: we-are-so-close
 ---
 
 One fundamental decision in business is the **make or buy decision**. Should you do something yourself or hire someone to do it.

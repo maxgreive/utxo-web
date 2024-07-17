@@ -1,11 +1,13 @@
 ---
 title: "Die wichtigsten Fähigkeiten bei der Gründung eines Unternehmens"
 author: Martin Betz
-pubDate: "2024-01-05"tags:
+pubDate: "2024-01-05"
+tags:
   - "business"
   - "entrepreneurship"
   - "skills"
 previewImage: "./images/DALL·E-2024-01-03-16.41.31-A-businessman-looking-at-a-giant-masterplan-on-an-office-wall.-The-image-is-in-a-watercolor-and-geometric-style-featuring-colors-of-blue-and-mint.-Th.png"
+reference: most-important-business-skills
 ---
 
 Gestern habe ich einen Vortrag über Unternehmertum gehalten. Wie man ein erfolgreiches Unternehmen gründet "**_ ist wahrscheinlich die Frage, die ich in den letzten 2 Jahren am häufigsten gestellt bekommen habe. Zumindest, wenn ich "Wie geht es dir" und die Frage meines Sohnes "Wo ist Spielzeug XYZ" nicht mitzähle. Viel mehr Menschen denken darüber nach, ein Unternehmen zu gründen, als es tatsächlich tun. Der Hauptgrund dafür ist: **Ungewissheit**.

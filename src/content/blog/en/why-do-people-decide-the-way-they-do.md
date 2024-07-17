@@ -5,6 +5,7 @@ pubDate: "2023-11-20"
 tags:
   - "decision-making"
 previewImage: "../images/DALL·E-2023-11-13-11.46.21-A-person-with-a-considering-look-on-their-face-surrounded-by-floating-data-elements-indicating-various-elements-they-are-taking-into-consideration.-T.png"
+reference: why-do-people-decide-the-way-they-do
 ---
 
 Most decisions are no real decisions. They are things we just do. The majority of our live runs on autopilot.

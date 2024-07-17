@@ -7,6 +7,7 @@ tags:
   - "product-language-fit"
   - "uncertainty"
 previewImage: "./images/DALL·E-2023-11-30-22.42.09-Eine-Frau-in-einem-Business-Kleid-steht-in-einem-Laden-und-versucht-sich-zwischen-zwei-Produkten-zu-entscheiden.-Ihr-Gesichtsausdruck-zeigt-Verwirrun.png"
+reference: he-who-knows-not-does-not-buy
 ---
 
 Unser Gehirn ist im Kern faul.Es versucht so wenig wie möglich zu denken.

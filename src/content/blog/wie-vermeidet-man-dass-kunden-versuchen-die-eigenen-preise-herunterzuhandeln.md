@@ -1,11 +1,13 @@
 ---
 title: "Wie Sie verhindern, dass Kunden versuchen, Ihre Preise herunterzuhandeln"
 author: Martin Betz
-pubDate: "2024-01-10"tags:
+pubDate: "2024-01-10"
+tags:
   - "business-strategy"
   - "negotiation"
   - "partnership"
 previewImage: "./images/DALL·E-2024-01-09-22.11.25-Two-businessmen-shaking-hands-symbolizing-their-good-business-partnership.-The-image-is-in-a-watercolor-and-geometric-style-featuring-colors-of-blue.png"
+reference: how-to-avoid-customers-trying-to-negotiate-your-prices-down
 ---
 
 Kürzlich hatte ich ein Gespräch mit jemandem aus der Maschinenbauindustrie. Er beschrieb einen Kampf, der leider ziemlich häufig vorkommt. Nicht nur im Maschinenbau, sondern im Grunde bei jedem kreativen Projekt. Es ist der Kampf der **Kunden, die versuchen, Ihre Preise herunterzuhandeln**. Das läuft folgendermaßen ab:

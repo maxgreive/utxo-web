@@ -7,6 +7,7 @@ tags:
   - "customer-research"
   - "how-to"
 previewImage: "./images/DALL·E-2023-12-07-22.58.51-A-watercolor-geometric-style-illustration-showing-a-research-framework-being-conducted-swiftly.-In-the-center-theres-a-prominent-clock-icon-symboli.png"
+reference: how-to-speed-up-customer-research
 ---
 
 Es ist ein weit verbreiteter Irrglaube, dass Kundenforschung ein langwieriger und akademischer Prozess ist. Etwas, das ewig dauert. Etwas, das Ergebnisse liefert, mit denen man nur schwer arbeiten kann. Und leider ist das oft wahr. Hier ist also eine Checkliste, um genau das zu vermeiden.

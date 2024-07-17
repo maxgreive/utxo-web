@@ -1,11 +1,13 @@
 ---
 title: "How to have good customer interviews?"
 author: Martin Betz
-pubDate: "2024-01-19"tags:
+pubDate: "2024-01-19"
+tags:
   - "better-questions"
   - "customer-research"
   - "jobs-to-be-done"
 previewImage: "../images/DALL·E-2024-01-18-23.07.56-An-artistic-representation-of-a-customer-research-interview-situation-illustrated-in-a-watercolor-style-with-a-slightly-geometric-approach.-The-scene.png"
+reference: how-to-have-good-customer-interviews
 ---
 
 There is one common doubt in companies doing a [research sprint](https://utxo.solutions/services/jobs-to-be-done-agency/) with us. Its: "Will our customers tell us, what we need to know?" It is hard for them to imagine, that someone will spend 60 - 90 minutes to tell you all about their decision making. Just so they can improve. This is a short guide on creating good customer interviews with meaningful output.  

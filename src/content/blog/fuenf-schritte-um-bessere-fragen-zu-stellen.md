@@ -1,11 +1,13 @@
 ---
 title: "Fünf Schritte, um bessere Fragen zu stellen"
 author: Martin Betz
-pubDate: "2023-12-04"tags:
+pubDate: "2023-12-04"
+tags:
   - "better-questions"
   - "competing-against-luck"
   - "feedback"
 previewImage: "./images/DALL·E-2023-12-03-22.20.04-A-business-interview-situation-depicted-in-a-geometric-watercolor-style-with-blue-and-mint-colors.-The-image-should-be-created-in-a-wide-format.png"
+reference: five-steps-to-ask-better-questions
 ---
 
 Kundenfeedback ist für kontinuierliche Verbesserungen von entscheidender Bedeutung.Um bessere Produkte und Dienstleistungen aufzubauen, ist es wichtig zu verstehen, die Perspektiven derjenigen zu verstehen, die sie nutzen.Es kann jedoch eine Herausforderung sein, effektive Fragen zu stellen, um ehrliche Antworten hervorzurufen.

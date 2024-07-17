@@ -7,6 +7,7 @@ tags:
   - "customer-research"
   - "how-to"
 previewImage: "../images/file-l0KqLT55gi6BHNW08ecNsnNr.png"
+reference: where-to-start-with-everyday-customer-interviews
 ---
 
 This is for all the people that never did true customer research but would like to have the benefits. To everyone who wants to build an amazing product but doesn't know where to start. And to all the people that don't have the money to hire professionals for the job. This is everyday customer interviews 101.

@@ -7,6 +7,7 @@ tags:
   - "how-to"
   - "invest"
 previewImage: "./images/file-jRl8a4kHUi4P4ch6I8CXn3Cv-2.png"
+reference: how-much-should-i-invest-in-user-research
 ---
 
 Die Kundenforschung ist ein entscheidender Bestandteil der Entwicklung eines neuen Produkts. Wenn Sie nicht wissen, was Ihre Kunden wollen, können Sie es nicht erstellen. Noch mehr wissen Sie nicht, wie man es vermarktet und verkauft oder wie man den Kundenservice später verbessert. Daher ist all die harte Arbeit, die Sie in die Entwicklung investiert haben, gefährdet. Das größte Risiko für jedes neue Produkt ist die Ablehnung des Marktes. Gleiches gilt für bestehende Produkte, die sich an den Markt anpassen müssen. Aber wie viel sollten Sie in die Kundenforschung investieren? Was ist eine gute Zahl?

@@ -7,6 +7,7 @@ tags:
   - "product-development"
   - "survey"
 previewImage: "./images/file-P4dgqFTRcab0QLDZSlEARYED-1.jpg"
+reference: are-surveys-useful-for-product-development
 ---
 
 Wenn es um Kundenforschung geht, gibt es zwei sehr verbreitete Methoden, die häufig angewendet werden, aber keine guten Ergebnisse liefern. Die erste besteht darin, [mit den eigenen Annahmen zu arbeiten](/de/blog/we-assume-a-world-that-isnt-there/), anstatt mit den Kunden zu sprechen. Technisch gesehen ist das keine Kundenforschung, aber manchmal wird Empathie mit Wissen verwechselt. Die andere Methode sind Umfragen. Der Reiz einer Umfrage liegt in ihrer Einfachheit. Wir schreiben einfach unsere Annahmen auf und fragen die Leute, was sie davon halten. Wir können mit etwas wie [Google Form](https://forms.google.com/) beginnen und schon sind wir bereit. Da es sich um eine quantitative Methode handelt, könnten wir unsere Umfrage einfach an jeden senden, der irgendwie relevant ist, und auf das Beste hoffen. Es ist einfach und günstig.

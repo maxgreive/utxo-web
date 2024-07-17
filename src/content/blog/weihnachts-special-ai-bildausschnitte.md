@@ -7,6 +7,7 @@ tags:
   - "humor"
   - "special"
 previewImage: "./images/DALL·E-2023-12-15-12.44.30-A-watercolor-geometric-style-painting-inspired-by-the-spurious-correlation-between-per-capita-cheese-consumption-and-the-number-of-people-entangled-in.png"
+reference: picture-outtakes
 ---
 
 ## Weihnachtsspecial: AI-Foto-Outtakes

@@ -1,11 +1,13 @@
 ---
 title: "Warum bleiben Menschen in Jobs, die sie nicht mögen?"
 author: Martin Betz
-pubDate: "2024-01-08"tags:
+pubDate: "2024-01-08"
+tags:
   - "decision-making"
   - "jobs-to-be-done"
   - "wheel-of-progress"
 previewImage: "./images/DALL·E-2024-01-07-18.55.37-A-businesswoman-sitting-in-front-of-a-laptop-in-an-open-office-space-looking-lost.-The-image-is-in-a-watercolor-and-geometric-style-featuring-colors-.png"
+reference: why-people-stay-in-jobs-they-dont-like
 ---
 
 Eine Freundin von mir hat vor kurzem ihren Arbeitsplatz gewechselt. Das brachte sie zum Nachdenken, warum sie so lange gebraucht hat. Warum blieb sie in einem Job, den sie verachtete. Und warum tun das so viele andere? Nicht nur bei unserer Arbeit. Eine suboptimale Lösung zu akzeptieren und einfach auf Autopilot weiterzumachen, ist ein häufiges Thema. Warum also tun Menschen das?

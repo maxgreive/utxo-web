@@ -1,11 +1,13 @@
 ---
 title: "Die fehlende Dimension bei der Entwicklung nachhaltiger Produkte"
 author: Martin Betz
-pubDate: "2024-01-29"tags:
+pubDate: "2024-01-29"
+tags:
   - "business-strategy"
   - "problem-solution-fit"
   - "sustainability"
 previewImage: "./images/DALL·E-2024-01-28-23.20.11-A-watercolor-slightly-geometric-styled-painting-depicting-a-dad-and-his-son-playing-with-building-blocks-resembling-Lego-in-a-living-room.-Add-some.png"
+reference: the-missing-dimension-in-building-sustainable-products
 ---
 
 Der Schutz unseres Planeten ist zweifelsohne eine der wichtigsten Aufgaben unserer Zeit. Wir wollen weiterhin hier leben. Also sollten wir ihn nicht ruinieren. Und je mehr wir darüber nachdenken, desto mehr entdecken wir Bereiche unseres Lebens, die davon betroffen sind. Das fing damit an, dass wir keine Flüsse verschmutzen und unseren Müll nicht in der Natur entsorgen. Wir sind dann dazu übergegangen, den Kohlenstoff-Fußabdruck unserer Energiequellen zu verringern. Und seit einiger Zeit wissen wir auch um die Auswirkungen der Produkte, die wir verwenden. Alles, was wir verwenden, muss produziert werden. Alles, was wir nicht mehr benutzen, muss irgendwo hingehen. Und dazwischen gibt es einen ganzen Bereich.

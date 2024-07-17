@@ -1,11 +1,13 @@
 ---
 title: "Wie man das Produkt sprachlich anpasst"
 author: Martin Betz
-pubDate: "2023-12-13"tags:
+pubDate: "2023-12-13"
+tags:
   - "buying-phases"
   - "customer-focus"
   - "product-language-fit"
 previewImage: "./images/DALL·E-2023-12-12-17.47.53-A-watercolor-geometric-style-illustration-of-a-businesswoman-whispering-something-into-the-ear-of-a-businessman-while-holding-a-small-present-in-one-.png"
+reference: how-to-achieve-product-language-fit
 ---
 
 Selbst wenn Sie das beste Produkt haben, wird es niemand kaufen, wenn er nicht versteht, welchen Wert es hat. Wenn Sie auf diese Weise über Ihr Produkt sprechen, nennt man das Product Language Fit.

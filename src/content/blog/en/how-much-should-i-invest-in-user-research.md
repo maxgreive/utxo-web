@@ -7,6 +7,7 @@ tags:
   - "how-to"
   - "invest"
 previewImage: "../images/file-jRl8a4kHUi4P4ch6I8CXn3Cv-2.png"
+reference: how-much-should-i-invest-in-user-research
 ---
 
 Customer research is a crucial part of developing a new product. If you don't know, what your customers want, you can't build it. Even more, you won't know, how to market and sell it or how to improve customer service later on. Thus, all the hard work you invested in the development is at risk. The biggest risk for every new product is rejection by the market. The same applies to existing products, that need to adapt to the market. But how much should you invest in customer research? What is a good number?

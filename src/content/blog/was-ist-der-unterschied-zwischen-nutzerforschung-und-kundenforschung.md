@@ -1,11 +1,13 @@
 ---
 title: "Was ist der Unterschied zwischen Nutzerforschung und Kundenforschung?"
 author: Martin Betz
-pubDate: "2024-02-27"tags:
+pubDate: "2024-02-27"
+tags:
   - "customer-research"
   - "framework"
   - "product-market-fit"
 previewImage: "./images/file-736dWJl2BWhORVJvHy8LqQ5G.png"
+reference: whats-the-difference-between-user-research-and-customer-research
 ---
 
 Die offensichtliche Antwort lautet: Bei dem einen geht es um unsere Nutzer, bei dem anderen um unsere Kunden. Und während in einigen Fällen unsere Nutzer unsere Kunden sein können, sind sie es oft nicht. Schauen wir uns also einmal an, wann wir Nutzerforschung und wann Kundenforschung betreiben müssen. Und warum.

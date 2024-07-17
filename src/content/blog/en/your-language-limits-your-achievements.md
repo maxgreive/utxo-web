@@ -7,6 +7,7 @@ tags:
   - "how-to"
   - "language"
 previewImage: "../images/DALL·E-2024-01-30-18.49.15-A-watercolor-slightly-geometric-styled-painting-depicting-the-Tower-of-Babel.-The-painting-should-capture-the-iconic-and-ambitious-structure-of-the-T.png"
+reference: your-language-limits-your-achievements
 ---
 
 For most companies, it takes quite some time to start the journey of disruption. To realize, that small incremental steps won't do it any longer. Experiencing the pain of a slowly dying business. The death by a thousand budget cuts. You need to experience the right triggers, to decide for the leap of fait. To embrace true change. The thing is though, once you are ready for a big change, you are there for the first time. And being new means your not an expert on the how. How is your company supposed to do this big game changing revolution? And even before you start, before you plan or execute, there is one big challenge: Finding a common language.

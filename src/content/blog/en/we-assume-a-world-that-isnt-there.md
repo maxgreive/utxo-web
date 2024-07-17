@@ -7,6 +7,7 @@ tags:
   - "feedback"
   - "rationality"
 previewImage: "../images/DALL·E-2023-12-05-18.28.45-A-watercolor-geometric-style-illustration-depicting-a-side-view-of-a-pit-filled-with-spikes-covered-by-a-thin-layer-of-paper.-On-top-of-the-paper-th.png"
+reference: we-assume-a-world-that-isnt-there
 ---
 
 We live in a world where we don't have perfect information. There are many things we don't know, but still have to consider when making decisions. This means, that we fill the gaps in our knowledge of the world with assumptions. Assumptions are pieces of information we take as true, although they are unknown.

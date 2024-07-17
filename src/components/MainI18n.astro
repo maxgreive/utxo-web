@@ -21,7 +21,7 @@ import type { CommonFrontmatter } from "@src/types";
 
 interface Props {
   frontmatter: CommonFrontmatter;
-  collection: "pages";
+  collection: "pages" | "blog";
 }
 export interface TranslationLink {
   absoluteURL: string;
@@ -36,6 +36,7 @@ const { frontmatter, collection } = Astro.props,
 let translationsAvailable = [];
 let translationLinks: TranslationLink[] = [];
 
+console.log('reference:', reference)
 if (reference) {
   if (collection === "pages") {
     // The current page is not part of a collection
@@ -193,9 +194,14 @@ if (reference) {
 </script>
 
 <script is:inline>
-(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-KZ5LLF6X');
+  (function (w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+    var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s),
+      dl = l != "dataLayer" ? "&l=" + l : "";
+    j.async = true;
+    j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, "script", "dataLayer", "GTM-KZ5LLF6X");
 </script>

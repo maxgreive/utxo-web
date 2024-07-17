@@ -1,11 +1,13 @@
 ---
 title: "Wir nehmen eine Welt an, die es nicht gibt"
 author: Martin Betz
-pubDate: "2023-12-06"tags:
+pubDate: "2023-12-06"
+tags:
   - "assumptions"
   - "feedback"
   - "rationality"
 previewImage: "./images/DALL·E-2023-12-05-18.28.45-A-watercolor-geometric-style-illustration-depicting-a-side-view-of-a-pit-filled-with-spikes-covered-by-a-thin-layer-of-paper.-On-top-of-the-paper-th.png"
+reference: we-assume-a-world-that-isnt-there
 ---
 
 Wir leben in einer Welt, in der wir nicht über perfekte Informationen verfügen. Es gibt viele Dinge, die wir nicht wissen, die wir aber dennoch bei unseren Entscheidungen berücksichtigen müssen. Das bedeutet, dass wir die Lücken in unserem Wissen über die Welt mit Annahmen füllen. Annahmen sind Informationen, die wir als wahr annehmen, obwohl sie unbekannt sind.

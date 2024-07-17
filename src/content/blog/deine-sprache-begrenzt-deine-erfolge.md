@@ -1,11 +1,13 @@
 ---
 title: "Ihre Sprache schränkt Ihre Leistungen ein"
 author: Martin Betz
-pubDate: "2024-01-31"tags:
+pubDate: "2024-01-31"
+tags:
   - "framework"
   - "how-to"
   - "language"
 previewImage: "./images/DALL·E-2024-01-30-18.49.15-A-watercolor-slightly-geometric-styled-painting-depicting-the-Tower-of-Babel.-The-painting-should-capture-the-iconic-and-ambitious-structure-of-the-T.png"
+reference: your-language-limits-your-achievements
 ---
 
 Für die meisten Unternehmen dauert es eine ganze Weile, bis sie sich auf den Weg der Disruption machen. Um zu erkennen, dass es mit kleinen, inkrementellen Schritten nicht mehr getan ist. Den Schmerz eines langsam sterbenden Unternehmens zu erleben. Der Tod durch tausend Budgetkürzungen. Man muss die richtigen Auslöser erleben, um sich für den Sprung ins Ungewisse zu entscheiden. Um eine echte Veränderung anzustreben. Die Sache ist jedoch die, dass Sie, wenn Sie für eine große Veränderung bereit sind, zum ersten Mal dabei sind. Und weil Sie neu sind, sind Sie kein Experte für das Wie. Wie soll Ihr Unternehmen diese große Umwälzung bewerkstelligen? Und noch bevor Sie anfangen, bevor Sie planen oder ausführen, gibt es eine große Herausforderung: Eine gemeinsame Sprache zu finden.

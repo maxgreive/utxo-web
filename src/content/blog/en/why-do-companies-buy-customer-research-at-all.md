@@ -7,6 +7,7 @@ tags:
   - "innovation"
   - "jobs-to-be-done"
 previewImage: "../images/DALL·E-2024-02-01-23.13.35-A-watercolor-and-slightly-geometric-style-illustration-of-a-businessman-in-the-iconic-pose-from-the-shut-up-and-take-my-money-meme-replacing-Fry.-T.png"
+reference: why-do-companies-buy-customer-research-at-all
 ---
 
 Should I invest in customer research? Whenever I get this question, my answer is usually something like: I don't know. How would you know, if you should? What are your metrics, for making this decision? What happened in the past, that made you think about this question? We don't sell something to companies, unless they need it. Whether someone needs our services can never be our decision.

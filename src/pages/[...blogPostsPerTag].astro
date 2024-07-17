@@ -15,7 +15,7 @@ export async function getStaticPaths() {
   for (let locale of locales) {
     const realTags: Tags = (await getUniqueTags(collection, locale))
       .filter((tag)=>{return tag.slugified !== 'other'})
-    const posts = realTags.map(tag=>(  
+    const posts = realTags.map(tag=>(
       {
         params: {
           blogPostsPerTag: `${getTagPath(locale, tag.slugified, false)}`
@@ -24,7 +24,8 @@ export async function getStaticPaths() {
           title: `${uiStrings.tagHeadingSingular[locale]}: ${tag.name}`,
           description: getDescription(locale, tag.name),
           tag: tag.slugified,
-          collection: collection
+          collection: collection,
+          reference: 'tag-' + tag.slugified
         }
       }
     ))
