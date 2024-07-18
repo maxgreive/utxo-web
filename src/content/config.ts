@@ -1,3 +1,4 @@
+import { string } from 'astro/zod';
 import { defineCollection, z } from 'astro:content';
 
 const blogCollection = defineCollection({
@@ -30,6 +31,7 @@ const serviceCollection = defineCollection({
 		pageHeader: z.string().optional(),
 		tags: z.array(z.string()).default(['other']),
 		previewImage: image().optional(),
+		collection: z.string().optional(),
 		questions: z.array(z.object({
 			question: z.string(),
 			answer: z.string()

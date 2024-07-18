@@ -6,6 +6,7 @@ import { getLocaleFromUrl } from "@i18n/utilities";
 import { getRelativePostPath } from "@utilities/getPostPath";
 import ServiceSidebar from "@components/ServiceSidebar.astro";
 import Accordion from "@components/Accordion.astro";
+import { Picture } from "astro:assets";
 
 export async function getStaticPaths() {
   const collection = "services";
@@ -33,7 +34,14 @@ const { Content } = await entry.render();
   {
     entry.data.previewImage && (
       <div class="services-details-thumb">
-        <img src={entry.data.previewImage} />
+        <Picture
+          src={entry.data.previewImage}
+          alt={entry.data.title}
+          format="webp"
+          widths={[510, 550, 700, 900]}
+          sizes="(max-size: 575px) 550px, (max-size: 767px) 510px, (max-size: 1200px) 700px, 900px"
+          inferSize
+        />
       </div>
     )
   }

@@ -21,7 +21,7 @@ import type { CommonFrontmatter } from "@src/types";
 
 interface Props {
   frontmatter: CommonFrontmatter;
-  collection: "pages" | "blog";
+  collection: string;
 }
 export interface TranslationLink {
   absoluteURL: string;
@@ -36,6 +36,8 @@ const { frontmatter, collection } = Astro.props,
 let translationsAvailable = [];
 let translationLinks: TranslationLink[] = [];
 
+console.log("reference:", reference);
+console.log("collection:", collection);
 if (reference) {
   if (collection === "pages") {
     // The current page is not part of a collection
