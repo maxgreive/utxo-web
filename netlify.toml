@@ -1,4 +1,13 @@
 [[redirects]]
+from = "/tag/*"
+to = "/en/tag/:splat"
+
+[[redirects]]
+from = "/imprint/"
+to = "/en/imprint/"
+status = 301
+
+[[redirects]]
 from = "/newsletter/what-are-good-metrics/"
 to = "/en/blog/what-are-good-metrics/"
 status = 301
