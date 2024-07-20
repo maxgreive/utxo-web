@@ -4,28 +4,28 @@ title: Impressum
 reference: imprint
 ---
 
-## Angaben gemäß § 5 TMG
+UTXO Solutions GmbH<br />
+Richard Wagner Strasse 31<br />
+50674 Köln
 
-Peter Rochel<br>
-UTXO Solutions<br>
-c/O Oberwasser Consulting® &ndash; Inh. Peter Rochel<br>
-Neusser Wall 15<br>
-50670 Köln
+Handelsregister: HRB 119206<br />
+Registergericht: Amtsgericht Köln
+
+**Vertreten durch:**<br />
+Martin Betz
 
 ## Kontakt
-
-Telefon: +4922116841669<br>
-E-Mail: p.rochel@oberwasser-consulting.de
+Telefon: +4922116841669<br />
+E-Mail: [info@utxo.solutions](mailto:info@utxo.solutions)
 
 ## Umsatzsteuer-ID
+Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz:<br />
+DE352924479
 
-Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz: DE815524467
+## EU-Streitschlichtung
+Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: <a href="https://ec.europa.eu/consumers/odr/" target="_blank" rel="noopener noreferrer">https://ec.europa.eu/consumers/odr/</a>.
 
-## Streitschlichtung
-
-Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr/ .
 Unsere E-Mail-Adresse finden Sie oben im Impressum.
 
-## Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle
-
+## Verbraucher&shy;streit&shy;beilegung/Universal&shy;schlichtungs&shy;stelle
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.

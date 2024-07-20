@@ -1,31 +1,29 @@
 ---
 layout: '@layouts/Page.astro'
-title: Impressum
+title: Imprint
 reference: imprint
 ---
 
-## Information in Accordance with Section 5 TMG
+UTXO Solutions GmbH<br />
+Richard Wagner Strasse 31<br />
+50674 Köln
 
-Peter Rochel
-UTXO Solutions
-c/O Oberwasser Consulting® – Inh. Peter Rochel
-Neusser Wall 15
-50670 Köln
+Commercial Register: HRB 119206<br />
+Registration court: Amtsgericht Köln
+
+**Represented by:**<br />
+Martin Betz
 
 ## Contact
+Phone: +4922116841669<br />
+E-mail: [info@utxo.solutions](mailto:info@utxo.solutions)
 
-Phone: +49 221 168 416 69
-E-Mail: p.rochel@oberwasser-consulting.de
+## VAT ID
+Sales tax identification number according to Sect. 27 a of the Sales Tax Law:<br />
+DE352924479
 
-## VAT Identification Number
+## EU dispute resolution
+The European Commission provides a platform for online dispute resolution (ODR): <a href="https://ec.europa.eu/consumers/odr/" target="_blank" rel="noopener noreferrer">https://ec.europa.eu/consumers/odr/</a>.<br /> Our e-mail address can be found above in the site notice.
 
-VAT identification number in accordance with Section 27 a of the German VAT Act: DE815524467
-
-## Dispute Resolution
-
-The European Commission provides a platform for online dispute resolution (ODR): https://ec.europa.eu/consumers/odr/.
-You can find our email address above in the imprint.
-
-## Dispute Resolution Procedures Before a Consumer Arbitration Board
-
-We are not willing or obliged to participate in dispute resolution procedures before a consumer arbitration board.
+## Dispute resolution proceedings in front of a consumer arbitration board
+We are not willing or obliged to participate in dispute resolution proceedings in front of a consumer arbitration board.
