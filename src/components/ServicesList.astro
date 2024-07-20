@@ -33,7 +33,7 @@ services = frontmatter.services || [];
                 <p class="line-clamp-3">{post.data.description}</p>
                 <a
                   href={`${post.slug ? getRelativePostPath(Astro.currentLocale, collection, post.slug) : post.data.link}`}
-                  class="link-btn"
+                  class="link-btn stretched-link"
                 >
                   {post.data.linkLabel || uiStrings.readMore[Astro.currentLocale]}
                   <Picture
@@ -52,3 +52,13 @@ services = frontmatter.services || [];
     </div>
   </div>
 </section>
+
+<style>
+  .stretched-link::after {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+</style>

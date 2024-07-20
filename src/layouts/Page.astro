@@ -8,7 +8,6 @@ interface Props {
 }
 
 const { frontmatter } = Astro.props;
-console.log('frontmatter:', frontmatter)
 ---
 
 <MainI18n {frontmatter} collection={frontmatter.collection || "pages"}>
