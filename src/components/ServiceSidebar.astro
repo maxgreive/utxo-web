@@ -1,4 +1,6 @@
 ---
+import ContactForm from "./ContactForm.astro";
+
 const {content, title} = Astro.props;
 ---
 
@@ -24,31 +26,6 @@ const {content, title} = Astro.props;
   }
   <div class="services-widget">
     <h4 class="sw-title">Projektanfrage</h4>
-    <div class="services-widget-form">
-      <form
-        data-netlify="true"
-        netlify-honeypot
-        name="feedback"
-        method="POST"
-        action="/success"
-      >
-        <p hidden>
-          <label>
-            Don&lsquo;t fill this out if you&lsquo;re human: <input name="bot-field" />
-          </label>
-        </p>
-        <div class="form-grp">
-          <input type="text" placeholder="Ihr Name" name="name" />
-        </div>
-        <div class="form-grp">
-          <input type="email" placeholder="Email-Adresse *" name="email" required />
-        </div>
-        <div class="form-grp">
-          <textarea name="message" placeholder="Nachricht" name="message"></textarea>
-        </div>
-        <input type="hidden" name="topic" value={title} />
-        <button type="submit" class="submit-btn">Absenden</button>
-      </form>
-    </div>
+    <ContactForm topic={title} formName="project" />
   </div>
 </aside>

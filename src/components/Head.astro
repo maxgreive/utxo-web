@@ -23,6 +23,7 @@ interface Props {
 const mode = import.meta.env.MODE,
   { frontmatter, includeCanonicalMeta = true } = Astro.props,
   title = frontmatter.title ? `${frontmatter.title} | ${siteTitle}` : siteTitle,
+  noindex = frontmatter.noindex ?? false,
   description = frontmatter.description,
   file = frontmatter.file,
   previewImage = frontmatter.previewImage || "/blog-placeholder-1.jpg",
@@ -60,6 +61,9 @@ const mode = import.meta.env.MODE,
 <slot />
 
 <link rel="sitemap" href="/sitemap-index.xml" />
+{noindex && (
+  <meta name="robots" content="noindex" />
+)}
 
 <!-- Fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com">

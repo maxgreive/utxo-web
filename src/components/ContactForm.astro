@@ -1,0 +1,49 @@
+---
+import { uiStrings } from "@i18n/uiStrings";
+import getPagePath from "@src/utilities/getPagePath";
+
+const { topic, formName } = Astro.props;
+---
+
+<div class="services-widget-form">
+  <form
+    data-netlify="true"
+    netlify-honeypot
+    name={formName}
+    method="POST"
+    action={getPagePath(Astro.currentLocale, [], "success")}
+  >
+    <p hidden>
+      <label>
+        Don&lsquo;t fill this out if you&lsquo;re human: <input
+          name="bot-field"
+        />
+      </label>
+    </p>
+    <div class="form-grp">
+      <input
+        type="text"
+        placeholder={uiStrings.name[Astro.currentLocale] + " *"}
+        name="name"
+      />
+    </div>
+    <div class="form-grp">
+      <input
+        type="email"
+        placeholder={uiStrings.email[Astro.currentLocale] + " *"}
+        name="email"
+        required
+      />
+    </div>
+    <div class="form-grp">
+      <textarea
+        name="message"
+        placeholder={uiStrings.message[Astro.currentLocale] + " *"}
+        name="message"></textarea>
+    </div>
+    <input type="hidden" name="topic" value={topic} />
+    <button type="submit" class="submit-btn"
+      >{uiStrings.send[Astro.currentLocale]}</button
+    >
+  </form>
+</div>

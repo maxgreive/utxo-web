@@ -1,92 +1,92 @@
 ---
-title: Home
+title: Startseite
 layout: '@layouts/Index.astro'
 reference: home
 collection: blog
-description: UTXO Solutions is your expert agency for strategic customer research. We help companies gain in-depth customer insights and use them to develop outstanding products that conquer the market.
+description: UTXO Solutions is your expert agency for strategic customer research. We support companies in gaining in-depth customer insights and using them to develop outstanding products that conquer the market.
 
 # Hero Section
 hero:
-  title: Become <span>Customer First</span>
-  subtitle: Understand your customer and grow
-  intro: Everyone wants to be understood and cared for. This builds trust. And trust is the basis for sustainable growth.
-  ctaText: See how we can help you
-  ctaLink: /en/services
+  title: <span>Growth</span> through <span>customer-orientation</span>
+  subtitle: Turn customer insights into success stories
+  intro: Use our proven methods and unique approaches to perfectly customise your products and services to your customers' needs.
+  ctaText: Start now
+  ctaLink: /services
 
 # About Section
 about:
-  title: We provide deep customer insights to fuel your business growth
-  subtitle: Qualitative research that translates into operative progress
-  text: You want to enter a new market? Or explore new revenue streams? But you worry, that the investments in product development won't pay out? You want to reduce the risk of missing product-market fit? Then we are here for you.
-  text2: We help you map a clear way to build products, marketing and sales, that your customers will love.
+  title: We deliver customer insights for your business growth
+  subtitle: Qualitative customer research that is translated into operational progress
+  text: Would you like to tap into a new market? Or explore new sources of income? Are you worried that your investment in product development is not paying off? Would you like to reduce the risk of a lack of product-market fit? Then we are here for you!
+  text2: We help you develop a clear path to create products, marketing and sales that your customers will love
   video: https://vimeo.com/463483315
   bulletpoints:
-    - Over 1000 successfull research projects done
-    - Unique and proven system
-    - Tangible results in 4-6 weeks
-    - Finally understand your customer
-    - Data driven decision making
-    - 10x ROI in 90% of our projects
+    - Over 700 satisfied customers
+    - Proven system
+    - Results in 4-6 weeks
+    - Finally understand your customers
+    - Get in front of the market
+    - 13x better than the competition
 
   boxes:
     - label: Projects
       number: "1000+"
-      icon: flaticon-family
-    - label: Average ROI
-      number: 10x
-      icon: flaticon-family
+      icon: flaticon-briefcase
+    - label: Ø ROI
+      number: 13x
+      icon: flaticon-rocket
 
 # Service Section
 services:
-  title: The Best Choice For All Your Business Needs
-  subtitle: Providing Services
+  title: The best choice for all your business needs
+  subtitle: Our services
   items:
-    - title: Mastering Jobs to be done online course
-      text: For everyone who wants to learn and use our tools. Especially useful for people working in marketing, product development and innovation management. We teach you everything you need to know.
+    - title: Customer Insight Sprint
+      text: Within 4-6 weeks, we help you to develop clear value propositions for product, marketing and sales - all based on customer insights.
+      link: /services/customer-research-sprints
+      icon: flaticon-rating
+    - title: "Mastering Jobs to be Done Online Course"
+      text: For anyone who wants to learn and use our tools. Especially useful for people in marketing, product development and innovation management. We teach you everything you need to know.
       icon: flaticon-round-table
-      link: /leistungen/mastering-jobs-to-be-done-online-workshop
-    - title: Customer Insight Sprints
-      text: Within 4-6 weeks, we help you develop clear value propositions for product, marketing and sales - all based on customer insights
-      link: /leistungen/customer-research-sprints
-      icon: flaticon-rocket
-    - title: Enterprise Transformation Service
-      text: We accompany you in the transformation of your company and help you to establish customer-oriented structures.
+      link: /services/mastering-jobs-to-be-done-online-workshop
+    - title: Company transformation
+      text: We support you in the transformation of your company and help you to establish customer-orientated structures.
       icon: flaticon-mission
       link: https://cal.com/martinbetz
       linkLabel: Talk to us
 
 # Clients Section
 clients:
-  title: Our awesome clients
-  subtitle: Brands we are working with
+  title: Some of our customers
+  subtitle: Brands that were impressed by us
 
 # CTA Section
 ctaSection:
-  title: Let's Discuss About How We Can Help Make Your Business Better
-  buttonLabel: Termin vereinbaren
+  title: Discover the potential of your customer relationships
+  buttonLabel: Make an appointment
   buttonLink: https://cal.com/martinbetz
 
 # Testimonials Section
 testimonials:
-  title: What our awesome customers say
-  subtitle: Our Testimonials
+  title: What our customers say
+  subtitle: Customer testimonials
   items:
     - author: Michael von Pidoll
       position: TÜV Rheinland AG
-      quote: The JTBD methodology was communicated in a very understandable way, and the interviews were conducted in a very professional manner. The project offers us the chance to address our customers with new service offers in a more targeted way.
-      image: /assets/img/images/testi_avatar01.png
+      quote: The JTBD methodology was communicated very clearly and the interviews were conducted professionally. The project gives us the opportunity to address our customers more specifically with new service offerings.
+      image: /assets/img/images/von-pidoll.jpg
     - author: Manuel Gerding
       position: steadybit
-      quote: We went from zero practical experience with JTBD to an operational small research team that can use JTBD independently in the future within 2 weeks! An unrestricted 110% recommendation.
-      image: /assets/img/images/testi_avatar01.png
+      quote: Within two weeks we have gone from zero practical experience with JTBD to a fully operational small research team that can use JTBD independently in the future! Unreserved 110% recommendation.
+      image: /assets/img/images/gerding.png
     - author: Stefan Hück
       position: Mantrafant
-      quote: We particularly liked the systematic and structured approach, so that we learned more relevant information about our product and our customers in the JTBD Interview Sprint in just 2 days (6 interviews) than in the previous 3 years. After less than a week, we were able to directly triple our advertising campaign effectiveness with the results. Not only did we improve our marketing and sales, but we also got a better product out of it.
-      image: /assets/img/images/testi_avatar01.png
+      quote: We particularly liked the systematic and structured approach, which enabled us to find out more relevant information about our product and our customers in the JTBD interview sprint in just two days (6 interviews) than in the last three years. After less than a week, we were able to directly triple the effectiveness of our advertising campaign with the results. Not only did we improve our marketing and sales, but we also developed a better product.
+      image: /assets/img/images/hueck.jpg
 
 # Blog Posts Section
 blog:
-  title: Read Our Latest Updates
+  title: Read the latest updates
   subtitle: News & Blogs
-  description: Stay up to date with our latest insights, tips and best practices in market research, customer centricity and business growth.
+  description: Stay up to date with our latest insights, tips and best practices in the areas of market research, customer centricity and business growth.
 ---

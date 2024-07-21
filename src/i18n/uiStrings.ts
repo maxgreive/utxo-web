@@ -63,6 +63,10 @@ export const uiStrings: TypeUIStrings = {
 		en: 'Watch the<br>video',
 		de: 'Video<br>ansehen'
 	},
+	email: {
+		en: 'Email address',
+		de: 'Email-Adresse'
+	},
 	phone: {
 		en: 'Phone',
 		de: 'Telefon'
@@ -70,5 +74,17 @@ export const uiStrings: TypeUIStrings = {
 	address: {
 		en: 'Office Address',
 		de: 'Adresse'
+	},
+	message: {
+		en: 'Your message',
+		de: 'Ihre Nachricht'
+	},
+	name: {
+		en: 'Name',
+		de: 'Ihr Name'
+	},
+	send: {
+		en: 'Send',
+		de: 'Absenden'
 	}
 };
