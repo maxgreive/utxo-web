@@ -10,7 +10,7 @@ previewImage: "./images/file-P4dgqFTRcab0QLDZSlEARYED-1.jpg"
 reference: are-surveys-useful-for-product-development
 ---
 
-Wenn es um Kundenforschung geht, gibt es zwei sehr verbreitete Methoden, die häufig angewendet werden, aber keine guten Ergebnisse liefern. Die erste besteht darin, [mit den eigenen Annahmen zu arbeiten](/de/blog/we-assume-a-world-that-isnt-there/), anstatt mit den Kunden zu sprechen. Technisch gesehen ist das keine Kundenforschung, aber manchmal wird Empathie mit Wissen verwechselt. Die andere Methode sind Umfragen. Der Reiz einer Umfrage liegt in ihrer Einfachheit. Wir schreiben einfach unsere Annahmen auf und fragen die Leute, was sie davon halten. Wir können mit etwas wie [Google Form](https://forms.google.com/) beginnen und schon sind wir bereit. Da es sich um eine quantitative Methode handelt, könnten wir unsere Umfrage einfach an jeden senden, der irgendwie relevant ist, und auf das Beste hoffen. Es ist einfach und günstig.
+Wenn es um Kundenforschung geht, gibt es zwei sehr verbreitete Methoden, die häufig angewendet werden, aber keine guten Ergebnisse liefern. Die erste besteht darin, [mit den eigenen Annahmen zu arbeiten](/blog/wir-annehmen-eine-welt-die-nicht-da-ist), anstatt mit den Kunden zu sprechen. Technisch gesehen ist das keine Kundenforschung, aber manchmal wird Empathie mit Wissen verwechselt. Die andere Methode sind Umfragen. Der Reiz einer Umfrage liegt in ihrer Einfachheit. Wir schreiben einfach unsere Annahmen auf und fragen die Leute, was sie davon halten. Wir können mit etwas wie [Google Form](https://forms.google.com/) beginnen und schon sind wir bereit. Da es sich um eine quantitative Methode handelt, könnten wir unsere Umfrage einfach an jeden senden, der irgendwie relevant ist, und auf das Beste hoffen. Es ist einfach und günstig.
 
 Dennoch liefern Umfragen keine guten Ergebnisse. Sie liefern Ergebnisse, aber Ergebnisse und gute Ergebnisse sind nicht dasselbe. Hier sind die Dinge, die meiner Meinung nach mit Umfragen falsch laufen.
 
@@ -26,12 +26,12 @@ Der Hauptgrund dafür ist, dass Umfragen zu oberflächliche Ergebnisse liefern u
 
 ### Wer wird unsere Umfrage beantworten?
 
-Angenommen, wir wollen eine neue Zahlungs-App entwickeln. Wir wollen wissen, welche Funktionen unsere zukünftigen Kunden haben möchten. Also müssen wir zunächst ein potenzielles Kundenprofil erstellen. Nehmen wir an, wir machen hier alles richtig. Wir betrachten das [erweiterte Wettbewerbsumfeld](/de/blog/how-to-use-the-extended-competitive-landscape/). Wir betrachten die [Jobs, die wir annehmen, dass unsere Kunden erledigen wollen](/de/blog/understanding-the-jobs-to-be-done-perspective/). Und wir wählen entsprechend aus. Wir überspringen den ganzen Unsinn mit [Personas](/de/blog/are-personas-useful-for-product-development/) und demografischen Daten. Wir wählen basierend auf gut durchdachten Annahmen aus. Genau wie wir es für eine ordentliche Kundenforschung tun würden. Wir könnten auf etwas wie das Folgende kommen:
+Angenommen, wir wollen eine neue Zahlungs-App entwickeln. Wir wollen wissen, welche Funktionen unsere zukünftigen Kunden haben möchten. Also müssen wir zunächst ein potenzielles Kundenprofil erstellen. Nehmen wir an, wir machen hier alles richtig. Wir betrachten das [erweiterte Wettbewerbsumfeld](/blog/wie-kann-man-die-erweiterte-wettbewerbslandschaft-nutzen/). Wir betrachten die [Jobs, die wir annehmen, dass unsere Kunden erledigen wollen](/blog/verstehen-die-zu-erledigenden-aufgaben-perspektive/). Und wir wählen entsprechend aus. Wir überspringen den ganzen Unsinn mit [Personas](/en/blog/are-personas-useful-for-product-development/) und demografischen Daten. Wir wählen basierend auf gut durchdachten Annahmen aus. Genau wie wir es für eine ordentliche Kundenforschung tun würden. Wir könnten auf etwas wie das Folgende kommen:
 
 - Personen, die in den letzten 6 Monaten zum ersten Mal eine andere Zahlungs-App verwendet haben
 - Personen, die in den letzten 6 Monaten eine Zahlungsmethode eingestellt haben
 
-Dies wäre bereits viel besser als [was normalerweise passiert](/de/blog/would-you-rather-eat-a-dolphin-or-buy-our-product/). Aber hey, wir sind Profis. Unsere Annahme hier ist, dass wir hauptsächlich mit anderen Zahlungs-Apps konkurrieren werden. Paypal, Google Pay, Apple Pay, eine virtuelle Kreditkarte und so weiter.
+Dies wäre bereits viel besser als [was normalerweise passiert](/en/blog/would-you-rather-eat-a-dolphin-or-buy-our-product/). Aber hey, wir sind Profis. Unsere Annahme hier ist, dass wir hauptsächlich mit anderen Zahlungs-Apps konkurrieren werden. Paypal, Google Pay, Apple Pay, eine virtuelle Kreditkarte und so weiter.
 
 Das Problem ist, dass nicht jeder, der die Umfrage erhält, sie auch beantworten wird. In der Regel gibt es nur zwei Gruppen, die eine Umfrage beantworten. Eine Gruppe sind sehr zufriedene Kunden und [Freunde, die uns einen Gefallen tun wollen](https://www.momtestbook.com/). Sie werden meist positiv mit einigen Elementen der Ehrlichkeit antworten. Die andere Gruppe sind Hasser. Sie wollen uns nicht helfen, sie wollen nur sagen, wie schlecht unser Produkt, unsere Dienstleistung oder unsere Idee ist. Aber die wichtige Gruppe ist das Mittelfeld. Diese Leute, die sich nicht besonders für Zahlungs-Apps interessieren. Da sie sich jedoch nicht besonders interessieren, haben sie normalerweise keine Zeit für Umfragen. Unsere Basislinie ist also bereits verzerrt. Und wir verpassen die größte Kundengruppe.
 
@@ -80,4 +80,4 @@ Und das bedeutet, dass selbst wenn wir alles richtig machen, Umfragen quantitati
 
 ### Schauen Sie sich unseren Online-Meisterkurs „Jobs to be Done“ an
 
-[Masterclass](/services/mastering-jobs-to-be-done-online-workshop/)
+[Masterclass](/leistungen/mastering-jobs-to-be-done-online-workshop/)
