@@ -57,7 +57,7 @@ export const footerMenu: Record<string, Record<string, navigationItem[]>> = {
           },
           {
             label: "Kontakt",
-            path: "mailto:info@utxo.solutions",
+            path: "/kontakt",
           }
         ]
       }

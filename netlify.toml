@@ -3,6 +3,11 @@ from = "/tag/*"
 to = "/en/tag/:splat"
 
 [[redirects]]
+from = "/contact/"
+to = "/kontakt/"
+status = 301
+
+[[redirects]]
 from = "/imprint/"
 to = "/en/imprint/"
 status = 301
