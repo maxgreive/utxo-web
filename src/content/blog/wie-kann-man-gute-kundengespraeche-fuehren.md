@@ -51,9 +51,9 @@ Und wenn es darum geht, die richtigen Leute zu finden? "Wenn ich es nicht könnt
 
 Es gibt bereits einige Artikel, die sich eingehender mit dem Thema "bessere Fragen stellen" befassen. Dort behandeln wir Dinge wie:
 
-1. [Auf vergangenes Verhalten abzielen statt auf "Würden Sie?"](/blog/fuenf-schritte-zum-besseren-fragen-stellen/)
-2. [Nicht-leitende Fragen stellen](/blog/would-you-rather-eat-a-dolphin-or-buy-our-product/)
-3. [Versuchen, Antworten auf Dinge zu finden, die Sie später im Prozess wissen müssen](/blog/structuring-unlearned-information/)
+1. [Auf vergangenes Verhalten abzielen statt auf "Würden Sie?"](/blog/fuenf-schritte-um-bessere-fragen-zu-stellen/)
+2. [Nicht-leitende Fragen stellen](/blog/wuerden-sie-lieber-einen-delphin-essen-oder-unser-produkt-kaufen/)
+3. [Versuchen, Antworten auf Dinge zu finden, die Sie später im Prozess wissen müssen](/blog/strukturierung-ungelernter-informationen/)
 
 Ich werde hier nicht näher darauf eingehen. Die Kernaussage ist: Wenn Sie die falschen Fragen stellen, erhalten Sie Antworten, die Ihnen nicht weiterhelfen werden. Das wiederum macht das Fragen zu einer schlechten Erfahrung.
 

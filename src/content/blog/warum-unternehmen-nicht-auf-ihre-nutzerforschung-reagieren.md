@@ -10,67 +10,67 @@ previewImage: "./images/file-e0Q8FidXTo4YoCXULCd89lnc.jpg"
 reference: why-companies-fail-to-act-on-their-user-research
 ---
 
-In the last post, we covered the question, [how much you should invest in customer research](/blog/how-much-should-i-invest-in-user-research/). This is a follow up post. We will cover the question, why companies fail to act on the knowledge they gained in customer research. Because quite often, when companies do user research, they fail to act on it afterwards. So let's try to understand, why this happens and how it can be avoided.
+Im letzten Beitrag haben wir uns mit der Frage beschäftigt, [wie viel Sie in Kundenforschung investieren sollten](/blog/wie-viel-sollte-ich-in-die-benutzerforschung-investieren). Dies ist ein Folgebeitrag. Wir werden uns mit der Frage beschäftigen, warum Unternehmen es versäumen, die Erkenntnisse aus der Kundenforschung umzusetzen. Denn häufig kommt es vor, dass Unternehmen nach der Nutzerforschung nichts unternehmen. Versuchen wir also zu verstehen, warum das passiert und wie es vermieden werden kann.
 
-The classic situation for this is:
+Die klassische Situation hierfür ist:
 
-- The company realizes, that they have problem
-- Usually it is, that their product doesn't perform in a way they want it to
-- They realize, that they need to understand their customers better to fix the problem
-- So they invest and do customer research
-- They get results and know, how to fix their product, sales and marketing
-- But they don't act on the results
+Das Unternehmen erkennt, dass es ein Problem hat
+Normalerweise liegt es daran, dass ihr Produkt nicht die gewünschte Leistung bringt.
+Sie erkennen, dass sie ihre Kunden besser verstehen müssen, um das Problem zu lösen
+Also investieren sie und betreiben Kundenforschung
+Sie erzielen Ergebnisse und wissen, wie sie ihr Produkt, ihren Vertrieb und ihr Marketing verbessern können.
+Aber sie handeln nicht auf der Grundlage der Ergebnisse
 
-### Why do companies fail to act on their customer research?
+### Warum unternehmen Unternehmen nichts bei der Kundenforschung?
 
-I should say, that fail is a pretty hard word. Failure comes in mostly two forms: Not knowing what to do. And not doing what you know you should do. So this rather strange behavior is actually rather common. Just think of people that research how their nutrition should look like. And then they eat mostly the same. I myself have a great book with everyday workout plans. I also have a yoga app. I currently do neither workout nor yoga, though I should.
+Ich muss sagen, dass Versagen ein ziemlich hartes Wort ist. Versagen gibt es hauptsächlich in zwei Formen: Nicht zu wissen, was man tun soll. Und nicht zu tun, was man tun sollte. Dieses ziemlich seltsame Verhalten ist also eigentlich ziemlich verbreitet. Denken Sie nur an Leute, die recherchieren, wie ihre Ernährung aussehen sollte. Und dann essen sie meistens das Gleiche. Ich selbst habe ein tolles Buch mit täglichen Trainingsplänen. Ich habe auch eine Yoga-App. Ich mache derzeit weder Training noch Yoga, obwohl ich es tun sollte.
 
-When it comes to the business context, I see seven special elements to why this is happening:
+Im geschäftlichen Kontext sehe ich sieben besondere Gründe dafür:
 
-1. Lack of responsibility
-2. Lack of authority
-3. Lack of budget
-4. Lack of clarity
-5. Lack of openness
-6. Lack of skill
-7. Optimization culture
+1. Fehlende Verantwortung
+1. Mangelnde Autorität
+1. Fehlendes Budget
+1. Unklarheit
+1. Mangelnde Offenheit
+1. Mangel an Fähigkeiten
+1. Optimierungskultur
 
-Many of these are connected, but it helps to look at them in separation. So let's do this.
+Viele davon hängen zusammen, aber es ist hilfreich, sie getrennt zu betrachten. Also lasst uns das tun.
 
-### Lack of responsibility
+### Fehlende Verantwortung
 
-You did the customer research and now it is time to build on the results. After the research project should be an implementation project. Maybe you didn't plan one. This is in general fine, at least for the details. How could you plan a project before you know what to do? But after you understand your customers, your to-do's are usually not what you thought they would be. You could have started with the goal of improving marketing. But in the research you learned that you need to improve the product or customer service. So the marketing person that started the research can't do the implementation project. And the product person maybe doesn't care, because it wasn't their research after all. No project gets done unless the right person wants it to get done. 
+Sie haben die Kundenforschung durchgeführt und jetzt ist es an der Zeit, auf den Ergebnissen aufzubauen. Auf das Forschungsprojekt sollte ein Implementierungsprojekt folgen. Vielleicht haben Sie keins geplant. Das ist im Allgemeinen in Ordnung, zumindest was die Details betrifft. Wie könnten Sie ein Projekt planen, bevor Sie wissen, was zu tun ist? Aber nachdem Sie Ihre Kunden verstanden haben, sind Ihre Aufgaben normalerweise nicht das, was Sie dachten. Sie hätten mit dem Ziel beginnen können, das Marketing zu verbessern. Aber bei der Forschung haben Sie erfahren, dass Sie das Produkt oder den Kundendienst verbessern müssen. Der Marketingmitarbeiter, der die Forschung begonnen hat, kann das Implementierungsprojekt also nicht durchführen. Und dem Produktmitarbeiter ist es vielleicht egal, weil es schließlich nicht seine Forschung war. Kein Projekt wird durchgeführt, wenn nicht die richtige Person möchte, dass es durchgeführt wird. 
 
-My sailing teacher always said: If you say, that something should be done, say who. Else no one will do it. Lack of responsibility often comes from a dispersion of responsibility.
+Mein Segellehrer hat immer gesagt: Wenn du sagst, dass etwas getan werden muss, dann sag auch wer. Sonst macht es keiner. Verantwortungslosigkeit entsteht oft durch eine Streuung der Verantwortung.
 
-### Lack of authority
+### Mangelnde Autorität
 
-Similar to lack of responsibility, you might have someone who feels responsible. He would do the necessary steps, but can't do it alone. He may not get the support from management or can't access relevant resources. This is often the case, when the person with the problem has low decision power. They got the allowance for doing a customer research project but not for the follow-up. Then you need to [convince your boss](/blog/how-to-convince-your-boss/).
+Ähnlich wie bei mangelnder Verantwortung gibt es vielleicht jemanden, der sich verantwortlich fühlt. Er würde die notwendigen Schritte unternehmen, kann es aber nicht allein. Er bekommt möglicherweise nicht die Unterstützung des Managements oder hat keinen Zugriff auf relevante Ressourcen. Dies ist oft der Fall, wenn die Person mit dem Problem nur wenig Entscheidungsbefugnis hat. Sie hat die Genehmigung für die Durchführung eines Kundenforschungsprojekts erhalten, aber nicht für die Nachbereitung. [Dann müssen Sie Ihren Chef überzeugen](/blog/wie-ueberzeugen-sie-ihren-chef).
 
-### Lack of budget
+### Fehlendes Budget
 
-Sometimes there is the misconception that knowing the solution is the solution. Not explicitly of course, but still there. Customer research invest should be at least a certain percentage of your development budget. The reverse is true as well. Projects, where there is no follow-up budget planned have low chances of success. Once again, I totally get, why this happens. When you do customer research for the first time it sometimes feels expensive. You don't know how much value it will bring you. So it may be hard to see that you only get the direction and not the travel. That after a customer research is done, you still need to do the things. That customer research may be the cheaper part of the project. But still you need to budget for the travel and not just for the map.
+Manchmal herrscht das Missverständnis, dass das Wissen um die Lösung die Lösung ist. Natürlich nicht explizit, aber dennoch vorhanden. Investitionen in die Kundenforschung sollten mindestens einen bestimmten Prozentsatz Ihres Entwicklungsbudgets ausmachen. Das Gegenteil ist auch der Fall. Projekte, für die kein Folgebudget eingeplant ist, haben geringe Erfolgschancen. Auch hier verstehe ich vollkommen, warum das so ist. Wenn Sie zum ersten Mal Kundenforschung betreiben, fühlt es sich manchmal teuer an. Sie wissen nicht, welchen Wert sie Ihnen bringen wird. Daher ist es vielleicht schwer zu erkennen, dass Sie nur die Richtung und nicht die Reise bekommen. Dass Sie nach Abschluss einer Kundenforschung immer noch die Dinge tun müssen. Diese Kundenforschung mag der kostengünstigere Teil des Projekts sein. Aber Sie müssen trotzdem die Reise und nicht nur die Karte budgetieren.
 
-### Lack of clarity
+### Unklarheit
 
-I will dedicate a whole article to this later due to the complexity, but here is the basic story. Good customer research is hypothesis forming. This means that you go into the research without a solution in mind. Everything is in the air. You learn about the customer. Not about the customer in relation to your product. Our customers usually do have a product or at least a product idea. Yet the result of the research may be that the product doesn't fit the [job to be done](/blog/understanding-the-jobs-to-be-done-perspective/). You may find out, that the change you have to make is rather big. At least if you want to get the full benefit.
+Aufgrund der Komplexität werde ich diesem Thema später einen ganzen Artikel widmen, aber hier ist die grundlegende Geschichte. Gute Kundenforschung ist Hypothesenbildung. Das bedeutet, dass Sie die Forschung ohne eine Lösung im Kopf beginnen. Alles ist in der Luft. Sie erfahren etwas über den Kunden. Nicht über den Kunden in Bezug auf Ihr Produkt. Unsere Kunden haben normalerweise ein Produkt oder zumindest eine Produktidee. Das Ergebnis der Forschung kann jedoch sein, dass das Produkt nicht für [Jobs to be done](/blog/verstehen-die-zu-erledigenden-aufgaben-perspektive) geeignet ist. Sie stellen möglicherweise fest, dass die Änderung, die Sie vornehmen müssen, ziemlich groß ist. Zumindest, wenn Sie den vollen Nutzen erzielen möchten.
 
-If there isn't enough clarity about this upfront, customers are sometimes unprepared. And if they are reluctant to change a lot, they may change nothing. And if this happens it is most of the time a failure of the company that did the research.
+Wenn dies im Vorfeld nicht klar genug ist, sind die Kunden manchmal unvorbereitet. Und wenn sie sich scheuen, viel zu ändern, ändern sie möglicherweise gar nichts. Und wenn dies passiert, ist es meistens ein Versagen des Unternehmens, das die Untersuchung durchgeführt hat.
 
-### Lack of openness
+### Mangelnde Offenheit
 
-It is kind of the same problem but from the other side. Lack of clarity means that the research team failed to prepare the customer for the change. They haven't been clear on what will and will not be the result of the research. And how the follow ups may look like. Lack of openness means, that the customer didn't want to learn something anyway. Companies often do customer research to confirm what they already believe. As a research company they are to be rejected as customers. Here is a more detailed article on the [confirming research bias](/blog/how-to-avoid-the-confirming-research-bias/).
+Es ist im Grunde dasselbe Problem, nur von der anderen Seite. Mangelnde Klarheit bedeutet, dass das Forschungsteam es versäumt hat, den Kunden auf die Veränderung vorzubereiten. Es war nicht klar, was das Ergebnis der Forschung sein wird und was nicht. Und wie die Folgemaßnahmen aussehen könnten. Mangelnde Offenheit bedeutet, dass der Kunde ohnehin nichts erfahren wollte. Unternehmen führen oft Kundenforschung durch, um zu bestätigen, was sie bereits glauben. Als Forschungsunternehmen werden sie als Kunden abgelehnt. Hier ist ein ausführlicherer Artikel [über den bestätigenden Forschungsbias](/blog/wie-vermeidet-man-den-bestaetigenden-forschungsbias).
 
-### Lack of skill
+### Mangel an Fähigkeiten
 
-For many companies, innovation isn't their everyday business. They may not have dedicated people to reinvent things. Nor do they have processes or systems in place. They may reinvent their traditional product for the first time in years. And so they hire help. But then, once the research is done, they try to implement it. And as they are not skilled in it, they fail. Most companies don't know how to do good user research. And most companies don't know, how to implement innovation. The individuals tasked with the implementation may simple not know how to do it. They know what to do, thanks to the research. You may have the boat, the map, the destination and the crew. But if you can't sail you wont get there.
+Für viele Unternehmen gehört Innovation nicht zum Alltag. Sie haben vielleicht keine Mitarbeiter, die Dinge neu erfinden. Sie haben auch keine Prozesse oder Systeme eingerichtet. Vielleicht erfinden sie ihr traditionelles Produkt zum ersten Mal seit Jahren neu. Also stellen sie Hilfe ein. Aber wenn die Forschung abgeschlossen ist, versuchen sie, das Ergebnis umzusetzen. Und da sie darin nicht qualifiziert sind, scheitern sie. Die meisten Unternehmen wissen nicht, wie man gute Benutzerforschung betreibt. Und die meisten Unternehmen wissen nicht, wie man Innovationen umsetzt. Die mit der Umsetzung beauftragten Personen wissen vielleicht einfach nicht, wie es geht. Dank der Forschung wissen sie, was zu tun ist. Sie haben vielleicht das Boot, die Karte, das Ziel und die Mannschaft. Aber wenn Sie nicht segeln können, kommen Sie nicht ans Ziel.
 
-### Optimization culture
+### Optimierungskultur
 
-This is a nice description for: The culture is unable to support innovation. The long version is, that in business you have exploration and exploitation. Exploration is for finding new ways. Exploitation is for going them as fast and efficient as possible. Every business needs both. But some have only one. If you have only exploration you will find amazing solutions to difficult problems. But you won't be able to scale and turn them into money. If you have only exploitation you can milk the cash cow like no other. But when the cow is dying, you won't know how to find a new one.
+Das ist eine schöne Beschreibung für: Die Kultur ist nicht in der Lage, Innovationen zu unterstützen. Die lange Version ist, dass es im Geschäftsleben Erkundung und Ausbeutung gibt. Erkundung dient dazu, neue Wege zu finden. Ausbeutung dient dazu, diese so schnell und effizient wie möglich zu beschreiten. Jedes Geschäft braucht beides. Aber manche haben nur eines. Wenn Sie nur Erkundung betreiben, werden Sie erstaunliche Lösungen für schwierige Probleme finden. Aber Sie werden nicht in der Lage sein, zu skalieren und sie in Geld umzuwandeln. Wenn Sie nur Ausbeutung betreiben, können Sie die Cash Cow wie keine andere melken. Aber wenn die Kuh stirbt, werden Sie nicht wissen, wie Sie eine neue finden.
 
-### So how do I avoid this happening to me?
+### Wie kann ich also verhindern, dass mir das passiert?
 
-There is no easy fix to this. Most of it comes down to [honest communication](/blog/your-language-limits-your-achievements/). Think about what you will do with the results after the research. Plan budget and get stakeholder buy-in during the research. Openly discuss what you can expect from the research. Be honest, if it isn't what you want from it. Don't do customer research, just because it looks amazing. And if nothing is happening after the research sprint, ask why. And get help if needed. 
+Dafür gibt es keine einfache Lösung. Am wichtigsten ist eine [ehrliche Kommunikation](/blog/deine-sprache-begrenzt-deine-erfolge). Überlegen Sie, was Sie nach der Untersuchung mit den Ergebnissen machen wollen. Planen Sie ein Budget und holen Sie sich während der Untersuchung die Zustimmung der Stakeholder. Besprechen Sie offen, was Sie von der Untersuchung erwarten können. Seien Sie ehrlich, wenn es nicht Ihren Erwartungen entspricht. Führen Sie keine Kundenuntersuchungen durch, nur weil sie toll aussehen. Und wenn nach dem Untersuchungssprint nichts passiert, fragen Sie nach dem Grund. Und holen Sie sich bei Bedarf Hilfe. 
 
-You did the customer research for a reason. Don't let your insights go to waste.
+Sie haben die Kundenforschung aus einem bestimmten Grund durchgeführt. Lassen Sie Ihre Erkenntnisse nicht ungenutzt verstreichen.

@@ -11,7 +11,7 @@ hero:
   subtitle: Turn customer insights into success stories
   intro: Use our proven methods and unique approaches to perfectly customise your products and services to your customers' needs.
   ctaText: Start now
-  ctaLink: /services
+  ctaLink: /en/services
 
 # About Section
 about:
@@ -43,12 +43,12 @@ services:
   items:
     - title: Customer Insight Sprint
       text: Within 4-6 weeks, we help you to develop clear value propositions for product, marketing and sales - all based on customer insights.
-      link: /services/customer-research-sprints
+      link: /en/services/customer-research-sprints
       icon: flaticon-rating
     - title: "Mastering Jobs to be Done Online Course"
       text: For anyone who wants to learn and use our tools. Especially useful for people in marketing, product development and innovation management. We teach you everything you need to know.
       icon: flaticon-round-table
-      link: /services/mastering-jobs-to-be-done-online-workshop
+      link: /en/services/mastering-jobs-to-be-done-online-workshop
     - title: Company transformation
       text: We support you in the transformation of your company and help you to establish customer-orientated structures.
       icon: flaticon-mission

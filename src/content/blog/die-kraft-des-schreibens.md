@@ -10,7 +10,7 @@ previewImage: "./images/DALL·E-2024-01-25-23.55.58-A-watercolor-slightly-geomet
 reference: the-power-of-writing
 ---
 
-Dies ist die 30. Folge dieses Newsletters/Blogs. Ich habe die [erste Folge](/blog/wo-starten-wenn-dein-Geschäft-nicht-läuft/) am 13. November 2023 veröffentlicht. Hier ist, was ich seither über die Macht des Schreibens gelernt habe.
+Dies ist die 30. Folge dieses Newsletters/Blogs. Ich habe die [erste Folge](/blog/wo-soll-man-anfangen-wenn-das-geschaeft-nicht-laeuft/) am 13. November 2023 veröffentlicht. Hier ist, was ich seither über die Macht des Schreibens gelernt habe.
 
 ### Schreiben macht den Kopf frei
 
