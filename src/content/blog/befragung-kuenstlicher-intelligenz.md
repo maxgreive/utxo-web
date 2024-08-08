@@ -1,12 +1,12 @@
 ---
-title: "Künstliche Intelligenz in Frage stellen?"  
-author: Martin Betz  
-pubDate: "2024-02-08"  
-tags:  
-  - "ai"  
-  - "better-questions"  
-  - "thinking-ahead"  
-previewImage: "./images/file-w6tHvawDGiWJsvSVFizStlw5.png"  
+title: "Künstliche Intelligenz in Frage stellen?"
+author: Martin Betz
+pubDate: "2024-02-08"
+tags:
+  - "ai"
+  - "better-questions"
+  - "thinking-ahead"
+previewImage: "./images/file-w6tHvawDGiWJsvSVFizStlw5.png"
 reference: questioning-artificial-intelligence
 ---
 
@@ -88,7 +88,7 @@ Der herkömmliche Ansatz - die KI mit der Ausführung von Aufgaben zu beauftrage
 
 Diese Methode schränkt jedoch das Potenzial der KI ein, da ihre Möglichkeiten nicht voll ausgeschöpft werden. Diese Analogie lässt sich auch auf den Arbeitsplatz übertragen: Wir stellen talentierte Mitarbeiter nicht nur ein, damit sie Befehle befolgen, sondern um ihr Fachwissen und ihre Erkenntnisse zu nutzen. In ähnlicher Weise sollte die Zusammenarbeit mit der KI darin bestehen, ihre Vorschläge einzuholen und einen wechselseitigen Ideenaustausch zu fördern.
 
-Ein fruchtbarerer Ansatz besteht darin, der KI Fragen zu stellen: Anstatt zu befehlen "Zeichnen Sie den Erfolg", sollten wir fragen "Wie kann der Erfolg visualisiert werden?" Dadurch wird ein kollaborativer Denkprozess in Gang gesetzt, der neue Perspektiven und Ideen zutage fördert. Dadurch wird die Interaktion von einem transaktionalen Befehl zu einem Dialog, der den kreativen Prozess bereichert und die Anwendungsmöglichkeiten der KI erweitert.
+Ein fruchtbarerer Ansatz besteht darin, der KI Fragen zu stellen: Anstatt zu befehlen "Zeichne den Erfolg", sollten wir fragen "Wie kann der Erfolg visualisiert werden?" Dadurch wird ein kollaborativer Denkprozess in Gang gesetzt, der neue Perspektiven und Ideen zutage fördert. Dadurch wird die Interaktion von einem transaktionalen Befehl zu einem Dialog, der den kreativen Prozess bereichert und die Anwendungsmöglichkeiten der KI erweitert.
 
 Um der anfänglichen Kritik zu begegnen, muss sich unser Umgang mit KI weiterentwickeln. Indem wir die Frage über die Anweisung stellen, können wir eine reichhaltigere, dynamischere Partnerschaft mit KI-Technologien eingehen. Dies erfordert nicht nur einen technischen, sondern auch einen kulturellen Wandel, bei dem Neugier und Zusammenarbeit unsere Interaktionen mit KI leiten. Durch die Förderung eines Umfelds, in dem die Frage "Was fehlt mir?" so selbstverständlich wird wie die Erteilung eines Auftrags, können wir die Symbiose zwischen menschlicher und künstlicher Intelligenz verbessern, was zu einem noch nie dagewesenen Maß an Innovation und Kreativität führt._
 

@@ -10,11 +10,11 @@ previewImage: "./images/DALL·E-2024-01-14-23.54.27-A-persona-sheet-used-in-mark
 reference: are-personas-useful-for-product-development
 ---
 
-Ein häufig verwendetes Werkzeug im Produktdesign sind Personas. Die Idee hinter einer Persona ist, eine detailliertere Beschreibung Ihres Zielkunden zu haben. Dies soll Ihnen helfen, sich in die Perspektive Ihrer Kunden hineinzuversetzen. Aber sind sie als Werkzeug nützlich?
+Ein häufig verwendetes Werkzeug im Produktdesign sind Personas. Die Idee hinter einer Persona ist, eine detailliertere Beschreibung Deines Zielkunden zu haben. Dies soll Dir helfen, Dich in die Perspektive Deiner Kunden hineinzuversetzen. Aber sind sie als Werkzeug nützlich?
 
-Was ist eine Persona?
+### Was ist eine Persona?
 
-Eine Persona ist eine erfundene Figur, die Ihren Kunden repräsentieren soll. Sie hat einige persönliche Details, um sie greifbar zu machen. Wenn wir über Personas sprechen, meinen wir in der Regel eine Käuferpersona. Man könnte das Werkzeug auch für andere Zwecke nutzen und eine Benutzerpersona, eine Mitarbeiterpersona usw. erstellen.
+Eine Persona ist eine erfundene Figur, die Deinen Kunden repräsentieren soll. Sie hat einige persönliche Details, um sie greifbar zu machen. Wenn wir über Personas sprechen, meinen wir in der Regel eine Käuferpersona. Man könnte das Werkzeug auch für andere Zwecke nutzen und eine Benutzerpersona, eine Mitarbeiterpersona usw. erstellen.
 
 Zur Veranschaulichung erstellen wir eine Käuferpersona für unsere Dienstleistungen bei UTXO Solutions:
 
@@ -38,12 +38,12 @@ Zitat: "Lasst uns großartige Dinge schaffen!"
 
 Mit all diesen Informationen könnten wir nun unsere Dienstleistungen entwickeln. Immer mit einer kleinen Stimme im Kopf: "Was würde Karl wollen?"
 
-Wie gut sind Personas?
+### Wie gut sind Personas?
 
 Personas sind sozusagen das Werkzeug für unerfahrene Produktentwickler. Sie haben das niedrigste Abstraktionsniveau.
 Man geht von: "Was will ich von diesem Produkt?" zu "Was will jemand anderes?" In gewisser Weise sind Personas besser als nichts. Aber das war es dann auch schon.  
 
-Schauen Sie sich Karl noch einmal an. Fühlen Sie sich wie Karl? Wahrscheinlich nicht. Ich vermute, dass sich nicht einmal die Person, die ich im Kopf hatte, als ich Karl beschrieb, wie Karl fühlen würde. Unser Produkt würde sich also nicht so anfühlen, als wäre es für Sie gemacht. Aber warum?
+Schau Dir Karl noch einmal an. Fühlst Du Dich wie Karl? Wahrscheinlich nicht. Ich vermute, dass sich nicht einmal die Person, die ich im Kopf hatte, als ich Karl beschrieb, wie Karl fühlen würde. Unser Produkt würde sich also nicht so anfühlen, als wäre es für Dich gemacht. Aber warum?
 
 Meiner Meinung nach scheitern Personas auf vier verschiedene Arten:
 
@@ -62,7 +62,7 @@ Personas bestehen hauptsächlich aus demografischen Daten. Fiktiver Name, Durchs
 - "Du bist unter 25, also hast du ein falsches Anspruchsdenken und eine schlechte Arbeitsmoral."
 - "Du bist eine Frau, also ist dir Familie wichtiger als deine Karriere."
 
-Du kannst nicht wissen, wie sich jemand verhalten wird, nur indem du ihn ansiehst.
+Du kannst nicht wissen, wie sich jemand verhalten wird, nur indem Du ihn ansiehst.
 
 ### Niemand ist jemals der Standardkunde
 
@@ -70,7 +70,7 @@ Das Denken in Personas führt dazu, dass wir für Standardkunden bauen. Jemanden
 
 Aber dann frage ich: Warum nicht für sie bauen? Warum nicht für Menschen bauen, die einem Muster folgen? Etwas, das flexibel genug ist, um individuelle Unterschiede zu berücksichtigen?
 
-Du willst kein Produkt für deine eigenen Bedürfnisse bauen, weil du es nicht kaufen wirst. Also baue auch keines für jemanden, der nicht existiert.
+Du willst kein Produkt für Deine eigenen Bedürfnisse bauen, weil Du es nicht kaufen wirst. Also baue auch keines für jemanden, der nicht existiert.
 
 ### Die Form erlaubt keine echten Daten
 
@@ -82,34 +82,32 @@ Karl ist offensichtlich von mir für diesen Artikel erfunden. Aber die meisten P
 - Ziel
 - Einige Fragen zur technologischen und sozialen Umgebung
 - Andere demografische Fragen
-- Ein Zitat, das dich beschreibt
+- Ein Zitat, das Dich beschreibt
 
-Was das bedeutet, ist, dass du eine Forschung für die Persona machst. Und dann behauptest du, dass es Forschung hinter der Persona gibt. Die Daten sind jedoch nicht relevant. Die relevanten Daten sind: Wie und warum hast du in der Vergangenheit in relevanten Situationen entschieden? 
+Was das bedeutet, ist, dass Du eine Forschung für die Persona machst. Und dann behauptest Du, dass es Forschung hinter der Persona gibt. Die Daten sind jedoch nicht relevant. Die relevanten Daten sind: Wie und warum hast Du in der Vergangenheit in relevanten Situationen entschieden? 
 
 Aber die Persona ist, wie der Name schon sagt, eine Person. Was wir suchen, ist ein Verhalten. Wir wollen unser Produkt für einen Entscheidungsprozess und ein Nutzungsverhalten entwickeln. Die Form einer Person erlaubt dies einfach nicht. 
 
-Was sie jedoch tut, ist, dass wir das Verhalten aus der Persona ableiten. Und dies lädt das gesamte Spektrum von Vorurteilen ein. Wir nehmen die Informationen nicht vom Benutzer über ihr Verhalten. Wir erfinden das Verhalten aus dem, was wir denken, wie diese Art von Person handeln würde. 
+Was sie jedoch tut, ist, dass wir das Verhalten aus der Persona ableiten. Und dies lädt das gesamte Spektrum von Vorurteilen ein. Wir nehmen die Informationen nicht vom Benutzer über sein Verhalten. Wir erfinden das Verhalten aus dem, was wir denken, wie diese Art von Person handeln würde. 
 
 ### Man kann sie nicht in First-Principle-Thinking integrieren
 
-First-Principle-Thinking ist eine Technik, um Annahmen zu reduzieren. Wenn du ein Produkt baust, musst du Entscheidungen treffen. Welche Funktionen solltest du bauen und welche Marketingbotschaften solltest du verwenden. Die besten Ergebnisse kommen, wenn es eine direkte Kausalitätslinie vom Wissen über deinen Kunden zu den Entscheidungen gibt. Wenn jedes Wissensstück direkt zu einem neuen Wissensstück führt. Bis du weißt, was du bauen und wie du es vermarkten sollst. 
+First-Principle-Thinking ist eine Technik, um Annahmen zu reduzieren. Wenn Du ein Produkt baust, musst Du Entscheidungen treffen. Welche Funktionen solltest Du bauen und welche Marketingbotschaften solltest Du verwenden. Die besten Ergebnisse kommen, wenn es eine direkte Kausalitätslinie vom Wissen über Deinen Kunden zu den Entscheidungen gibt. Wenn jedes Wissensstück direkt zu einem neuen Wissensstück führt. Bis Du weißt, was Du bauen und wie Du es vermarkten sollst. 
 
-Personas funktionieren dafür nicht, da du mindestens zwei Bruchstellen für die Kausalität hast:
+Personas funktionieren dafür nicht, da Du mindestens zwei Bruchstellen für die Kausalität hast:
 
-Die erste ist bei der Erstellung der Persona. Du aggregierst die Informationen aus der Benutzerforschung in eine Persona. Aber es gibt keine klare Linie der Auswahl der Elemente aus der Forschung in die Persona. Wenn du Verhalten erforscht, musst du es in eine Person(a) übertragen. Wenn du für eine Person(a) geforscht hast, hast du überhaupt kein Verhalten erforscht. 
+Die erste ist bei der Erstellung der Persona. Du aggregierst die Informationen aus der Benutzerforschung in eine Persona. Aber es gibt keine klare Linie der Auswahl der Elemente aus der Forschung in die Persona. Wenn Du Verhalten erforscht, musst Du es in eine Person(a) übertragen. Wenn Du für eine Person(a) geforscht hast, hast Du überhaupt kein Verhalten erforscht. 
 
-Die zweite ist, wenn du von der Persona zum Produkt wechselst. Wie oben geschrieben: Du leitest Verhalten aus demografischen Daten ab. Dies lädt zu Vorurteilen ein. Und Fehler. 
+Die zweite ist, wenn Du von der Persona zum Produkt wechselst. Wie oben geschrieben: Du leitest Verhalten aus demografischen Daten ab. Dies lädt zu Vorurteilen ein. Und Fehler. 
 
 ### Was ist also die Schlussfolgerung?
 
-Wenn du mit Personas arbeitest, arbeitest du mit mehr Annahmen als notwendig. Diese Annahmen sehen wie Daten aus. Aber sie sind es nicht. Demografische Daten können dir nichts über Verhalten sagen. Du baust für einen Kunden, der erfunden ist und nie da ist. Die Form lädt zu Fehlern ein. Und es ist praktisch unbrauchbar für einen kausal getriebenen Produktentwicklungsprozess.    
+Wenn Du mit Personas arbeitest, arbeitest Du mit mehr Annahmen als notwendig. Diese Annahmen sehen wie Daten aus. Aber sie sind es nicht. Demografische Daten können Dir nichts über Verhalten sagen. Du baust für einen Kunden, der erfunden ist und nie da ist. Die Form lädt zu Fehlern ein. Und es ist praktisch unbrauchbar für einen kausal getriebenen Produktentwicklungsprozess.    
 
-Ja, man könnte sagen, sie sind besser als nichts. Aber dem würde ich sogar widersprechen. Keine Lösung zu haben und sich dessen bewusst zu sein, treibt dich dazu, eine zu finden. Personas befriedigen das Bedürfnis nach einem besseren Framework, ohne dein Problem zu lösen.
+Ja, man könnte sagen, sie sind besser als nichts. Aber dem würde ich sogar widersprechen. Keine Lösung zu haben und sich dessen bewusst zu sein, treibt Dich dazu, eine zu finden. Personas befriedigen das Bedürfnis nach einem besseren Framework, ohne Dein Problem zu lösen.
 
+## Willst Du ein großartiges Framework, um großartige Produkte zu entwickeln?
 
-
-## Willst du ein großartiges Framework, um großartige Produkte zu entwickeln?
-
-### Schau dir unseren Online-Kurs "Mastering Jobs to be Done" an
+### Schau Dir unseren Online-Kurs "Mastering Jobs to Be Done" an
 
 [Beherrsche das Framework](/leistungen/mastering-jobs-to-be-done-online-workshop/)
