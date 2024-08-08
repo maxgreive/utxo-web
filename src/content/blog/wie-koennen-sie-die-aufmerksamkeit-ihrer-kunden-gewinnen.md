@@ -62,4 +62,4 @@ Der Trick besteht darin, zu wissen, was die Probleme Ihrer Kunden sind. Und wie 
 
 ### Vielleicht hilft Ihnen die Sache hinter dem Link.
 
-[Klicken Sie auf diese Schaltfläche](/services/mastering-jobs-to-be-done-online-workshop/)
+[Klicken Sie auf diese Schaltfläche](/leistungen/mastering-jobs-to-be-done-online-workshop/)

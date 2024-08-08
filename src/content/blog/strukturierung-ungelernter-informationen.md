@@ -59,4 +59,4 @@ Denken Sie daran: **Es ist einfacher, Gedanken zu erkennen, wenn man anfängt, n
 
 ### Werfen Sie einen Blick auf unseren nächsten Mastering Jobs to be done Workshop
 
-[Klicken Sie hier](/services/mastering-jobs-to-be-done-online-workshop/)
+[Klicken Sie hier](/leistungen/mastering-jobs-to-be-done-online-workshop/)

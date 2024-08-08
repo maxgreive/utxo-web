@@ -42,4 +42,4 @@ Und wenn Sie später Ihre Fähigkeiten und Rahmenbedingungen verbessern wollen, 
 
 ### Schauen Sie sich unsere Online-Masterclass an.
 
-[Klicken Sie hier](/services/mastering-jobs-to-be-done-online-workshop/)
+[Klicken Sie hier](/leistungen/mastering-jobs-to-be-done-online-workshop/)

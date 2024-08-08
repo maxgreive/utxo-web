@@ -102,4 +102,4 @@ Aber auch Ihre Mitarbeiter bestimmen Ihr Unternehmen. Stellen Sie die Leute ein,
 ## Möchten Sie lernen, wie Sie Ihr Unternehmen fit machen?
 Schauen Sie sich unseren Mastering Jobs to be done Workshop an
 
-[Klicken Sie hier](/services/mastering-jobs-to-be-done-online-workshop/)
+[Klicken Sie hier](/leistungen/mastering-jobs-to-be-done-online-workshop/)

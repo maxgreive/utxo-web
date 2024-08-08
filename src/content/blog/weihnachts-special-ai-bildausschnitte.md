@@ -73,7 +73,7 @@ Dies war der von Syd Mead inspirierte Hund.
 
 Interessant ist, dass man den Stil eines modernen Künstlers (wahrscheinlich nach 1950) nicht verwenden kann. Man muss den Stil extrahieren und eine indirekte Kopie erstellen. So sind wir übrigens auch auf die geometrischen Stilelemente gekommen.
 
-Hier ist auch eine "Da-Vinci-Stil-Variante" von jemandem, der an unserem ["Mastering Jobs to be done workshop"](/services/mastering-jobs-to-be-done-online-workshop/) teilgenommen hat. Mein Favorit ist der kleine Schädel im Regal links. Aber hey, Kundenforschung ist für alle da, wir urteilen nicht.
+Hier ist auch eine "Da-Vinci-Stil-Variante" von jemandem, der an unserem ["Mastering Jobs to be done workshop"](/leistungen/mastering-jobs-to-be-done-online-workshop/) teilgenommen hat. Mein Favorit ist der kleine Schädel im Regal links. Aber hey, Kundenforschung ist für alle da, wir urteilen nicht.
 
 ![](./images/DALL·E-2023-12-15-11.56.55-Wide-watercolor-painting-inspired-by-the-detailed-and-observational-style-of-Leonardo-da-Vinci.-The-scene-portrays-a-professional-office-setting-bathe-1024x585.png)
 

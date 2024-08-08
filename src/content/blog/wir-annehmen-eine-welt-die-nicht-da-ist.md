@@ -70,4 +70,4 @@ Die Arbeit mit Ihren eigenen Annahmen sollte immer einem bestimmten Zweck dienen
 
 ### Schauen Sie sich unseren nächsten Online-Workshop "Mastering Jobs to be Done" an.
 
-[Klicken Sie hier](/services/mastering-jobs-to-be-done-online-workshop/)
+[Klicken Sie hier](/leistungen/mastering-jobs-to-be-done-online-workshop/)

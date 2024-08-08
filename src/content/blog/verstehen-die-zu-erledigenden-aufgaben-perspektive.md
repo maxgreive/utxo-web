@@ -100,4 +100,4 @@ Dies ermöglicht es Ihnen, bessere Produkte zu entwickeln. Um das Marketing zu v
 
 ### Schauen Sie sich unseren Online-Kurs Mastering Jobs to be done an.
 
-[Das Framework beherrschen](/services/mastering-jobs-to-be-done-online-workshop/)
+[Das Framework beherrschen](/leistungen/mastering-jobs-to-be-done-online-workshop/)

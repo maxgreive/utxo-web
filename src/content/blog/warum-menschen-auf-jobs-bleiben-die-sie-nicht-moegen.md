@@ -95,4 +95,4 @@ Wenn Sie die Phasen des Wandels verstehen, sehen Sie, wo der Wandel aufhören k�
 
 ### Schauen Sie sich unseren nächsten Online-Workshop "Mastering Jobs to be Done" an.
 
-[Der Workshop](/services/mastering-jobs-to-be-done-online-workshop/)
+[Der Workshop](/leistungen/mastering-jobs-to-be-done-online-workshop/)

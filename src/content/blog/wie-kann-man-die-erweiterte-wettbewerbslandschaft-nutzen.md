@@ -42,4 +42,4 @@ Stellen Sie sich vor, Volkswagen hätte Zoom gekauft, als sie noch jung waren. D
 
 ### Schauen Sie sich unsere Online-Masterclass an.
 
-[Klicken Sie hier](/services/mastering-jobs-to-be-done-online-workshop/)
+[Klicken Sie hier](/leistungen/mastering-jobs-to-be-done-online-workshop/)

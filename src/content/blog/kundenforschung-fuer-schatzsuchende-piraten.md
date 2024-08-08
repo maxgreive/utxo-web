@@ -54,4 +54,4 @@ Nun, ich schätze, du bist kein Pirat.
 
 ### ... schau dir den Schatzsuchmeisterkurs des alten Mannes an
 
-[Arr, Schätze](/services/mastering-jobs-to-be-done-online-workshop/)
+[Arr, Schätze](/leistungen/mastering-jobs-to-be-done-online-workshop/)

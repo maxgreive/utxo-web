@@ -58,4 +58,4 @@ Viele dieser Fragen führen zu potenziellen Konflikten zwischen ethischen und ge
 
 ### Ziehe in Erwägung, einen Kundenforschungs-Sprint mit uns durchzuführen.
 
-[Kundenforschungs-Sprints](/services/mastering-jobs-to-be-done-online-workshop/)
+[Kundenforschungs-Sprints](/leistungen/mastering-jobs-to-be-done-online-workshop/)

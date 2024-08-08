@@ -86,4 +86,4 @@ Es ist schwer, die richtigen Leute zu finden und sie auf sinnvolle Weise zu befr
 
 ## Schauen Sie sich unseren Online-Kurs Mastering Jobs to be done an.
 
-[Den Rahmen meistern](/services/mastering-jobs-to-be-done-online-workshop/)
+[Den Rahmen meistern](/leistungen/mastering-jobs-to-be-done-online-workshop/)

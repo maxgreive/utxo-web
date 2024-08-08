@@ -87,4 +87,4 @@ Das klingt schwierig, ist es aber nicht, wenn man einem vertrauenswürdigen Proz
 
 ### Schauen Sie sich unseren Online-Kurs Mastering Jobs to be done an.
 
-[Den Rahmen meistern](/services/mastering-jobs-to-be-done-online-workshop/)
+[Den Rahmen meistern](/leistungen/mastering-jobs-to-be-done-online-workshop/)

@@ -57,5 +57,5 @@ Die [Grundlagen](/blog/die-wichtigsten-faehigkeiten-bei-der-gruendung-eines-unte
 
 ### Schau Dir unsere Jobs to be done Masterclass an
 
-[Die Masterclass](/services/mastering-jobs-to-be-done-online-workshop/)
+[Die Masterclass](/leistungen/mastering-jobs-to-be-done-online-workshop/)
 

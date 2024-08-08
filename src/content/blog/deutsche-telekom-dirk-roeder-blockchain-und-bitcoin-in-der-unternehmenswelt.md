@@ -56,6 +56,6 @@ Für weitere Informationen zu dieser Episode und anderen faszinierenden Themen a
 ## Weitere Links:
 
 - Weitere Informationen auf Deutsch zu Themen an der Schnittstelle von Bitcoin-Technologie, Wirtschaft und Innovation auf unserer [Oberwasser-Consulting-Seite](https://oberwasser-consulting.de/tag/bitcoin/)
-- Unser aktueller [Mastering JTBD Innovation Training Workshop](/services/mastering-jobs-to-be-done-online-workshop/) für internationale Teams
+- Unser aktueller [Mastering JTBD Innovation Training Workshop](/leistungen/mastering-jobs-to-be-done-online-workshop/) für internationale Teams
 - [Dirk Roeder auf LinkedIn](https://www.linkedin.com/in/droeder72/)
 - [Besuchen Sie die Deutsche Telekom MMS](https://www.telekom-mms.com/)

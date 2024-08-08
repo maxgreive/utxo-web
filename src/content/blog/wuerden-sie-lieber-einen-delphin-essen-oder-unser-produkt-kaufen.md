@@ -62,4 +62,4 @@ Die Sache ist die, dass ich verstehe, warum die meisten Unternehmen das tun. Ich
 
 ### Schauen Sie sich unseren nächsten Mastering Jobs to be Done Online Workshop an
 
-[Workshop](/services/mastering-jobs-to-be-done-online-workshop/)
+[Workshop](/leistungen/mastering-jobs-to-be-done-online-workshop/)

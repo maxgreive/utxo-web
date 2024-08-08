@@ -62,4 +62,4 @@ Ich würde das nicht immer und nicht in vollem Umfang tun. Aber wenn Sie Ihren C
 
 ### Schauen Sie sich unsere Jobs to be done Masterclass an.
 
-[Die Masterclass](/services/mastering-jobs-to-be-done-online-workshop/)
+[Die Masterclass](/leistungen/mastering-jobs-to-be-done-online-workshop/)

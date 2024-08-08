@@ -70,4 +70,4 @@ Das Finanzwesen erfordert oft einen ganz anderen Persönlichkeitstyp. Es ist jed
 
 ### Schauen Sie sich unseren nächsten Mastering Jobs to be Done Online Workshop an.
 
-[Der Workshop](/services/mastering-jobs-to-be-done-online-workshop/)
+[Der Workshop](/leistungen/mastering-jobs-to-be-done-online-workshop/)

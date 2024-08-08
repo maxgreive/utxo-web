@@ -112,4 +112,4 @@ Ja, man könnte sagen, sie sind besser als nichts. Aber dem würde ich sogar wid
 
 ### Schau dir unseren Online-Kurs "Mastering Jobs to be Done" an
 
-[Beherrsche das Framework](/services/mastering-jobs-to-be-done-online-workshop/)
+[Beherrsche das Framework](/leistungen/mastering-jobs-to-be-done-online-workshop/)
