@@ -54,4 +54,4 @@ For that I can recommend our article on ["structuring unlearned information"](/e
 
 ### Have a look at our next Mastering Jobs to be Done Online Workshop
 
-[Click here](https://utxo.solutions/services/mastering-jobs-to-be-done-online-workshop/)
+[Click here](/services/mastering-jobs-to-be-done-online-workshop/)

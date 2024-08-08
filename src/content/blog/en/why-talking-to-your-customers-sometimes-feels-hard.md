@@ -190,4 +190,4 @@ The only time I do something different, is when I am in a growth phase. That's w
 
 ### Consider doing a research sprint with us
 
-[Research sprint](https://utxo.solutions/services/jobs-to-be-done-agency/)
+[Research sprint](/services/jobs-to-be-done-agency/)

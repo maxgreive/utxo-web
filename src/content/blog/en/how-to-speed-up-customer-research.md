@@ -93,4 +93,4 @@ Don't do just something. Don't do nothing. Think ahead and act in accordance. It
 
 ### Have a look at our next Mastering Jobs to be Done Online Workshop or the done for you service
 
-[Workshop](https://utxo.solutions/services/mastering-jobs-to-be-done-online-workshop/) [Full service](https://utxo.solutions/services/jobs-to-be-done-agency/)
+[Workshop](/services/mastering-jobs-to-be-done-online-workshop/) [Full service](/services/jobs-to-be-done-agency/)

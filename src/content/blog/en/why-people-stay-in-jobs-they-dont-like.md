@@ -95,4 +95,4 @@ Once you understand the phases of change, you see, where change could stop. The 
 
 ### Have a look at our next Mastering Jobs to be Done Online Workshop
 
-[The workshop](https://utxo.solutions/services/mastering-jobs-to-be-done-online-workshop/)
+[The workshop](/services/mastering-jobs-to-be-done-online-workshop/)

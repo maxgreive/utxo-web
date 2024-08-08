@@ -62,4 +62,4 @@ The thing is, I get why most companies do it. I did it myself. It's a start. Ask
 
 ### Have a look at our next Mastering Jobs to be Done Online Workshop
 
-[Workshop](https://utxo.solutions/services/mastering-jobs-to-be-done-online-workshop/)
+[Workshop](/services/mastering-jobs-to-be-done-online-workshop/)

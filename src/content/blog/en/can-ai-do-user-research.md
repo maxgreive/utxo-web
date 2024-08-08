@@ -64,4 +64,4 @@ The only thing, where humans are currently not replaced by humans, are the core 
 
 ### Do a research sprint with us!
 
-[More information](https://utxo.solutions/services/jobs-to-be-done-agency/)
+[More information](/services/jobs-to-be-done-agency/)

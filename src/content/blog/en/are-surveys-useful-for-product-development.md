@@ -82,4 +82,4 @@ And this means, that even if we do everything right, surveys are quantitative re
 
 ### Have a look at our Jobs to be done online masterclass
 
-[Masterclass](https://utxo.solutions/services/mastering-jobs-to-be-done-online-workshop/)
+[Masterclass](/services/mastering-jobs-to-be-done-online-workshop/)

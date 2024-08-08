@@ -62,4 +62,4 @@ I wouldn't do this all the time and not at a full blown level. But if you want t
 
 ### Have a look at our Jobs to be done Masterclass
 
-[The masterclass](https://utxo.solutions/services/mastering-jobs-to-be-done-online-workshop/)
+[The masterclass](/services/mastering-jobs-to-be-done-online-workshop/)

@@ -10,56 +10,58 @@ previewImage: "./images/file-Zqn8d8ncdZoHIhYTFGa0gdhK.png"
 reference: can-ai-do-user-research
 ---
 
-KI ist überall und verändert alles, auch die Produktentwicklung und die Nutzerforschung. "Wie integrierst Du KI in Deine Nutzerforschung?" ist eine der häufigsten Fragen, die ich in letzter Zeit höre. Eine großartige Frage. Wie macht man das? Wir experimentieren viel damit. Hier ist, was ich herausgefunden habe:
+KI ist überall und sie verändert alles. Sogar die Produktentwicklung. Sogar die Nutzerforschung. "Wie integrierst Du KI in Deine Nutzerforschung?" ist einer der häufigsten Sätze, die ich in letzter Zeit höre. Eine gute Frage. Wie macht ihr das? Wir experimentieren viel damit. Hier ist, was ich herausgefunden habe:
 
 Wenn es um Nutzerforschung geht, gibt es drei Hauptwerttreiber:
 
-1. Relevante Informationen aus den Interviews gewinnen
-2. Entscheidungsmuster aus den Interviewdaten extrahieren
-3. Wertversprechen entwickeln, die den Entscheidungsmustern dienen
+1. Relevante Informationen aus den Interviews erhalten
+2. Extrahieren von Entscheidungsmustern aus den Interviewdaten
+3. Erstellen von Wertvorschlägen, die die Entscheidungsmuster bedienen
 
-Und keine dieser Aufgaben kann von KI gelöst werden. Hier ist der Grund:
+Und keine dieser Aufgaben kann KI für dich lösen. Hier ist der Grund dafür:
 
-### Relevante Informationen aus den Interviews mit KI gewinnen
+### Mit KI relevante Informationen aus den Interviews gewinnen
 
-Der entscheidende Faktor für die Qualität eines Interviews ist meiner Meinung nach der Interviewer. Wenn er weiß, wie man fragt, was man fragt und wie man zuhört, werden die Daten für alles, was folgt, großartig sein. Wenn nicht, kann man keine qualitativ hochwertigen Daten aus dem Interview gewinnen. Es gibt einen großen Unterschied zwischen einem Experten, der das Interview führt, und jemandem, der unerfahren ist. Und vieles davon sind sehr subtile Dinge. Schau Dir jemanden wie [Chris Voss](https://youtu.be/q8CHXefn7B4?si=GJEv4ZA8p1eWHXrn) an, der lange Zeit leitender Verhandlungsführer beim FBI war. Es gibt eine Art zu sprechen, die Menschen dazu bringt, Dinge zu erzählen. KI kann das nicht nachahmen. Menschen erschnüffeln die Details.
+Der entscheidende Faktor für die Qualität eines Interviews ist in meinen Augen der Interviewer. Wenn er weiß, wie man fragt, was man fragt und wie man zuhört, werden die Daten für alles, was folgt, erstaunlich sein. Wenn er das nicht tut, kannst Du keine guten Daten aus dem Interview gewinnen. Es ist ein riesiger Unterschied, ob ein Experte das Interview führt oder jemand, der es nicht kann. Und vieles davon sind sehr subtile Dinge. Sieh Dir jemanden wie [Chris Voss] (https://youtu.be/q8CHXefn7B4?si=GJEv4ZA8p1eWHXrn) an, der eine Zeit lang der führende Geiselvermittler des FBI war. Es gibt eine Art zu sprechen, die Menschen dazu bringt, Dir Dinge zu sagen. KI kann das nicht nachahmen. Menschen erschnüffeln die Details.
 
-Um erstaunliche Interviewdaten zu erhalten, benötigst Du erstaunliche Interviewer. Dies ist derzeit einfach nicht ersetzbar.
+Um tolle Interviewdaten zu bekommen, brauchst Du tolle Interviewer/innen. Das ist im Moment einfach nicht zu ersetzen.
 
-### Entscheidungsmuster aus den Interviewdaten mit KI extrahieren
+### Extrahieren von Entscheidungsmustern aus den Interviewdaten mit KI
 
-Sobald ein erfahrener Interviewer die Daten extrahiert hat, könnte dies einer der wenigen Fälle sein, in denen KI wirklich helfen kann. Die Strukturierung unstrukturierter Daten ist schließlich einer der grundlegenden Anwendungsfälle von KI. Auch die Musterdetektion. Wenn wir jedoch an Musterdetektion bei KI denken, denken wir oft an Big Data und Korrelationen. Die Art von Entscheidungsmustern in der qualitativen Nutzerforschung ist anders. Es ist eher in Form einer Geschichte. "Als dies passierte, dachte ich das. Ich wollte diese Sache nicht, aber ich hoffte auf jene Sache. Ich hatte Angst, dass dies passieren könnte, war aber glücklich, als stattdessen jene Sache passierte." Menschliche Erfahrung ist größtenteils geschichtengetrieben. Geschichten sind die Art und Weise, wie unsere Erinnerungen funktionieren. Auch wenn wir die Welt nicht in Form von Geschichten erleben, erinnern wir uns so daran. Daher kommen alle früheren Nutzerverhalten in Form von Geschichten und werden auch so genutzt.
+Wenn ein erfahrener Interviewer die Daten extrahiert hat, ist dies einer der wenigen Fälle, in denen KI wirklich helfen kann. Die Strukturierung unstrukturierter Daten ist schließlich einer der grundlegenden Anwendungsfälle von KI. Auch das Erkennen von Mustern. Wenn wir jedoch an Mustererkennung in der KI denken, denken wir oft an große Datenmengen und Korrelationen. Die Art der Entscheidungsmuster in der qualitativen Nutzerforschung ist anders. Sie haben eher die Form einer Geschichte. "Als das passiert ist, habe ich das gedacht. Ich wollte das nicht, aber ich habe auf das gehofft. Ich hatte Angst, dass das passieren könnte, aber ich war froh, als das stattdessen passierte." Menschliche Erfahrungen sind größtenteils von Geschichten abhängig. Geschichten sind die Art und Weise, wie unser Gedächtnis funktioniert. Selbst wenn wir die Welt nicht in Form von Geschichten erleben, erinnern wir uns an sie auf diese Weise. Daher ist das gesamte bisherige Nutzerverhalten in Form von Geschichten entstanden und wird in Form von Geschichten verwendet.
 
-Es gibt einen guten Teil der Arbeit, bei dem KI Daten in Geschichten strukturieren kann. Aber wir brauchen bessere Einschränkungen in den Modellen. Generative KI ist großartig zum Schreiben von Geschichten, aber sie funktioniert, indem sie das nächste Zeichen vorhersagt. Dies führt leicht dazu, dass KI Dinge erfindet, die nicht Teil der Forschung sind.
+Es gibt eine ganze Reihe von Arbeiten, bei denen KI Daten in Geschichten strukturieren kann. Aber wir brauchen bessere Begrenzungen für die Modelle. Generative KI ist großartig, um Geschichten zu schreiben, aber sie arbeitet mit der Vorhersage der nächsten Figur. Das führt leicht dazu, dass KI Dinge erfindet, die nicht Teil der Forschung sind.
 
-Hier ist ein Beispiel für die Unfähigkeit, sich an Einschränkungen zu halten.
+Hier ist ein Beispiel für die Unfähigkeit, mit der Einhaltung von Grenzen umzugehen.
 
 Ich: Schreibe einen 1000 Zeichen langen Aufsatz über Produktentwicklung, ohne den Buchstaben a zu verwenden.
 
-Der erste Satz von ChatGPT: "Creating new products involves meticulous design, testing, and insight."
+ChatGPTs erster Satz: Die Entwicklung neuer Produkte erfordert sorgfältige Planung, Tests und Erkenntnisse.
 
-Das zerstört den ganzen Zweck der Nutzerforschung. Du möchtest Deine Annahmen auf das beschränken, was der Nutzer tatsächlich gesagt hat. Keine neuen Annahmen von der KI hinzufügen. Etwas, das jemand irgendwann im Internet gesagt hat. Dies beschränkt seine Verwendung auf eng definierte Aufgaben. Wie das Benennen einer Gruppe von Ereignissen, die im Entscheidungsprozess passiert sind. Oder besser: Einen Namen vorschlagen.
+Das macht den ganzen Sinn der Nutzerforschung zunichte. Du willst Deine Annahmen auf das reduzieren, was der Nutzer tatsächlich gesagt hat. Nicht neue Annahmen aus der KI hinzufügen. Irgendetwas, das jemand irgendwann im Internet gesagt hat. Das schränkt den Einsatz auf eng definierte Aufgaben ein. Zum Beispiel das Benennen einer Gruppe von Ereignissen, die im Entscheidungsprozess passiert sind. Oder noch besser: Einen Namen vorschlagen.
 
-### Wertversprechen entwickeln, die den Entscheidungsmustern dienen, mit KI
+### Erstellen von Wertvorschlägen, die den Entscheidungsmustern mit KI dienen
 
-Ein Wertversprechen zu entwickeln, ist schwierig. Es erfordert, dass Du viel Kontextwissen in Deinem Denken hältst. Für wen ist dieses Produkt? Was wollen sie? Welche Dinge wollen sie vermeiden? In welchem einschränkenden Kontext befinden sie sich? Welche Ereignisse sind ihnen passiert? In welcher Entscheidungsphase befinden sie sich?
+Ein Wertversprechen zu erstellen ist schwierig. Es erfordert, dass Du viel Kontextwissen in Dein Denken einbeziehst. Für wen ist dieses Produkt gedacht? Was wollen sie? Welche Dinge wollen sie vermeiden? In welchem begrenzten Kontext befinden sie sich? Welche Ereignisse sind ihnen widerfahren? In welcher Entscheidungsphase befinden sie sich?
 
-Gleichzeitig musst Du Ideen für potenzielle Lösungen entwickeln. Was sind ihre Erfolgsmetriken? Welche Lösungen sind für das Problem relevant? Gibt es neue Dimensionen, an die wir noch nicht gedacht haben? Was können wir als Unternehmen überhaupt anbieten? Welche Einschränkungen auf der Angebotsseite sind fest und welche flexibel?
+Gleichzeitig musst Du Ideen für mögliche Lösungen entwickeln. Was sind ihre Erfolgskriterien? Welche Lösungen sind für das Problem relevant? Gibt es neue Dimensionen, an die wir noch nicht gedacht haben? Was können wir als Unternehmen überhaupt anbieten? Welche Beschränkungen auf der Angebotsseite sind fest und welche flexibel?
 
-Aus dem, was ich bisher gesehen habe, funktioniert es nicht aus einer Rechenfähigkeits-Perspektive. Die Unfähigkeit, innerhalb gegebener Einschränkungen zu bleiben, ist ebenfalls ein Problem. Wenn Du einem KI-Modell ein gut definiertes Problem gibst, kommt es nicht mit einer gut definierten Lösung. Allerdings werden wir wahrscheinlich irgendwann dahin kommen. Aber wir sind noch nicht so weit.
+Nach dem, was ich bisher gesehen habe, geht es nicht von einer Rechenleistung aus. Die Unfähigkeit, sich an vorgegebene Beschränkungen zu halten, ist ebenfalls ein Problem. Wenn Du einem KI-Modell ein gut definiertes Problem gibst, wird es keine gut definierte Lösung finden. Irgendwann werden wir das aber wahrscheinlich schaffen. Aber so weit sind wir noch nicht.
 
-Jedoch ist KI großartig, um beim Brainstorming zu helfen. Sie löst das Problem nicht für Dich, aber sie hilft Dir, neue Ideen zu entwickeln. [Wenn Du fragst, anstatt zu befehlen.](/blog/questioning-artificial-intelligence/)
+KI ist jedoch eine großartige Hilfe beim Brainstorming. Sie löst das Problem nicht für dich, aber sie hilft Dir, auf neue Ideen zu kommen. [Wenn Du fragst, statt zu befehlen.](/de/blog/questioning-artificial-intelligence/)
 
-### Ist KI also nicht hilfreich in der Nutzerforschung?
+### KI ist also nicht hilfreich bei der Kundenforschung?
 
-Das habe ich nicht gesagt. Sie ist sehr hilfreich. Zum Beispiel hier ist ein Testscenario für eine Lösungshypothese. Ich habe Google Gemini gebeten, ein Testszenario für ein Joghurtunternehmen zu entwerfen. Der Test sollte überprüfen, ob ihr neues Joghurtgetränk die Menschen satt macht. Google Gemini kam mit einer großartigen Idee. Geben Sie drei Gruppen von Menschen verschiedene Nahrungsmittel mit ähnlichem Kalorienwert. Lassen Sie sie dann in einem Raum mit Snacks auf dem Tisch und zählen Sie die in einem bestimmten Zeitraum gegessenen Snacks. Von dort aus kannst Du die Variablen, verglichenen Lösungen und die Dauer anpassen.
+Das habe ich nicht gesagt. Sie ist sehr hilfreich. Hier ist zum Beispiel ein Testszenario für eine Lösungshypothese. Ich habe Google Gemini gebeten, ein Testszenario für ein Joghurtunternehmen zu entwerfen. Der Test sollte überprüfen, ob das neue Joghurtgetränk die Menschen satt macht. Google Gemini kam mit einer großartigen Idee. Gib drei Gruppen von Menschen verschiedene Lebensmittel mit ähnlichem Kalorienwert. Lass sie dann in einem Raum mit Snacks auf dem Tisch sitzen und zähle die gegessenen Snacks über einen bestimmten Zeitraum. Von dort aus kannst Du die Variablen, Vergleichslösungen und Dauer, anpassen.
 
-Es gibt auch viele kleine Aufgaben, die die Effizienz steigern. Hintergrundüberprüfungen für Interviewkandidaten. Strukturierung und Visualisierung von Daten. Analyse von Unternehmensdaten, um herauszufinden, wo man mit der Nutzerforschung beginnen soll (Markt, Produkt, Finanzen).
+Es gibt auch eine Menge kleiner Aufgaben, die die Effizienz steigern. Hintergrundchecks für Interviewkandidaten. Strukturierung und Visualisierung von Daten. Analysieren von Unternehmensdaten, um herauszufinden, wo Du mit Deiner Kundenforschung beginnen solltest (Markt, Produkt, Finanzen)
 
-Das einzige, wo Menschen derzeit nicht durch Menschen ersetzt werden können, sind die Kernwerttreiber. Aber jede disruptive Innovation beginnt am unteren Ende der Wertschöpfungskette. Also lassen wir uns sehen, wohin wir gehen.
+Das Einzige, wo Menschen derzeit nicht durch Menschen ersetzt werden, sind die zentralen Werttreiber. Aber jede disruptive Innovation beginnt am unteren Ende der Wertschöpfungskette. Schauen wir also, wohin wir gehen.
 
-## Möchtest Du mit Experten und KI arbeiten?
+
+
+## Du willst mit Experten und KI arbeiten?
 
 ### Mach einen Forschungssprint mit uns!
 
-[Weitere Informationen](/leistungen/customer-research-sprints/)
+[Weitere Informationen](/services/jobs-to-be-done-agency/)

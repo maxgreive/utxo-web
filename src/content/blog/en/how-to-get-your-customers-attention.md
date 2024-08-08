@@ -62,4 +62,4 @@ The trick is in knowing, what your customers problems are. And how to find the o
 
 ### Maybe the thing behind the link will help you.
 
-[Click this button](https://utxo.solutions/services/mastering-jobs-to-be-done-online-workshop/)
+[Click this button](/services/mastering-jobs-to-be-done-online-workshop/)

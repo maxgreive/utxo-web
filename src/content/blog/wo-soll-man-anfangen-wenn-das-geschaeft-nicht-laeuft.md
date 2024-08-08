@@ -10,33 +10,33 @@ previewImage: "./images/DALL·E-2023-11-07-15.15.20-A-wide-artistic-representati
 reference: where-to-start-when-your-business-isnt-running
 ---
 
-Dass Dinge nicht so laufen, wie man es sich wünscht, ist eher die Regel als die Ausnahme. Sie sollten also besser wissen, wie man sie beheben kann.
+Wenn etwas nicht so läuft, wie Du es Dir wünschst, ist das eher die Regel als die Ausnahme. Du solltest also besser wissen, wie Du sie in Ordnung bringen kannst.
 
-Aber bevor Sie die Dinge in Ordnung bringen können, müssen Sie sie verstehen. Hier ist ein guter Ausgangspunkt:
+Aber bevor Du die Dinge in Ordnung bringen kannst, musst Du sie erst einmal verstehen. Hier ist ein guter Startpunkt:
 
 ### **Name**
 
-Geben Sie Ihrem Problem einen Namen. Sonst kann Ihr Gehirn das Problem nicht adressieren.
+Gib Deinem Problem einen Namen. Sonst kann Dein Gehirn das Problem nicht angehen.
 
 ### **Hypothese**
 
-Stellen Sie eine Hypothese auf. Diese besteht aus drei Elementen:
+Formuliere eine Hypothese. Diese besteht aus drei Elementen:
 
 1. Welche Symptome sind Teil des Problems? Welche sind ein separates Problem?
-2. Was ist Ihrer Meinung nach die Hauptursache des Problems?
+2. Was denkst du, ist die Hauptursache für das Problem?
 3. Welche Auswirkungen wird das Problem haben, wenn es in den nächsten 12 Monaten nicht gelöst wird?
 
-Wenn Sie das getan haben, werden Sie eine Menge anderer Probleme sehen.
+Wenn Du das getan hast, wirst Du eine Menge anderer Probleme sehen.
 
-Schreiben Sie sie auf.
+Schreibe sie auf.
 
-Wiederholen Sie den Vorgang, bis Sie keine sinnvollen Probleme mehr im Kopf haben.
+Wiederhole den Vorgang, bis Du keine sinnvollen Probleme mehr im Kopf hast.
 
-Denken Sie daran: **Sie können nicht alles auf einmal lösen.** Wählen Sie das Problem aus, das die größten Auswirkungen hat, wenn es nicht angegangen wird.
+Denke daran: **Du kannst nicht alles auf einmal lösen.** Wähle das Problem aus, das die größten Auswirkungen hat, wenn es nicht angegangen wird.
 
-Entwerfen Sie dann einige Experimente, um Ihre Annahmen über die Ursache des Problems zu testen.
+Als Nächstes entwirfst Du einige Experimente, um Deine Annahmen über die Ursache des Problems zu testen.
 
-Ein Experiment sieht wie folgt aus:
+Ein Experiment sieht so aus:
 
 ### Experiment
 
@@ -51,9 +51,9 @@ Ein Experiment sieht wie folgt aus:
 ### Beispiel
 
 - Wir glauben, dass \[unsere Kunden nicht bei uns kaufen, weil sie unser Produkt nicht verstehen\]
-- Um das zu überprüfen, \[entwickeln wir 10 verschiedene Möglichkeiten, ihnen das Produkt zu erklären, und testen jede davon mit 100 potenziellen Kunden.\]
-- Und messen, \[wie viele potenzielle Kunden wir mit jeder von ihnen abschließen können\].
-- Wir haben Recht, wenn \[eine dieser Möglichkeiten eine um mindestens 50 % höhere Abschlussquote aufweist als unser ursprünglicher Ansatz\]
+- Um das zu überprüfen, \[entwickeln wir 10 verschiedene Möglichkeiten, ihnen das Produkt zu erklären und testen jede davon mit 100 potenziellen Kunden.\]
+- Und messen, \[wie viele potenzielle Kunden wir auf diese Weise ansprechen können].
+- Wenn \[einer dieser Wege eine mindestens 50% höhere Abschlussquote hat als unser ursprünglicher Ansatz\], haben wir recht.
 
 
-Denken Sie daran: Das Verstehen des Problems ist die halbe Lösung.
+Denk daran: Das Problem zu verstehen ist die halbe Lösung.

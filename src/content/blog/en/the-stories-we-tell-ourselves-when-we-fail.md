@@ -60,4 +60,4 @@ So whatever you do, make sure you are being honest with yourself. Look at the fa
 
 ### Check out how to improve the sales of your product
 
-[More information](https://utxo.solutions/services/jobs-to-be-done-agency/)
+[More information](/services/jobs-to-be-done-agency/)

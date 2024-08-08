@@ -52,7 +52,7 @@ The first is knowing, **what features are important and which are not**. You nee
 
 The second is **actually building the product or delivering the service**. This requires technical skills and becomes harder for more advanced products and services. But most of the time, it is overrated. The success of most products depends on small, easy to implement things.
 
-Usually, founders have only one of the two components of product development. Those that are great at knowing what to build, could hire or partner with someone good at building them. Those that are strong at actually building a product, could outsource this process. That's what services like our [customer research sprint](https://utxo.solutions/services/jobs-to-be-done-agency/) are for. To help you find out, what to build.
+Usually, founders have only one of the two components of product development. Those that are great at knowing what to build, could hire or partner with someone good at building them. Those that are strong at actually building a product, could outsource this process. That's what services like our [customer research sprint](/services/jobs-to-be-done-agency/) are for. To help you find out, what to build.
 
 The reason I list this, as the third skill is that:
 
@@ -70,4 +70,4 @@ Finance often requires a very different personality type. It is however somethin
 
 ### Have a look at our next Mastering Jobs to be Done Online Workshop
 
-[The workshop](https://utxo.solutions/services/mastering-jobs-to-be-done-online-workshop/)
+[The workshop](/services/mastering-jobs-to-be-done-online-workshop/)

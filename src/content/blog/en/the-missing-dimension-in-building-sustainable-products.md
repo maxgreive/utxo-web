@@ -60,4 +60,4 @@ Many of them create potential conflicts between ethics and business interests. S
 
 ### Consider doing a customer research sprint with us
 
-[Customer Research Sprints](https://utxo.solutions/services/jobs-to-be-done-agency/)
+[Customer Research Sprints](/services/jobs-to-be-done-agency/)

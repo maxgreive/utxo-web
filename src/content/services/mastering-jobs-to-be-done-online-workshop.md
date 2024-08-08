@@ -9,10 +9,10 @@ questions:
     answer: |
       Ja. Mastering Jobs to Be Done bietet derzeit drei Expertenstufen zum Nachweis praktischer Erfahrung:
       <ul>
-      <li>JTBD-Praktiker</li>
-      <li>JTBD-Forscher</li>
-      <li>JTBD-Markt-Ersteller</li>
-      <li>JTBD Innovation Framework Master</li>
+        <li>JTBD-Praktiker</li>
+        <li>JTBD-Forscher</li>
+        <li>JTBD-Markt-Ersteller</li>
+        <li>JTBD Innovation Framework Master</li>
       </ul>
       Mit dem Abschluss dieses Workshops wird das Practitioner Level erworben, welches drei Jahre gültig bleibt. Nähere Informationen zu den Zertifizierungen erhältst Du im direkten Gespräch.
   - question: Ist es schlimm wenn ich nicht zu einem Workshop gehen kann?
@@ -34,7 +34,7 @@ questions:
       </ul>
       Kontaktiere uns für weitere Informationen.
 sidebar:
-  downloadText: "Wenn Du denkst: Das bin ich, aber ist es das wert? Dann findest du hier weitere Informationen, um diese Frage mit einem klaren \"Ja\" beantworten zu können:"
+  downloadText: "Wenn Du denkst: Das bin ich, aber ist es das wert? Dann findest Du hier weitere Informationen, um diese Frage mit einem klaren \"Ja\" beantworten zu können:"
   downloadLink: https://utxo.solutions/wp-content/uploads/2023/12/UTXO_Mastering-JTBD-Innovation_Live_Online_Workshop_v2_2.pdf
   downloadButtonLabel: Download PDF
 ---
@@ -48,35 +48,34 @@ sidebar:
 
 ## Voraussetzungen für die Teilnahme
 
-Du kannst an diesem Workshop teilnehmen, wenn du folgende Fragen mit „Ja“ beantworten kannst:
+Du kannst an diesem Workshop teilnehmen, wenn Du folgende Fragen mit „Ja“ beantworten kannst:
 
 - **Zeitliche Verfügbarkeit:** Ich kann vier Wochen lang jeweils dienstags und freitags von 09.00 – 11.30 Uhr (Berliner Zeit) an einem Online-Workshop teilnehmen.
 - **Budget:** Mir steht ein Weiterbildungsbudget von 2.100€ (zzgl. MwSt.) zur Verfügung.
 
 ## Ist es das wert?
 
-Wenn du denkst: Das bin ich, aber ist es das wert? Lieferst du auch den Mehrwert, den du hier versprichst? Dann findest du hier weitere Informationen, um diese Frage hoffentlich mit einem klaren Ja beantworten zu können:
+Wenn Du denkst: Das bin ich, aber ist es das wert? Lieferst Du auch den Mehrwert, den Du hier versprichst? Dann findest Du hier weitere Informationen, um diese Frage hoffentlich mit einem klaren Ja beantworten zu können:
 
-- **Praxisorientiertes Lernen:** Unser Workshop ist darauf ausgelegt, dir praxisnahe Kenntnisse und Fähigkeiten zu vermitteln, die du sofort in deinem Unternehmen anwenden kannst.
+- **Praxisorientiertes Lernen:** Unser Workshop ist darauf ausgelegt, dir praxisnahe Kenntnisse und Fähigkeiten zu vermitteln, die Du sofort in Deinem Unternehmen anwenden kannst.
 - **Erfahrene Trainer:** Unsere Trainer sind erfahrene Experten im Bereich Jobs to Be Done und bringen umfangreiche Praxis- und Forschungserfahrung mit.
-- **Interaktive Sessions:** Durch interaktive Übungen und Fallstudien stellen wir sicher, dass du die JTBD-Methodik nicht nur theoretisch verstehst, sondern auch praktisch anwenden kannst.
+- **Interaktive Sessions:** Durch interaktive Übungen und Fallstudien stellen wir sicher, dass Du die JTBD-Methodik nicht nur theoretisch verstehst, sondern auch praktisch anwenden kannst.
 - **Exklusives Material:** Du erhältst Zugang zu exklusivem Schulungsmaterial, das dir auch nach dem Workshop als wertvolle Ressource dient.
-- **Networking:** Nutze die Gelegenheit, dich mit anderen Teilnehmern auszutauschen und wertvolle Kontakte in deiner Branche zu knüpfen.
+- **Networking:** Nutze die Gelegenheit, dich mit anderen Teilnehmern auszutauschen und wertvolle Kontakte in Deiner Branche zu knüpfen.
 
-Melde dich noch heute an und mache den ersten Schritt, um die Jobs-to-Be-Done-Methodik in deinem Unternehmen erfolgreich umzusetzen. Gemeinsam erreichen wir deine Ziele!
+Melde dich noch heute an und mache den ersten Schritt, um die Jobs-to-Be-Done-Methodik in Deinem Unternehmen erfolgreich umzusetzen. Gemeinsam erreichen wir Deine Ziele!
 
 ## Das klingt toll, wie kann ich das buchen?
+
 Die nächste Workshopreihe startet im September 2024. Die Termine für die einzelnen Sessions und Themen des Workshops sind:
 
-- **M1: 03.09.2024** – Praxisnahe Einführung JTBD Theorie und Innovation 
+- **M1: 03.09.2024** – Praxisnahe Einführung JTBD Theorie und Innovation
 - **M2: 06.09.2024** – JTBD Hypothesen im Business-Kontext Identifizieren
-- **M3.1 10.09.2024** – JTBD Interview Struktur und Aufbau 
+- **M3.1 10.09.2024** – JTBD Interview Struktur und Aufbau
 - **M3.2 13.09.2024** – JTBD Interview Praxis und Auswertung
-- **M4 17.09.2024** – JTBD Daten segmentieren und Clustering 
+- **M4 17.09.2024** – JTBD Daten segmentieren und Clustering
 - **M5 20.09.2024** – JTBD Research Ergebnisse Einordnen und Bewerten
-- **M6 24.09.2024** – Das JTBD Research& Innovation Framework
+- **M6 24.09.2024** – Das JTBD Research & Innovation Framework
 - **MA 27.09.2024** – Zusammenfassung, Ausblick & AMA
 
 Schreib uns einfach eine E-Mail über den Kontakt-Button oben rechts.
-
-

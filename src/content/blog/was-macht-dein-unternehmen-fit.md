@@ -16,13 +16,13 @@ reference: what-makes-your-business-fit
 
 Das ist die Grundidee eines funktionierenden Unternehmens:
 
-1. Sie haben ein gutes Produkt oder eine gute Dienstleistung
-2. Die Leute kaufen Ihr Produkt
-3. Sie machen mehr Geld mit dem Produkt als Sie ausgeben
+1. Du hast ein tolles Produkt oder eine Dienstleistung
+2. Die Leute kaufen Dein Produkt
+3. Du verdienst mehr Geld mit Deinem Produkt als Du ausgibst
 
-Aber um dieses Ziel zu erreichen, müssen viele Puzzleteile zusammenpassen.
+Aber um das zu erreichen, müssen viele Puzzleteile zusammenpassen.
 
-Hier sind die 5 wichtigsten Teile, die zusammenpassen müssen
+Hier sind die 5 wichtigsten Puzzleteile, die Du erreichen musst
 
 1. Problem-Lösungs-Fit
 2. Produkt-Markt-Fit
@@ -30,10 +30,10 @@ Hier sind die 5 wichtigsten Teile, die zusammenpassen müssen
 4. Produkt-Business-Fit
 5. Business-Kultur-Fit
 
-### Um ein erfolgreiches Unternehmen zu führen, braucht man sie alle. Also lassen Sie uns diese aufschlüsseln.
-Problemlösungs-Fit
+### Um ein erfolgreiches Unternehmen zu führen, brauchst Du sie alle. Also lass sie uns aufschlüsseln.
+Problem-Lösungs-Fit
 
-Gibt es ein tatsächliches Problem, das Sie lösen wollen?
+Gibt es ein echtes Problem, das Du lösen willst?
 
 #### **Beispiel**
 
@@ -43,16 +43,16 @@ Gibt es ein tatsächliches Problem, das Sie lösen wollen?
 
 ### Produkt-Markt-Fit
 
-- Haben Sie etwas, das die Leute kaufen können?
+- Hast Du etwas, das die Leute kaufen können?
 - Löst es ihr Problem?
 - Bietet es mehr Wert als es kostet?
 - Erreicht es sie dort, wo und wann sie das Problem haben?
 
-Dies ist die Problemlösung in Kombination mit:
+Das ist die Problemlösung in Kombination mit:
 
-- Etwas, das die Leute kaufen können
+- Etwas, das die Menschen kaufen können
 - Einem Preis
-- Eine Zielgruppe
+- Einem Zielpublikum
 - Einem sinnvollen Kontext
 
 #### Beispiel 1
@@ -67,39 +67,39 @@ Dies ist die Problemlösung in Kombination mit:
 - Ein Sack Kaffeebohnen
 - 10€ das Kilo
 - Verkauft in einem Hipster-Café
-- Wird als hochwertig und sehr geschmackvoll angepriesen
+- Wird als hochwertig und geschmackvoll angepriesen
 
 ### Produktsprache passt
 
-Wie kann man über sein Produkt sprechen, damit der Kunde den Wert erkennt?
+Wie kannst Du über Dein Produkt sprechen, damit der Kunde den Wert erkennt?
 
 #### Beispiel
 
-Sie könnten den ersten Beispielkaffee "bester preiswerter Kaffee zum Mitnehmen" nennen.
+Du könntest den ersten Beispielkaffee "bester preiswerter Kaffee zum Mitnehmen" nennen.
 
-Sie könnten das zweite Beispiel "Bio Barrista Home Beans" nennen.
+Du könntest das zweite Beispiel "Bio Barrista Home Bohnen" nennen
 
 Die Namen vermitteln die Wertvorstellung. Beschreibung und Wert müssen übereinstimmen.
 
 ### Das Produkt muss zum Geschäft passen.
 
-Können Sie das Produkt auf rentable und zuverlässige Weise liefern?
+Kannst Du das Produkt profitabel und zuverlässig anbieten?
 
-Dies ist im Grunde alles, was das Geschäftsmodell für ein Produkt ausmacht. Ihr Geschäft muss zu Ihrem Produkt passen.
+Das ist im Grunde alles, was im Business Model Canvas für ein Produkt steht. Dein Geschäft muss zu Deinem Produkt passen.
 
-### Die Unternehmenskultur muss passen.
+### Business Culture Fit
 
-Jedes Unternehmen ist ein Unternehmen der Menschen. Sie brauchen die richtigen Leute mit der richtigen Einstellung.
+Jedes Unternehmen ist ein Unternehmen der Menschen. Du brauchst die richtigen Leute mit der richtigen Einstellung.
 
-- Ihr Problem definiert Ihren Markt
-- Ihr Markt definiert Ihr Produkt
-- Ihr Produkt definiert Ihr Unternehmen
+- Dein Problem definiert Deinen Markt
+- Dein Markt bestimmt Dein Produkt
+- Dein Produkt bestimmt Dein Geschäft
 
-Aber auch Ihre Mitarbeiter bestimmen Ihr Unternehmen. Stellen Sie die Leute ein, die Ihr Produkt braucht.
+Aber auch Deine Mitarbeiter bestimmen Dein Unternehmen. Stelle die Leute ein, die Dein Produkt braucht.
 
 
 
-## Möchten Sie lernen, wie Sie Ihr Unternehmen fit machen?
-Schauen Sie sich unseren Mastering Jobs to be done Workshop an
+## Willst Du lernen, wie Du Dein Unternehmen fit machst?
+Wirf einen Blick auf unseren Mastering Jobs to be done Workshop
 
-[Klicken Sie hier](/leistungen/mastering-jobs-to-be-done-online-workshop/)
+[Klick hier](/leistungen/mastering-jobs-to-be-done-online-workshop/)

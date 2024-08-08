@@ -119,4 +119,4 @@ And yes, I know, that many companies are dependent on some large customers. This
 
 ### Consider doing a research sprint with us
 
-[Research sprint](https://utxo.solutions/services/jobs-to-be-done-agency/)
+[Research sprint](/services/jobs-to-be-done-agency/)

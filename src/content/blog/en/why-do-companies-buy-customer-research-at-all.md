@@ -70,4 +70,4 @@ But whether now, is up to you to decide? Innovation is only one challenge in bus
 
 ### We do great customer research sprints, that deliver great results in no time
 
-[Customer Research Sprints](https://utxo.solutions/services/jobs-to-be-done-agency/)
+[Customer Research Sprints](/services/jobs-to-be-done-agency/)

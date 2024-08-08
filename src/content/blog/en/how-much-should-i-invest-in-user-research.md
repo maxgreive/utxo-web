@@ -54,7 +54,7 @@ Personally, I consider myself a [rationalist](https://www.lesswrong.com/). My pr
 
 Market complexity is difficult to judge. Some markets appear complex, but are rather easy. Some are the other way around. I know someone, who sells analytics-software to pharma CEOs. They cost multiple million euros per year. You would think, that this is a complex market. And yet, it is in parts very simple. The main decision element is, whether the CEO has been told by a trusted peer, that the product is great. On the other hand, selling coffee seems easy, yet isn't. It's a low price everyday item. We don't think much about, what coffee we buy and why. This makes the whole decision pattern weird and complex.
 
-Most of our customers are surprised after doing [customer research with us](https://utxo.solutions/services/jobs-to-be-done-agency/). Most assumptions have been wrong and the assumed decision complexity as well. Better check according to the value parameter. Skipping customer research because you assume knowledge or low market complexity seems not worth the risk.
+Most of our customers are surprised after doing [customer research with us](/services/jobs-to-be-done-agency/). Most assumptions have been wrong and the assumed decision complexity as well. Better check according to the value parameter. Skipping customer research because you assume knowledge or low market complexity seems not worth the risk.
 
 ### Where do I get the most bang for the buck?
 

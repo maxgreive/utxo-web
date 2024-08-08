@@ -57,4 +57,4 @@ The [basics](/en/blog/most-important-business-skills/) of running projects and a
 
 ### Have a look at our Jobs to be done Masterclass
 
-[The masterclass](https://utxo.solutions/services/mastering-jobs-to-be-done-online-workshop/)
+[The masterclass](/services/mastering-jobs-to-be-done-online-workshop/)

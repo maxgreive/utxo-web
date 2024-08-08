@@ -55,4 +55,4 @@ That's why especially smaller businesses too often decide for make instead of bu
 
 ### Here is a make or buy decision for customer research. Read it and observe your thinking.
 
-[Click here](https://utxo.solutions/services/jobs-to-be-done-agency/)
+[Click here](/services/jobs-to-be-done-agency/)

@@ -33,8 +33,6 @@ questions:
         <li>If you have actively participated in a JTBD research, sprint or project as an employee of our customers</li>
       </ul>
       Contact us for more information.
-
-
 sidebar:
   downloadText: "If you're thinking: This is me, but is it worth it? Then you will find more information here to answer this question with a clear \"Yes\":"
   downloadLink: https://utxo.solutions/wp-content/uploads/2023/12/UTXO_Mastering-JTBD-Innovation_Live_Online_Workshop_v2_2.pdf
@@ -67,4 +65,17 @@ If you think: I am, but is it worth it? Do you deliver the added value you promi
 
 Register today and take the first step towards successfully implementing the Jobs-to-Be-Done methodology in your organisation. Together we will achieve your goals!
 
-**Online workshop "Mastering Jobs to Be Done" - Your path to better products and services.
+## That sounds great, how can I book it?
+
+The next workshop series starts in September 2024. The dates for the individual sessions and workshop topics are
+
+- **M1: 03.09.2024** - Practical introduction to JTBD theory and innovation
+- **M2: 06.09.2024** - Identifying JTBD hypotheses in a business context
+- **M3.1 10.09.2024** - JTBD interview structure and organisation
+- **M3.2 13.09.2024** - JTBD interview practice and evaluation
+- **M4 17.09.2024** - JTBD data segmentation and clustering
+- **M5 20.09.2024** - JTBD research results classification and evaluation
+- **M6 24.09.2024** - The JTBD Research & Innovation Framework
+- **MA 27.09.2024** - Summary, outlook & AMA
+
+Just send us an e-mail using the contact button at the top right.

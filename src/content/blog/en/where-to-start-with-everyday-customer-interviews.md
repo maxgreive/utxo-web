@@ -42,4 +42,4 @@ And if you want to upgrade your skills and framework later one, you have one pie
 
 ### Have a look at our online masterclass
 
-[Click here](https://utxo.solutions/services/mastering-jobs-to-be-done-online-workshop/)
+[Click here](/services/mastering-jobs-to-be-done-online-workshop/)

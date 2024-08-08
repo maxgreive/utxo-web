@@ -112,4 +112,4 @@ Yeah, you could say, they are better then nothing. But I would even disagree to 
 
 ### Have a look at our Mastering Jobs to be done onlinecourse
 
-[Master the framework](https://utxo.solutions/services/mastering-jobs-to-be-done-online-workshop/)
+[Master the framework](/services/mastering-jobs-to-be-done-online-workshop/)

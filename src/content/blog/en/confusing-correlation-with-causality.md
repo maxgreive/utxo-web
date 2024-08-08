@@ -59,4 +59,4 @@ You can do business in two ways. Gut feeling mixed with luck or rational decisio
 
 ### Have a look at our next Mastering Jobs to be Done Online Workshop
 
-[Workshop](https://utxo.solutions/services/mastering-jobs-to-be-done-online-workshop/)
+[Workshop](/services/mastering-jobs-to-be-done-online-workshop/)

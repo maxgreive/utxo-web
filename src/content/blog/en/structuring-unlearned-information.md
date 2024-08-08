@@ -59,4 +59,4 @@ Remember: **It's easier to see thinks, once you start looking for them**.
 
 ### Take a look at our next Mastering Jobs to be done Workshop
 
-[Click here](https://utxo.solutions/services/mastering-jobs-to-be-done-online-workshop/)
+[Click here](/services/mastering-jobs-to-be-done-online-workshop/)

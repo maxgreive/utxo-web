@@ -70,4 +70,4 @@ Working with your own assumptions should always serve a dedicated purpose. Don't
 
 ### Have a look at our next Mastering Jobs to be Done Online Workshop
 
-[Click here](https://utxo.solutions/services/mastering-jobs-to-be-done-online-workshop/)
+[Click here](/services/mastering-jobs-to-be-done-online-workshop/)

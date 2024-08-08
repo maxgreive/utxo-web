@@ -73,7 +73,7 @@ This was the dog inspired by Syd Mead. 
 
 Interesting thing: You can’t use the style from modern artist (probably after 1950). You have to extract the style and make an indirect copy. This is how by the way how we came up with the geometric style elements.
 
-Here is also a “Da Vinci style variation” of someone taking part in our [“Mastering Jobs to be done workshop”.](https://utxo.solutions/services/mastering-jobs-to-be-done-online-workshop/) My favorite is the little skull in the shelf to the left. But hey, customer research is for everyone, we are not judging.
+Here is also a “Da Vinci style variation” of someone taking part in our [“Mastering Jobs to be done workshop”.](/services/mastering-jobs-to-be-done-online-workshop/) My favorite is the little skull in the shelf to the left. But hey, customer research is for everyone, we are not judging.
 
 ![](../images/DALL·E-2023-12-15-11.56.55-Wide-watercolor-painting-inspired-by-the-detailed-and-observational-style-of-Leonardo-da-Vinci.-The-scene-portrays-a-professional-office-setting-bathe-1024x585.png)
 

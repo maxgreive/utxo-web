@@ -87,4 +87,4 @@ This sounds hard, but it isn't, if you trust a trustworthy process. It's the sam
 
 ### Have a look at our Mastering Jobs to be done onlinecourse
 
-[Master the framework](https://utxo.solutions/services/mastering-jobs-to-be-done-online-workshop/)
+[Master the framework](/services/mastering-jobs-to-be-done-online-workshop/)

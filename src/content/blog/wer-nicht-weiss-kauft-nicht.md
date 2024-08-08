@@ -10,34 +10,34 @@ previewImage: "./images/DALL·E-2023-11-30-22.42.09-Eine-Frau-in-einem-Business-
 reference: he-who-knows-not-does-not-buy
 ---
 
-Unser Gehirn ist im Kern faul.Es versucht so wenig wie möglich zu denken.
+Unser Gehirn ist in seinem Kern faul. Es versucht, so wenig wie möglich zu denken.
 
-Bei Entscheidungen nehmen wir oft die Option mit dem geringsten Denkanweis.Denken Sie daran, Ihr Telefon herauszuziehen und soziale Medien zu scrollen, anstatt ein Buch zu lesen.Oder Musik hören, anstatt über aktuelle Probleme nachzudenken.
+Wenn wir Entscheidungen treffen, entscheiden wir uns oft für die Option, bei der wir am wenigsten nachdenken müssen. Stell dir vor, du zückst dein Handy und scrollst durch die sozialen Medien, anstatt ein Buch zu lesen. Oder Musik zu hören, anstatt über aktuelle Probleme nachzudenken.
 
-Beim Kauf von Waren und Dienstleistungen ist das Denkmuncount ein Inhibitor. Je mehr wir über die Entscheidung denken, desto höher ist das Risiko, sich nicht zu entscheiden.Es braucht auch mehr Zeit.
+Beim Kauf von Waren und Dienstleistungen ist die Menge des Denkens ein Hemmschuh: Je mehr wir über die Entscheidung nachdenken, desto höher ist das Risiko, dass wir uns nicht entscheiden. Außerdem braucht es mehr Zeit.
 
-Der durchschnittliche Deutsche dauert 18 Monate, um ein neues Heizsystem zu entscheiden.Oder wie Photovoltaik auf ihr Dach legt.Der Hauptgrund: **Unsicherheit**.
+Der durchschnittliche Deutsche braucht 18 Monate, um sich für eine neue Heizungsanlage zu entscheiden. Oder ob er eine Photovoltaikanlage auf seinem Dach installieren soll. Der Hauptgrund dafür: **Ungewissheit**.
 
-Wenn Sie unbeantwortete Fragen haben, können Sie Menschen daran hindern, Ihr Produkt zu kaufen.Sie wissen nicht, ob es passend ist.Darüber nachdenken zu müssen, ist Arbeit.Und das Gehirn funktioniert nicht.Oft vermeidet es nur Entscheidungen.
+Unbeantwortete Fragen halten Menschen davon ab, dein Produkt zu kaufen. Sie wissen nicht, ob es zu ihnen passt. Sich darüber Gedanken zu machen, ist Arbeit. Und das Gehirn mag keine Arbeit. Oft vermeidet es es, Entscheidungen zu treffen.
 
-Kunden, die sich nicht für Ihr Produkt entscheiden, können dazu führen, dass sie überhaupt nicht kaufen oder für eine andere Person entscheiden.Die Entscheidungsfindung kann immer und immer wieder anfangen.Als jemand, der Dinge verkauft, möchten Sie, dass die Leute entscheiden.Entweder für oder gegen Ihr Produkt.Es ist jedoch unnötig, einen Verkauf an Unsicherheit zu verlieren.
+Wenn sich Kunden nicht für dein Produkt entscheiden, kann das dazu führen, dass sie gar nicht kaufen oder sich für jemand anderen entscheiden. Die Entscheidungsfindung kann stecken bleiben und immer wieder von vorne beginnen. Als Verkäufer willst du, dass die Leute sich entscheiden. Entweder für oder gegen dein Produkt. Aber es ist unnötig, einen Verkauf wegen Unsicherheit zu verlieren.
 
-Um die Unsicherheit zu verringern, müssen wir die folgenden vier Dinge kennen:
+Um Unsicherheit zu verringern, müssen wir die folgenden vier Dinge wissen:
 
-1. Die Fragen, die unsere Kunden haben, bevor sie sie haben
-2. Die Art und Weise, wie die Antwort strukturiert sein soll
+1. Die Fragen, die unsere Kunden haben werden, bevor sie sie haben
+2. Die Art und Weise, wie sie die Antwort haben wollen
 3. Die Informationen, die sie nur verwirren werden
-4. Die tatsächliche Antwort
-5. Unnötig zu erwähnen, dass die Antwort sein muss
-6. Richtig - es spiegelt die tatsächlichen Eigenschaften des Produkts wider
-7. Richtig - es ist die Antwort, auf die ein Kunde hofft
+4. Die eigentliche Antwort
+5. Unnötig zu sagen, dass die Antwort sein muss
+6. Richtig - sie spiegelt die tatsächlichen Eigenschaften des Produkts wider
+7. Richtig - es ist die Antwort, die sich der Kunde erhofft
 
-Die Beantwortung Ihrer Kunden im Voraus ist von entscheidender Bedeutung, um die Produktsprache zu erreichen.
+Die Beantwortung der Fragen deiner Kunden im Vorfeld ist entscheidend für die sprachliche Anpassung des Produkts.
 
-Denken Sie daran: **Ein nicht verstandenes Produkt ist ein nicht verkauftes Produkt**.
+Denke daran: **Ein Produkt, das nicht verstanden wird, wird auch nicht verkauft**.
 
-## Möchten Sie mehr über die Suche nach Produktsprache erfahren?
+## Willst du mehr darüber erfahren, wie du die richtige Sprache für dein Produkt findest?
 
-### Schauen Sie sich unsere nächsten Mastering -Jobs an, die Online -Workshop erledigt werden können
+### Schau dir unseren nächsten Mastering Jobs to be Done Online Workshop an.
 
-[Klicken Sie hier](/services/mastering-jobs-t-be-done-online-workshop/)
+[Klick hier](/leistungen/mastering-jobs-to-be-done-online-workshop/)

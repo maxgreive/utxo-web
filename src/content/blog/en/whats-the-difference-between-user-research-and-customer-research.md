@@ -50,4 +50,4 @@ If you want to make large strides you need to look at the whole picture.
 
 ### Have a look at our online masterclass
 
-[Click here](https://utxo.solutions/services/mastering-jobs-to-be-done-online-workshop/)
+[Click here](/services/mastering-jobs-to-be-done-online-workshop/)

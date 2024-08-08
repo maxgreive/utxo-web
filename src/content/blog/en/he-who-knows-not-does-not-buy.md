@@ -40,4 +40,4 @@ Remember: **A product not understood is a product not sold**.
 
 ### Have a look at our next Mastering Jobs to be Done Online Workshop
 
-[Click here](https://utxo.solutions/services/mastering-jobs-to-be-done-online-workshop/)
+[Click here](/services/mastering-jobs-to-be-done-online-workshop/)

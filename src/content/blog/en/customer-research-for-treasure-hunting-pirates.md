@@ -54,4 +54,4 @@ Well, I guess though, you aren't a pirate.
 
 ### ... have a look at the old mans treasure hunting masterclass
 
-[Arr, treasures](https://utxo.solutions/services/mastering-jobs-to-be-done-online-workshop/)
+[Arr, treasures](/services/mastering-jobs-to-be-done-online-workshop/)

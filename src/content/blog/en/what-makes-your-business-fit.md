@@ -102,4 +102,4 @@ But your people define your business as well. Hire for the people your product n
 ## Want to learn how to make your business fit?
 Take a look at our Mastering Jobs to be done Workshop
 
-[Click here](https://utxo.solutions/services/mastering-jobs-to-be-done-online-workshop/)
+[Click here](/services/mastering-jobs-to-be-done-online-workshop/)

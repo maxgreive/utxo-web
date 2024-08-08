@@ -100,4 +100,4 @@ This allows you to build better products. To improve marketing. And sales. This 
 
 ### Have a look at our Mastering Jobs to be done onlinecourse
 
-[Master the framework](https://utxo.solutions/services/mastering-jobs-to-be-done-online-workshop/)
+[Master the framework](/services/mastering-jobs-to-be-done-online-workshop/)

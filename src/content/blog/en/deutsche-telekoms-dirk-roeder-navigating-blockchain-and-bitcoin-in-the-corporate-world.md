@@ -59,6 +59,6 @@ For more information on this episode and other fascinating topics at the interse
 ## Further links:
 
 - Further information in German language on topics at the interface of Bitcoin technology, business and innovation on our [Oberwasser-Consulting  page](https://oberwasser-consulting.de/tag/bitcoin/)
-- Our current [Mastering JTBD Innovation training workshop](https://utxo.solutions/services/mastering-jobs-to-be-done-online-workshop/) for international teams
+- Our current [Mastering JTBD Innovation training workshop](/services/mastering-jobs-to-be-done-online-workshop/) for international teams
 - [Dirk Roeder on LinkedIn](https://www.linkedin.com/in/droeder72/)
 - [Visit Deutsche Telekom MMS](https://www.telekom-mms.com/)

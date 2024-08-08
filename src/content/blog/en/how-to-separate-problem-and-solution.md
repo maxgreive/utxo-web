@@ -67,4 +67,4 @@ This is why this happens with people doing a customer research sprint with us fo
 
 ### Consider doing a customer research sprint with us
 
-[Customer Research Sprints](https://utxo.solutions/services/jobs-to-be-done-agency/)
+[Customer Research Sprints](/services/jobs-to-be-done-agency/)
