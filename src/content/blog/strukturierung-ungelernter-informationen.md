@@ -11,13 +11,13 @@ previewImage: "./images/DALL·E-2023-11-13-13.56.44-A-woman-placing-cubes-of-dat
 reference: structuring-unlearned-information
 ---
 
-Vor kurzem habe ich unsere Unternehmensordnerstruktur aufgeräumt. Die Herausforderung dabei ist, dass man zwei Arten von Daten hat. Vorhandene Daten und zukünftige Daten.
+Vor kurzem habe ich unsere Unternehmensordnerstruktur aufgeräumt. Die Herausforderung dabei ist, dass man zwei Arten von Daten hat: vorhandene Daten und zukünftige Daten.
 
-Vorhandene Daten zu sortieren ist einfach. Man kann sie sich ansehen und festlegen, wo sie abgelegt werden sollen. Sie können sie in sinnvollen Gruppen zusammenfassen.
+Vorhandene Daten zu sortieren ist einfach. Du kannst sie Dir ansehen und festlegen, wo sie abgelegt werden sollen. Du kannst sie in sinnvollen Gruppen zusammenfassen.
 
-Zukünftige Daten zu sortieren ist schwierig. Sie kennen die Daten nicht. Sie können sie nicht gruppieren oder verschieben. Und Sie sind höchstwahrscheinlich nicht die Person, die sie an die richtige Stelle setzen kann.
+Zukünftige Daten zu sortieren ist schwierig. Du kennst die Daten noch nicht. Du kannst sie nicht gruppieren oder verschieben. Und Du bist höchstwahrscheinlich nicht die Person, die sie an die richtige Stelle setzen kann.
 
-### Sie brauchen eine Struktur, die so offensichtlich ist, dass zukünftige Daten nicht aus dem System herausfallen können.
+### Du brauchst eine Struktur, die so offensichtlich ist, dass zukünftige Daten nicht aus dem System herausfallen können.
 
 Die gängigsten Methoden sind:
 
@@ -26,37 +26,33 @@ Die gängigsten Methoden sind:
 
 Die zweckorientierte Struktur (wofür sind die Daten da?) hat einen großen Vorteil:
 
-**Sie können die Lücken identifizieren**, denn Sie können Ordner für einen bestimmten Zweck erstellen, die keine Daten enthalten.
+**Du kannst die Lücken identifizieren**, denn Du kannst Ordner für einen bestimmten Zweck erstellen, die keine Daten enthalten.
 
+Wenn Du einen leeren Ordner mit dem Namen "Kundenforschung" hast oder sogar überhaupt keinen solchen Ordner, könnte das ein Problem darstellen.
 
+Wenn Du über das Nutzerverhalten nachdenkst, ist es die gleiche Herausforderung.
 
-Wenn Sie einen leeren Ordner mit dem Namen "Kundenforschung" oder sogar überhaupt keinen solchen Ordner haben, könnte das ein Problem darstellen.
+### Du brauchst einen Platz für die Informationen, die Du noch nicht hast.
 
-Wenn man über das Nutzerverhalten nachdenkt, ist es die gleiche Herausforderung.
+Du brauchst also eine Struktur, damit Du die fehlenden Informationen sehen kannst.
 
-### Sie brauchen einen Platz für die Informationen, die Sie noch nicht haben.
-
-Man braucht also eine Struktur, damit man die fehlenden Informationen sehen kann.
-
-Es ist wie bei einem Puzzle. Man bemerkt das fehlende Teil, wenn das Puzzle fast vollständig ist. Aber wenn man die Teile für den Himmel zuerst sortiert, bemerkt man das fehlende Teil früher.
+Es ist wie bei einem Puzzle. Du bemerkst das fehlende Teil, wenn das Puzzle fast vollständig ist. Aber wenn Du die Teile für den Himmel zuerst sortierst, bemerkst Du das fehlende Teil früher.
 
 ### Schritt-für-Schritt
 
 Hier ist eine Anleitung zum Bau einer solchen Struktur:
 
-1. Definieren Sie einen Zweck
-2. Definieren Sie die Metriken für den Fortschritt auf dem Weg dorthin
-3. Bringen Sie es auf die benötigten Daten herunter
-4. Definieren Sie, wie die Daten aggregiert werden sollen
-5. Sammeln Sie die Daten
-6. Mit den Daten arbeiten
+1. Definiere einen Zweck.
+2. Definiere die Metriken für den Fortschritt auf dem Weg dorthin.
+3. Bringe es auf die benötigten Daten herunter.
+4. Definiere, wie die Daten aggregiert werden sollen.
+5. Sammle die Daten.
+6. Arbeite mit den Daten.
 
-Denken Sie daran: **Es ist einfacher, Gedanken zu erkennen, wenn man anfängt, nach ihnen zu suchen**.
+Denke daran: **Es ist einfacher, Gedanken zu erkennen, wenn Du anfängst, nach ihnen zu suchen**.
 
+## Möchtest Du mehr über die Struktur erfahren, die wir verwenden?
 
-
-## Möchten Sie mehr über die Struktur erfahren, die wir verwenden?
-
-### Werfen Sie einen Blick auf unseren nächsten Mastering Jobs to be done Workshop
+### Werfe einen Blick auf unseren nächsten Mastering Jobs to be Done Workshop
 
 [Klicken Sie hier](/leistungen/mastering-jobs-to-be-done-online-workshop/)
