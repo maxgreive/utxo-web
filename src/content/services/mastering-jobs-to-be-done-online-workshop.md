@@ -65,4 +65,16 @@ Wenn du denkst: Das bin ich, aber ist es das wert? Lieferst du auch den Mehrwert
 
 Melde dich noch heute an und mache den ersten Schritt, um die Jobs-to-Be-Done-Methodik in deinem Unternehmen erfolgreich umzusetzen. Gemeinsam erreichen wir deine Ziele!
 
+## Das klingt toll, wie kann ich das buchen?
+Die nächste Workshopreihe startet im September 2024. Die Termine für die einzelnen Sessions und Themen des Workshops sind:
+
+- **M1: 03.09.2024** – Praxisnahe Einführung JTBD Theorie und Innovation 
+- **M2: 06.09.2024** – JTBD Hypothesen im Business-Kontext Identifizieren
+- **M3.1 10.09.2024** – JTBD Interview Struktur und Aufbau 
+- **M3.2 13.09.2024** – JTBD Interview Praxis und Auswertung
+- **M4 17.09.2024** – JTBD Daten segmentieren und Clustering 
+- **M5 20.09.2024** – JTBD Research Ergebnisse Einordnen und Bewerten
+- **M6 24.09.2024** – Das JTBD Research& Innovation Framework
+- **MA 27.09.2024** – Zusammenfassung, Ausblick & AMA
+
 **Online-Workshop „Jobs to Be Done meistern“ – Dein Weg zu besseren Produkten und Dienstleistungen.**
