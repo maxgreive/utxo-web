@@ -77,4 +77,6 @@ Die nächste Workshopreihe startet im September 2024. Die Termine für die einze
 - **M6 24.09.2024** – Das JTBD Research& Innovation Framework
 - **MA 27.09.2024** – Zusammenfassung, Ausblick & AMA
 
-**Online-Workshop „Jobs to Be Done meistern“ – Dein Weg zu besseren Produkten und Dienstleistungen.**
+Schreib uns einfach eine E-Mail über den Kontakt-Button oben rechts.
+
+
