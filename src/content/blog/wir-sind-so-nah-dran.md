@@ -55,4 +55,4 @@ Deshalb entscheiden sich vor allem kleinere Unternehmen zu oft für Make or Buy.
 
 ### Hier ist eine Make-or-Buy-Entscheidung für die Kundenforschung. Lesen Sie sie und beobachten Sie Ihr Denken.
 
-[Klicken Sie hier](/services/jobs-to-be-done-agency/)
+[Klicken Sie hier](/leistungen/customer-research-sprints/)

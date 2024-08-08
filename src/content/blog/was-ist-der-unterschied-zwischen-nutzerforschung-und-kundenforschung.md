@@ -10,44 +10,42 @@ previewImage: "./images/file-736dWJl2BWhORVJvHy8LqQ5G.png"
 reference: whats-the-difference-between-user-research-and-customer-research
 ---
 
-Die offensichtliche Antwort lautet: Bei dem einen geht es um unsere Nutzer, bei dem anderen um unsere Kunden. Und während in einigen Fällen unsere Nutzer unsere Kunden sein können, sind sie es oft nicht. Schauen wir uns also einmal an, wann wir Nutzerforschung und wann Kundenforschung betreiben müssen. Und warum.
+Die klare Antwort lautet: Bei dem einen geht es um unsere Nutzer, bei dem anderen um unsere Kunden. Und obwohl in einigen Fällen unsere Nutzer auch Kunden sein können, ist das oft nicht der Fall. Lass uns also einmal genauer betrachten, wann du Nutzerforschung und wann Kundenforschung betreiben solltest – und warum.
 
 ### Was ist Nutzerforschung?
 
-Laut [Wikipedia](https://en.wikipedia.org/wiki/User_research) geht es bei der Nutzerforschung darum, wie Menschen ein Produkt verwenden. Wenn jemand eine Schaufel kauft, was macht er dann damit? Gartenarbeit? Bauarbeiten? Leute verprügeln? Ein paar Augen aufmalen und mit ihr reden? Es kommt darauf an, wie die Menschen das Produkt benutzen.
+Laut [Wikipedia](https://en.wikipedia.org/wiki/User_research) dreht sich bei der Nutzerforschung alles darum, wie Menschen ein Produkt verwenden. Wenn jemand eine Schaufel kauft, was macht er dann damit? Gartenarbeit? Bauarbeiten? Vielleicht wird sie als Waffe verwendet? Oder vielleicht bemalt man sie und redet mit ihr? Es hängt davon ab, wie die Menschen das Produkt nutzen.
 
-Forschung bedeutet normalerweise eine Reihe von qualitativen Interviews mit dem Benutzer. Dabei stellen wir Fragen wie: Was haben Sie das letzte Mal mit der Schaufel gemacht, als Sie sie benutzt haben? Wann haben Sie sie benutzt? Wie haben Sie sie benutzt? Warum haben Sie sie auf diese Weise benutzt? Was hat sich für dich verändert, nachdem du sie benutzt hast?
+Forschung bedeutet normalerweise, eine Reihe von qualitativen Interviews mit den Nutzern durchzuführen. Dabei stellst du Fragen wie: Was hast du zuletzt mit der Schaufel gemacht? Wann hast du sie benutzt? Wie hast du sie verwendet? Warum hast du sie auf diese Weise verwendet? Was hat sich für dich verändert, nachdem du sie benutzt hast?
 
-Es ist wichtig zu beachten, dass gute Nutzerforschung über die beabsichtigte Nutzung hinausgeht. Menschen nutzen ein Produkt oft in einer Weise, die für sie hilfreich ist, aber nicht wie geplant. Hier ist ein gutes Beispiel für die [unbeabsichtigte Verwendung einer Bratpfanne](https://www.youtube.com/watch?v=HA3SuHtCWo0&ab_channel=StoryfulViral). Manchmal kann die unbeabsichtigte Nutzung zur neuen Hauptnutzung werden, wie bei der [Post-It-Geschichte](https://www.post-it.com/3M/en_US/post-it/contact-us/about-us/).
+Es ist wichtig zu beachten, dass gute Nutzerforschung über die beabsichtigte Nutzung hinausgeht. Menschen nutzen ein Produkt oft auf eine Weise, die für sie hilfreich ist, auch wenn es nicht so gedacht war. Ein gutes Beispiel für eine [unbeabsichtigte Verwendung einer Bratpfanne](https://www.youtube.com/watch?v=HA3SuHtCWo0&ab_channel=StoryfulViral) zeigt, wie die unbeabsichtigte Nutzung zur neuen Hauptnutzung werden kann, wie bei der [Post-It-Geschichte](https://www.post-it.com/3M/en_US/post-it/contact-us/about-us/).
 
-Der Hauptanwendungsfall für Benutzerforschung ist die Verbesserung des Produkts für Ihre Benutzer.
+Der Hauptzweck der Nutzerforschung ist es, das Produkt für deine Nutzer zu verbessern.
 
 ### Was ist Kundenforschung?
 
-Kundenforschung zielt auf Menschen ab, die unser Produkt kaufen sollen. Das mag gleich klingen. Warum sollte jemand etwas kaufen, ohne es zu benutzen? Aber in Wirklichkeit kaufen die Leute Produkte aus anderen Gründen als aus dem, warum sie sie benutzen. Denken Sie nur an das Hemd oder die Schuhe, die Sie gekauft, aber nie getragen haben. Eine Sportausrüstung? Smoothie-Maschine? Bücher? Wir neigen dazu, viele Dinge zu kaufen, die wir nur einmal oder sogar nie benutzen werden. Wir kaufen, um den Schmerz zu vermeiden, der entsteht, wenn wir bei der aktuellen Lösung bleiben. Und die Hoffnung auf eine bessere Lösung löst den Kauf aus. Aber wir benutzen Dinge aus ganz anderen Gründen.
+Kundenforschung richtet sich an Menschen, die dein Produkt kaufen sollen. Das mag ähnlich klingen, aber Menschen kaufen Produkte oft aus anderen Gründen als dem, wie sie sie nutzen. Denk nur an das Hemd oder die Schuhe, die du gekauft, aber nie getragen hast. Eine Sportausrüstung? Eine Smoothie-Maschine? Bücher? Wir neigen dazu, viele Dinge zu kaufen, die wir nur einmal oder sogar nie benutzen werden. Wir kaufen oft, um den Schmerz zu vermeiden, der entsteht, wenn wir bei unserer aktuellen Lösung bleiben. Die Hoffnung auf eine bessere Lösung führt zum Kauf, aber wir nutzen Dinge aus ganz anderen Gründen.
 
-Wenn wir über den Kundenlebenszyklus sprechen, gibt es grundsätzlich 5 Phasen. Aus der Sicht des Verkäufers sehen sie wie folgt aus:
+Wenn wir über den Kundenlebenszyklus sprechen, gibt es grundsätzlich fünf Phasen. Aus der Sicht des Verkäufers sehen diese Phasen wie folgt aus:
 
-- Phase 1 - Die Aufmerksamkeit des Kunden gewinnen
-- Phase 2 - Das Vertrauen des Kunden gewinnen
-- Phase 3 - Den Kunden zum Kauf bewegen
-- Phase 4 - Bringen Sie sie dazu, Ihr Produkt einmal zu benutzen
-- Phase 5 - Sie dazu bringen, es weiter zu benutzen
+- Phase 1: Die Aufmerksamkeit des Kunden gewinnen
+- Phase 2: Das Vertrauen des Kunden gewinnen
+- Phase 3: Den Kunden zum Kauf bewegen
+- Phase 4: Den Kunden dazu bringen, dein Produkt einmal zu benutzen
+- Phase 5: Den Kunden dazu bringen, es weiter zu nutzen
 
-Theoretisch sind unsere zukünftigen Kunden in den Phasen 1 bis 3 Kunden von jemand anderem und werden in den Phasen 4 bis 5 zu unseren Kunden. Dasselbe gilt für Benutzer. Sie sind in 1-3 Nutzer einer anderen Lösung und in 4-5 unsere Nutzer. Wir wollen jedoch die Entscheidungsmuster verstehen, die jemanden dazu bringen, unser Kunde zu werden. Wir müssen also verstehen, warum sie bei uns kaufen würden. Und um das zu tun, müssen sie aufhören, die andere Lösung zu nutzen. Aus diesem Grund beantwortet die Kundenforschung beide Fragen. Warum nutzen die Leute ihre aktuelle Lösung? Und unter welchen Umständen werden sie zu unserer Lösung wechseln?
+Theoretisch sind unsere zukünftigen Kunden in den Phasen 1 bis 3 Kunden von jemand anderem und werden in den Phasen 4 bis 5 zu unseren Kunden. Dasselbe gilt für Nutzer: Sie sind in Phasen 1 bis 3 Nutzer einer anderen Lösung und in Phasen 4 bis 5 unsere Nutzer. Wir wollen jedoch die Entscheidungsmuster verstehen, die jemanden dazu bringen, unser Kunde zu werden. Wir müssen verstehen, warum sie bei uns kaufen würden und warum sie die andere Lösung aufgeben würden. Daher beantwortet die Kundenforschung beide Fragen: Warum nutzen die Leute ihre aktuelle Lösung und unter welchen Umständen wechseln sie zu unserer Lösung?
 
-Das Tolle daran ist, dass wir, wenn wir über ihre aktuelle Lösung sprechen, viel darüber erfahren, wie sie unser Produkt nutzen wollen. Sie mögen Dinge an ihrer bisherigen Lösung und möchten sie wieder haben. Das sind so genannte Gewohnheiten. Aber es gibt immer Dinge, die sie von der aktuellen Lösung wegbringen. Diese können wir vermeiden. Dasselbe gilt für Hoffnungen auf die neue Lösung, die sie zu ihr hinziehen, und Ängste, die sie zögern lassen. Dies ermöglicht uns, das Produkt zu bauen, das unsere Kunden lieben werden. Denn am Ende des Tages werden sie vielleicht auch irgendwann aufhören, unser Produkt zu benutzen. Es hilft also, jede neue Nutzung als einen neuen Kauf einer Lösung zu betrachten. Und um zu verhindern, dass sie zu einer konkurrierenden Lösung wechseln.
+Das Gute daran ist, dass wir durch Gespräche über ihre aktuelle Lösung viel darüber erfahren, wie sie unser Produkt nutzen wollen. Sie mögen bestimmte Aspekte ihrer bisherigen Lösung und möchten diese behalten – das sind ihre Gewohnheiten. Aber es gibt auch Aspekte, die sie von ihrer aktuellen Lösung wegbringen. Diese können wir vermeiden. Ebenso gibt es Hoffnungen für die neue Lösung, die sie anziehen, und Ängste, die sie zögern lassen. Das hilft uns, ein Produkt zu entwickeln, das unsere Kunden lieben werden. Schließlich könnten sie irgendwann auch aufhören, unser Produkt zu nutzen. Es ist hilfreich, jede neue Nutzung als neuen Kauf einer Lösung zu betrachten und zu verhindern, dass sie zu einer Konkurrenzlösung wechseln.
 
-### Wann verwende ich also Kundenforschung und wann Nutzerforschung?
+### Wann solltest du also Kundenforschung und wann Nutzerforschung einsetzen?
 
-Die Kundenforschung ist die übergreifende Version der Nutzerforschung. Sie deckt den gesamten Lebenszyklus ab, während die Nutzerforschung nur das Nutzungsverhalten untersucht. Die Nutzerforschung ist ein Teil der Kundenforschung mit einem speziellen Fokus. Ich würde empfehlen, immer mit einer vollständigen Kundenforschung zu beginnen, auch wenn sie nur in kleinem Rahmen stattfindet. Aber wenn Sie Ihr Produkt danach langsam verbessern wollen, kann Nutzerforschung ausreichen. Seien Sie sich nur darüber im Klaren, dass der gegebene Kontext für die Nutzerforschung recht begrenzt ist. Sie betrachten nur Ihre eigene Lösung. Dies ermöglicht nur anhaltende Innovation, aber keinen wirklichen Fortschritt.
+Die Kundenforschung ist die umfassendere Form der Nutzerforschung. Sie deckt den gesamten Lebenszyklus ab, während die Nutzerforschung sich nur auf das Nutzungsverhalten konzentriert. Die Nutzerforschung ist ein Teilbereich der Kundenforschung mit einem speziellen Fokus. Ich empfehle, immer mit einer umfassenden Kundenforschung zu beginnen, selbst wenn sie nur in kleinem Umfang durchgeführt wird. Wenn du dein Produkt danach weiter verbessern möchtest, kann auch eine gezielte Nutzerforschung ausreichen. Sei dir jedoch bewusst, dass der Kontext der Nutzerforschung relativ begrenzt ist. Sie betrachtet nur deine eigene Lösung, was nur kontinuierliche Innovation, aber keinen wirklichen Fortschritt ermöglicht.
 
-Wenn Sie große Fortschritte machen wollen, müssen Sie das Gesamtbild betrachten.
+Wenn du große Fortschritte erzielen möchtest, musst du das Gesamtbild betrachten.
 
+## Möchtest du mehr darüber erfahren, wie man Kundenforschung durchführt?
 
+### Schauen dir unsere Online-Masterclass an.
 
-## Möchten Sie mehr darüber erfahren, wie man Kundenforschung betreibt?
-
-### Schauen Sie sich unsere Online-Masterclass an.
-
-[Klicken Sie hier](/leistungen/mastering-jobs-to-be-done-online-workshop/)
+[Klick hier](/leistungen/mastering-jobs-to-be-done-online-workshop/)

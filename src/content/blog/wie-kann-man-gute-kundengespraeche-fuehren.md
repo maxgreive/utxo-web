@@ -10,7 +10,7 @@ previewImage: "./images/DALL·E-2024-01-18-23.07.56-An-artistic-representation-o
 reference: how-to-have-good-customer-interviews
 ---
 
-Es gibt einen häufigen Zweifel in Unternehmen, die einen [research sprint](/services/jobs-to-be-done-agency/) mit uns durchführen: "Werden unsere Kunden uns sagen, was wir wissen müssen?" Es ist für sie schwer vorstellbar, dass jemand 60 bis 90 Minuten damit verbringen wird, Dir alles über seine Entscheidungsfindung zu erzählen, nur damit Du Dich verbessern kannst. Dies ist ein kurzer Leitfaden für gute Kundeninterviews mit aussagekräftigen Ergebnissen.
+Es gibt einen häufigen Zweifel in Unternehmen, die einen [research sprint](/leistungen/customer-research-sprints/) mit uns durchführen: "Werden unsere Kunden uns sagen, was wir wissen müssen?" Es ist für sie schwer vorstellbar, dass jemand 60 bis 90 Minuten damit verbringen wird, Dir alles über seine Entscheidungsfindung zu erzählen, nur damit Du Dich verbessern kannst. Dies ist ein kurzer Leitfaden für gute Kundeninterviews mit aussagekräftigen Ergebnissen.
 
 Vor allem im B2B-Bereich scheint dies schwer vorstellbar zu sein. Warum sollten Menschen an Kundenbefragungen teilnehmen? Haben sie nicht etwas Besseres zu tun?
 

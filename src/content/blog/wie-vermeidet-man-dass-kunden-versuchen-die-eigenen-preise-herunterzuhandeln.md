@@ -119,4 +119,4 @@ Und ja, ich weiß, dass viele Unternehmen von einigen Großkunden abhängig sind
 
 ### Erwägen Sie, einen Forschungssprint mit uns durchzuführen.
 
-[Forschungs-Sprint](/services/jobs-to-be-done-agency/)
+[Forschungs-Sprint](/leistungen/customer-research-sprints/)

@@ -24,7 +24,7 @@ Das ist für mich extrem beruhigend. Ich weiß, wie ich über Dinge reden kann, 
 
 Das Schreiben ist nicht neu für mich. Ich hatte bereits einen Blog, habe ein Buch geschrieben, viele lange Beiträge für soziale Medien verfasst und so weiter. Ich schreibe auch [therapeutisches Schreiben](https://www.youtube.com/watch?v=wAZn9dF3XTo&ab_channel=AndrewHuberman), hauptsächlich für die Veränderung von Gewohnheiten und die Konfliktbewältigung. Aber dies als geschäftliche Tätigkeit zu tun, fühlt sich auf eine neue Art erstaunlich an. Es schafft Raum für andere geschäftliche Gedanken.
 
-### Das Schreiben zeigt Ihre unbekannten Unbekannten
+### Das Schreiben zeigt deine unbekannten Unbekannten
 
 In unserer Kernmethodik, dem [jobs to be done innovation framework](/blog/understanding-the-jobs-to-be-done-perspective/), bin ich ziemlich neu. Mein Geschäftspartner [Peter](https://www.linkedin.com/in/peterrochel/) ist derjenige, der den größten Teil des Frameworks über fast 20 Jahre hinweg entwickelt hat. Er ist verantwortlich für die hohe Qualität, die unsere Kunden erwarten können. Für mich ist das immer noch eine Lernreise.
 
@@ -32,11 +32,11 @@ Aber ich schreibe darüber. Oft schreibe ich über etwas und dann haben wir (Pet
 
 ### Schreiben hilft, einfache Erklärungen zu finden
 
-Ich benutze [Hemingway](https://hemingwayapp.com/) zum Schreiben. Es ist ein einfaches Textverarbeitungsprogramm mit Schwerpunkt auf der Lesbarkeit. Sie sehen immer, wie leicht Ihr Artikel zu lesen ist. Es ermutigt Sie, die aktive Stimme zu verwenden, indem es passives Schreiben hervorhebt. Lange und schwer lesbare Sätze werden markiert und es wird auf eine angemessene Anzahl von Adverbien und komplexen Wörtern geachtet.
+Ich benutze [Hemingway](https://hemingwayapp.com/) zum Schreiben. Es ist ein einfaches Textverarbeitungsprogramm mit Schwerpunkt auf der Lesbarkeit. Du siehst immer, wie leicht Dein Artikel zu lesen ist. Es ermutigt Dich, die aktive Stimme zu verwenden, indem es passives Schreiben hervorhebt. Lange und schwer lesbare Sätze werden markiert und es wird auf eine angemessene Anzahl von Adverbien und komplexen Wörtern geachtet.
 
 Das hilft mir dabei, eine leichte Sprache zu finden. Die Themen und Geisteshaltungen, über die ich spreche, sind manchmal schwer zu verstehen. Eine einfache Sprache hilft also dem Leser. Ich lerne auch, nachvollziehbare Beispiele zu finden, die meinen Standpunkt deutlich machen. Die bisherigen Rückmeldungen zeigen, dass der Text gut lesbar ist.
 
-Blaise Pascal hat einmal gesagt: "Ich hatte keine Zeit, dir einen kurzen Brief zu schreiben, also habe ich einen langen geschrieben." Ich versuche, mir die Zeit zu nehmen, damit Sie das nicht tun müssen.
+Blaise Pascal hat einmal gesagt: "Ich hatte keine Zeit, dir einen kurzen Brief zu schreiben, also habe ich einen langen geschrieben." Ich versuche, mir die Zeit zu nehmen, damit Du das nicht tun musst.
 
 ### Schreiben ist ein Beweis für Arbeit
 
@@ -52,12 +52,10 @@ Ich veröffentliche dreimal pro Woche. Jeden Montag, Mittwoch und Freitag. Und i
 
 Ich weiß, dass das nicht das beste Zeitmanagement ist, aber es verschafft mir eine gewisse Befriedigung. Es ist so, als würde man sagen, dass man ins Fitnessstudio geht, und dann erscheint man auch dort. Dass ich die meisten Abende schreibe, beweist mir, dass ich es ernst meine. Und das hilft mir sehr.
 
-Dieser Newsletter hat noch nicht viele Abonnenten. Ich schätze, die meisten würden es nicht bemerken, wenn ich einen Beitrag auslassen oder meine Frequenz verringern würde. Aber ich würde es merken. Und es würde mich stören. Wenn man anderen etwas von sich erzählt, ist es hilfreich, es sich erst einmal selbst zu beweisen. Ein guter Teil der Vertrauenswürdigkeit besteht darin, das zu tun, was man gesagt hat, dass man es tun wird. Wenn man sich selbst beweist, dass man in der Vergangenheit schwierige Dinge getan hat, stärkt das das Vertrauen in einen selbst. Das Vertrauen in mich selbst, dass ich es auch in Zukunft tun werde. Und am Ende geben uns die Leute Tausende von Euro, damit wir ihnen bei der Lösung ihrer geschäftlichen Herausforderungen helfen. Ich möchte sichergehen, dass ich mir ihr Vertrauen schenken kann.
+Dieser Newsletter hat noch nicht viele Abonnenten. Ich schätze, die meisten würden es nicht bemerken, wenn ich einen Beitrag auslasse oder meine Frequenz verringern würde. Aber ich würde es merken. Und es würde mich stören. Wenn man anderen etwas von sich erzählt, ist es hilfreich, es sich erst einmal selbst zu beweisen. Ein guter Teil der Vertrauenswürdigkeit besteht darin, das zu tun, was man gesagt hat, dass man es tun wird. Wenn man sich selbst beweist, dass man in der Vergangenheit schwierige Dinge getan hat, stärkt das das Vertrauen in einen selbst. Das Vertrauen in mich selbst, dass ich es auch in Zukunft tun werde. Und am Ende geben uns die Leute Tausende von Euro, damit wir ihnen bei der Lösung ihrer geschäftlichen Herausforderungen helfen. Ich möchte sichergehen, dass ich mir ihr Vertrauen schenken kann.
 
 ### Was kommt als Nächstes?
 
 Ich werde weiter schreiben. Das ist klar. Der Blog ist noch klein, und es gibt noch so viele Fragen, die unbeantwortet sind. Aber ich würde mich über mehr Feedback freuen.
 
-Wenn Sie diesen Newsletter bisher hilfreich fanden, empfehlen Sie ihn bitte an jemanden weiter, der davon profitieren könnte. Und wenn nicht, wäre ich dankbar für eine [mail](mailto: newsletter@utxo.solutions) über das, was Ihnen nicht gefallen hat.  Beides würde mir sehr viel bedeuten.
-
-
+Wenn Du diesen Newsletter bisher hilfreich fandest, empfehle ihn bitte an jemanden weiter, der davon profitieren könnte. Und wenn nicht, wäre ich dankbar für eine [Mail](mailto:newsletter@utxo.solutions) über das, was Dir nicht gefallen hat. Beides würde mir sehr viel bedeuten.

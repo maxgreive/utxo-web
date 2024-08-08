@@ -93,4 +93,4 @@ Tun Sie nicht nur etwas. Tun Sie nicht nichts. Denken Sie voraus und handeln Sie
 
 ### Schauen Sie sich unseren nächsten Mastering Jobs to be Done Online-Workshop an oder den Service done for you
 
-[Workshop](/leistungen/mastering-jobs-to-be-done-online-workshop/) [Full service](/services/jobs-to-be-done-agency/)
+[Workshop](/leistungen/mastering-jobs-to-be-done-online-workshop/) [Full service](/leistungen/customer-research-sprints/)

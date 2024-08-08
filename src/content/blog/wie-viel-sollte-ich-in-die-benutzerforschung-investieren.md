@@ -54,7 +54,7 @@ Persönlich betrachte ich mich als [Rationalist](https://www.lesswrong.com/). Me
 
 Die Markt-Komplexität ist schwer zu beurteilen. Einige Märkte scheinen komplex zu sein, sind aber eher einfach. Bei anderen ist es umgekehrt. Ich kenne jemanden, der Analytics-Software an Pharma-CEOs verkauft. Sie kostet mehrere Millionen Euro pro Jahr. Man würde denken, dass dies ein komplexer Markt ist. Und doch ist er teilweise sehr einfach. Das Hauptentscheidungselement ist, ob der CEO von einem vertrauenswürdigen Kollegen gesagt bekommen hat, dass das Produkt großartig ist. Andererseits scheint der Verkauf von Kaffee einfach zu sein, ist es aber nicht. Es ist ein niedrigpreisiges Alltagsprodukt. Wir denken nicht viel darüber nach, welchen Kaffee wir kaufen und warum. Das macht das gesamte Entscheidungsmuster seltsam und komplex.
 
-Die meisten unserer Kunden sind überrascht, nachdem sie [Kundenforschung mit uns durchgeführt haben](/services/jobs-to-be-done-agency/). Die meisten Annahmen waren falsch und die angenommene Entscheidungskomplexität ebenso. Besser nach dem Wertparameter überprüfen. Die Kundenforschung zu überspringen, weil man Wissen oder geringe Markt-Komplexität annimmt, scheint nicht das Risiko wert zu sein.
+Die meisten unserer Kunden sind überrascht, nachdem sie [Kundenforschung mit uns durchgeführt haben](/leistungen/customer-research-sprints/). Die meisten Annahmen waren falsch und die angenommene Entscheidungskomplexität ebenso. Besser nach dem Wertparameter überprüfen. Die Kundenforschung zu überspringen, weil man Wissen oder geringe Markt-Komplexität annimmt, scheint nicht das Risiko wert zu sein.
 
 ### Wo bekomme ich den meisten Wert für mein Geld?
 

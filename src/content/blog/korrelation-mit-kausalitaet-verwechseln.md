@@ -20,7 +20,7 @@ Es gab viel Diskussion über diese Studie. Es schien kontraintuitiv. Wie könnte
 
 Später stellte sich heraus, dass die Kausalität umgekehrt war. Menschen, die die Voraussetzungen für ein längeres Leben hatten, waren wahrscheinlicher Eltern. Und wenn man ein Kind adoptieren möchte, gibt es bestimmte Anforderungen. Es gibt Dinge, die die Wahrscheinlichkeit eines langen Lebens erhöhen. Viele dieser Dinge erhöhen auch die Wahrscheinlichkeit, Kinder zu haben. Und man muss viele davon haben, um ein Kind adoptieren zu dürfen, geschweige denn drei.
 
-Wenn wir unser Geschäft analysieren, neigen wir oft dazu, in dieselbe Falle zu tappen. Wir verwechseln Korrelation und Kausalität.
+Wenn Du Dein Geschäft analysierst, neigst Du oft dazu, in dieselbe Falle zu tappen. Du verwechselst Korrelation und Kausalität.
 
 Das Ergebnis sind scheinbare Korrelationen wie [diese](https://www.tylervigen.com/spurious-correlations), aber weniger offensichtlich.
 
@@ -29,19 +29,19 @@ Das Ergebnis sind scheinbare Korrelationen wie [diese](https://www.tylervigen.co
 **Korrelation** bedeutet, dass zwei Dinge **zur gleichen Zeit passieren**. **Kausalität** bedeutet, dass eine Sache **aufgrund der anderen passiert**.
 
 Nehmen wir eine häufige Verwechslung:
-Unser Umsatz steigt, das bedeutet, wir machen das Richtige. Das ist eine Korrelation, keine Kausalität. Man könnte zum Beispiel wachsen, aber weniger als der Markt wächst. Das würde bedeuten, dass man die falschen Dinge im Geschäft tut oder nur einige Dinge richtig macht.
+Unser Umsatz steigt, das bedeutet, wir machen das Richtige. Das ist eine Korrelation, keine Kausalität. Du könntest zum Beispiel wachsen, aber weniger als der Markt wächst. Das würde bedeuten, dass Du die falschen Dinge im Geschäft tust oder nur einige Dinge richtig machst.
 
 Etwas, das viele Menschen tun, wenn sie darüber nachdenken, ist, einen Weg von einer Korrelation zu einer Kausalität zu finden. So etwas wie: "Aber wenn wir schneller als der Markt wachsen, bedeutet das nicht, dass wir die richtigen Dinge tun?"
 
 So funktioniert das nicht. **Man kann Kausalitäten nicht von oben nach unten entdecken, nur von unten nach oben**.
 
-Denken Sie an Korrelation als zwei Fäden. Man kann sie verknoten oder flechten, aber es bleiben zwei Fäden. Kausalität ist eher wie eine Kette. Jedes Element verbindet sich mit dem nächsten. Und manchmal sind zwei Glieder über ein drittes verbunden. Logische Strukturen sind nicht immer linear.
+Denke an Korrelation als zwei Fäden. Du kannst sie verknoten oder flechten, aber es bleiben zwei Fäden. Kausalität ist eher wie eine Kette. Jedes Element verbindet sich mit dem nächsten. Und manchmal sind zwei Glieder über ein drittes verbunden. Logische Strukturen sind nicht immer linear.
 
 ### Wie stellt man Korrelation sicher?
 
-Wenn Sie also wissen möchten, ob Sie die richtigen Dinge tun, müssen Sie wirklich tief gehen. Analysieren Sie das einzelne Kettenglied. Und dann sehen Sie, wie weit die Kette hält.
+Wenn Du also wissen möchtest, ob Du die richtigen Dinge tust, musst Du wirklich tief gehen. Analysiere das einzelne Kettenglied. Und dann sieh, wie weit die Kette hält.
 
-Stellen Sie sicher, dass Ihre **Schritte klein genug** sind. "Wir betreiben Kundenforschung, deshalb mögen unsere Kunden unser Produkt" ist zu groß.
+Stelle sicher, dass Deine **Schritte klein genug** sind. "Wir betreiben Kundenforschung, deshalb mögen unsere Kunden unser Produkt" ist zu groß.
 
 Es ist eher:
 
@@ -51,10 +51,10 @@ Es ist eher:
 
 Wir können diese Schritte dann zusammenfassen in: Wir haben Kundenforschung betrieben. Als Kausalität haben wir einen Auslöser für eine Kaufentscheidung gefunden.
 
-Man kann Geschäft auf zwei Arten betreiben. Bauchgefühl gemischt mit Glück oder rationale Entscheidungsfindung. Es gibt großartige Daten darüber, wie effektiv Bauchgefühl ist, aber es skaliert nicht über einen selbst hinaus. **Wenn Sie wachsen wollen, müssen Sie Ihr Bauchgefühl und Glück übertreffen.**
+Du kannst ein Geschäft auf zwei Arten betreiben. Bauchgefühl gemischt mit Glück oder rationale Entscheidungsfindung. Es gibt großartige Daten darüber, wie effektiv Bauchgefühl ist, aber es skaliert nicht über einen selbst hinaus. **Wenn Du wachsen willst, musst Du Dein Bauchgefühl und Glück übertreffen.**
 
-## Möchten Sie Kausalität im Kundenverhalten erkennen?
+## Möchtest Du Kausalität im Kundenverhalten erkennen?
 
-### Schauen Sie sich unseren nächsten Mastering Jobs to be Done Online-Workshop an
+### Schau Dir unseren nächsten Mastering Jobs to be Done Online-Workshop an
 
 [Workshop](/leistungen/mastering-jobs-to-be-done-online-workshop/)

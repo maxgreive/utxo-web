@@ -67,4 +67,4 @@ Das ist der Grund, warum dies bei Menschen passiert, die zum ersten Mal einen Ku
 
 ### Ziehen Sie in Erwägung, einen Kundenforschungs-Sprint mit uns durchzuführen.
 
-[Kundenforschungs-Sprints](/services/jobs-to-be-done-agency/)
+[Kundenforschungs-Sprints](/leistungen/customer-research-sprints/)

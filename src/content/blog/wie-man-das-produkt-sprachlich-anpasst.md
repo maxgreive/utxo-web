@@ -73,4 +73,4 @@ Das ist eine Frage des **Verstehens, der Extraktion** und der **Anwendung**.
 
 ### Schauen Sie sich unseren nächsten Mastering Jobs to be Done Online Workshop oder den done for you Service an
 
-[Workshop](/leistungen/mastering-jobs-to-be-done-online-workshop/) [Full service](/services/jobs-to-be-done-agency/)
+[Workshop](/leistungen/mastering-jobs-to-be-done-online-workshop/) [Full service](/leistungen/customer-research-sprints/)
