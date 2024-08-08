@@ -27,7 +27,7 @@ Viele denken, dass sich die Vektoren ausrichten, wenn man die Punkte richtig set
 
 Ein (weit verbreitetes, aber eigentlich falsches) Zitat von Peter Drucker beschreibt es am besten:
 
-"Was gemessen wird, wird verbessert" [![peter drucker management theorist](../images/peter-drucker-taking-his-glasses-of.jpg)](https://medium.com/centre-for-public-impact/what-gets-measured-gets-managed-its-wrong-and-drucker-never-said-it-fe95886d3df6) [Peter Drucker](https://medium.com/centre-for-public-impact/what-gets-measured-gets-managed-its-wrong-and-drucker-never-said-it-fe95886d3df6) [Management Theorist](https://medium.com/centre-for-public-impact/what-gets-measured-gets-managed-its-wrong-and-drucker-never-said-it-fe95886d3df6)
+"Was gemessen wird, wird verbessert" [![peter drucker management theorist](./images/peter-drucker-taking-his-glasses-of.jpg)](https://medium.com/centre-for-public-impact/what-gets-measured-gets-managed-its-wrong-and-drucker-never-said-it-fe95886d3df6) [Peter Drucker](https://medium.com/centre-for-public-impact/what-gets-measured-gets-managed-its-wrong-and-drucker-never-said-it-fe95886d3df6) [Management Theorist](https://medium.com/centre-for-public-impact/what-gets-measured-gets-managed-its-wrong-and-drucker-never-said-it-fe95886d3df6)
 
 Das Gegenteil ist der Fall.
 
