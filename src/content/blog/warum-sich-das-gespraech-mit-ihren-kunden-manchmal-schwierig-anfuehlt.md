@@ -1,5 +1,5 @@
 ---
-title: "Warum fällt es Ihnen manchmal schwer, mit Ihren Kunden zu sprechen?"
+title: "Warum fällt es Dir manchmal schwer, mit Deinen Kunden zu sprechen?"
 author: Martin Betz
 pubDate: "2024-01-12"
 tags:
@@ -36,7 +36,7 @@ Ping ist jede Kommunikation, die eine Reaktion auslöst. Es ist etwas, das du sa
 - **Fragen**
 - **Aussagen**
 
-Wenn du eine Frage stellst, kann es sein, dass die andere Person etwas sagt, was als Information gilt. Wenn sie oder er etwas sagt, kannst du mit der Informationsaufnahmephase fortfahren. Wenn nicht, könnt ihr Pings austauschen, bis eine Partei etwas sagt. Wenn keine Partei verwertbare Informationen preisgibt, könnt ihr das Gespräch beenden. Das Gleiche gilt für eine Aussage, aber eine Aussage kann auch als geteilte Information funktionieren. Informationen sind ein Element, das Teil einer Frage oder Aussage sein kann.
+Wenn du eine Frage stellst, kann es sein, dass die andere Person etwas sagt, das als Information gilt. Wenn sie oder er etwas sagt, kannst du mit der Informationsaufnahmephase fortfahren. Wenn nicht, könnt ihr Pings austauschen, bis eine Partei etwas sagt. Wenn keine Partei verwertbare Informationen preisgibt, könnt ihr das Gespräch beenden. Das Gleiche gilt für eine Aussage, aber eine Aussage kann auch als geteilte Information funktionieren. Informationen sind ein Element, das Teil einer Frage oder Aussage sein kann.
 
 Schauen wir uns einige Beispiele an, um dies zu verdeutlichen:
 
@@ -182,4 +182,4 @@ Das einzige Mal, dass ich etwas anderes mache, ist, wenn ich mich in einer Wachs
 
 ### Erwäge einen Forschungssprint mit uns
 
-[Forschungs-Sprint](/services/jobs-to-be-done-agency/)
+[Forschungs-Sprint](/leistungen/customer-research-sprints/)

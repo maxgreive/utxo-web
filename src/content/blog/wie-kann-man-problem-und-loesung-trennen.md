@@ -10,15 +10,15 @@ previewImage: "./images/DALL·E-2024-01-23-16.44.18-A-watercolor-slightly-geomet
 reference: how-to-separate-problem-and-solution
 ---
 
-Man kann nur Probleme lösen, die man versteht. Man kann ein Problem nur verstehen, wenn man es untersucht. Und um das zu tun, muss man zumindest eine Hypothese über das Problem haben. Und wenn man eine Hypothese über das Problem hat, hat man oft schon eine Lösung im Kopf. Das ist einfach die menschliche Natur - voreilige Schlüsse zu ziehen.
+Man kann nur Probleme lösen, die man versteht. Du kannst ein Problem nur verstehen, wenn Du es untersuchst. Und um das zu tun, musst Du zumindest eine Hypothese über das Problem haben. Und wenn Du eine Hypothese über das Problem hast, hast Du oft schon eine Lösung im Kopf. Das ist einfach die menschliche Natur – voreilige Schlüsse zu ziehen.
 
 Wir haben festgestellt, dass es eine Tendenz gibt, wenn wir mit neuen Kunden zusammenarbeiten: Es fällt ihnen oft schwer, Problem und Lösung zu trennen.
 
-Um Ihnen dabei zu helfen, finden Sie hier einen detaillierteren Überblick über die Trennung von Problem und Lösung.
+Um Dir dabei zu helfen, findest Du hier einen detaillierteren Überblick über die Trennung von Problem und Lösung.
 
 ### Wie sieht die Trennung von Problem und Lösung aus?
 
-Um ein Problem zu verstehen, müssen Sie das Problem untersuchen. Und nur das Problem.  Es gibt Fragen wie:
+Um ein Problem zu verstehen, musst Du das Problem untersuchen. Und nur das Problem. Es gibt Fragen wie:
 
 - Wie sieht das Problem aus?
 - Wer hat dieses Problem?
@@ -27,17 +27,16 @@ Um ein Problem zu verstehen, müssen Sie das Problem untersuchen. Und nur das Pr
 - Wie sieht der Kontext des Problems aus?
 - Welche Lösungen für das Problem gibt es bereits?
 
-Diese Fragen können Sie nur beantworten, wenn Sie sich auf sie konzentrieren. Eine nach der anderen. Jede dieser Fragen ist kompliziert zu beantworten. Man kann sie also nicht alle auf einmal beantworten.
+Diese Fragen kannst Du nur beantworten, wenn Du dich auf sie konzentrierst. Eine nach der anderen. Jede dieser Fragen ist kompliziert zu beantworten. Man kann sie also nicht alle auf einmal beantworten.
 
 Was wir oft bei unseren Kunden beobachten, ist, dass sie versuchen, sie zu beantworten, während sie über ihre Lösung nachdenken. Das führt zu verwirrenden Antworten. Eine typische Antwort könnte wie folgt aussehen:
 
-Frage: "Wer hat dieses Problem?"
+**Frage:** "Wer hat dieses Problem?"
+**Antwort:** "Zielgruppe abc, die unsere Lösung lieben wird, weil sie auf folgende Weise profitiert."
 
-Antwort: "Zielgruppe abc, die unsere Lösung lieben wird, weil sie auf folgende Weise profitiert."
+**Alternative Antwort:** "Zielgruppe xyz, aber wir werden sie aus irgendeinem Grund nicht ansprechen."
 
-Alternative Antwort: "Zielgruppe xyz, aber wir werden sie aus irgendeinem Grund nicht ansprechen."
-
-Die richtige Antwort: "abc und xyz haben dieses Problem."
+**Die richtige Antwort:** "abc und xyz haben dieses Problem."
 
 Der Grund, warum dies geschieht, ist, dass sie die Frage in ihrem Kopf ersetzen.
 
@@ -47,24 +46,22 @@ Der Grund, warum dies geschieht, ist, dass sie die Frage in ihrem Kopf ersetzen.
 
 ### Warum ist die Trennung von Problem und Lösung so wichtig?
 
-Die kurze Antwort lautet: Sie überlastet Ihr Denken. Sie wollen Klarheit darüber, wie das Problem aussieht. Wenn man alles auf einmal betrachtet, ist das Bild zu groß. [Wir müssen uns auf einzelne Elemente konzentrieren.(/blog/understanding-the-jobs-to-be-done-perspective/) Sonst kann man das ganze Problem nicht wirklich verstehen.
+Die kurze Antwort lautet: Du überlastest dein Denken. Du willst Klarheit darüber, wie das Problem aussieht. Wenn man alles auf einmal betrachtet, ist das Bild zu groß. Wir müssen uns auf einzelne Elemente konzentrieren. Sonst kann man das ganze Problem nicht wirklich verstehen.
 
-Stellen Sie sich vor, Sie betrachten ein großes Bild. Ihre Augäpfel sehen kleine Teile des großen Bildes in schneller Folge. Und dann fügt Ihr Gehirn sie zu einem großen Bild zusammen. Das ganze Bild ist nur in Ihrem Kopf, nie in Ihren Augen. Wenn Sie versuchen, das ganze Bild mit den Augen auf einmal zu sehen, verschwimmt alles.
+Stell Dir vor, Du betrachtest ein großes Bild. Deine Augäpfel sehen kleine Teile des großen Bildes in schneller Folge. Und dann fügt dein Gehirn sie zu einem großen Bild zusammen. Das ganze Bild ist nur in deinem Kopf, nie in deinen Augen. Wenn Du versuchst, das ganze Bild mit den Augen auf einmal zu sehen, verschwimmt alles.
 
-Das Gleiche geschieht hier. Man versucht, jeden Teil des gesamten Problems zu verstehen. Dann nimmt man die wichtigsten Elemente heraus. Und danach fasst man sie zusammen. Wenn man das Problem richtig verstanden hat, liegt die Lösung oft auf der Hand.
+Das Gleiche geschieht hier. Du versuchst, jeden Teil des gesamten Problems zu verstehen. Dann nimmst Du die wichtigsten Elemente heraus. Und danach fasst Du sie zusammen. Wenn Du das Problem richtig verstanden hast, liegt die Lösung oft auf der Hand.
 
-Die zweite Sache ist, dass man durch einen Filter schaut. Wenn Sie das Problem aus dem Blickwinkel Ihrer Lösung betrachten, können Sie nicht das ganze Problem sehen. Man filtert automatisch alles heraus, was für die eigene Lösung nicht relevant erscheint. Und Beweise, die Ihnen zeigen, dass Ihr Produkt nicht so gebraucht wird, wie Sie es sich erhofft haben, werden oft verworfen.
+Die zweite Sache ist, dass Du durch einen Filter schaust. Wenn Du das Problem aus dem Blickwinkel deiner Lösung betrachtest, kannst Du nicht das ganze Problem sehen. Du filterst automatisch alles heraus, was für deine Lösung nicht relevant erscheint. Und Beweise, die Dir zeigen, dass dein Produkt nicht so gebraucht wird, wie Du es Dir erhofft hast, werden oft verworfen.
 
 ### Aber wie kann ich das tun?
 
-Haben Sie einen [Prozess](/blog/wie-man-kundenforschung-beschleunigt/). Vertrauen Sie dem Prozess. Folgen Sie dem Prozess. Es ist nur natürlich, dass Sie über Ihr Produkt nachdenken wollen. Das ist der Grund, warum Sie sich mit dem Problemverständnis und der Kundenforschung befassen. Der beste Weg, nicht über Ihr Produkt oder Ihre Dienstleistung nachzudenken, ist, wenn Sie darauf vertrauen, dass es nicht vergessen wird. Zu wissen, dass es eine Zeit geben wird, in der Sie nur an Ihr Produkt denken werden, hilft.
+Habe einen [Prozess](/blog/wie-man-kundenforschung-beschleunigt/). Vertraue dem Prozess. Folge dem Prozess. Es ist nur natürlich, dass Du über dein Produkt nachdenken willst. Das ist der Grund, warum Du dich mit dem Problemverständnis und der Kundenforschung befasst. Der beste Weg, nicht über dein Produkt oder deine Dienstleistung nachzudenken, ist, wenn Du darauf vertraust, dass es nicht vergessen wird. Zu wissen, dass es eine Zeit geben wird, in der Du nur an dein Produkt denken wirst, hilft.
 
 Das ist der Grund, warum dies bei Menschen passiert, die zum ersten Mal einen Kundenforschungssprint mit uns durchführen. Sie kennen den Prozess nicht, was es schwer macht, dem Prozess zu vertrauen. Aber wenn man erst einmal gesehen hat, wie alles abläuft, ist es einfach, Problem und Lösung zu trennen.
 
+## Willst Du verstehen, was Du zu lösen versuchst?
 
-
-## Sie wollen verstehen, was Sie zu lösen versuchen?
-
-### Ziehen Sie in Erwägung, einen Kundenforschungs-Sprint mit uns durchzuführen.
+### Ziehe in Erwägung, einen Kundenforschungs-Sprint mit uns durchzuführen.
 
 [Kundenforschungs-Sprints](/leistungen/customer-research-sprints/)
