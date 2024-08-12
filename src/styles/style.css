@@ -13364,10 +13364,6 @@ footer .list-wrap li a:hover::before {
   opacity: 0.15;
 }
 
-.cta-btn-two {
-  text-align: right;
-}
-
 .cta-btn-two .btn {
   background: var(--tg-primary-color);
   color: var(--tg-white);

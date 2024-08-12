@@ -37,7 +37,14 @@ sidebar:
   downloadText: "Wenn Du denkst: Das bin ich, aber ist es das wert? Dann findest Du hier weitere Informationen, um diese Frage mit einem klaren \"Ja\" beantworten zu können:"
   downloadLink: https://utxo.solutions/wp-content/uploads/2023/12/UTXO_Mastering-JTBD-Innovation_Live_Online_Workshop_v2_2.pdf
   downloadButtonLabel: Download PDF
+ctaSection:
+  title: Klingt spannend?
+  buttonLabel: Jetzt anmelden
+  buttonLink: "mailto:info@utxo.solutions?subject=Buchungsanfrage%20Mastering%20JTBD%20Online%20Workshop&body=Hallo,%0D%0AIch%20m%C3%B6chte%20gerne%20einen%20oder%20mehrere%20frei(e)%20Pl%C3%A4tze%20f%C3%BCr%20den%20Mastering%20JTBD%20Live%20Online%20Workshop%20mit%20Startdatum%20(bitte%20Kursbeginn%20angeben)%20buchen.%0D%0A%0D%0ADer%20Name%20meines%20Unternehmens%20(Rechnungsempf%C3%A4nger)%20lautet:%0D%0ADie%20genaue%20Rechnungsanschrift%20lautet:%0D%0AUmsatzsteuer-ID%20(wenn%20vorhanden):%0D%0A%0D%0AIch%20m%C3%B6chte%20f%C3%BCr%20(bitte%20die%20Anzahl%20hier%20eintragen)%20Personen%20buchen.%0D%0ADie%20Namen%20der%20teilnehmenden%20Personen%20lauten:%20(Bitte%20jeweils%20Vorname%20und%20Nachname%20angeben,%20sowie%20die%20Emailadresse)%0D%0A%0D%0AUnter%20folgender%20Telefonnummer%20bin%20ich%20am%20besten%20f%C3%BCr%20R%C3%BCckfragen%20zu%20erreichen:%20%0D%0A%0D%0AHiermit%20m%C3%B6chte%20ich%20verbindlich%20buchen,%20bitte%20senden%20Sie%20mir%20die%20Rechnung%20%C3%BCber%20den%20Gesamtbetrag%20mit%20einer%20Reservierungsbest%C3%A4tigung%20an%20folgende%20Emailadresse:"
 ---
+
+import CtaSection from "@components/CtaSection.astro";
+
 
 ## Dieser Workshop ist für dich, wenn einer der folgenden Sätze auf dich zutrifft:
 
@@ -78,4 +85,4 @@ Die nächste Workshopreihe startet im September 2024. Die Termine für die einze
 - **M6 24.09.2024** – Das JTBD Research & Innovation Framework
 - **MA 27.09.2024** – Zusammenfassung, Ausblick & AMA
 
-Schreib uns einfach eine E-Mail über den Kontakt-Button oben rechts.
+<CtaSection props={frontmatter.ctaSection} classes="mb-3" center={true} />

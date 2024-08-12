@@ -8,9 +8,7 @@ import ServicesSection from "@components/ServicesSection.astro";
 import CtaSection from "@components/CtaSection.astro";
 import TestimonialSection from "@components/TestimonialSection.astro";
 import BlogPostsSection from "@components/BlogPostsSection.astro";
-interface Props {
-  frontmatter: CommonFrontmatter;
-}
+
 const { frontmatter } = Astro.props;
 ---
 
@@ -19,7 +17,7 @@ const { frontmatter } = Astro.props;
   <AboutSection {frontmatter} />
   <ServicesSection {frontmatter} />
   <ClientLogos {frontmatter} />
-  <CtaSection {frontmatter} />
+  <CtaSection props={frontmatter.ctaSection} />
   <TestimonialSection {frontmatter} />
   <BlogPostsSection {frontmatter} />
 </MainI18n>

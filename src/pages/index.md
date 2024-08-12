@@ -57,7 +57,7 @@ services:
 
 # Clients Section
 clients:
-  title: Einge unserer Kunden
+  title: Einige unserer Kunden
   subtitle: Marken, die von uns begeistert waren
 
 # CTA Section
