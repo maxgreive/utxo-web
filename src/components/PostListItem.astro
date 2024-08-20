@@ -41,7 +41,7 @@ let person: Person = people.find((person) => {
         post.data.tags.length && (
           <a
             href={`${getTagPath(Astro.currentLocale, post.data.tags[0])}`}
-            class="tag tag-two"
+            class="tag"
           >
             {post.data.tags[0]}
           </a>
