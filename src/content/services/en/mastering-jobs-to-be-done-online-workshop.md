@@ -35,7 +35,7 @@ questions:
       Contact us for more information.
 sidebar:
   downloadText: "If you're thinking: This is me, but is it worth it? Then you will find more information here to answer this question with a clear \"Yes\":"
-  downloadLink: https://utxo.solutions/wp-content/uploads/2023/12/UTXO_Mastering-JTBD-Innovation_Live_Online_Workshop_v2_2.pdf
+  downloadLink: /assets/pdf/JTBD-Workshop-en.pdf
   downloadButtonLabel: Download PDF
 ---
 
