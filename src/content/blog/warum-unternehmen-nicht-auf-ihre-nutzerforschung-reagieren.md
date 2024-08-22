@@ -1,5 +1,5 @@
 ---
-title: "Why companies fail to act on their user research"
+title: "Warum Unternehmen nicht auf ihre Nutzerforschung reagieren"
 author: Martin Betz
 pubDate: "2024-02-22"
 tags:
