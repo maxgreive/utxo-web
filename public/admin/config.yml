@@ -1,6 +1,7 @@
 i18n:
   structure: multiple_folders
   locales: [de, en]
+  default_locale: de
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
