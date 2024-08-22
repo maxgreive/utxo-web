@@ -23,3 +23,5 @@ backend:
     deleteMedia: 'Delete "{{path}}"'
 media_folder: "src/content/blog/images" # Location where files will be stored in the repo
 public_folder: "src/content/blog/images" # The src attribute for uploaded media
+display_url: "https://utxo.solutions"
+site_url: "https://utxo.solutions"
