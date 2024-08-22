@@ -10,7 +10,7 @@ collections:
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Publish Date", name: "pubDate", widget: "datetime" }
       - { label: "Featured Image", name: "previewImage", widget: "image" }
-      - { label: "Reference", name: "reference", widget: "string" }
+      - { label: "Reference", name: "reference", widget: "string", hint: "Unique handle to link posts between languages." }
       - { label: "Body", name: "body", widget: "markdown" }
 backend:
   name: git-gateway
@@ -21,5 +21,5 @@ backend:
     delete: 'Delete {{collection}} "{{slug}}"'
     uploadMedia: 'Create "{{path}}"'
     deleteMedia: 'Delete "{{path}}"'
-media_folder: "src/images" # Location where files will be stored in the repo
-public_folder: "src/images" # The src attribute for uploaded media
+media_folder: "src/content/blog/images" # Location where files will be stored in the repo
+public_folder: "src/content/blog/images" # The src attribute for uploaded media
