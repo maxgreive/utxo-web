@@ -19,6 +19,7 @@
     "astro": "^4.10.2",
     "astro-critical-css": "^0.0.4",
     "astro-purgecss": "^4.1.1",
+    "decap-cms-app": "^3.3.2",
     "glightbox": "^3.3.0",
     "markdown-it": "^14.1.0",
     "normalize.css": "^8.0.1",
