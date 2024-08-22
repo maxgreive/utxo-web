@@ -22,7 +22,7 @@ Und keine dieser Aufgaben kann KI für dich lösen. Hier ist der Grund dafür:
 
 ### Mit KI relevante Informationen aus den Interviews gewinnen
 
-Der entscheidende Faktor für die Qualität eines Interviews ist in meinen Augen der Interviewer. Wenn er weiß, wie man fragt, was man fragt und wie man zuhört, werden die Daten für alles, was folgt, erstaunlich sein. Wenn er das nicht tut, kannst Du keine guten Daten aus dem Interview gewinnen. Es ist ein riesiger Unterschied, ob ein Experte das Interview führt oder jemand, der es nicht kann. Und vieles davon sind sehr subtile Dinge. Sieh Dir jemanden wie [Chris Voss] (https://youtu.be/q8CHXefn7B4?si=GJEv4ZA8p1eWHXrn) an, der eine Zeit lang der führende Geiselvermittler des FBI war. Es gibt eine Art zu sprechen, die Menschen dazu bringt, Dir Dinge zu sagen. KI kann das nicht nachahmen. Menschen erschnüffeln die Details.
+Der entscheidende Faktor für die Qualität eines Interviews ist in meinen Augen der Interviewer. Wenn er weiß, wie man fragt, was man fragt und wie man zuhört, werden die Daten für alles, was folgt, erstaunlich sein. Wenn er das nicht tut, kannst Du keine guten Daten aus dem Interview gewinnen. Es ist ein riesiger Unterschied, ob ein Experte das Interview führt oder jemand, der es nicht kann. Und vieles davon sind sehr subtile Dinge. Sieh Dir jemanden wie [Chris Voss](https://youtu.be/q8CHXefn7B4?si=GJEv4ZA8p1eWHXrn) an, der eine Zeit lang der führende Geiselvermittler des FBI war. Es gibt eine Art zu sprechen, die Menschen dazu bringt, Dir Dinge zu sagen. KI kann das nicht nachahmen. Menschen erschnüffeln die Details.
 
 Um tolle Interviewdaten zu bekommen, brauchst Du tolle Interviewer/innen. Das ist im Moment einfach nicht zu ersetzen.
 
