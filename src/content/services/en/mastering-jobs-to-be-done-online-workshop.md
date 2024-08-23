@@ -15,24 +15,24 @@ questions:
       <li>JTBD Innovation Framework Master</li>
       </ul>
       Upon completion of this workshop, the Practitioner Level is acquired, which remains valid for three years. For more information on the certifications, please contact us directly.
-  - question: Is it bad if I can't go to a workshop?
-    answer: The workshops build on each other, so skipping individual workshop modules can lead to comprehension problems. However, as we know that it can always happen that you can't make it to an unplanned date, we offer 1on1 recap sessions for 200€ (max. 1 time per course and participant).
+  - question: "Is it bad if I can't make it to one of the modules?"
+    answer: "The workshops build on each other, so skipping individual workshop modules can lead to comprehension problems. However, as we know that it can always happen that you can't make it to an unplanned date, we offer 1on1 recap sessions for 200€."
   - question: "How many people can take part, how many places are available?"
-    answer: "There are still places available for this workshop. However, no more than 16 participants will take part."
+    answer: "There are still places available for this workshop. However, no more than 10 participants will take part."
   - question: "In which language will the workshop be held?"
-    answer: "This workshop will be held in English."
-  - question: "I can't come to your appointment now. Will you do it again?"
-    answer: "Yes, we'll definitely do it again. The next workshops are expected to start in January, March (English), June and September 2024, the exact dates are still to be determined."
+    answer: "This workshop will be held in German most of the time. However, we conduct english ones. You can sign up for the waitlist at <a href=\"mailto:masterclass@utxo.solutions\">masterclass@utxo.solutions</a>."
+  - question: "I can't make it this time. Will you do it again?"
+    answer: "Yes, we'll definitely do it again. Just enter the waitlist and you will be notified. Just mail us at <a href=\"mailto:masterclass@utxo.solutions\">masterclass@utxo.solutions</a>"
   - question: "Is there a discount?"
     answer: |
-      Hmm... There is no discount on this workshop, if that's what you mean. The prices are fair and the same for everyone, but there are four ways to get discounted tickets:
+      There are four ways to get discounted tickets:
       <ul>
         <li>If you book very early</li>
         <li>If you book for more than one person</li>
         <li>If you have already attended one of our JTBD training courses in the last 3 years and would like a refresher</li>
         <li>If you have actively participated in a JTBD research, sprint or project as an employee of our customers</li>
       </ul>
-      Contact us for more information.
+      <a href=mailto:masterclass@utxo.solutions>Contact us</a> for more information.
 sidebar:
   downloadText: "If you're thinking: This is me, but is it worth it? Then you will find more information here to answer this question with a clear \"Yes\":"
   downloadLink: /assets/pdf/JTBD-Workshop-en.pdf
@@ -60,22 +60,11 @@ If you think: I am, but is it worth it? Do you deliver the added value you promi
 - **Practical learning:** Our workshop is designed to provide you with practical knowledge and skills that you can immediately apply in your organisation.
 - **Experienced Trainers:** Our trainers are seasoned experts in Jobs to Be Done and bring extensive practical and research experience to the table.
 - **Interactive sessions:** Through interactive exercises and case studies, we ensure that you not only understand the JTBD methodology in theory, but can also apply it in practice.
-- Exclusive material:** You will have access to exclusive training material that will serve as a valuable resource even after the workshop.
-- Networking:** Take the opportunity to exchange ideas with other participants and make valuable contacts in your industry.
+- **Exclusive material:** You will have access to exclusive training material that will serve as a valuable resource even after the workshop.
+- **Networking:** Take the opportunity to exchange ideas with other participants and make valuable contacts in your industry.
 
 Register today and take the first step towards successfully implementing the Jobs-to-Be-Done methodology in your organisation. Together we will achieve your goals!
 
-## That sounds great, how can I book it?
+## Sounds great, how can I participate?
 
-The next workshop series starts in September 2024. The dates for the individual sessions and workshop topics are
-
-- **M1: 03.09.2024** - Practical introduction to JTBD theory and innovation
-- **M2: 06.09.2024** - Identifying JTBD hypotheses in a business context
-- **M3.1 10.09.2024** - JTBD interview structure and organisation
-- **M3.2 13.09.2024** - JTBD interview practice and evaluation
-- **M4 17.09.2024** - JTBD data segmentation and clustering
-- **M5 20.09.2024** - JTBD research results classification and evaluation
-- **M6 24.09.2024** - The JTBD Research & Innovation Framework
-- **MA 27.09.2024** - Summary, outlook & AMA
-
-Just send us an e-mail using the contact button at the top right.
+For the english workshops, just enter the [waitlist](mailto:masterclass@utxo.solutions). For the german ones, [please have a look here](/leistungen/mastering-jobs-to-be-done-online-workshop).
