@@ -1,28 +1,32 @@
 ---
-title: "Deine Sprache schränkt Deine Leistungen ein"
+title: Deine Sprache schränkt Deine Leistungen ein
 author: Martin Betz
-pubDate: "2024-01-31"
+pubDate: 2024-01-31
 tags:
-  - "framework"
-  - "how-to"
-  - "language"
-previewImage: "./images/DALL·E-2024-01-30-18.49.15-A-watercolor-slightly-geometric-styled-painting-depicting-the-Tower-of-Babel.-The-painting-should-capture-the-iconic-and-ambitious-structure-of-the-T.png"
+  - framework
+  - how-to
+  - language
+description: Für die meisten Unternehmen dauert es eine ganze Weile, bis sie
+  sich auf den Weg der Disruption machen. Es dauert, bis sie erkennen, dass es
+  mit kleinen, inkrementellen Schritten nicht mehr getan ist. Den Schmerz eines
+  langsam sterbenden Unternehmens zu erleben, den Tod durch tausend
+  Budgetkürzungen.
+previewImage: ./images/DALL·E-2024-01-30-18.49.15-A-watercolor-slightly-geometric-styled-painting-depicting-the-Tower-of-Babel.-The-painting-should-capture-the-iconic-and-ambitious-structure-of-the-T.png
 reference: your-language-limits-your-achievements
 ---
-
 Für die meisten Unternehmen dauert es eine ganze Weile, bis sie sich auf den Weg der Disruption machen. Es dauert, bis sie erkennen, dass es mit kleinen, inkrementellen Schritten nicht mehr getan ist. Den Schmerz eines langsam sterbenden Unternehmens zu erleben, den Tod durch tausend Budgetkürzungen. Du musst die richtigen Auslöser erleben, um Dich für den Sprung ins Ungewisse zu entscheiden, um eine echte Veränderung anzustreben. Die Sache ist jedoch die, dass Du, wenn Du für eine große Veränderung bereit bist, zum ersten Mal dabei bist. Und weil Du neu bist, bist Du kein Experte für das Wie. Wie soll Dein Unternehmen diese große Umwälzung bewerkstelligen? Und noch bevor Du anfängst, bevor Du planst oder ausführst, gibt es eine große Herausforderung: eine gemeinsame Sprache zu finden.
 
 Wenn Du etwas wirklich Großartiges, etwas Erstaunliches aufbauen willst, brauchst Du viele Hände. Viele Hände bedeuten viele Mentalitäten, viele Hintergründe, viele Nationen, Irrtümer, Abteilungen und viele Meinungen. Die archetypische Geschichte dafür ist der Turmbau zu Babel. Ohne seine religiöse Bedeutung ist die grundlegende Geschichte die folgende:
 
-- Die Menschen wollten etwas Großes bauen.
-- Sie fingen an, es zu bauen.
-- Sie hatten viele verschiedene Sprachen.
-- Sie konnten sich nicht klar verständigen.
-- Sie konnten sich nicht auf etwas einigen.
-- Die ganze Sache funktionierte nicht.
-- Alles stürzte ab.
-- Alle wurden wütend aufeinander.
-- Sie haben es nie wieder versucht.
+* Die Menschen wollten etwas Großes bauen.
+* Sie fingen an, es zu bauen.
+* Sie hatten viele verschiedene Sprachen.
+* Sie konnten sich nicht klar verständigen.
+* Sie konnten sich nicht auf etwas einigen.
+* Die ganze Sache funktionierte nicht.
+* Alles stürzte ab.
+* Alle wurden wütend aufeinander.
+* Sie haben es nie wieder versucht.
 
 Leider ist dies die Geschichte vieler Innovationsprojekte. Das Unternehmen erkennt die Notwendigkeit, etwas Größeres zu verändern. Es versucht es. Es klappt nicht. Also bleiben sie bei risikoarmen, inkrementellen Schritten. Bis die Störungsschuld sie aus dem Geschäft wirft.
 
@@ -44,18 +48,17 @@ Der andere Teil einer gemeinsamen Sprache ist ein gemeinsames Ziel. Sobald man w
 
 Ein Ziel allein reicht aber auch nicht aus. Du wirst es brauchen:
 
-- einen Plan zur Erreichung des Ziels
-- Erfolgsmetriken
-- Hypothesen
-- Tests und Experimente
-- Verantwortlichkeiten
-- und so weiter
+* einen Plan zur Erreichung des Ziels
+* Erfolgsmetriken
+* Hypothesen
+* Tests und Experimente
+* Verantwortlichkeiten
+* und so weiter
 
 Die [Grundlagen](/blog/die-wichtigsten-faehigkeiten-bei-der-gruendung-eines-unternehmens/) der Leitung von Projekten und eines Unternehmens. Aber wenn man eine gemeinsame Sprache und eine gemeinsame Vision hat, kann man sich darauf einigen. Die Projekte, die das nicht haben, enden oft wie der Turm zu Babel.
 
 ## Möchtest Du unser Sprachframework verwenden?
 
-### Schau Dir unsere Jobs to be done Masterclass an
+### Schau Dir unsere Jobs To Be Done Masterclass an:
 
-[Die Masterclass](/leistungen/mastering-jobs-to-be-done-online-workshop/)
-
+[Zur Masterclass](/leistungen/mastering-jobs-to-be-done-online-workshop/)
