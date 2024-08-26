@@ -1,27 +1,27 @@
 ---
-import Page from '@layouts/Page.astro'
-import { getPostsByTag } from '@utilities/tags';
-import { getRelativePostPath } from '@utilities/getPostPath';
-import type { CommonFrontmatter } from '@src/types';
+import MainI18n from "@components/MainI18n.astro";
+import PageHeader from "@components/PageHeader.astro";
+import { getPostsByTag } from "@utilities/tags";
+import type { CommonFrontmatter } from "@src/types";
+import PostList from "@components/PostList.astro";
 
-interface Frontmatter extends CommonFrontmatter{
+interface Frontmatter extends CommonFrontmatter {
   tag?: string,
   collection?: string,
 }
-interface Props{
+interface Props {
   frontmatter: Frontmatter,
 }
 
-const {frontmatter } = Astro.props;
-const filteredPosts = await getPostsByTag('blog', frontmatter.tag, Astro.currentLocale);
+const { frontmatter } = Astro.props;
+const filteredPosts = await getPostsByTag(
+  "blog",
+  frontmatter.tag,
+  Astro.currentLocale
+);
 ---
 
-<Page {frontmatter}>
-  <ul>
-    {filteredPosts.map(({ data, slug }) => (
-      <li>
-        <a href={getRelativePostPath(Astro.currentLocale, frontmatter.collection, slug )}>{data.title}</a>
-      </li>
-    ))}
-  </ul>
-</Page>
+<MainI18n {frontmatter} collection="pages">
+  <PageHeader {frontmatter} />
+  <PostList posts={filteredPosts} {frontmatter} />
+</MainI18n>

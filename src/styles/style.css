@@ -8980,6 +8980,7 @@ label {
 
 .blog-meta-three .list-wrap li a {
   color: var(--tg-paragraph-color);
+  text-transform: capitalize;
 }
 
 .blog-meta-three .list-wrap li a:hover {

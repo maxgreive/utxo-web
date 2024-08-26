@@ -17,7 +17,7 @@ const tags = (await getUniqueTags(frontmatter.collection, Astro.currentLocale)).
 	return tag.slugified !== 'other'
 })
 ---
-<Page {frontmatter}>
+<Page {frontmatter} previewImage={frontmatter.previewImage}>
 	<slot/>
 	<ul>
 		{tags.map(({ slugified, name }) => 
