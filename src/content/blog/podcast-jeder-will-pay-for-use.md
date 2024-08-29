@@ -15,8 +15,6 @@ tags:
 previewImage: "./images/52263609.jpg"
 ---
 
-![](./images/52263609.jpg)
-
 ### Technologie ist kein Selbstzweck aber ein Möglichmacher
 
 Wer sich heutzutage mit Innovation beschäftigt kommt an zwei großen Themenbereichen kaum noch vorbei: 1. [Digitalisierung](https://oberwasser-consulting.de/tag/digitalisierung/), 2. Geschäftsmodell- oder [Business Modell Innovation](https://oberwasser-consulting.de/category/blog/business-model-innovation/). Maximilian Forster will mit seinem Unternehmen, CashOnLedger Technologies, beides zusammenbringen um mit Hilfe von programmierbarem Geld - Pay per Use Geschäftsmodelle (nutzerbasierte Abrechnung) für Industriegüter zu ermöglichen. Für die meisten Nutzer kaum vorstellbar: Selbst Carsharing und Bikesharing ist bisher kaum wirtschaftlich umsetzbar, für die meisten Anbieter. Mit Maximilian Forster spricht Peter Rochel über Kundenfokus bei Technologieinnovationen, ein wenig Blockchain, viel Pay per Use und darüber woran diese Business Modelle bisher gescheitert sind.
