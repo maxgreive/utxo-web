@@ -27,6 +27,110 @@ collections:
       - { label: "Featured Image", name: "previewImage", widget: "image", required: false }
       - { label: "Reference", name: "reference", widget: "string", hint: "Unique handle to link posts between languages.", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
+  - name: "service"
+    label: "Service"
+    folder: "src/content/services"
+    media_folder: src/content/services/images
+    public_folder: src/content/services/images
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string", required: false }
+      - { label: "Publish Date", name: "pubDate", widget: "datetime", default: "{{now}}" }
+      - { label: "Featured Image", name: "previewImage", widget: "image", required: false }
+      - { label: "Icon", name: "icon", widget: "string", required: false, default: "flaticon-round-table" }
+      - label: "Sidebar"
+        name: "sidebar"
+        widget: "object"
+        required: false
+        fields:
+          - label: "Download Text"
+            name: "downloadText"
+            widget: "string"
+          - label: "Download Link"
+            name: "downloadLink"
+            widget: "string"
+          - label: "Download Button Text"
+            name: "downloadButtonLabel"
+            widget: "string"
+      - label: "FAQ"
+        name: "questions"
+        widget: "list"
+        required: false
+        fields:
+          - label: "Question"
+            name: "question"
+            widget: "string"
+          - label: "Answer"
+            name: "answer"
+            widget: "text"
+      - label: "Call To Action"
+        name: "ctaSection"
+        widget: "object"
+        required: false
+        fields:
+          - label: "Download Text"
+            name: "title"
+            widget: "string"
+          - label: "Button Link"
+            name: "buttonLink"
+            widget: "string"
+          - label: "Button Text"
+            name: "buttonLabel"
+            widget: "string"
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "service-en"
+    label: "Service EN"
+    folder: "src/content/services/en"
+    media_folder: src/content/services/images
+    public_folder: src/content/services/images
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string", required: false }
+      - { label: "Publish Date", name: "pubDate", widget: "datetime", default: "{{now}}" }
+      - { label: "Featured Image", name: "previewImage", widget: "image", required: false }
+      - { label: "Icon", name: "icon", widget: "string", required: false, default: "flaticon-round-table" }
+      - label: "Sidebar"
+        name: "sidebar"
+        widget: "object"
+        required: false
+        fields:
+          - label: "Download Text"
+            name: "downloadText"
+            widget: "string"
+          - label: "Download Link"
+            name: "downloadLink"
+            widget: "string"
+          - label: "Download Button Text"
+            name: "downloadButtonLabel"
+            widget: "string"
+      - label: "FAQ"
+        name: "questions"
+        widget: "list"
+        required: false
+        fields:
+          - label: "Question"
+            name: "question"
+            widget: "string"
+          - label: "Answer"
+            name: "answer"
+            widget: "text"
+      - label: "Call To Action"
+        name: "ctaSection"
+        widget: "object"
+        required: false
+        fields:
+          - label: "Download Text"
+            name: "title"
+            widget: "string"
+          - label: "Button Link"
+            name: "buttonLink"
+            widget: "string"
+          - label: "Button Text"
+            name: "buttonLabel"
+            widget: "string"
+      - { label: "Body", name: "body", widget: "markdown" }
 backend:
   name: git-gateway
   branch: main
@@ -36,7 +140,7 @@ backend:
     delete: 'Delete {{collection}} "{{slug}}"'
     uploadMedia: 'Create "{{path}}"'
     deleteMedia: 'Delete "{{path}}"'
-media_folder: "src/content/blog/images" # Location where files will be stored in the repo
-public_folder: "src/content/blog/images" # The src attribute for uploaded media
+media_folder: "src/content/blog/images"
+public_folder: "src/content/blog/images"
 display_url: "https://utxo.solutions"
 site_url: "https://utxo.solutions"
