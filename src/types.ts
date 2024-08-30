@@ -6,6 +6,6 @@ export interface CommonFrontmatter {
 	previewImage?: string,
 	canonicalURL?: string,
 	file?: string,
-	collection?: string,
+	collection?: "pages" | "blog" | "services",
 	noindex?: boolean
 }

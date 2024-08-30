@@ -21,7 +21,7 @@ import type { CommonFrontmatter } from "@src/types";
 
 interface Props {
   frontmatter: CommonFrontmatter;
-  collection: string;
+  collection: "blog" | "services" | "pages";
 }
 export interface TranslationLink {
   absoluteURL: string;
@@ -37,7 +37,7 @@ let translationsAvailable = [];
 let translationLinks: TranslationLink[] = [];
 
 if (reference) {
-  if (collection === "pages") {
+  if (collection !== "blog") {
     // The current page is not part of a collection
     const allPages = await Astro.glob("../pages/**/*.{md,mdx}");
     translationsAvailable = allPages
@@ -130,26 +130,6 @@ if (reference) {
   document.querySelectorAll("[data-background]").forEach((item: any) => {
     item.style = `background-image: url(${item.dataset.background})`;
   });
-
-  const slideToggle = (element: any) => {
-    element.classList.toggle("show");
-    if (element.style.maxHeight) {
-      element.style.maxHeight = null;
-    } else {
-      element.style.maxHeight = element.scrollHeight + "px";
-    }
-  };
-
-  document
-    .querySelectorAll(".header-search > a, .search-close")
-    .forEach((item) => {
-      item.addEventListener("click", function () {
-        // @ts-ignore
-        const content = document.querySelector(item.dataset.target);
-        slideToggle(content);
-        return false;
-      });
-    });
 
   window.addEventListener("scroll", function () {
     const scroll = window.scrollY;

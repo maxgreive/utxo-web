@@ -31,17 +31,18 @@ const { entry } = Astro.props;
 const { Content } = await entry.render();
 ---
 
-<Page frontmatter={entry.data}>
+<Page frontmatter={entry}>
   {
     entry.data.previewImage && (
       <div class="services-details-thumb">
         <Picture
-          src={entry.data.previewImage}
+          src={entry.data.previewImage.src}
           alt={entry.data.title}
           format="webp"
           widths={[510, 550, 700, 900]}
           sizes="(max-size: 575px) 550px, (max-size: 767px) 510px, (max-size: 1200px) 700px, 900px"
-          inferSize
+          width={900}
+          height={600}
         />
       </div>
     )
@@ -56,7 +57,7 @@ const { Content } = await entry.render();
   <div class="prose">
     <Content />
   </div>
-  
+
   {entry.data.questions && <Accordion questions={entry.data.questions} />}
 
   {
