@@ -1,6 +1,6 @@
 ---
 layout: '@layouts/TagArchive.astro'
-title: Alle Themen
+title: All tags
 description: All topics of this website with links to posts.
 collection: blog
 reference: tagArchive
