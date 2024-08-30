@@ -36,6 +36,11 @@ const serviceCollection = defineCollection({
 			question: z.string(),
 			answer: z.string()
 		})).optional(),
+		ctaSection: z.object({
+			title: z.string(),
+			buttonLabel: z.string(),
+			buttonLink: z.string()
+		}).optional(),
 		sidebar: z.object({
 			downloadText: z.string().optional(),
 			downloadLink: z.string().optional(),

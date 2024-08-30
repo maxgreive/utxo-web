@@ -26,8 +26,6 @@ We use the proven Jobs to Be Done method to optimise your business processes, pr
 
 An in-depth understanding of the needs and expectations of your target group is the key to success. We identify the specific requirements of your customers and analyse which jobs they want to have done. These insights form the basis for your strategic decisions and help you to tailor your offerings precisely to market needs.
 
-![](https://utxo.solutions/wp-content/uploads/2023/12/JTBD_BM_Dev_UTXO.jpg)
-
 ### Strategic consulting:
 
 Our strategic consulting is based on sound analyses and a deep understanding of your target group. Together with you, we develop customised strategies that directly target the needs of your customers. We help you to optimally position your products and services on the market and increase your competitiveness.

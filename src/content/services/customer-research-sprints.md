@@ -31,8 +31,6 @@ Wir setzen auf die bewährte Jobs-to-Be-Done-Methode, um deine Geschäftsprozess
 
 Ein tiefgehendes Verständnis der Bedürfnisse und Erwartungen deiner Zielgruppe ist der Schlüssel zum Erfolg. Wir identifizieren die spezifischen Anforderungen deiner Kunden und analysieren, welche Jobs sie erledigt haben wollen. Diese Erkenntnisse bilden die Grundlage für deine strategischen Entscheidungen und helfen dir, deine Angebote präzise auf die Marktbedürfnisse abzustimmen.
 
-![Marktanalyse](https://utxo.solutions/wp-content/uploads/2023/12/JTBD_BM_Dev_UTXO.jpg)
-
 ### Strategische Beratung:
 
 Unsere strategische Beratung basiert auf fundierten Analysen und einem tiefen Verständnis deiner Zielgruppe. Gemeinsam mit dir entwickeln wir maßgeschneiderte Strategien, die direkt auf die Bedürfnisse deiner Kunden abzielen. Wir unterstützen dich dabei, deine Produkte und Dienstleistungen optimal im Markt zu positionieren und deine Wettbewerbsfähigkeit zu steigern.
