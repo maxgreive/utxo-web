@@ -8,7 +8,7 @@ const {content, title} = Astro.props;
   {
     content.downloadText && (
       <div class="services-widget">
-        <h4 class="sw-title">Downloads</h4>
+        <h4 class="sw-title">{content.downloadTitle || "Downloads"}</h4>
         <div class="services-brochure-wrap">
           <p>{content.downloadText}</p>
           <a
@@ -17,15 +17,18 @@ const {content, title} = Astro.props;
             download=""
             class="download-btn"
           >
-            <i class="far fa-file-pdf" />
+            <i class={`far fa-${content.downloadButtonIcon ? content.downloadButtonIcon : 'file-pdf'}`} />
             {content.downloadButtonLabel}
           </a>
         </div>
       </div>
     )
   }
-  <div class="services-widget">
-    <h4 class="sw-title">Projektanfrage</h4>
-    <ContactForm topic={title} formName="project" />
-  </div>
+
+  {!content.hideContactForm && (
+    <div class="services-widget">
+      <h4 class="sw-title">Projektanfrage</h4>
+      <ContactForm topic={title} formName="project" />
+    </div>
+  )}
 </aside>

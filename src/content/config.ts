@@ -42,9 +42,12 @@ const serviceCollection = defineCollection({
 			buttonLink: z.string()
 		}).optional(),
 		sidebar: z.object({
+			downloadTitle: z.string().optional(),
 			downloadText: z.string().optional(),
 			downloadLink: z.string().optional(),
 			downloadButtonLabel: z.string().optional(),
+			downloadButtonIcon: z.string().optional(),
+			hideContactForm: z.boolean().optional(),
 		}),
 	})
 });

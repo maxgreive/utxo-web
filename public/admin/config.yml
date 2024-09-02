@@ -44,6 +44,13 @@ collections:
         widget: "object"
         required: false
         fields:
+          - label: "Hide Contact Form"
+            name: "hideContactForm"
+            widget: "boolean"
+            default: false
+          - label: "Download Title"
+            name: "downloadTitle"
+            widget: "string"
           - label: "Download Text"
             name: "downloadText"
             widget: "string"
@@ -53,6 +60,10 @@ collections:
           - label: "Download Button Text"
             name: "downloadButtonLabel"
             widget: "string"
+          - label: "Download Button Icon (Fontawesome)"
+            name: "downloadButtonIcon"
+            widget: "string"
+            default: "fa-file-pdf"
       - label: "FAQ"
         name: "questions"
         widget: "list"
@@ -96,6 +107,13 @@ collections:
         widget: "object"
         required: false
         fields:
+          - label: "Hide Contact Form"
+            name: "hideContactForm"
+            widget: "boolean"
+            default: false
+          - label: "Download Title"
+            name: "downloadTitle"
+            widget: "string"
           - label: "Download Text"
             name: "downloadText"
             widget: "string"
@@ -105,6 +123,10 @@ collections:
           - label: "Download Button Text"
             name: "downloadButtonLabel"
             widget: "string"
+          - label: "Download Button Icon (Fontawesome)"
+            name: "downloadButtonIcon"
+            widget: "string"
+            default: "fa-file-pdf"
       - label: "FAQ"
         name: "questions"
         widget: "list"
