@@ -48,22 +48,28 @@ collections:
             name: "hideContactForm"
             widget: "boolean"
             default: false
+            required: false
           - label: "Download Title"
             name: "downloadTitle"
             widget: "string"
+            required: false
           - label: "Download Text"
             name: "downloadText"
             widget: "string"
+            required: false
           - label: "Download Link"
             name: "downloadLink"
             widget: "string"
+            required: false
           - label: "Download Button Text"
             name: "downloadButtonLabel"
             widget: "string"
+            required: false
           - label: "Download Button Icon (Fontawesome)"
             name: "downloadButtonIcon"
             widget: "string"
             default: "fa-file-pdf"
+            required: false
       - label: "FAQ"
         name: "questions"
         widget: "list"
