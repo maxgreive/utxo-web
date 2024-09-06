@@ -33,10 +33,10 @@ questions:
         <li>Wenn Du als Mitarbeiter eines unserer Kunden aktiv an einem <a href="/leistungen/customer-research-sprints">Customer Insight Sprint</a> oder anderen Projekt teilgenommen hast</li>
       </ul>
       <a href="mailto:masterclass@utxo.solutions">Kontaktiere uns</a> gerne für weitere Informationen.
-    - question: "Kann ich mein Ticket stornieren?"    
-      answer: "Ja, du kannst dein Ticket bis 14 Tage vor der Veranstaltung zu 100% stornieren. Die Option dazu findest du in der Mail, mit der du dein Ticket bekommen hast unter “Bestelldetails anzeigen” und dann ganz unten im Fenster, das sich öffnet."
-    - question: "Was passiert, wenn nicht genug Teilnehmer für die Veranstaltung zustande kommen?"    
-      answer: "In diesem Fall suchen wir ein neues Datum. Dein Ticket wird übertragen. Solltest du zu der neuen Veranstaltung nicht kommen können, kannst du dein Ticket natürlich kostenfrei stornieren."
+  - question: "Kann ich mein Ticket stornieren?"    
+    answer: "Ja, du kannst dein Ticket bis 14 Tage vor der Veranstaltung zu 100% stornieren. Die Option dazu findest du in der Mail, mit der du dein Ticket bekommen hast unter “Bestelldetails anzeigen” und dann ganz unten im Fenster, das sich öffnet."
+  - question: "Was passiert, wenn nicht genug Teilnehmer für die Veranstaltung zustande kommen?"    
+    answer: "In diesem Fall suchen wir ein neues Datum. Dein Ticket wird übertragen. Solltest du zu der neuen Veranstaltung nicht kommen können, kannst du dein Ticket natürlich kostenfrei stornieren."
     
 sidebar:
   downloadText: "Wenn Du denkst: Das bin ich, aber ist es das wert? Dann findest Du hier weitere Informationen, um diese Frage mit einem klaren \"Ja\" beantworten zu können:"
