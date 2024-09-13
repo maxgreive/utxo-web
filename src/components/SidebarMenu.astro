@@ -12,7 +12,7 @@ const headerMenuItems: navigationItem[] = headerMenu[menuLocale].items;
 import short1 from "../images/short1.jpg";
 import short2 from "../images/short2.jpg";
 import short3 from "../images/short3.jpg";
-import short4 from "../images/short4.jpg";
+import Search from "astro-pagefind/components/Search";
 import { uiStrings } from "@i18n/uiStrings";
 ---
 
@@ -30,6 +30,7 @@ import { uiStrings } from "@i18n/uiStrings";
       />
     </a>
   </div>
+  <Search className="pagefind-ui mb-30" uiOptions={{ showImages: false }} />
   <div class="side-info mb-30">
     <div class="contact-list mb-30">
       <div>{uiStrings.address[Astro.currentLocale]}</div>
@@ -46,7 +47,11 @@ import { uiStrings } from "@i18n/uiStrings";
   </div>
   <ul class="side-instagram list-wrap">
     <li>
-      <a href="https://www.youtube.com/shorts/g-G5G3LDac4">
+      <a
+        href="https://www.youtube.com/shorts/g-G5G3LDac4"
+        target="_blank"
+        rel="noopener norefferer"
+      >
         <Picture
           formats={["avif", "webp"]}
           src={short1}
@@ -57,7 +62,11 @@ import { uiStrings } from "@i18n/uiStrings";
       </a>
     </li>
     <li>
-      <a href="https://www.youtube.com/shorts/i1olHQywQvw">
+      <a
+        href="https://www.youtube.com/shorts/i1olHQywQvw"
+        target="_blank"
+        rel="noopener norefferer"
+      >
         <Picture
           formats={["avif", "webp"]}
           src={short2}
@@ -68,7 +77,11 @@ import { uiStrings } from "@i18n/uiStrings";
       </a>
     </li>
     <li>
-      <a href="https://www.youtube.com/shorts/vjhCqBOfaRo">
+      <a
+        href="https://www.youtube.com/shorts/vjhCqBOfaRo"
+        target="_blank"
+        rel="noopener norefferer"
+      >
         <Picture
           formats={["avif", "webp"]}
           src={short3}
@@ -92,15 +105,17 @@ import { uiStrings } from "@i18n/uiStrings";
 <div class="offcanvas-overlay"></div>
 
 <script>
-  document
-    .querySelector(".menu-trigger")
-    .addEventListener("click", function (e) {
+  document.querySelectorAll(".menu-trigger").forEach((el) => {
+    el.addEventListener("click", function (e) {
       e.preventDefault();
       document
         .querySelectorAll(".extra-info, .offcanvas-overlay")
         .forEach((el) => el.classList.add("active"));
+      const searchField = document.querySelector('.extra-info .pagefind-ui input');
+      (searchField as HTMLElement).focus();
       return false;
     });
+  });
 
   document.querySelectorAll(".menu-close, .offcanvas-overlay").forEach((el) =>
     el.addEventListener("click", function () {

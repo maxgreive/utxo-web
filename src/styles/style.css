@@ -1062,7 +1062,7 @@ label {
   color: var(--tg-heading-font-color);
 }
 
-.mobile-search button {
+.mobile-search button:not([class^="pagefind-ui"]) {
   position: absolute;
   top: 50%;
   -webkit-transform: translateY(-50%);
@@ -7827,6 +7827,7 @@ label {
   display: -webkit-box;
   -webkit-line-clamp: 1;
   -webkit-box-orient: vertical;
+  line-clamp: 1;
   overflow: hidden;
 }
 
@@ -7834,6 +7835,7 @@ label {
   display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
+  line-clamp: 2;
   overflow: hidden;
 }
 
@@ -7841,6 +7843,7 @@ label {
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
+  line-clamp: 3;
   overflow: hidden;
 }
 
@@ -7848,6 +7851,7 @@ label {
   display: -webkit-box;
   -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
+  line-clamp: 4;
   overflow: hidden;
 }
 
