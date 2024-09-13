@@ -6,7 +6,7 @@ tags:
   - "customer-research"
   - "framework"
   - "product-market-fit"
-previewImage: "./images/file-736dWJl2BWhORVJvHy8LqQ5G.png"
+previewImage: "./images/file-736dWJl2BWhORVJvHy8LqQ5G-1024x585"
 reference: whats-the-difference-between-user-research-and-customer-research
 ---
 
