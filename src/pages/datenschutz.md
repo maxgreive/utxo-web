@@ -58,6 +58,12 @@ Die Verarbeitung der Daten erfolgt auf Grundlage Ihrer Einwilligung gemäß Art.
 
 Weitere Informationen zum Datenschutz bei Cal.com finden Sie hier: [Link zur Datenschutzerklärung von Cal.com].
 
+### e) Nutzung der SalesViewer®-Technologie:
+Auf dieser Webseite werden mit der SalesViewer®-Technologie der SalesViewer® GmbH auf Grundlage berechtigter Interessen des Webseitenbetreibers (Art. 6 Abs.1 lit.f DSGVO) Daten zu Marketing-, Marktforschungs- und Optimierungszwecken gesammelt und gespeichert.
+
+Hierzu wird ein javascript-basierter Code eingesetzt, der zur Erhebung unternehmensbezogener Daten und der entsprechenden Nutzung dient. Die mit dieser Technologie erhobenen Daten werden über eine nicht rückrechenbare Einwegfunktion (sog. Hashing) verschlüsselt. Die Daten werden unmittelbar pseudonymisiert und nicht dazu benutzt, den Besucher dieser Webseite persönlich zu identifizieren.
+Der Datenerhebung und -speicherung kann jederzeit mit Wirkung für die Zukunft widersprochen werden, indem [Sie bitte diesen Link HIER anklicken](https://www.salesviewer.com/opt-out), um die Erfassung durch SalesViewer® innerhalb dieser Webseite zukünftig zu verhindern. Dabei wird ein Opt-out-Cookie für diese Webseite auf Ihrem Gerät abgelegt. Löschen Sie Ihre Cookies in diesem Browser, müssen Sie diesen Link erneut klicken.
+
 ## 3. Weitergabe von Daten
 
 Eine Übermittlung Ihrer persönlichen Daten an Dritte zu anderen als den im Folgenden aufgeführten Zwecken findet nicht statt.
