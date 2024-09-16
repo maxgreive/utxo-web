@@ -3,7 +3,7 @@ title: "Niemand will Blockchain - Jeder will Pay per Use"
 author: Peter Rochel
 pubDate: "2020-11-28"
 canonicalURL: "https://oberwasser-consulting.de/podcast045/"
-tags: 
+tags:
   - "bitcoin"
   - "business-model-design"
   - "digitalisierung"
@@ -21,11 +21,15 @@ Wer sich heutzutage mit Innovation beschäftigt kommt an zwei großen Themenbere
 
 ### Überall da zu hören, wo es Podcasts gibt:
 
-[![](./images/listen-on-apple-podcast.png)](https://podcasts.apple.com/de/podcast/niemand-will-blockchain-jeder-will-pay-per-use/id1354901024?i=1000500630295&itsct=podcast_box&itscg=30200&ls=1)[![](./images/listen-on-spotify.png)](https://open.spotify.com/episode/4HoM5Wh5P4oTInefL7PjPC?si=2ts8qer8Tnuc-cW2KzvrRg)[![](./images/ListenOn_AmazonMusic_button_Black_RGB_5X_DE-300x73.png)](https://music.amazon.de/podcasts/4838bd28-7b97-4912-80cb-de39a6c75654/episodes/625eb97c-7853-4dcf-8dfa-d8830b9e9361/innovate-upgrade-niemand-will-blockchain---jeder-will-pay-per-use)[![jobs to be done podcast](./images/DE_Google_Podcasts_Badge_8x-300x76.png)](https://podcasts.google.com/feed/aHR0cHM6Ly96dW04cnkucG9kY2FzdGVyLmRlL29iZXJ3YXNzZXIucnNz/episode/cG9kLTVmYmE5ZmUxOWJmYTEyNjkyODI1MjI?sa=X&ved=0CAUQkfYCahcKEwiooZT4pJGCAxUAAAAAHQAAAAAQAQ) 
+[![](./images/listen-on-apple-podcast.png)](https://podcasts.apple.com/de/podcast/niemand-will-blockchain-jeder-will-pay-per-use/id1354901024?i=1000500630295&itsct=podcast_box&itscg=30200&ls=1)[![](./images/listen-on-spotify.png)](https://open.spotify.com/episode/4HoM5Wh5P4oTInefL7PjPC?si=2ts8qer8Tnuc-cW2KzvrRg)[![](./images/ListenOn_AmazonMusic_button_Black_RGB_5X_DE-300x73.png)](https://music.amazon.de/podcasts/4838bd28-7b97-4912-80cb-de39a6c75654/episodes/625eb97c-7853-4dcf-8dfa-d8830b9e9361/innovate-upgrade-niemand-will-blockchain---jeder-will-pay-per-use)[![jobs to be done podcast](./images/DE_Google_Podcasts_Badge_8x-300x76.png)](https://podcasts.google.com/feed/aHR0cHM6Ly96dW04cnkucG9kY2FzdGVyLmRlL29iZXJ3YXNzZXIucnNz/episode/cG9kLTVmYmE5ZmUxOWJmYTEyNjkyODI1MjI?sa=X&ved=0CAUQkfYCahcKEwiooZT4pJGCAxUAAAAAHQAAAAAQAQ)
 
 ### Episode direkt hier anhören:
 
-<iframe src="https://embed.podcasts.apple.com/us/podcast/niemand-will-blockchain-jeder-will-pay-per-use/id1354901024?i=1000500630295&itsct=podcast_box&itscg=30200" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent; background-position: initial initial; background-repeat: initial initial;"></iframe>
+<iframe data-cookieconsent="marketing" data-cookieblock-src="https://embed.podcasts.apple.com/us/podcast/niemand-will-blockchain-jeder-will-pay-per-use/id1354901024?i=1000500630295&itsct=podcast_box&itscg=30200" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent; background-position: initial initial; background-repeat: initial initial;"></iframe>
+
+<div class="cookieconsent-optout-marketing">
+  Bitte <a href="javascript:Cookiebot.renew()">akzeptiere Marketing-Cookies</a> um diese Folge im eingebetteten Player zu hören.
+</div>
 
 ## Blockchain und programmierbares Geld als Schlüssel
 
