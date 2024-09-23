@@ -27,7 +27,7 @@ questions:
     answer: |
       Ja den gibt es. Wir vergeben Rabatte wenn es unseren eigenen Aufwand reduziert oder die Planbarkeit erhöht. Das ist bei Frühbuchern oder Gruppenbuchungen der Fall.
     Außerdem wissen wir, dass Spitzenleistung regelmäßiges Training erfordert. Deshalb gibt es einen speziellen, sehr stark reduzierten, Bestandskundenpreis, wenn du in den letzten drei Jahren an einem Onlinekurs teilgenommen hast. Das gleiche gilt, wenn du als Mitarbeiter eines unserer Kunden an einem <a href="/leistungen/customer-research-sprints">Customer Insight Sprint</a> teilgenommen hast.
-    Hier nochmal als Übersicht. Du erhälst Rabatte:
+    Hier nochmal als Übersicht. Du erhälst Rabatte
       <ul>
         <li>Wenn Du sehr früh buchst</li>
         <li>Wenn Du für mehr als eine Person buchst (5% pro zusätzlicher Person für alle, max 20%)</li>
