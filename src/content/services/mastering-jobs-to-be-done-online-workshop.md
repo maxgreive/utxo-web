@@ -23,10 +23,10 @@ questions:
     answer: "Der Workshop wird in der Regel auf Deutsch abgehalten. Für die Termine auf Englisch gibt es eine Warteliste. Wenn du da drauf möchtest, dann schick einfach eine Mail an <a href=\"mailto:masterclass@utxo.solutions\">masterclass@utxo.solutions</a>"
   - question: "Ich kann jetzt nicht zu Ihrem Termin kommen. Macht ihr das noch einmal?"
     answer: "Ja, das machen wir auf jeden Fall wieder. Am besten setzt du dich auf die Warteliste mit einer Mail an <a href=\"mailto:masterclass@utxo.solutions\">masterclass@utxo.solutions</a>"
-  - question: "Gibt es einen Rabatt?"    
+  - question: "Gibt es einen Rabatt?"
     answer: |
       Ja den gibt es. Wir vergeben Rabatte wenn es unseren eigenen Aufwand reduziert oder die Planbarkeit erhöht. Das ist bei Frühbuchern oder Gruppenbuchungen der Fall. Außerdem wissen wir, dass Spitzenleistung regelmäßiges Training erfordert. Deshalb gibt es einen speziellen, sehr stark reduzierten, Bestandskundenpreis, wenn du in den letzten drei Jahren an einem Onlinekurs teilgenommen hast. Das gleiche gilt, wenn du als Mitarbeiter eines unserer Kunden an einem <a href="/leistungen/customer-research-sprints">Customer Insight Sprint</a> teilgenommen hast.
-    Hier nochmal als Übersicht. Du erhälst Rabatte
+      Hier nochmal als Übersicht. Du erhälst Rabatte
       <ul>
         <li>Wenn Du sehr früh buchst</li>
         <li>Wenn Du für mehr als eine Person buchst (5% pro zusätzlicher Person für alle, max 20%)</li>
@@ -34,11 +34,11 @@ questions:
         <li>Wenn Du als Mitarbeiter eines unserer Kunden aktiv an einem <a href="/leistungen/customer-research-sprints">Customer Insight Sprint</a> oder anderen Projekt teilgenommen hast</li>
       </ul>
       <a href="mailto:masterclass@utxo.solutions">Kontaktiere uns</a> gerne für weitere Informationen.
-  - question: "Kann ich mein Ticket stornieren?"    
+  - question: "Kann ich mein Ticket stornieren?"
     answer: "Ja, du kannst dein Ticket bis 14 Tage vor der Veranstaltung zu 100% stornieren. Die Option dazu findest du in der Mail, mit der du dein Ticket bekommen hast unter “Bestelldetails anzeigen” und dann ganz unten im Fenster, das sich öffnet."
-  - question: "Was passiert, wenn nicht genug Teilnehmer für die Veranstaltung zustande kommen?"    
+  - question: "Was passiert, wenn nicht genug Teilnehmer für die Veranstaltung zustande kommen?"
     answer: "In diesem Fall suchen wir ein neues Datum. Dein Ticket wird übertragen. Solltest du zu der neuen Veranstaltung nicht kommen können, kannst du dein Ticket natürlich kostenfrei stornieren."
-    
+
 sidebar:
   downloadText: "Wenn Du denkst: Das bin ich, aber ist es das wert? Dann findest Du hier weitere Informationen, um diese Frage mit einem klaren \"Ja\" beantworten zu können:"
   downloadLink: /assets/pdf/JTBD-Workshop.pdf
@@ -88,6 +88,6 @@ Die aktuelle Workshopreihe im September ist ausgebucht. Die nächste startet im 
 - **M7: 08.11.2024** – Das JTBD Research & Innovation Framework
 - **M8: 12.11.2024** – Zusammenfassung, Ausblick & AMA
 
-Die Module finden jeweils von 09.00 bis 11.30 MEZ online statt. 
+Die Module finden jeweils von 09.00 bis 11.30 MEZ online statt.
 
 <CtaSection props={frontmatter.ctaSection} classes="mb-3" center={true} />

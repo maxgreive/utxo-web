@@ -51,4 +51,4 @@ Es gibt nur 20 Plätze und ein klares "First come, First serve" 😉
 Ja, du kannst dein Ticket bis 14 Tage vor der Veranstaltung zu 100% stornieren. Die Option dazu findest du in der Mail, mit der du dein Ticket bekommen hast unter "Bestelldetails anzeigen" und dann ganz unten im Fenster, das sich öffnet.
 
 ### Was passiert, wenn nicht genug Teilnehmer für die Veranstaltung zustande kommen?
-In diesem Fall suchen wir ein neues Datum. Dein Ticket wird übertragen. Solltest du zu der neuen Veranstaltung nicht kommen können, kannst du dein Ticket natürlich kostenfrei stornieren. 
+In diesem Fall suchen wir ein neues Datum. Dein Ticket wird übertragen. Solltest du zu der neuen Veranstaltung nicht kommen können, kannst du dein Ticket natürlich kostenfrei stornieren.
