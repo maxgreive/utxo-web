@@ -14,7 +14,6 @@ tags:
   - startups
 previewImage: src/content/blog/images/content-manager-bild-1-.jpg
 ---
-
 ### Technologie ist kein Selbstzweck aber ein Möglichmacher
 
 Wer sich heutzutage mit Innovation beschäftigt kommt an zwei großen Themenbereichen kaum noch vorbei: 1. [Digitalisierung](https://oberwasser-consulting.de/tag/digitalisierung/), 2. Geschäftsmodell- oder [Business Modell Innovation](https://oberwasser-consulting.de/category/blog/business-model-innovation/). Maximilian Forster will mit seinem Unternehmen, CashOnLedger Technologies, beides zusammenbringen um mit Hilfe von programmierbarem Geld - Pay per Use Geschäftsmodelle (nutzerbasierte Abrechnung) für Industriegüter zu ermöglichen. Für die meisten Nutzer kaum vorstellbar: Selbst Carsharing und Bikesharing ist bisher kaum wirtschaftlich umsetzbar, für die meisten Anbieter. Mit Maximilian Forster spricht Peter Rochel über Kundenfokus bei Technologieinnovationen, ein wenig Blockchain, viel Pay per Use und darüber woran diese Business Modelle bisher gescheitert sind.
@@ -25,7 +24,7 @@ Wer sich heutzutage mit Innovation beschäftigt kommt an zwei großen Themenbere
 
 ### Episode direkt hier anhören:
 
-<iframe data-cookieconsent="marketing" data-cookieblock-src="https://embed.podcasts.apple.com/us/podcast/niemand-will-blockchain-jeder-will-pay-per-use/id1354901024?i=1000500630295&itsct=podcast_box&itscg=30200" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent; background-position: initial initial; background-repeat: initial initial;"></iframe>
+<iframe data-cookieconsent="marketing" data-cookieblock-src="https://embed.podcasts.apple.com/us/podcast/niemand-will-blockchain-jeder-will-pay-per-use/id1354901024?i=1000500630295&itsct=podcast_box&itscg=30200" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay \*; encrypted-media \*;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent; background-position: initial initial; background-repeat: initial initial;"></iframe>
 
 <div class="cookieconsent-optout-marketing">
   Bitte <a href="javascript:Cookiebot.renew()">akzeptiere Marketing-Cookies</a> um diese Folge im eingebetteten Player zu hören.
@@ -37,7 +36,7 @@ Wie kommt man auf die ambitionierte Idee eine mutmaßliche Schlüsseltechnologie
 
 ### Ermöglicht nutzungsbasierte Abrechnung:
 
-![](./images/IMG_2600.jpg)
+![Foto von Maximilian Forster](./images/IMG_2600.jpg)
 
 Maximilian Forster - Gründer des Kölner Startup Cash on Ledger
 
@@ -47,12 +46,8 @@ Du möchtest eine neue Technologie sinnvoll und marktschaffend einsetzten?
 
 ## Links zu dieser Episode
 
-- [Zur Website von Cash on Ledger](https://cash-on-ledger.com)
-
-- [Maximilian Forster auf LinkedIn](https://www.linkedin.com/in/maximilianforster/)
-
-- [Bitkom Artikel zu programmierbarem Geld und digitalen Währungen](https://www.bitkom.org/sites/default/files/2020-04/200423_infopapier_digitaler-euro-auf-der-blockchain.pdf)
-
-- [Artikel in der Süddeutschen Zeitung über Cash on Ledger](https://www.sueddeutsche.de/wirtschaft/blockchain-technologie-voll-automatisch-1.5046412)
-
-- [Nachbereitung zum Thema Technologie& Greenfield Innovation](https://oberwasser-consulting.de/podcast046/)
+* [Zur Website von Cash on Ledger](https://cash-on-ledger.com)
+* [Maximilian Forster auf LinkedIn](https://www.linkedin.com/in/maximilianforster/)
+* [Bitkom Artikel zu programmierbarem Geld und digitalen Währungen](https://www.bitkom.org/sites/default/files/2020-04/200423_infopapier_digitaler-euro-auf-der-blockchain.pdf)
+* [Artikel in der Süddeutschen Zeitung über Cash on Ledger](https://www.sueddeutsche.de/wirtschaft/blockchain-technologie-voll-automatisch-1.5046412)
+* [Nachbereitung zum Thema Technologie& Greenfield Innovation](https://oberwasser-consulting.de/podcast046/)
