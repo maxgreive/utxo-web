@@ -13606,7 +13606,7 @@ footer .list-wrap li a:hover::before {
 .blog-post-thumb-two img {
   transition: .3s linear;
   width: 100%;
-  min-height: 275px;
+  height: 275px;
   object-fit: cover;
 }
 
