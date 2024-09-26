@@ -1,52 +1,85 @@
 ---
 title: Mastering Jobs to Be Done Online Workshop
-pubDate: 'Jul 22 2022'
-description: Melde Dich noch heute an und mach den ersten Schritt, um die Jobs-to-Be-Done-Methodik in Deinem Unternehmen erfolgreich umzusetzen. Gemeinsam erreichen wir Deine Ziele!
-previewImage: ./images/workshop-timer.jpg
+description: Melde Dich noch heute an und mach den ersten Schritt, um die
+  Jobs-to-Be-Done-Methodik in Deinem Unternehmen erfolgreich umzusetzen.
+  Gemeinsam erreichen wir Deine Ziele!
+pubDate: Jul 22 2022
+previewImage: src/content/services/images/workshop-timer-gradient.png
 icon: flaticon-round-table
+sidebar:
+  downloadText: 'Wenn Du denkst: Das bin ich, aber ist es das wert? Dann findest
+    Du hier weitere Informationen, um diese Frage mit einem klaren "Ja"
+    beantworten zu können:'
+  downloadLink: /assets/pdf/JTBD-Workshop.pdf
+  downloadButtonLabel: Download PDF
 questions:
   - question: Gibt es ein Zertifikat?
-    answer: |
-      Ja. Mastering Jobs to Be Done bietet derzeit drei Expertenstufen zum Nachweis praktischer Erfahrung:
+    answer: >
+      Ja. Mastering Jobs to Be Done bietet derzeit drei Expertenstufen zum
+      Nachweis praktischer Erfahrung:
+
       <ul>
         <li>JTBD-Praktiker</li>
         <li>JTBD-Forscher</li>
         <li>JTBD-Markt-Ersteller</li>
         <li>JTBD Innovation Framework Master</li>
       </ul>
+
       Mit dem Abschluss dieses Workshops wird das Practitioner Level erworben, welches drei Jahre gültig bleibt. Nähere Informationen zu den Zertifizierungen erhältst Du im direkten Gespräch.
   - question: Ist es schlimm wenn ich nicht zu einem der Module gehen kann?
-    answer: Die Workshops bauen aufeinander auf, sodass das Überspringen einzelner Workshop-Module zu Verständnisproblemen führen kann. Da wir jedoch wissen, dass es immer passieren kann, dass man es zu einem ungeplanten Termin nicht schafft, bieten wir 1on1 Recap Sessions für 200€ an (max. 1 Mal pro Kurs und Teilnehmer).
-  - question: "Wie viele Personen können teilnehmen, wie viele Plätze gibt es?"
-    answer: "Für diesen Workshop sind noch Plätze frei. Allerdings werden nicht mehr als 10 Teilnehmer/innen teilnehmen."
-  - question: "In welcher Sprache findet der Workshop statt?"
-    answer: "Der Workshop wird in der Regel auf Deutsch abgehalten. Für die Termine auf Englisch gibt es eine Warteliste. Wenn du da drauf möchtest, dann schick einfach eine Mail an <a href=\"mailto:masterclass@utxo.solutions\">masterclass@utxo.solutions</a>"
-  - question: "Ich kann jetzt nicht zu Ihrem Termin kommen. Macht ihr das noch einmal?"
-    answer: "Ja, das machen wir auf jeden Fall wieder. Am besten setzt du dich auf die Warteliste mit einer Mail an <a href=\"mailto:masterclass@utxo.solutions\">masterclass@utxo.solutions</a>"
-  - question: "Gibt es einen Rabatt?"
-    answer: |
-      Ja den gibt es. Wir vergeben Rabatte wenn es unseren eigenen Aufwand reduziert oder die Planbarkeit erhöht. Das ist bei Frühbuchern oder Gruppenbuchungen der Fall. Außerdem wissen wir, dass Spitzenleistung regelmäßiges Training erfordert. Deshalb gibt es einen speziellen, sehr stark reduzierten, Bestandskundenpreis, wenn du in den letzten drei Jahren an einem Onlinekurs teilgenommen hast. Das gleiche gilt, wenn du als Mitarbeiter eines unserer Kunden an einem <a href="/leistungen/customer-research-sprints">Customer Insight Sprint</a> teilgenommen hast.
+    answer: Die Workshops bauen aufeinander auf, sodass das Überspringen einzelner
+      Workshop-Module zu Verständnisproblemen führen kann. Da wir jedoch wissen,
+      dass es immer passieren kann, dass man es zu einem ungeplanten Termin
+      nicht schafft, bieten wir 1on1 Recap Sessions für 200€ an (max. 1 Mal pro
+      Kurs und Teilnehmer).
+  - question: Wie viele Personen können teilnehmen, wie viele Plätze gibt es?
+    answer: Für diesen Workshop sind noch Plätze frei. Allerdings werden nicht mehr
+      als 10 Teilnehmer/innen teilnehmen.
+  - question: In welcher Sprache findet der Workshop statt?
+    answer: Der Workshop wird in der Regel auf Deutsch abgehalten. Für die Termine
+      auf Englisch gibt es eine Warteliste. Wenn du da drauf möchtest, dann
+      schick einfach eine Mail an <a
+      href="mailto:masterclass@utxo.solutions">masterclass@utxo.solutions</a>
+  - question: Ich kann jetzt nicht zu Ihrem Termin kommen. Macht ihr das noch einmal?
+    answer: Ja, das machen wir auf jeden Fall wieder. Am besten setzt du dich auf
+      die Warteliste mit einer Mail an <a
+      href="mailto:masterclass@utxo.solutions">masterclass@utxo.solutions</a>
+  - question: Gibt es einen Rabatt?
+    answer: >
+      Ja den gibt es. Wir vergeben Rabatte wenn es unseren eigenen Aufwand
+      reduziert oder die Planbarkeit erhöht. Das ist bei Frühbuchern oder
+      Gruppenbuchungen der Fall. Außerdem wissen wir, dass Spitzenleistung
+      regelmäßiges Training erfordert. Deshalb gibt es einen speziellen, sehr
+      stark reduzierten, Bestandskundenpreis, wenn du in den letzten drei Jahren
+      an einem Onlinekurs teilgenommen hast. Das gleiche gilt, wenn du als
+      Mitarbeiter eines unserer Kunden an einem <a
+      href="/leistungen/customer-research-sprints">Customer Insight Sprint</a>
+      teilgenommen hast.
+
       Hier nochmal als Übersicht. Du erhälst Rabatte
+
       <ul>
         <li>Wenn Du sehr früh buchst</li>
         <li>Wenn Du für mehr als eine Person buchst (5% pro zusätzlicher Person für alle, max 20%)</li>
         <li>Wenn Du in den letzten 3 Jahren bereits an einem unserer JTBD-Trainings teilgenommen hast und eine Auffrischung machen möchtest</li>
         <li>Wenn Du als Mitarbeiter eines unserer Kunden aktiv an einem <a href="/leistungen/customer-research-sprints">Customer Insight Sprint</a> oder anderen Projekt teilgenommen hast</li>
       </ul>
-      <a href="mailto:masterclass@utxo.solutions">Kontaktiere uns</a> gerne für weitere Informationen.
-  - question: "Kann ich mein Ticket stornieren?"
-    answer: "Ja, du kannst dein Ticket bis 14 Tage vor der Veranstaltung zu 100% stornieren. Die Option dazu findest du in der Mail, mit der du dein Ticket bekommen hast unter “Bestelldetails anzeigen” und dann ganz unten im Fenster, das sich öffnet."
-  - question: "Was passiert, wenn nicht genug Teilnehmer für die Veranstaltung zustande kommen?"
-    answer: "In diesem Fall suchen wir ein neues Datum. Dein Ticket wird übertragen. Solltest du zu der neuen Veranstaltung nicht kommen können, kannst du dein Ticket natürlich kostenfrei stornieren."
 
-sidebar:
-  downloadText: "Wenn Du denkst: Das bin ich, aber ist es das wert? Dann findest Du hier weitere Informationen, um diese Frage mit einem klaren \"Ja\" beantworten zu können:"
-  downloadLink: /assets/pdf/JTBD-Workshop.pdf
-  downloadButtonLabel: Download PDF
+      <a href="mailto:masterclass@utxo.solutions">Kontaktiere uns</a> gerne für weitere Informationen.
+  - question: Kann ich mein Ticket stornieren?
+    answer: Ja, du kannst dein Ticket bis 14 Tage vor der Veranstaltung zu 100%
+      stornieren. Die Option dazu findest du in der Mail, mit der du dein Ticket
+      bekommen hast unter “Bestelldetails anzeigen” und dann ganz unten im
+      Fenster, das sich öffnet.
+  - question: Was passiert, wenn nicht genug Teilnehmer für die Veranstaltung
+      zustande kommen?
+    answer: In diesem Fall suchen wir ein neues Datum. Dein Ticket wird übertragen.
+      Solltest du zu der neuen Veranstaltung nicht kommen können, kannst du dein
+      Ticket natürlich kostenfrei stornieren.
 ctaSection:
   title: Klingt spannend?
   buttonLabel: Jetzt anmelden
-  buttonLink: "https://pretix.eu/utxo-solutions/mastering-jtbd/4238248/"
+  buttonLink: https://pretix.eu/utxo-solutions/mastering-jtbd/4238248/
 ---
 
 ## Dieser Workshop ist für dich, wenn einer der folgenden Sätze auf dich zutrifft:
