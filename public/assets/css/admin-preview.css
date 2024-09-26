@@ -58,6 +58,32 @@ img,
   transition: all 0.3s ease-out 0s;
 }
 
+.prose {
+  :where(h1, h2, h3, h4, figure, blockquote, dl, dd, ul, ol) {
+    margin-top: 1.5em;
+  }
+
+  :where(ul, ol) {
+    padding-inline-start: 1em;
+
+    :where(ul, ol) {
+      margin-top: 0;
+    }
+  }
+
+  :where(ul) {
+    list-style-type: initial;
+  }
+
+  :where(ol) {
+    list-style-type: decimal;
+  }
+
+  :where(li) :where(p:first-child) {
+    margin: 0;
+  }
+}
+
 .f-left {
   float: left
 }
