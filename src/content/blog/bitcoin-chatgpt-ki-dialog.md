@@ -1,14 +1,14 @@
 ---
-title: "Botcoin - Im Dialog mit einer KI"
-author: Peter Rochel
-pubDate: "2024-09-26"
-canonicalURL: "https://oberwasser-consulting.de/bitcoin-chatgpt-ki-dialog/"
-tags:
-  - "bitcoin"
-  - "disruption"
-  - "ki"
-previewImage: "./images/BTC-vs-KI.jpg"
+title: Botcoin - Im Dialog mit einer KI
 secret: true
+author: Peter Rochel
+pubDate: 2024-09-26
+canonicalURL: https://oberwasser-consulting.de/bitcoin-chatgpt-ki-dialog/
+tags:
+  - bitcoin
+  - disruption
+  - ki
+previewImage: src/content/blog/images/btc-vs-ki.jpg
 ---
 
 ## Was hält eigentlich eine disruptive Technologie von einer anderen?
