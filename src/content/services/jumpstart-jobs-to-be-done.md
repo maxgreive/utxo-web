@@ -1,6 +1,7 @@
 ---
 title: Jumpstart Jobs to be done
 pubDate: 'Aug 29 2024'
+secret: true
 description: Der schnellste und leichteste Einstieg um Jobs to be done selbst anwenden zu können
 previewImage: ./images/meetup-wheel.jpg
 icon: flaticon-rocket

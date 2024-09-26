@@ -22,12 +22,13 @@ const blogCollection = defineCollection({
 const serviceCollection = defineCollection({
 	type: 'content',
 	// Type-check frontmatter using a schema
-	schema: ({image}) => z.object({
+	schema: ({ image }) => z.object({
 		title: z.string(),
 		reference: z.string().optional(),
 		description: z.string().optional(),
 		pubDate: z.coerce.date(),
 		icon: z.string().optional(),
+		secret: z.boolean().default(false),
 		pageHeader: z.string().optional(),
 		tags: z.array(z.string()).default(['other']),
 		previewImage: image().optional(),
