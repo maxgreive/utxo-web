@@ -1,18 +1,18 @@
 ---
-title: "Niemand will Blockchain - Jeder will Pay per Use"
+title: Niemand will Blockchain - Jeder will Pay per Use
 author: Peter Rochel
-pubDate: "2024-09-07"
-canonicalURL: "https://oberwasser-consulting.de/podcast045/"
+pubDate: 2024-09-07
+canonicalURL: https://oberwasser-consulting.de/podcast045/
 tags:
-  - "bitcoin"
-  - "business-model-design"
-  - "digitalisierung"
-  - "iu-staffel-2"
-  - "ki"
-  - "podcast"
-  - "prozesse"
-  - "startups"
-previewImage: "./images/52263609.jpg"
+  - bitcoin
+  - business-model-design
+  - digitalisierung
+  - iu-staffel-2
+  - ki
+  - podcast
+  - prozesse
+  - startups
+previewImage: src/content/blog/images/content-manager-bild-1-.jpg
 ---
 
 ### Technologie ist kein Selbstzweck aber ein Möglichmacher
