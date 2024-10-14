@@ -13616,3 +13616,7 @@ footer .list-wrap li a:hover::before {
   border-radius: 6px;
   border: 1px solid #E6EEFF;
 }
+
+.services-details-wrap td {
+  border-width: 1px;
+}
