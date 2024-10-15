@@ -11,8 +11,8 @@ export type navigationItem = Readonly<{
 }>
 
 export const footerMenu: Record<string, Record<string, navigationItem[]>> = {
-	en: {
-		items: [
+  en: {
+    items: [
       {
         title: "Menu",
         items: [
@@ -32,9 +32,9 @@ export const footerMenu: Record<string, Record<string, navigationItem[]>> = {
         ]
       }
     ]
-	},
-	de: {
-		items: [
+  },
+  de: {
+    items: [
       {
         title: "Menü",
         items: [
@@ -62,7 +62,7 @@ export const footerMenu: Record<string, Record<string, navigationItem[]>> = {
         ]
       }
     ]
-	},
+  },
 };
 
 export const SOCIALS = [
@@ -140,5 +140,9 @@ export const BRANDS = [
   {
     image: '/assets/img/logos/brand-wework.png',
     name: 'Wework'
+  },
+  {
+    image: '/assets/img/logos/brand-heiuki.png',
+    name: 'Heiuki'
   },
 ]
