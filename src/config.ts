@@ -17,17 +17,12 @@ export const footerMenu: Record<string, Record<string, navigationItem[]>> = {
         title: "Menu",
         items: [
           {
-            label: "Imprint",
-            path: "/en/imprint",
-          }
-        ]
-      },
-      {
-        title: "Quick Links",
-        items: [
-          {
             label: "Contact",
             path: "/en/contact",
+          },
+          {
+            label: "Imprint",
+            path: "/en/imprint",
           }
         ]
       }
@@ -39,25 +34,20 @@ export const footerMenu: Record<string, Record<string, navigationItem[]>> = {
         title: "Menü",
         items: [
           {
-            label: "Impressum",
-            path: "/impressum",
-          },
-          {
-            label: "Datenschutz",
-            path: "/datenschutz",
-          }
-        ]
-      },
-      {
-        title: "Quick Links",
-        items: [
-          {
             label: "Leistungen",
             path: "/leistungen"
           },
           {
             label: "Kontakt",
             path: "/kontakt",
+          },
+          {
+            label: "Impressum",
+            path: "/impressum",
+          },
+          {
+            label: "Datenschutz",
+            path: "/datenschutz",
           }
         ]
       }
