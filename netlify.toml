@@ -1,3 +1,6 @@
+[functions]
+  node_bundler = "esbuild"
+
 [[redirects]]
 from = "/tag/*"
 to = "/en/tag/:splat"
