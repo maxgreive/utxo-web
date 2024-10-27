@@ -170,8 +170,8 @@ h5,
 h6 {
   font-family: var(--tg-heading-font-family);
   color: var(--tg-heading-font-color);
-  margin-top: 3rem;
-  margin-bottom: 1rem;
+  margin-top: 0px;
+  margin-bottom: .7rem;
   font-style: normal;
   line-height: var(--tg-heading-line-height);
   font-weight: var(--tg-heading-font-weight);

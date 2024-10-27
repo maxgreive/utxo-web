@@ -5,8 +5,7 @@ import { Picture } from "astro:assets";
 import backgroundImage from "@src/images/breadcrumb_bg.jpg";
 
 const { frontmatter } = Astro.props,
-  title = frontmatter.title,
-  pageHeader = frontmatter.pageHeader;
+  title = frontmatter?.data?.title || frontmatter.title;
 ---
 
 <section class="breadcrumb-area breadcrumb-bg">
@@ -23,7 +22,7 @@ const { frontmatter } = Astro.props,
     <div class="row">
       <div class="col-lg-12">
         <div class="breadcrumb-content">
-          <h1 class="title">{pageHeader || title}</h1>
+          <h1 class="title">{title}</h1>
         </div>
       </div>
     </div>

@@ -14,8 +14,6 @@ previewImage: "./images/Green_Bitcoin.jpg"
 
 ## Innovate+Upgrade mit Daniel Wingen
 
-![Bitcoin und saubere Energie](./images/Green_Bitcoin.jpg)
-
 **Daniel Wingen** hat unter anderem die [Value of Bitcoin Konferenz](https://valueofbitcoin.com) ins Leben gerufen, ist Mit-Gründer von [Einundzwanzig](https://einundzwanzig.space) und war unter anderem als Speaker auf dem diesjährigen [Crypto 49'er Bootcamp](https://www.crypto49ers.de) in Zürich, wo er das Thema [Energieverbrauch bei BTC](https://www.youtube.com/watch?v=MjZGLoLnpoY&t=467s) intensiv beleuchtet hat. Daniel behauptet, der Energieverbrauch von Bitcoin sei gut für die Umwelt, wofür es ernst zu nehmende Belege und Theorien gibt. Peter Rochel spricht mit ihm über die Grundlagen dafür und warum Bitcoin einer der wichtigsten Treiber für das Erschließen sauberer Energiequellen und einer globalen Energiewende sein kann.
 
 **Hier direkt I+U Staffel 2 Episode 027 anhören**

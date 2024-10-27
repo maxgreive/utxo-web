@@ -1,15 +1,11 @@
 ---
 title: Mastering Jobs to Be Done Online Workshop
-description: Melde Dich noch heute an und mach den ersten Schritt, um die
-  Jobs-to-Be-Done-Methodik in Deinem Unternehmen erfolgreich umzusetzen.
-  Gemeinsam erreichen wir Deine Ziele!
+description: Melde Dich noch heute an und mach den ersten Schritt, um die Jobs-to-Be-Done-Methodik in Deinem Unternehmen erfolgreich umzusetzen. Gemeinsam erreichen wir Deine Ziele!
 pubDate: Jul 22 2022
-previewImage: src/content/services/images/workshop-timer-gradient.png
+previewImage: ./images/workshop-timer-gradient.png
 icon: flaticon-round-table
 sidebar:
-  downloadText: 'Wenn Du denkst: Das bin ich, aber ist es das wert? Dann findest
-    Du hier weitere Informationen, um diese Frage mit einem klaren "Ja"
-    beantworten zu können:'
+  downloadText: 'Wenn Du denkst: Das bin ich, aber ist es das wert? Dann findest Du hier weitere Informationen, um diese Frage mit einem klaren "Ja" beantworten zu können:'
   downloadLink: /assets/pdf/JTBD-Workshop.pdf
   downloadButtonLabel: Download PDF
 questions:

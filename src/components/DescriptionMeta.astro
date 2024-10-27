@@ -5,7 +5,8 @@ interface Props {
 	file: string
 }
 
-let {description, file} = Astro.props
+let {description, file} = Astro.props;
+if (!file) return;
 if (!description){
 	const page = (await Astro.glob('../**/*.{md,mdx}')).find(page => page.file === file)
 	description = getPageDescription(page)

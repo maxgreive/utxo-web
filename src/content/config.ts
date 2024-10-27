@@ -29,9 +29,10 @@ const serviceCollection = defineCollection({
 		pubDate: z.coerce.date(),
 		icon: z.string().optional(),
 		secret: z.boolean().default(false),
-		pageHeader: z.string().optional(),
 		tags: z.array(z.string()).default(['other']),
-		previewImage: image().optional(),
+		previewImage: image().refine(img => img.width >= 800, {
+			message: "Cover image must be at least 800 pixels wide."
+		}),
 		collection: z.string().optional(),
 		questions: z.array(z.object({
 			question: z.string(),
