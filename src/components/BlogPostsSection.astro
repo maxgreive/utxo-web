@@ -64,7 +64,7 @@ const posts = collection
                       )}`}
                     >
                       <Picture
-                        src={post.data.previewImage}
+                        src={post.data.previewImage as ImageMetadata}
                         formats={["avif", "webp"]}
                         width={450}
                         height={255}
