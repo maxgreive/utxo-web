@@ -76,9 +76,13 @@ export const BRANDS = [
     name: 'Steadybit'
   },
   {
-    image: '/assets/img/logos/brand-eduapes.png',
-    name: 'Eduapes'
+    image: '/assets/img/logos/brand-klaeger.png',
+    name: 'Kläger Group'
   },
+  // {
+  //   image: '/assets/img/logos/brand-eduapes.png',
+  //   name: 'Eduapes'
+  // },
   {
     image: '/assets/img/logos/brand-emlak.png',
     name: 'Emlak'
