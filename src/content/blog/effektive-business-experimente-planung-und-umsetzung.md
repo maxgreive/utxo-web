@@ -6,7 +6,7 @@ author: Martin Betz
 description: Lerne, wie du effektive Business-Experimente strukturierst und
   umsetzt. Von der Hypothesenbildung bis zur Ergebnisinterpretation – Schritt
   für Schritt erklärt.
-pubDate: 2024-10-30T12:47:00.000Z
+pubDate: 2024-10-31T13:47:00.000Z
 previewImage: images/indonesien-person-druckerpapier.jpg
 ---
 # Effektive Business-Experimente: Planung und Umsetzung
