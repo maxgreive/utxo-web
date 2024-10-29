@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Business-Experimente: Dein Schlüssel zum Unternehmenserfolg"
-secret: true
+secret: false
 author: Martin Betz
 description: Entdecke, wie Business-Experimente dir helfen, dein Unternehmen zum
   Erfolg zu führen. Lerne aus praktischen Beispielen, wie du Hypothesen testest,
