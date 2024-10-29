@@ -10,6 +10,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Draft", name: "secret", widget: "boolean", default: false, required: false}
       - { label: "Author", name: "author", widget: "string" }
+      - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Description", name: "description", widget: "string", required: false }
       - { label: "Publish Date", name: "pubDate", widget: "datetime", default: "{{now}}" }
       - { label: "Canonical URL", name: "canonicalURL", widget: "string", required: false }
@@ -27,6 +28,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Draft", name: "secret", widget: "boolean", default: false, required: false}
       - { label: "Author", name: "author", widget: "string" }
+      - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Description", name: "description", widget: "string", required: false }
       - { label: "Publish Date", name: "pubDate", widget: "datetime", default: "{{now}}" }
       - { label: "Canonical URL", name: "canonicalURL", widget: "string", required: false }
