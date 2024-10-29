@@ -1,12 +1,13 @@
 ---
 layout: blog
 title: "Business Experiments: Your Key to Business Success"
-secret: true
+secret: false
 author: Martin Betz
 description: Discover how business experiments can help you lead your company to
   success. Learn from practical examples how to test hypotheses, minimize risks
   and drive innovation through evidence-based decisions.
 pubDate: 2024-10-29T11:38:00.000Z
+previewImage: ../images/person-schreibt-auf-papier.jpg
 ---
 # Business Experiments: Your Key to Business Success
 
