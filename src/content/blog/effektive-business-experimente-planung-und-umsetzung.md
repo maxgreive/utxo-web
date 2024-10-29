@@ -9,7 +9,7 @@ pubDate: 2024-10-30T09:00:00.000Z
 previewImage: images/indonesien-person-druckerpapier.jpg
 reference: CP0102
 ---
-## Einführung
+## Experimente sauber strukturieren
 
 Im [vorherigen Artikel](https://utxo.solutions/blog/business-experimente-dein-schl%C3%BCssel-zum-unternehmenserfolg) haben wir darüber gesprochen, wie Business-Experimente dein Unternehmen zum Erfolg führen können. Jetzt möchten wir einen Schritt weiter gehen und dir zeigen, wie du solche Experimente effektiv planst und durchführst.
 
