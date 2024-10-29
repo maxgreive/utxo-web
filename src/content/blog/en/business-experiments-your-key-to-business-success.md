@@ -1,5 +1,4 @@
 ---
-layout: blog
 title: "Business Experiments: Your Key to Business Success"
 secret: false
 author: Martin Betz

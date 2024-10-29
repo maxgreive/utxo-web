@@ -1,5 +1,4 @@
 ---
-layout: blog
 title: "Effective Business Experiments: Planning and Execution"
 secret: true
 author: Martin Betz

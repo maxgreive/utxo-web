@@ -1,5 +1,4 @@
 ---
-layout: blog
 title: "Business-Experimente: Dein Schlüssel zum Unternehmenserfolg"
 secret: false
 author: Martin Betz
