@@ -11,7 +11,7 @@ reference: CP0102
 ---
 # Effective Business Experiments: Planning and Execution
 
-## Introduction
+## How to structure experiments
 
 In the [previous article](https://utxo.solutions/blog-en/business-experiments-your-key-to-business-success), we discussed how business experiments can lead your company to success. Now, we want to take it a step further and show you how to effectively plan and conduct such experiments.
 
