@@ -16,7 +16,7 @@ const frontmatter = Astro.props,
   realTags: string[] = tags.filter((tag: any) => {
     return tag !== "other";
   });
-
+  console.log("realTags", realTags)
 let person: Person = people.find((person) => {
   return person.fullName === author;
 });
@@ -70,7 +70,7 @@ let person: Person = people.find((person) => {
                     )
                   }
                   {
-                    realTags.length && (
+                    realTags.length > 0 && (
                       <li>
                         <i class="fas fa-tags" />
                         <PostTags tags={realTags} hideLabel={true} />
@@ -87,7 +87,7 @@ let person: Person = people.find((person) => {
               <div class="bd-content-bottom">
                 <div class="row align-items-center">
                   {
-                    realTags.length && (
+                    realTags && (
                       <div class="col-md-7">
                         <div class="post-tags">
                           <PostTags tags={realTags} />
