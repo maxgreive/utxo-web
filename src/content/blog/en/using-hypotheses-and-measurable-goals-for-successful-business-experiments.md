@@ -12,7 +12,7 @@ pubDate: 2024-10-31T09:00:00.000Z
 previewImage: ../images/geschäftsfrau-haftnotizen.jpg
 reference: CP0103
 ---
-## Coming to the right conclusions
+## Hypothesis and measurable goals
 
 In our previous articles, we discussed [how business experiments can propel your company forward](https://utxo.solutions/blog-en/business-experiments-your-key-to-business-success) and [how to effectively plan and execute them](https://utxo.solutions/blog-en/effective-business-experiments-planning-and-execution). Today, we want to dive deeper and focus on two crucial elements: hypotheses and measurable goals.
 
