@@ -7,8 +7,9 @@ description: Entdecke, wie Business-Experimente dir helfen, dein Unternehmen zum
   Erfolg zu führen. Lerne aus praktischen Beispielen, wie du Hypothesen testest,
   Risiken minimierst und durch evidenzbasierte Entscheidungen Innovationen
   vorantreibst.
-pubDate: 2024-10-29T11:35:00.000Z
+pubDate: 2024-11-02T09:00:00.000Z
 previewImage: images/person-schreibt-auf-papier.jpg
+reference: CP0101
 ---
 # Business-Experimente: Dein Schlüssel zum Unternehmenserfolg
 
