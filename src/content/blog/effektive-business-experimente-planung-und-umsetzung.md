@@ -8,6 +8,7 @@ description: Lerne, wie du effektive Business-Experimente strukturierst und
   für Schritt erklärt.
 pubDate: 2024-10-31T13:47:00.000Z
 previewImage: images/indonesien-person-druckerpapier.jpg
+reference: CP0102
 ---
 # Effektive Business-Experimente: Planung und Umsetzung
 
