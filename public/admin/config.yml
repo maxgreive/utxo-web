@@ -4,6 +4,7 @@ collections:
     folder: "src/content/blog" # The path to the folder where the documents are stored
     media_folder: "images"
     public_folder: "images"
+    sortable_fields: ["pubDate", "title"]
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in frontmatter
       - { label: "Title", name: "title", widget: "string" }
@@ -21,6 +22,7 @@ collections:
     folder: "src/content/blog/en" # The path to the folder where the documents are stored
     media_folder: "../images"
     public_folder: "../images"
+    sortable_fields: ["pubDate", "title"]
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in frontmatter
       - { label: "Title", name: "title", widget: "string" }
@@ -38,6 +40,7 @@ collections:
     folder: "src/content/services"
     media_folder: "images"
     public_folder: "images"
+    sortable_fields: ["pubDate", "title"]
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
@@ -107,6 +110,7 @@ collections:
     folder: "src/content/services/en"
     media_folder: "../images"
     public_folder: "../images"
+    sortable_fields: ["pubDate", "title"]
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
