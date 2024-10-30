@@ -2,6 +2,10 @@
 title: "Business Experiments: Your Key to Business Success"
 secret: false
 author: Martin Betz
+tags:
+  - experiments
+  - hypothesis
+  - decisionmaking
 description: Discover how business experiments can help you lead your company to
   success. Learn from practical examples how to test hypotheses, minimize risks
   and drive innovation through evidence-based decisions.
