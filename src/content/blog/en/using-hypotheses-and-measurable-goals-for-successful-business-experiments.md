@@ -9,7 +9,7 @@ tags:
 description: Discover why hypotheses and measurable goals are at the heart of
   successful business experiments and how you can formulate them effectively.
 pubDate: 2024-10-31T09:00:00.000Z
-previewImage: ../images/geschäftsfrau-haftnotizen.jpg
+previewImage: ../images/geschäftsfrau-haftnotizen.jpg
 reference: CP0103
 ---
 ## Hypothesis and measurable goals
