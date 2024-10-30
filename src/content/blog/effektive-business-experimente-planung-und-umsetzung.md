@@ -2,6 +2,10 @@
 title: "Effektive Business-Experimente: Planung und Umsetzung"
 secret: false
 author: Martin Betz
+tags:
+  - Experimente
+  - Struktur
+  - Hypothesen
 description: Lerne, wie du effektive Business-Experimente strukturierst und
   umsetzt. Von der Hypothesenbildung bis zur Ergebnisinterpretation – Schritt
   für Schritt erklärt.
