@@ -30,7 +30,7 @@ Dirk Roeder, der im September 2022 zur Deutschen Telekom kam, bringt umfassende 
 ></iframe>
 
 <div class="cookieconsent-optout-marketing">
-  Bitte <a href="javascript:Cookiebot.renew()">akzeptiere Marketing-Cookies</a> um diese Folge im eingebetteten Player zu hören.
+  Bitte <a href="javascript:Osano.cm.showDialog()">akzeptiere Marketing-Cookies</a> um diese Folge im eingebetteten Player zu hören.
 </div>
 
 ### Bitte hinterlasse uns eine Bewertung

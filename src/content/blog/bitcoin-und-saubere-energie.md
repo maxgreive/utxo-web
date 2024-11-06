@@ -23,7 +23,7 @@ previewImage: "./images/Green_Bitcoin.jpg"
 <iframe data-osano="MARKETING" src="https://embed.podcasts.apple.com/us/podcast/bitcoin-treiber-der-clean-disruption/id1354901024?i=1000538792213&amp;itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent;"></iframe>
 
 <div class="cookieconsent-optout-marketing">
-  Bitte <a href="javascript:Cookiebot.renew()">akzeptiere Marketing-Cookies</a> um diese Folge im eingebetteten Player zu hören.
+  Bitte <a href="javascript:Osano.cm.showDialog()">akzeptiere Marketing-Cookies</a> um diese Folge im eingebetteten Player zu hören.
 </div>
 
 00:00:00 Intro<br>

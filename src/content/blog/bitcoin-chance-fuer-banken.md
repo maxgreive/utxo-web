@@ -25,7 +25,7 @@ In dieser Podcastfolge von Innovate & Upgrade spricht Peter Rochel mit Andreas S
 <iframe id="embedPlayer" data-osano="MARKETING"  src="https://embed.podcasts.apple.com/us/podcast/wichtig-statt-kompliziert-die-beziehung-zwischen-bitcoin/id1354901024?i=1000609106080&amp;itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; transform: translateZ(0px); animation: 2s 6 loading-indicator; background-color: rgb(228, 228, 228);"></iframe>
 
 <div class="cookieconsent-optout-marketing">
-  Bitte <a href="javascript:Cookiebot.renew()">akzeptiere Marketing-Cookies</a> um diese Folge im eingebetteten Player zu hören.
+  Bitte <a href="javascript:Osano.cm.showDialog()">akzeptiere Marketing-Cookies</a> um diese Folge im eingebetteten Player zu hören.
 </div>
 
 ## Hier findest du alle Kapitel dieser Episode mit Zeitangabe:

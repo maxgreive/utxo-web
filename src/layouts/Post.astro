@@ -16,7 +16,6 @@ const frontmatter = Astro.props,
   realTags: string[] = tags.filter((tag: any) => {
     return tag !== "other";
   });
-  console.log("realTags", realTags)
 let person: Person = people.find((person) => {
   return person.fullName === author;
 });
