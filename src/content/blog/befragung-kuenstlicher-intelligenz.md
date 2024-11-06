@@ -1,7 +1,7 @@
 ---
 title: "Künstliche Intelligenz in Frage stellen?"
 author: Martin Betz
-pubDate: "2024-02-08"
+date: "2024-02-08"
 tags:
   - "ai"
   - "better-questions"

@@ -1,7 +1,7 @@
 ---
 title: "Why talking to your customers sometimes feels hard?​"
 author: Martin Betz
-pubDate: "2024-01-12"
+date: "2024-01-12"
 tags:
   - "conversation"
   - "experimental"

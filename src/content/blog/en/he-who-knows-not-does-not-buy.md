@@ -1,7 +1,7 @@
 ---
 title: "He who knows not, does not buy"
 author: Martin Betz
-pubDate: "2023-12-01"
+date: "2023-12-01"
 tags:
   - "decision-making"
   - "product-language-fit"

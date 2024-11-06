@@ -1,7 +1,7 @@
 ---
 title: "How to avoid customers trying to negotiate your prices down"
 author: Martin Betz
-pubDate: "2024-01-10"
+date: "2024-01-10"
 tags:
   - "business-strategy"
   - "negotiation"

@@ -1,7 +1,7 @@
 ---
 title: "How to speed up customer research"
 author: Martin Betz
-pubDate: "2023-12-11"
+date: "2023-12-11"
 tags:
   - "business-strategy"
   - "customer-research"

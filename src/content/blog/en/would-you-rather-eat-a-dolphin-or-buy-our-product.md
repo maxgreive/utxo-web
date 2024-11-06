@@ -1,7 +1,7 @@
 ---
 title: "Would you rather eat a dolphin or buy our product?"
 author: Martin Betz
-pubDate: "2023-12-15"
+date: "2023-12-15"
 tags:
   - "better-questions"
   - "customer-research"

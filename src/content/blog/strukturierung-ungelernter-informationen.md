@@ -1,7 +1,7 @@
 ---
 title: "Strukturierung nicht gelernter Informationen"
 author: Martin Betz
-pubDate: "2023-11-22"
+date: "2023-11-22"
 tags:
   - "better-questions"
   - "data"

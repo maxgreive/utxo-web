@@ -1,7 +1,7 @@
 ---
 title: Bitcoin Strategie im Mittelstand
 author: Peter Rochel
-pubDate: 2024-09-26
+date: 2024-09-26
 canonicalURL: https://oberwasser-consulting.de/bitcoin-strategie-im-mittelstand/
 tags:
   - bitcoin

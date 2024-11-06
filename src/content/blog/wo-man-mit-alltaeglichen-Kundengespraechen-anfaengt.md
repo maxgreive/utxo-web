@@ -1,7 +1,7 @@
 ---
 title: "Wo kann man mit alltäglichen Kundengesprächen beginnen?"
 author: Martin Betz
-pubDate: "2024-02-29"
+date: "2024-02-29"
 tags:
   - "better-questions"
   - "customer-research"

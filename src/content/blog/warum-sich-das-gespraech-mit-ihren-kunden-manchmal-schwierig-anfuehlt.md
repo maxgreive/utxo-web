@@ -1,7 +1,7 @@
 ---
 title: "Warum fällt es Dir manchmal schwer, mit Deinen Kunden zu sprechen?"
 author: Martin Betz
-pubDate: "2024-01-12"
+date: "2024-01-12"
 tags:
   - "conversation"
   - "experimental"

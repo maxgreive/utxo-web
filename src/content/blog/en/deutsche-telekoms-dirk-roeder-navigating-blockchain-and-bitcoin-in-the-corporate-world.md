@@ -1,7 +1,7 @@
 ---
 title: "Deutsche Telekom's Dirk Roeder: Navigating Blockchain and Bitcoin in the Corporate World"
 author: Martin Betz
-pubDate: "2023-12-11"
+date: "2023-12-11"
 tags:
   - "business-strategy"
   - "podcast"

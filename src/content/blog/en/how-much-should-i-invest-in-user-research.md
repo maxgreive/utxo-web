@@ -1,7 +1,7 @@
 ---
 title: "How much should I invest in user research?"
 author: Martin Betz
-pubDate: "2024-02-20"
+date: "2024-02-20"
 tags:
   - "customer-research"
   - "how-to"

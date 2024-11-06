@@ -1,7 +1,7 @@
 ---
 title: "Wir nehmen eine Welt an, die es nicht gibt"
 author: Martin Betz
-pubDate: "2023-12-06"
+date: "2023-12-06"
 tags:
   - "assumptions"
   - "feedback"

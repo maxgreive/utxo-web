@@ -1,7 +1,7 @@
 ---
 title: "Die fehlende Dimension bei der Entwicklung nachhaltiger Produkte"
 author: Martin Betz
-pubDate: "2024-01-29"
+date: "2024-01-29"
 tags:
   - "business-strategy"
   - "problem-solution-fit"

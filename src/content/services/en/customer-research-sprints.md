@@ -1,6 +1,6 @@
 ---
 title: Customer Insight Sprints
-pubDate: 'Jul 22 2022'
+date: 'Jul 22 2022'
 description: With our expertise and methodology, we help you to gain profitable insights and successful results in the shortest possible time. From day one.
 previewImage: ../images/workshop-loesungen-alex.jpg
 icon: flaticon-rating

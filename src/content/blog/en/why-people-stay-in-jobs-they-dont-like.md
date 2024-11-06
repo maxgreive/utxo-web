@@ -1,7 +1,7 @@
 ---
 title: "Why do people stay in jobs they don't like?"
 author: Martin Betz
-pubDate: "2024-01-08"
+date: "2024-01-08"
 tags:
   - "decision-making"
   - "jobs-to-be-done"

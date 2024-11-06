@@ -1,7 +1,7 @@
 ---
 title: "Wie kann man Problem und Lösung trennen?"
 author: Martin Betz
-pubDate: "2024-01-24"
+date: "2024-01-24"
 tags:
   - "bias"
   - "framework"

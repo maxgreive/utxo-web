@@ -4,10 +4,10 @@ import FormattedDate from '@components/FormattedDate.astro'
 import { people, getPersonPath } from '@utilities/people'
 interface Props {
 	authorFullName: string,
-	pubDate: Date,
+	date: Date,
 	updatedDate: Date
 }
-const { authorFullName  = '', pubDate, updatedDate } = Astro.props
+const { authorFullName  = '', date, updatedDate } = Astro.props
 let person: Person = people.find(person => {return person.fullName === authorFullName})
 const hasAuthorLink: boolean = typeof person === 'object'
 ---
@@ -17,7 +17,7 @@ const hasAuthorLink: boolean = typeof person === 'object'
 		<span>{ !hasAuthorLink && <span>{authorFullName}</span> }</span>
 		<span>, </span>
 	}
-	<FormattedDate date={pubDate} />
+	<FormattedDate date={date} />
 		{updatedDate && (
 				<span >
 					Last updated on <FormattedDate date={updatedDate} />

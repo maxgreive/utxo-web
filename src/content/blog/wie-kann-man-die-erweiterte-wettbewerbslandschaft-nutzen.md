@@ -1,7 +1,7 @@
 ---
 title: "Wie kann man die erweiterte Wettbewerbslandschaft nutzen?"
 author: Martin Betz
-pubDate: "2024-03-05"
+date: "2024-03-05"
 tags:
   - "competing-against-luck"
   - "how-to"

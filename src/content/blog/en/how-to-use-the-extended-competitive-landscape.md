@@ -1,7 +1,7 @@
 ---
 title: "How to use the extended competitive landscape?"
 author: Martin Betz
-pubDate: "2024-03-05"
+date: "2024-03-05"
 tags:
   - "competing-against-luck"
   - "how-to"

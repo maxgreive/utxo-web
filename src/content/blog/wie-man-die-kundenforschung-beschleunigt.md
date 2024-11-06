@@ -1,7 +1,7 @@
 ---
 title: "Wie man die Kundenforschung beschleunigt"
 author: Martin Betz
-pubDate: "2023-12-11"
+date: "2023-12-11"
 tags:
   - "business-strategy"
   - "customer-research"

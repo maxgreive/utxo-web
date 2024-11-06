@@ -1,7 +1,7 @@
 ---
 title: "Was sind gute Metriken"
 author: Martin Betz
-pubDate: "2023-11-15"
+date: "2023-11-15"
 tags:
   - "business-strategy"
   - "how-to"

@@ -2,7 +2,7 @@
 title: Botcoin - Im Dialog mit einer KI
 secret: true
 author: Peter Rochel
-pubDate: 2024-09-26
+date: 2024-09-26
 canonicalURL: https://oberwasser-consulting.de/bitcoin-chatgpt-ki-dialog/
 tags:
   - bitcoin

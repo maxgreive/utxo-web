@@ -10,7 +10,7 @@ const blogCollection = defineCollection({
 		author: z.string().optional(),
 		reference: z.string().optional(),
 		// Transform string to Date object
-		pubDate: z.coerce.date(),
+		date: z.coerce.date(),
 		updatedDate: z.coerce.date().optional(),
 		previewImage: image().optional(),
 		secret: z.boolean().default(false),
@@ -26,7 +26,7 @@ const serviceCollection = defineCollection({
 		title: z.string(),
 		reference: z.string().optional(),
 		description: z.string().optional(),
-		pubDate: z.coerce.date(),
+		date: z.coerce.date(),
 		icon: z.string().optional(),
 		secret: z.boolean().default(false),
 		tags: z.array(z.string()).default(['other']),

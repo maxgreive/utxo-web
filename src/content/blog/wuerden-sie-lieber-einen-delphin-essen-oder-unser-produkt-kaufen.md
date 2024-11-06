@@ -1,7 +1,7 @@
 ---
 title: "Würden Sie lieber einen Delfin essen oder unser Produkt kaufen?"
 author: Martin Betz
-pubDate: "2023-12-15"
+date: "2023-12-15"
 tags:
   - "better-questions"
   - "customer-research"

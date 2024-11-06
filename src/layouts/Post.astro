@@ -11,7 +11,7 @@ import FormattedDate from "@components/FormattedDate.astro";
 import { people, getPersonPath, type Person } from "@src/utilities/people";
 
 const frontmatter = Astro.props,
-  { title, pubDate, tags, author } = Astro.props,
+  { title, date, tags, author } = Astro.props,
   previewImageFile = await getImage({ src: frontmatter.previewImage }),
   realTags: string[] = tags.filter((tag: any) => {
     return tag !== "other";
@@ -46,11 +46,11 @@ let person: Person = people.find((person) => {
               <h2 class="title">{title}</h2>
               <div class="blog-meta-three">
                 <ul class="list-wrap">
-                  <!-- <Byline authorFullName={author} {pubDate} {updatedDate} /> -->
+                  <!-- <Byline authorFullName={author} {date} {updatedDate} /> -->
 
                   <li>
                     <i class="far fa-calendar"></i>
-                    <FormattedDate date={pubDate} />
+                    <FormattedDate date={date} />
                   </li>
                   {
                     person && person.avatar && (

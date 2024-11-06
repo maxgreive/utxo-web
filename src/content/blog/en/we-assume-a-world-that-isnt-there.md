@@ -1,7 +1,7 @@
 ---
 title: "We assume a world, that isn't there"
 author: Martin Betz
-pubDate: "2023-12-06"
+date: "2023-12-06"
 tags:
   - "assumptions"
   - "feedback"

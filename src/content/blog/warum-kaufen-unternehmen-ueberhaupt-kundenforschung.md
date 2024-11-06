@@ -1,7 +1,7 @@
 ---
 title: "Warum kaufen Unternehmen überhaupt Kundenforschung?"
 author: Martin Betz
-pubDate: "2024-02-02"
+date: "2024-02-02"
 tags:
   - "customer-research"
   - "innovation"

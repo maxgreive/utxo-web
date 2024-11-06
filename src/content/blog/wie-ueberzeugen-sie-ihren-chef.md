@@ -1,7 +1,7 @@
 ---
 title: "Wie überzeugen Sie Ihren Chef?"
 author: Martin Betz
-pubDate: "2024-02-05"
+date: "2024-02-05"
 tags:
   - "decision-making"
   - "framework"

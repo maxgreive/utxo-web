@@ -6,7 +6,7 @@ tags:
   - experiments
   - hypothesis
   - uncertainty
-pubDate: 2024-11-01T01:00:00.000Z
+date: 2024-11-01T01:00:00.000Z
 previewImage: ../images/mann-blau-langarmhemd-hamburg.jpg
 reference: CP0104
 ---

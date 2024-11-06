@@ -1,7 +1,7 @@
 ---
 title: "How to get your customers attention?"
 author: Martin Betz
-pubDate: "2024-02-07"
+date: "2024-02-07"
 tags:
   - "how-to"
   - "language"

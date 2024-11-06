@@ -1,6 +1,6 @@
 ---
 title: "Bargeldlose Bitcoin-Zahlungen im Einzelhandel und Gastronomie - Ein Innovationsleitfaden"
-pubDate: "2024-09-26"
+date: "2024-09-26"
 author: Peter Rochel
 canonicalURL: "https://oberwasser-consulting.de/bitcoin-zahlungen-einzelhandel-gastronomie/"
 tags:

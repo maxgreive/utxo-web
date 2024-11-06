@@ -1,7 +1,7 @@
 ---
 title: Niemand will Blockchain - Jeder will Pay per Use
 author: Peter Rochel
-pubDate: 2024-09-07
+date: 2024-09-07
 canonicalURL: https://oberwasser-consulting.de/podcast045/
 tags:
   - bitcoin

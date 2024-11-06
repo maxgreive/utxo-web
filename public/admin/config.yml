@@ -11,7 +11,7 @@ collections:
       - { label: "Author", name: "author", widget: "string" }
       - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Description", name: "description", widget: "string", required: false }
-      - { label: "Publish Date", name: "pubDate", widget: "datetime", default: "{{now}}" }
+      - { label: "Publish Date", name: "date", widget: "datetime", default: "{{now}}" }
       - { label: "Canonical URL", name: "canonicalURL", widget: "string", required: false }
       - { label: "Featured Image", name: "previewImage", widget: "image", required: false }
       - { label: "Reference", name: "reference", widget: "string", hint: "Unique handle to link posts between languages.", required: false }
@@ -28,7 +28,7 @@ collections:
       - { label: "Author", name: "author", widget: "string" }
       - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Description", name: "description", widget: "string", required: false }
-      - { label: "Publish Date", name: "pubDate", widget: "datetime", default: "{{now}}" }
+      - { label: "Publish Date", name: "date", widget: "datetime", default: "{{now}}" }
       - { label: "Canonical URL", name: "canonicalURL", widget: "string", required: false }
       - { label: "Featured Image", name: "previewImage", widget: "image", required: false }
       - { label: "Reference", name: "reference", widget: "string", hint: "Unique handle to link posts between languages.", required: false }
@@ -42,7 +42,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string", required: false }
-      - { label: "Publish Date", name: "pubDate", widget: "datetime", default: "{{now}}" }
+      - { label: "Publish Date", name: "date", widget: "datetime", default: "{{now}}" }
       - { label: "Featured Image", name: "previewImage", widget: "image", required: false }
       - { label: "Icon", name: "icon", widget: "string", required: false, default: "flaticon-round-table" }
       - label: "Sidebar"
@@ -111,7 +111,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string", required: false }
-      - { label: "Publish Date", name: "pubDate", widget: "datetime", default: "{{now}}" }
+      - { label: "Publish Date", name: "date", widget: "datetime", default: "{{now}}" }
       - { label: "Featured Image", name: "previewImage", widget: "image", required: false }
       - { label: "Icon", name: "icon", widget: "string", required: false, default: "flaticon-round-table" }
       - label: "Sidebar"

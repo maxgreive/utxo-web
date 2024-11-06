@@ -1,7 +1,7 @@
 ---
 title: "Wo soll man anfangen, wenn das Geschäft nicht läuft"
 author: Martin Betz
-pubDate: "2023-11-13"
+date: "2023-11-13"
 tags:
   - "business-strategy"
   - "experiments"

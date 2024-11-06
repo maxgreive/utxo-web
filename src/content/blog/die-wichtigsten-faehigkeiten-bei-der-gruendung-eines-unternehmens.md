@@ -1,7 +1,7 @@
 ---
 title: "Die wichtigsten Fähigkeiten bei der Gründung eines Unternehmens"
 author: Martin Betz
-pubDate: "2024-01-05"
+date: "2024-01-05"
 tags:
   - "business"
   - "entrepreneurship"

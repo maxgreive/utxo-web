@@ -1,7 +1,7 @@
 ---
 title: "Christmas special: AI picture outtakes"
 author: Martin Betz
-pubDate: "2023-12-22"
+date: "2023-12-22"
 tags:
   - "ai"
   - "humor"

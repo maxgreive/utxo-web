@@ -5,7 +5,7 @@ author: Martin Betz
 description: Learn how to structure and implement effective business
   experiments. From forming hypotheses to interpreting results - explained step
   by step.
-pubDate: 2024-10-30T09:00:00.000Z
+date: 2024-10-30T09:00:00.000Z
 previewImage: ../images/indonesien-person-druckerpapier.jpg
 reference: CP0102
 ---
