@@ -1,7 +1,7 @@
 ---
 title: "Weihnachts-Special: AI-Bildausschnitte"
 author: Martin Betz
-date: "2023-12-22"
+pubDate: "2023-12-22"
 tags:
   - "ai"
   - "humor"

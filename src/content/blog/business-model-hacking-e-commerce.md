@@ -1,7 +1,7 @@
 ---
 title: "Business Model Hacking E-Commerce"
 author: Peter Rochel
-date: "2024-10-29"
+pubDate: "2024-10-29"
 canonicalURL: "https://oberwasser-consulting.de/business-model-hacking-e-commerce"
 tags:
   - "business-model-hacking"

@@ -1,7 +1,7 @@
 ---
 title: "Alex von Frankenberg - Einhörner made in Germany"
 author: Peter Rochel
-date: "2024-10-27"
+pubDate: "2024-10-27"
 tags:
   - "bitcoin"
   - "iu-staffel-2"

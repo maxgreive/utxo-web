@@ -1,7 +1,7 @@
 ---
 title: "Wie man dieses Jahr besonders macht"
 author: Martin Betz
-date: "2023-12-31"
+pubDate: "2023-12-31"
 tags:
   - "decision-making"
   - "how-to"

@@ -1,7 +1,7 @@
 ---
 title: "Wer nicht weiß, kauft nicht"
 author: Martin Betz
-date: "2023-12-01"
+pubDate: "2023-12-01"
 tags:
   - "decision-making"
   - "product-language-fit"

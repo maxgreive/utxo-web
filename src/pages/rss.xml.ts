@@ -17,7 +17,7 @@ export async function GET(context: APIContext){
 		site: context.site,
 		items: postsToRender.map((post) => ({
 			title: post.title ?? "",
-			date: post.date ?? new Date(),
+			pubDate: post.pubDate ?? new Date(),
 			link: post.link,
 			content: sanitizeHtml(parser.render(post.body)),
 			...post

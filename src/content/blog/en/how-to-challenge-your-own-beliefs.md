@@ -1,7 +1,7 @@
 ---
 title: "How to challenge your own beliefs"
 author: Martin Betz
-date: "2023-11-24"
+pubDate: "2023-11-24"
 tags:
   - "feedback"
   - "learning"

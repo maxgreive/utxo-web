@@ -1,7 +1,7 @@
 ---
 title: "Es geht nicht um deinen Fortschritt"
 author: Martin Betz
-date: "2023-11-17"
+pubDate: "2023-11-17"
 tags:
   - "customer-focus"
   - "features"

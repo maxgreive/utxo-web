@@ -1,7 +1,7 @@
 ---
 title: "Warum Unternehmen nicht auf ihre Nutzerforschung reagieren"
 author: Martin Betz
-date: "2024-02-22"
+pubDate: "2024-02-22"
 tags:
   - "customer-research"
   - "how-to"

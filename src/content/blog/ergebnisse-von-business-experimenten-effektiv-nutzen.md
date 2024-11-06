@@ -9,7 +9,7 @@ tags:
 description: Erfahre, wie du die Ergebnisse deiner Business-Experimente richtig
   interpretierst und welche Folgehandlungen sich daraus ableiten lassen. Von der
   Datenanalyse zur effektiven Entscheidungsfindung.
-date: 2024-11-01T01:00:00.000Z
+pubDate: 2024-11-01T01:00:00.000Z
 canonicalURL: CP0104
 previewImage: images/mann-blau-langarmhemd-hamburg.jpg
 reference: CP0104

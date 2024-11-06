@@ -1,7 +1,7 @@
 ---
 title: "Sind Umfragen nützlich für die Produktentwicklung?"
 author: Martin Betz
-date: "2024-03-07"
+pubDate: "2024-03-07"
 tags:
   - "methodology"
   - "product-development"

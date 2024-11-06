@@ -1,6 +1,6 @@
 ---
 title: "Bitcoin - Treiber der Clean Disruption?"
-date: "2024-09-29"
+pubDate: "2024-09-29"
 author: Peter Rochel
 canonicalURL: "https://oberwasser-consulting.de/bitcoin-und-saubere-energie/"
 tags:

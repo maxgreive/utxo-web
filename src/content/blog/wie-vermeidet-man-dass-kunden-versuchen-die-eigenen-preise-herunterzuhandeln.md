@@ -1,7 +1,7 @@
 ---
 title: "Wie Sie verhindern, dass Kunden versuchen, Ihre Preise herunterzuhandeln"
 author: Martin Betz
-date: "2024-01-10"
+pubDate: "2024-01-10"
 tags:
   - "business-strategy"
   - "negotiation"

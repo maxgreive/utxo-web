@@ -1,7 +1,7 @@
 ---
 title: "Deutsche Telekoms Dirk Roeder: Blockchain und Bitcoin in der Unternehmenswelt"
 author: Martin Betz
-date: "2023-12-11"
+pubDate: "2023-12-11"
 tags:
   - "business-strategy"
   - "podcast"

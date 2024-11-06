@@ -1,7 +1,7 @@
 ---
 title: "Knowing when to act insecure"
 author: Martin Betz
-date: "2023-12-20"
+pubDate: "2023-12-20"
 tags:
   - "business-strategy"
   - "entrepreneurship"

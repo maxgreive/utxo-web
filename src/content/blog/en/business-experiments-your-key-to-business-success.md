@@ -9,7 +9,7 @@ tags:
 description: Discover how business experiments can help you lead your company to
   success. Learn from practical examples how to test hypotheses, minimize risks
   and drive innovation through evidence-based decisions.
-date: 2024-10-29T09:00:00.000Z
+pubDate: 2024-10-29T09:00:00.000Z
 previewImage: ../images/person-schreibt-auf-papier.jpg
 reference: CP0101
 ---

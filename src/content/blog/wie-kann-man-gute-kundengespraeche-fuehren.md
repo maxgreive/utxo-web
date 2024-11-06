@@ -1,7 +1,7 @@
 ---
 title: "Wie führt man gute Kundengespräche?"
 author: Martin Betz
-date: "2024-01-19"
+pubDate: "2024-01-19"
 tags:
   - "better-questions"
   - "customer-research"

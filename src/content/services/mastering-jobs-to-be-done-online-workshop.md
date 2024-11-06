@@ -1,7 +1,7 @@
 ---
 title: Mastering Jobs to Be Done Online Workshop
 description: Melde Dich noch heute an und mach den ersten Schritt, um die Jobs-to-Be-Done-Methodik in Deinem Unternehmen erfolgreich umzusetzen. Gemeinsam erreichen wir Deine Ziele!
-date: Jul 22 2022
+pubDate: Jul 22 2022
 previewImage: ./images/workshop-timer-gradient.png
 icon: flaticon-round-table
 sidebar:

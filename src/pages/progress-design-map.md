@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/Page.astro"
 title: Progress Design Map – Visuelles Tool für Innovation und JTBD
-date: 'Oct 14 2024'
+pubDate: 'Oct 14 2024'
 description: Mit unserer Expertise und Methodik verhelfen wir Dir in kürzester Zeit zu gewinnbringenden Erkenntnissen und erfolgreichen Ergebnissen. Vom ersten Tag an.
 icon: flaticon-rating
 ---

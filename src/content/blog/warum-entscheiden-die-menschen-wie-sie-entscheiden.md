@@ -1,7 +1,7 @@
 ---
 title: "Warum entscheiden Menschen so, wie sie es tun?"
 author: Martin Betz
-date: "2023-11-20"
+pubDate: "2023-11-20"
 tags:
   - "decision-making"
 previewImage: "./images/DALL·E-2023-11-13-11.46.21-A-person-with-a-considering-look-on-their-face-surrounded-by-floating-data-elements-indicating-various-elements-they-are-taking-into-consideration.-T.png"

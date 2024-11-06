@@ -1,7 +1,7 @@
 ---
 title: "Wie man seine eigenen Überzeugungen hinterfragt"
 author: Martin Betz
-date: "2023-11-24"
+pubDate: "2023-11-24"
 tags:
   - "feedback"
   - "learning"

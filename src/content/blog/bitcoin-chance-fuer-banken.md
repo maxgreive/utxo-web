@@ -1,7 +1,7 @@
 ---
 title: "Wichtig statt kompliziert - Die gute Beziehung zwischen Bitcoin und Bank"
 author: Peter Rochel
-date: "2024-09-16"
+pubDate: "2024-09-16"
 canonicalURL: "https://oberwasser-consulting.de/bitcoin-chance-fuer-banken/"
 tags:
   - "bitcoin"

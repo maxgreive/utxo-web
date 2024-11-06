@@ -1,7 +1,7 @@
 ---
 title: "Die Macht des Schreibens"
 author: Martin Betz
-date: "2024-01-26"
+pubDate: "2024-01-26"
 tags:
   - "personal"
   - "progress"

@@ -1,6 +1,6 @@
 ---
 title: Customer Insight Sprints
-date: 'Jul 22 2022'
+pubDate: 'Jul 22 2022'
 description: Mit unserer Expertise und Methodik verhelfen wir Dir in kürzester Zeit zu gewinnbringenden Erkenntnissen und erfolgreichen Ergebnissen. Vom ersten Tag an.
 previewImage: ./images/workshop-loesungen-alex.jpg
 icon: flaticon-rating

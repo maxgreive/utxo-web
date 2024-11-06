@@ -1,7 +1,7 @@
 ---
 title: "Are personas useful for product development?"
 author: Martin Betz
-date: "2024-01-15"
+pubDate: "2024-01-15"
 tags:
   - "framework"
   - "personas"

@@ -1,7 +1,7 @@
 ---
 title: "Wir sind so nah dran"
 author: Martin Betz
-date: "2023-11-29"
+pubDate: "2023-11-29"
 tags:
   - "bias"
   - "decision-making"

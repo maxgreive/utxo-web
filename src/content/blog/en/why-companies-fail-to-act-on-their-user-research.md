@@ -1,7 +1,7 @@
 ---
 title: "Why companies fail to act on their user research"
 author: Martin Betz
-date: "2024-02-22"
+pubDate: "2024-02-22"
 tags:
   - "customer-research"
   - "how-to"
