@@ -29,7 +29,7 @@ export default defineConfig({
 		}),
 		purgecss({
 			safelist: {
-				greedy: [/aos/, /swiper/]
+				greedy: [/aos/, /swiper/, /osano/]
 			}
 		}),
 		criticalcss()
