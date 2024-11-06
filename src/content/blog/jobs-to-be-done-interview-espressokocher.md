@@ -37,7 +37,7 @@ In dieser Podcast-Episode hörst du ein vollständiges The Wheel of Progress® J
 
 ### Hier direkt I+U Staffel 2 Episode 003 direkt anhören
 
-<iframe id="embedPlayer" src="https://embed.podcasts.apple.com/us/podcast/jobs-to-be-done-jtbd-interview/id1354901024?i=1000498622872&itsct=podcast_box&itscg=30200" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; transform: translateZ(0px); animation: 2s 6 loading-indicator; background-color: rgb(228, 228, 228);"></iframe>
+<iframe id="embedPlayer" data-osano="MARKETING" src="https://embed.podcasts.apple.com/us/podcast/jobs-to-be-done-jtbd-interview/id1354901024?i=1000498622872&itsct=podcast_box&itscg=30200" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; transform: translateZ(0px); animation: 2s 6 loading-indicator; background-color: rgb(228, 228, 228);"></iframe>
 
 ## Interview mit Auswertung am Wheel of Progress in Echtzeit
 

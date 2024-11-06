@@ -24,7 +24,7 @@ Wer sich heutzutage mit Innovation beschäftigt kommt an zwei großen Themenbere
 
 ### Episode direkt hier anhören:
 
-<iframe data-cookieconsent="marketing" data-cookieblock-src="https://embed.podcasts.apple.com/us/podcast/niemand-will-blockchain-jeder-will-pay-per-use/id1354901024?i=1000500630295&itsct=podcast_box&itscg=30200" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay \*; encrypted-media \*;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent; background-position: initial initial; background-repeat: initial initial;"></iframe>
+<iframe data-osano="MARKETING" src="https://embed.podcasts.apple.com/us/podcast/niemand-will-blockchain-jeder-will-pay-per-use/id1354901024?i=1000500630295&itsct=podcast_box&itscg=30200" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay \*; encrypted-media \*;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent; background-position: initial initial; background-repeat: initial initial;"></iframe>
 
 <div class="cookieconsent-optout-marketing">
   Bitte <a href="javascript:Cookiebot.renew()">akzeptiere Marketing-Cookies</a> um diese Folge im eingebetteten Player zu hören.

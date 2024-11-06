@@ -22,8 +22,7 @@ Dirk Roeder, der im September 2022 zur Deutschen Telekom kam, bringt umfassende 
 
 <iframe
   id="embedPlayer"
-  data-cookieblock-src="https://embed.podcasts.apple.com/us/podcast/e207-deutsche-telekom-goes-lightning-with-dirk-r%C3%B6der/id1718939630?i=1000636925173&amp;itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto"
-  data-cookieconsent="marketing"
+  data-osano="MARKETING" src="https://embed.podcasts.apple.com/us/podcast/e207-deutsche-telekom-goes-lightning-with-dirk-r%C3%B6der/id1718939630?i=1000636925173&amp;itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto"
   style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; transform: translateZ(0px); animation: 2s 6 loading-indicator; background-color: #e4e4e4;"
   height="175px"
   frameborder="0"

@@ -23,7 +23,7 @@ Peter spricht mit Kristian Kläger, dem Geschäftsführer der Kläger Gruppe, ü
 
 #### Diese Episode kannst du auch hier auf der Website hören:
 
-<iframe allow="autoplay \*; encrypted-media \*; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" data-cookieconsent="marketing" data-cookieblock-src="https://embed.podcasts.apple.com/de/podcast/bitcoin-strategie-im-mittelstand/id1354901024?i=1000590499369"></iframe>
+<iframe allow="autoplay; encrypted-media; fullscreen; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" data-osano="MARKETING" src="https://embed.podcasts.apple.com/de/podcast/bitcoin-strategie-im-mittelstand/id1354901024?i=1000590499369"></iframe>
 
 <div class="cookieconsent-optout-marketing">
   Bitte <a href="javascript:Cookiebot.renew()">akzeptiere Marketing-Cookies</a> um diese Folge im eingebetteten Player zu hören.
