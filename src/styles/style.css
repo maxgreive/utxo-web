@@ -13620,3 +13620,10 @@ footer .list-wrap li a:hover::before {
 .services-details-wrap td {
   border-width: 1px;
 }
+
+.osano-cm-header,
+.osano-cm-toggle__label,
+.osano-cm-description,
+.osano-cm-description p {
+  color: #FFFFFF;
+}
