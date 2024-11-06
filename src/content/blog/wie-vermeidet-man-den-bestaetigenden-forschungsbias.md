@@ -1,7 +1,7 @@
 ---
 title: "Wie vermeidet man den bestätigenden Forschungsbias?"
 author: Martin Betz
-pubDate: "2024-01-22"
+pubDate: 2024-01-22T01:00:00.000Z
 tags:
   - "better-questions"
   - "bias"

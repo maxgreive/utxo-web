@@ -1,7 +1,7 @@
 ---
 title: "Wie können Sie die Aufmerksamkeit Ihrer Kunden gewinnen?"
 author: Martin Betz
-pubDate: "2024-02-07"
+pubDate: 2024-02-07T01:00:00.000Z
 tags:
   - "how-to"
   - "language"

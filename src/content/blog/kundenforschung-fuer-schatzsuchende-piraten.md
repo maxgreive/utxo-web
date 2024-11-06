@@ -1,7 +1,7 @@
 ---
 title: "Kundenforschung für Schatzsuchende Piraten"
 author: Martin Betz
-pubDate: "2024-03-12"
+pubDate: 2024-03-12T01:00:00.000Z
 tags:
   - "customer-research"
   - "framework"

@@ -1,7 +1,7 @@
 ---
 title: "Wissen, wann man sich unsicher verhält"
 author: Martin Betz
-pubDate: "2023-12-20"
+pubDate: 2023-12-20T01:00:00.000Z
 tags:
   - "business-strategy"
   - "entrepreneurship"

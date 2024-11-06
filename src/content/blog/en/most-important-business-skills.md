@@ -1,7 +1,7 @@
 ---
 title: "The most important skills when starting a business"
 author: Martin Betz
-pubDate: "2024-01-05"
+pubDate: 2024-01-05T01:00:00.000Z
 tags:
   - "business"
   - "entrepreneurship"

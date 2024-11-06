@@ -1,7 +1,7 @@
 ---
 title: "Kann KI Nutzerforschung durchführen?"
 author: Martin Betz
-pubDate: "2024-02-15"
+pubDate: 2024-02-15T01:00:00.000Z
 tags:
   - "ai"
   - "customer-research"

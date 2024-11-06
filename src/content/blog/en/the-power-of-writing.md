@@ -1,7 +1,7 @@
 ---
 title: "The power of writing"
 author: Martin Betz
-pubDate: "2024-01-26"
+pubDate: 2024-01-26T01:00:00.000Z
 tags:
   - "personal"
   - "progress"

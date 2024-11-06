@@ -1,7 +1,7 @@
 ---
 title: "Warum bleiben Menschen in Jobs, die sie nicht mögen?"
 author: Martin Betz
-pubDate: "2024-01-08"
+pubDate: 2024-01-08T01:00:00.000Z
 tags:
   - "decision-making"
   - "jobs-to-be-done"

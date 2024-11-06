@@ -1,7 +1,7 @@
 ---
 title: "How to separate problem and solution?"
 author: Martin Betz
-pubDate: "2024-01-24"
+pubDate: 2024-01-24T01:00:00.000Z
 tags:
   - "bias"
   - "framework"

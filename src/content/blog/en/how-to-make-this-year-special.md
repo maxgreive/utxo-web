@@ -1,7 +1,7 @@
 ---
 title: "How to make this year special"
 author: Martin Betz
-pubDate: "2023-12-31"
+pubDate: 2023-12-31T01:00:00.000Z
 tags:
   - "decision-making"
   - "how-to"

@@ -1,7 +1,7 @@
 ---
 title: Deine Sprache schränkt Deine Leistungen ein
 author: Martin Betz
-pubDate: 2024-01-31
+pubDate: 2024-01-31T00:00:00.000Z
 tags:
   - framework
   - how-to

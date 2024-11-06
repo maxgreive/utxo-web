@@ -1,7 +1,7 @@
 ---
 title: "Are surveys useful for product development"
 author: Martin Betz
-pubDate: "2024-03-07"
+pubDate: 2024-03-07T01:00:00.000Z
 tags:
   - "methodology"
   - "product-development"

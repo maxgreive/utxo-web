@@ -1,7 +1,7 @@
 ---
 title: "Was ist der Unterschied zwischen Nutzerforschung und Kundenforschung?"
 author: Martin Betz
-pubDate: "2024-02-27"
+pubDate: 2024-02-27T01:00:00.000Z
 tags:
   - "customer-research"
   - "framework"

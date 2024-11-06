@@ -1,7 +1,7 @@
 ---
 title: "Wie man das Produkt sprachlich anpasst"
 author: Martin Betz
-pubDate: "2023-12-13"
+pubDate: 2023-12-13T01:00:00.000Z
 tags:
   - "buying-phases"
   - "customer-focus"

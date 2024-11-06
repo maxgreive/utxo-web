@@ -1,7 +1,7 @@
 ---
 title: "The stories we tell ourselves when we fail"
 author: Martin Betz
-pubDate: "2024-02-12"
+pubDate: 2024-02-12T01:00:00.000Z
 tags:
   - "entrepreneurship"
   - "failure"

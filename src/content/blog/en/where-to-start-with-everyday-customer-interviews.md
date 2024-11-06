@@ -1,7 +1,7 @@
 ---
 title: "Where to start with everyday customer interviews"
 author: Martin Betz
-pubDate: "2024-02-29"
+pubDate: 2024-02-29T01:00:00.000Z
 tags:
   - "better-questions"
   - "customer-research"

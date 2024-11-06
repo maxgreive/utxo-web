@@ -1,7 +1,7 @@
 ---
 title: "Was macht Ihr Unternehmen fit?"
 author: Martin Betz
-pubDate: "2023-11-27"
+pubDate: 2023-11-27T01:00:00.000Z
 tags:
   - "business-culture-fit"
   - "problem-solution-fit"

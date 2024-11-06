@@ -1,7 +1,7 @@
 ---
 title: "Korrelation mit Kausalität verwechseln"
 author: Martin Betz
-pubDate: "2023-12-18"
+pubDate: 2023-12-18T01:00:00.000Z
 tags:
   - "causailty"
   - "correlation"

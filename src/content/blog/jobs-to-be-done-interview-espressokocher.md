@@ -1,7 +1,7 @@
 ---
 title: "Es geht nicht um deinen Fortschritt"
 author: Peter Rochel
-pubDate: "2024-11-05"
+pubDate: 2024-11-05T01:00:00.000Z
 tags:
   - "Podcast"
   - "JTBD"

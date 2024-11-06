@@ -1,7 +1,7 @@
 ---
 title: "Die Perspektive der zu erledigenden Aufgaben verstehen"
 author: Martin Betz
-pubDate: "2024-01-17"
+pubDate: 2024-01-17T01:00:00.000Z
 tags:
   - "framework"
   - "jobs-to-be-done"
