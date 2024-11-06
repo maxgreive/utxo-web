@@ -31,26 +31,26 @@ Peter spricht mit Kristian Kläger, dem Geschäftsführer der Kläger Gruppe, ü
 
 ## Hier findest du alle Kapitel dieser Episode mit Zeitangabe:
 
-00:00:00.000 Intro
-00:02:28.375 Familienunternehmen
-00:03:31.375 Abfüllen, Verpacken und zerstäuben
-00:07:30.875 Fokus auf Qualität
-00:16:23.750 Tiefe Wertschöpfung, statt breite
-00:19:23.625 Wozu eine Bitcoin-Strategie?
-00:21:58.304 Null oder… Eins!
-00:24:31.375 Beim Netzwerkeffekt hat es Klick gemacht
-00:26:37.875 No social Credits
-00:31:15.875 Zusammenfassung - Der Einstieg zu Bitcoin
-00:34:37.920 Spartechnologie für Unternehmensrücklagen
-00:41:50.750 BTC und Bilanz
-00:46:42.375 Rahmenbedingungen
-00:53:16.000 Einfach machen ist der Weg zur Zukunft
-00:56:12.000 Bitcoin im Energie- und Wärmemanagement
-01:01:30.000 Bitcoin für mehr regenrative Energie in Industrieprozessen
-01:10:04.000 Mining-Lab für den Proof of Concept
-01:13:11.000 Geschäftsmodell-Innovation
-01:16:04.000 Biticoin für Employer im Mittlestand
-01:18:34.000 Fazit
+00:00:00.000 Intro<br>
+00:02:28.375 Familienunternehmen<br>
+00:03:31.375 Abfüllen, Verpacken und zerstäuben<br>
+00:07:30.875 Fokus auf Qualität<br>
+00:16:23.750 Tiefe Wertschöpfung, statt breite<br>
+00:19:23.625 Wozu eine Bitcoin-Strategie?<br>
+00:21:58.304 Null oder… Eins!<br>
+00:24:31.375 Beim Netzwerkeffekt hat es Klick gemacht<br>
+00:26:37.875 No social Credits<br>
+00:31:15.875 Zusammenfassung - Der Einstieg zu Bitcoin<br>
+00:34:37.920 Spartechnologie für Unternehmensrücklagen<br>
+00:41:50.750 BTC und Bilanz<br>
+00:46:42.375 Rahmenbedingungen<br>
+00:53:16.000 Einfach machen ist der Weg zur Zukunft<br>
+00:56:12.000 Bitcoin im Energie- und Wärmemanagement<br>
+01:01:30.000 Bitcoin für mehr regenrative Energie in Industrieprozessen<br>
+01:10:04.000 Mining-Lab für den Proof of Concept<br>
+01:13:11.000 Geschäftsmodell-Innovation<br>
+01:16:04.000 Biticoin für Employer im Mittlestand<br>
+01:18:34.000 Fazit<br>
 01:21:52.000 Get Out
 
 ![Familienunternehmen und Bitcoin Strategie für den Mittelstand: Wie Sie den digitalen Trend nutzen können.](./images/Kristian_Klaeger.jpg)

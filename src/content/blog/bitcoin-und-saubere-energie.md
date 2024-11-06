@@ -26,17 +26,17 @@ previewImage: "./images/Green_Bitcoin.jpg"
   Bitte <a href="javascript:Cookiebot.renew()">akzeptiere Marketing-Cookies</a> um diese Folge im eingebetteten Player zu hören.
 </div>
 
-00:00:00 Intro
-00:10:36 Eine steile These?
-00:15:47 Was ist Bitcoin?
-00:18:24 Was ist Bitcoin Mining?
-00:22:12 Zusammenfassung Mining und Dezentralität
-00:24:56 Energieaufwand im Kontext menschlichen Handelns
-00:26:53 Kernfragen zum Thema Energieumwandlung
-00:31:40 Warum Bitcoin die Erschließung grüner Energiequellen immer schneller treibt
-00:40:54 Sinnige und unsinnige Einsatzbereiche
-00:45:54 The Green Bitcoin Theory
-00:49:27 Positive Einflüsse auf Konsum und Eigentumsrechte
+00:00:00 Intro<br>
+00:10:36 Eine steile These?<br>
+00:15:47 Was ist Bitcoin?<br>
+00:18:24 Was ist Bitcoin Mining?<br>
+00:22:12 Zusammenfassung Mining und Dezentralität<br>
+00:24:56 Energieaufwand im Kontext menschlichen Handelns<br>
+00:26:53 Kernfragen zum Thema Energieumwandlung<br>
+00:31:40 Warum Bitcoin die Erschließung grüner Energiequellen immer schneller treibt<br>
+00:40:54 Sinnige und unsinnige Einsatzbereiche<br>
+00:45:54 The Green Bitcoin Theory<br>
+00:49:27 Positive Einflüsse auf Konsum und Eigentumsrechte<br>
 00:52:53 Get Out
 
 ## Weiterführende Links und Referenzen

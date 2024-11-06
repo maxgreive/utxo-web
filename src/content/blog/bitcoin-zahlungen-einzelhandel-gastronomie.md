@@ -1,17 +1,16 @@
 ---
 title: "Bargeldlose Bitcoin-Zahlungen im Einzelhandel und Gastronomie - Ein Innovationsleitfaden"
-pubDate: "2024-09-26"
+pubDate: "2024-11-06"
 author: Peter Rochel
 canonicalURL: "https://oberwasser-consulting.de/bitcoin-zahlungen-einzelhandel-gastronomie/"
 tags:
-  - "bitcoin"
+  - "Bitcoin"
   - "disruption"
   - "iu-staffel-2"
   - "podcast"
   - "praxisbeispiel"
   - "startups"
 previewImage: "./images/Lipa.jpeg"
-secret: true
 ---
 
 ## Innovation im Bargeldlosen Zahlungsverkehr für Einzelhandel und Gastronomie
@@ -32,22 +31,22 @@ In der heutigen Zeit haben Unternehmen in der Gastronomie und im Einzelhandel vi
 
 ## Hier findest du alle Kapitel dieser Episode mit Zeitangabe:
 
-00:00:00 Teaser
-00:00:56 Reaktionen und Hinweise zu Kapitelmarken
-00:04:29 Intro
-00:09:30 Margenkiller im Zahlungsverkehr
-00:12:10 Lightning-Rail im Zahlungsverkehr
-00:23:42 Bargeldlos für alle
-00:26:19 Kein Chargeback Risiko
-00:35:47 3000 Zahlungen in 36h
-00:38:30 BTC rein Euro raus
-00:41:03 Datensicherheit
-00:49:11 Lipa Einsetzen im Unternehmen
-00:56:19 Das Business Model
-01:00:15 LIPA im Unternehmen nutzen
-01:04:51 Investieren in Lipa
-01:07:15 Rat an das jüngere Ich
-01:10:13 Bitcoin für Unternehmen
+00:00:00 Teaser<br>
+00:00:56 Reaktionen und Hinweise zu Kapitelmarken<br>
+00:04:29 Intro<br>
+00:09:30 Margenkiller im Zahlungsverkehr<br>
+00:12:10 Lightning-Rail im Zahlungsverkehr<br>
+00:23:42 Bargeldlos für alle<br>
+00:26:19 Kein Chargeback Risiko<br>
+00:35:47 3000 Zahlungen in 36h<br>
+00:38:30 BTC rein Euro raus<br>
+00:41:03 Datensicherheit<br>
+00:49:11 Lipa Einsetzen im Unternehmen<br>
+00:56:19 Das Business Model<br>
+01:00:15 LIPA im Unternehmen nutzen<br>
+01:04:51 Investieren in Lipa<br>
+01:07:15 Rat an das jüngere Ich<br>
+01:10:13 Bitcoin für Unternehmen<br>
 01:13:05 Get Out
 
 ## Kundennutzen vs. Händlernutzen - Wer hat welches Problem und welchen Nutzen?

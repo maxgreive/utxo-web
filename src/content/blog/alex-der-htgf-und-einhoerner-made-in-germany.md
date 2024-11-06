@@ -38,16 +38,16 @@ Wenn du dein Unternehmen schnell und nachhaltig mit [JTBD](https://oberwasser-co
 
 ### Kapitelmarken:
 
-00:00:00 Intro
-00:03:12 Innovationen mit Startups bauen seit 2005
-00:13:38 Wie schafft man es, wenn so viele scheitern?
-00:19:55 Innovation aus etablierten Organisationen
-00:23:09 Revolutionäre Ideen erkennen
-00:30:06 Warum Bitcoin disruptiv ist und zum dominanten Standard wird
-00:43:48 Unsichtbare Trends
-00:49:35 Der gesellschaftliche Impact des HTGF
-00:54:32 Die Rolle der Börse
-00:58:11 In den HTGF Investieren
+00:00:00 Intro<br>
+00:03:12 Innovationen mit Startups bauen seit 2005<br>
+00:13:38 Wie schafft man es, wenn so viele scheitern?<br>
+00:19:55 Innovation aus etablierten Organisationen<br>
+00:23:09 Revolutionäre Ideen erkennen<br>
+00:30:06 Warum Bitcoin disruptiv ist und zum dominanten Standard wird<br>
+00:43:48 Unsichtbare Trends<br>
+00:49:35 Der gesellschaftliche Impact des HTGF<br>
+00:54:32 Die Rolle der Börse<br>
+00:58:11 In den HTGF Investieren<br>
 01:00:25 Get Out
 
 #### Überall da zu hören, wo es Podcasts gibt..

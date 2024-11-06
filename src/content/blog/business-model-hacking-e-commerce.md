@@ -30,17 +30,17 @@ Business Model Design ist heute eine Pflichtübung für jedes Unternehmen. In
 
 ## Alle Themen und Kapitelmarken dieser Podcastfolge:
 
-00:00:00 Intro
-00:01:47 Frage an unser Publikum
-00:03:15 Themeneinstieg
-00:08:25 Vorteile durch Bitcoin im E-Commerce
-00:09:31 Wiederholung Business Model Canvas
-00:12:19 Bausteine im Business Model Canvas
-00:13:50 Desirability im Business Model von Shopinbit
-00:16:39 Feasibility im Shopinbit Business Model
-00:32:47 Profitabilität im Shopinbit Business Model
-00:37:27 Unfairer Vorteil
-00:44:32 Learning für das eigene Business Model Design
+00:00:00 Intro<br>
+00:01:47 Frage an unser Publikum<br>
+00:03:15 Themeneinstieg<br>
+00:08:25 Vorteile durch Bitcoin im E-Commerce<br>
+00:09:31 Wiederholung Business Model Canvas<br>
+00:12:19 Bausteine im Business Model Canvas<br>
+00:13:50 Desirability im Business Model von Shopinbit<br>
+00:16:39 Feasibility im Shopinbit Business Model<br>
+00:32:47 Profitabilität im Shopinbit Business Model<br>
+00:37:27 Unfairer Vorteil<br>
+00:44:32 Learning für das eigene Business Model Design<br>
 00:51:59 Get Out
 
 ![Business Model Canvas Innovation Beispiel E-Commerce Bitcoin](./images/IU-BM-Hacking-Shopinbit.png "Business Model Canvas Beispiel Boitcoin")

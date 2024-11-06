@@ -30,20 +30,20 @@ In dieser Podcastfolge von Innovate & Upgrade spricht Peter Rochel mit Andreas S
 
 ## Hier findest du alle Kapitel dieser Episode mit Zeitangabe:
 
-00:00:00 Intro
-00:02:47 Darum ist Bitcoin wichtig für eine Bank
-00:04:51 Das Thema übersehen
-00:09:45 Zuerst Bitcoin verstehen
-00:16:17 Kunden halten
-00:21:09 Bitcoin im Geschäftsmodell
-00:24:49 [Hinweis Bitcoin Business Innovation Bootcamp](https://oberwasser-consulting.de/swiss-bitcoin-conference/)
-00:25:57 Darum Fokus auf Bitcoin
-00:32:18 Wie der Markt reagiert
-00:36:48 Wert für Kunden schaffen
-00:45:30 Ein eigenes Bitcoin Handelsportal
-00:50:30 Experimente finanzieren
-01:02:24 Bitcoin, Krypto, Spekulation
-01:09:19 Was Banken jetzt tun sollten
+00:00:00 Intro<br>
+00:02:47 Darum ist Bitcoin wichtig für eine Bank<br>
+00:04:51 Das Thema übersehen<br>
+00:09:45 Zuerst Bitcoin verstehen<br>
+00:16:17 Kunden halten<br>
+00:21:09 Bitcoin im Geschäftsmodell<br>
+00:24:49 [Hinweis Bitcoin Business Innovation Bootcamp](https://oberwasser-consulting.de/swiss-bitcoin-conference/)<br>
+00:25:57 Darum Fokus auf Bitcoin<br>
+00:32:18 Wie der Markt reagiert<br>
+00:36:48 Wert für Kunden schaffen<br>
+00:45:30 Ein eigenes Bitcoin Handelsportal<br>
+00:50:30 Experimente finanzieren<br>
+01:02:24 Bitcoin, Krypto, Spekulation<br>
+01:09:19 Was Banken jetzt tun sollten<br>
 01:11:37 Get Out
 
 ## Wieso Bitcoin für Banken eine Chance und keine Bedrohung darstellt

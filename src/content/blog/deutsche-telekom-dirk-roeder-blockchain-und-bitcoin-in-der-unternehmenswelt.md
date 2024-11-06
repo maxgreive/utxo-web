@@ -46,15 +46,15 @@ Während der gesamten Episode beleuchtet Roeder das komplexe Zusammenspiel zwisc
 
 ## Episode-Highlights
 
-- (00:00:00) Intro und Vorstellung von Dirk
-- (00:04:08) Wie hat alles angefangen?
-- (00:08:32) Wann betritt Bitcoin die Bühne?
-- (00:23:43) Was ist das Geschäftsmodell?
-- (00:32:35) Wie begann die Zusammenarbeit mit UTXO Solution?
-- (00:38:02) Gibt es andere Wettbewerber, die dasselbe tun?
-- (00:41:45) Was ist die Zielgruppe?
-- (00:54:31) Pläne für die Zukunft
-- (00:55:29) Abschließende Worte und Outro
+00:00:00 Intro und Vorstellung von Dirk<br>
+00:04:08 Wie hat alles angefangen?<br>
+00:08:32 Wann betritt Bitcoin die Bühne?<br>
+00:23:43 Was ist das Geschäftsmodell?<br>
+00:32:35 Wie begann die Zusammenarbeit mit UTXO Solution?<br>
+00:38:02 Gibt es andere Wettbewerber, die dasselbe tun?<br>
+00:41:45 Was ist die Zielgruppe?<br>
+00:54:31 Pläne für die Zukunft<br>
+00:55:29 Abschließende Worte und Outro
 
 ## Wichtige Fragen, die in dieser Episode behandelt werden:
 

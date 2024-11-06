@@ -37,15 +37,15 @@ Throughout the episode, Roeder illuminates the complex interplay between traditi
 
 ## Episode Highlights
 
-- (00:00:00) Intro and Introduction Dirk
-- (00:04:08) How did everything start?
-- (00:08:32) When Bitcoin enters the stage?
-- (00:23:43) What is the business model?
-- (00:32:35) How did the corporation with UTXO Solution start
-- (00:38:02) Are there other competitors doing the same
-- (00:41:45) What is the target group?
-- (00:54:31) Plans for the future
-- (00:55:29) Final words and outro
+00:00:00 Intro and Introduction Dirk<br>
+00:04:08 How did everything start?<br>
+00:08:32 When Bitcoin enters the stage?<br>
+00:23:43 What is the business model?<br>
+00:32:35 How did the corporation with UTXO Solution start<br>
+00:38:02 Are there other competitors doing the same<br>
+00:41:45 What is the target group?<br>
+00:54:31 Plans for the future<br>
+00:55:29 Final words and outro
 
 ## Key Questions Addressed in this Episode:
 
