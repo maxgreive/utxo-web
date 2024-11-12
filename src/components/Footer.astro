@@ -6,7 +6,8 @@ import { defaultLocale, fallback } from "@i18n/i18n";
 import { footerMenu } from "../config";
 import { headerMenu } from "@src/header";
 import backgroundImage from "@src/images/footer_bg.jpg";
-import btcBundesverbandImage from "@src/images/logo/btc-bundesverband.png"
+import btcBundesverbandImage from "@src/images/logo/btc-bundesverband.png";
+import tuvRheinlandImage from "@src/images/logo/tuv-rheinland-mitglied.png";
 
 const menuLocale: string = footerMenu[Astro.currentLocale]
     ? Astro.currentLocale
@@ -24,7 +25,7 @@ const menuLocale: string = footerMenu[Astro.currentLocale]
     <div class="container">
       <div class="footer-top">
         <div class="row">
-          <div class="col-lg-4 col-md-7">
+          <div class="col-lg-4 col-md-6">
             <div class="footer-widget">
               <div class="fw-title">Information</div>
               <div class="footer-info">
@@ -73,7 +74,7 @@ const menuLocale: string = footerMenu[Astro.currentLocale]
           {
             footerMenuItems &&
               footerMenuItems.map((menu) => (
-                <div class="col-lg-3 col-md-5 col-sm-6">
+                <div class="col-lg-3 col-md-6 col-sm-6">
                   <div class="footer-widget">
                     <div class="fw-title">{menu.title}</div>
                     <div class="footer-link">
@@ -90,10 +91,13 @@ const menuLocale: string = footerMenu[Astro.currentLocale]
                 </div>
               ))
           }
-          <div class="col-lg-4 col-md-6 offset-lg-1 offset-md-3">
+          <div class="col-lg-5 col-md-6 offset-lg-0 offset-md-6">
             <div class="footer-widget">
               <div class="footer-image">
-                <img src={btcBundesverbandImage.src}>
+                <Picture src={btcBundesverbandImage} formats={["avif", "webp"]} width={320} alt="TÜV Rheinland Mitglied Logo"/>
+                <Picture src={tuvRheinlandImage} formats={["avif", "webp"]} width={100} alt="TÜV Rheinland Mitglied Logo"/>
+              </div>
+              <div class="footer-image">
               </div>
             </div>
           </div>
