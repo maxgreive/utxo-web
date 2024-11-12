@@ -1,6 +1,6 @@
 ---
 title: "Kanalphasenmodell: Optimiere Jobs-to-be-Done Research"
-date: "2023-05-06"
+pubDate: "2023-05-06"
 categories:
   - "blog"
   - "business-model-innovation"

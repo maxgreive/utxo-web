@@ -1,6 +1,6 @@
 ---
 title: "Die drei Arten von Innovation"
-date: "2022-08-13"
+pubDate: "2022-08-13"
 categories:
   - "blog"
   - "innovateupgrade"

@@ -1,6 +1,6 @@
 ---
 title: "Trigger-Events im JTBD Fortschrittszyklus"
-date: "2021-05-23"
+pubDate: "2021-05-23"
 categories:
   - "blog"
   - "innovateupgrade"

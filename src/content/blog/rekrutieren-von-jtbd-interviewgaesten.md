@@ -1,6 +1,6 @@
 ---
 title: "Rekrutieren von JTBD Interviewgästen"
-date: "2022-03-12"
+pubDate: "2022-03-12"
 categories:
   - "blog"
   - "innovateupgrade"

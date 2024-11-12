@@ -1,6 +1,6 @@
 ---
 title: "Hypothesenbasiert Arbeiten"
-date: "2022-04-09"
+pubDate: "2022-04-09"
 categories:
   - "blog"
   - "innovateupgrade"

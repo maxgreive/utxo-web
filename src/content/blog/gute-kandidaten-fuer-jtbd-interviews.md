@@ -1,6 +1,6 @@
 ---
 title: "Gute Kandidaten für JTBD Interviews"
-date: "2021-08-21"
+pubDate: "2021-08-21"
 categories:
   - "blog"
   - "innovateupgrade"

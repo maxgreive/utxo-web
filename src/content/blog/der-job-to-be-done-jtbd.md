@@ -1,6 +1,6 @@
 ---
 title: "Der Job to Be Done - JTBD"
-date: "2021-05-17"
+pubDate: "2021-05-17"
 categories:
   - "blog"
   - "innovateupgrade"

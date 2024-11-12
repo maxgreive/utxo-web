@@ -1,6 +1,6 @@
 ---
 title: "Was sind JTBD Interviews?"
-date: "2021-09-04"
+pubDate: "2021-09-04"
 categories:
   - "blog"
   - "innovateupgrade"

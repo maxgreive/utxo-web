@@ -1,6 +1,6 @@
 ---
 title: "Limitierender Kontext"
-date: "2021-07-24"
+pubDate: "2021-07-24"
 categories:
   - "blog"
   - "innovateupgrade"

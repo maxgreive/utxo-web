@@ -1,6 +1,6 @@
 ---
 title: "Die Lösungen - Deine Wettbewerber"
-date: "2021-11-13"
+pubDate: "2021-11-13"
 categories:
   - "blog"
   - "innovateupgrade"

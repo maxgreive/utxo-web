@@ -1,6 +1,6 @@
 ---
 title: "Interviewtechnik: Trigger-Events finden"
-date: "2021-07-10"
+pubDate: "2021-07-10"
 categories:
   - "blog"
   - "innovateupgrade"

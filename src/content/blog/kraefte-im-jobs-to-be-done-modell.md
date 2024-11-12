@@ -1,6 +1,6 @@
 ---
 title: "Kräfte im Jobs to Be Done Modell"
-date: "2021-06-12"
+pubDate: "2021-06-12"
 categories:
   - "innovateupgrade"
 tags:
