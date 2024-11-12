@@ -9472,6 +9472,11 @@ label {
   margin-bottom: 40px;
 }
 
+.footer-image {
+  display: flex;
+  justify-content: space-between;
+}
+
 .footer-widget .fw-title {
   font-size: 24px;
   margin-bottom: 0;
