@@ -97,12 +97,15 @@ collections:
           - label: "Download Text"
             name: "title"
             widget: "string"
+            required: false
           - label: "Button Link"
             name: "buttonLink"
             widget: "string"
+            required: false
           - label: "Button Text"
             name: "buttonLabel"
             widget: "string"
+            required: false
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "service-en"
     label: "Service EN"
@@ -128,18 +131,23 @@ collections:
           - label: "Download Title"
             name: "downloadTitle"
             widget: "string"
+            required: false
           - label: "Download Text"
             name: "downloadText"
             widget: "string"
+            required: false
           - label: "Download Link"
             name: "downloadLink"
             widget: "string"
+            required: false
           - label: "Download Button Text"
             name: "downloadButtonLabel"
             widget: "string"
+            required: false
           - label: "Download Button Icon (Fontawesome)"
             name: "downloadButtonIcon"
             widget: "string"
+            required: false
             default: "fa-file-pdf"
       - label: "FAQ"
         name: "questions"
@@ -160,12 +168,15 @@ collections:
           - label: "Download Text"
             name: "title"
             widget: "string"
+            required: false
           - label: "Button Link"
             name: "buttonLink"
             widget: "string"
+            required: false
           - label: "Button Text"
             name: "buttonLabel"
             widget: "string"
+            required: false
       - { label: "Body", name: "body", widget: "markdown" }
 backend:
   name: git-gateway
