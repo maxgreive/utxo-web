@@ -4,10 +4,10 @@ pubDate: 2021-06-12T00:00:00.000Z
 categories:
   - "innovateupgrade"
 tags:
+  - "Methodik"
   - "Podcast"
   - "elemente"
   - "jtbd"
-  - "wop"
   - "shot"
 author: Peter Rochel
 canonicalURL: "https://oberwasser-consulting.de/kraefte-im-jobs-to-be-done-modell"
@@ -38,7 +38,7 @@ Peter Rochel bringt in knapp sechs Minuten auf den Punkt, was es mit diesem zent
 
 ## Zentrales Element des Kunden-Jobs
 
-Kräfte sind eins von drei zentralen Elementen eines [Jobs to Be Done](https://oberwasser-consulting.de/der-job-to-be-done-jtbd/) und des [The Wheel of Progress® JTBD Canvas](https://oberwasser-consulting.de/jtbd-tools/). Ebenso wie [Ereignisse](https://oberwasser-consulting.de/trigger-events-des-jtbd-fortschrittszyklus/) und der Limitierender Kontext. Kräfte sind mit Emotion aufgeladenen Treiber oder Bremsen von Fortschritt und Veränderung.
+Kräfte sind eins von drei zentralen Elementen eines [Jobs to Be Done](https://oberwasser-consulting.de/der-job-to-be-done-jtbd/) und des [The Wheel of Progress® JTBD Canvas](https://oberwasser-consulting.de/jtbd-tools/). Ebenso wie [Ereignisse]/trigger-events-des-jtbd-fortschrittszyklus/) und der Limitierender Kontext. Kräfte sind mit Emotion aufgeladenen Treiber oder Bremsen von Fortschritt und Veränderung.
 
 Wir unterscheiden Kräfte dabei in 2 Hauptkategorien zu jeweils 3 spezifischen Gruppen. Um einen Job to Be Done und den Wunsch nach Fortschritt vollständig zu verstehen, werden immer auch alle sechs Kräfte benötigt.
 

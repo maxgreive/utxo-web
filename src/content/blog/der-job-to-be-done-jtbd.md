@@ -50,11 +50,11 @@ Wichtig dabei ist es, den Job und vor allem die Umstände, unter denen er auftau
 
 ![](./images/JTBD_Elements_4x4-1024x1024.jpg)
 
-_Zu einer genauen Beschreibung, mit der sich besonders gut arbeiten lässt, gehören immer drei Elemente: [Ereignisse](https://oberwasser-consulting.de/trigger-events-des-jtbd-fortschrittszyklus/), [Kräfte](https://oberwasser-consulting.de/kraefte-im-jobs-to-be-done-modell/) und limitierender Kontext._
+_Zu einer genauen Beschreibung, mit der sich besonders gut arbeiten lässt, gehören immer drei Elemente: [Ereignisse](/trigger-events-des-jtbd-fortschrittszyklus/), [Kräfte](/kraefte-im-jobs-to-be-done-modell/) und limitierender Kontext._
 
 ### Den Job to Be Done genau Beschreiben
 
-[Ereignisse](https://oberwasser-consulting.de/trigger-events-des-jtbd-fortschrittszyklus/) werden dabei meistens in bis zu 5 verschiedene Kategorien aufgeteilt, Kräfte in bis zu 8, limitierender Kontext in bis zu 3 Kategorien.
+[Ereignisse](/trigger-events-des-jtbd-fortschrittszyklus/) werden dabei meistens in bis zu 5 verschiedene Kategorien aufgeteilt, Kräfte in bis zu 8, limitierender Kontext in bis zu 3 Kategorien.
 Damit es nicht zu komplex wird, gilt auch hier die Faustregel: So viel wie nötig, so wenig wie möglich.
 
 ### Das ganze Bild sehen und verstehen: JTBD Canvas
@@ -71,7 +71,7 @@ Die Perspektive der Jobs-Brille hilft dabei, die **unsichtbare Mauer** zwischen 
 
 - [In Episode 03 der ersten Staffel besprechen wir die JTBD Theorie ausführlich](https://oberwasser-consulting.de/podcast003/)
 
-- [In dieser Episode geht es mit Sonja Knab von Burda Forward um JTBD in der betrieblichen Marktforschung](https://oberwasser-consulting.de/betriebliche-marktforschung-mit-jobs-to-be-done/)
+- [In dieser Episode geht es mit Sonja Knab von Burda Forward um JTBD in der betrieblichen Marktforschung](/betriebliche-marktforschung-mit-jobs-to-be-done/)
 
 - [In der Episode 40 der ersten Staffel geht es um das erfolgreiche implementieren von JTBD](https://oberwasser-consulting.de/podcast040/)
 

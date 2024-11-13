@@ -122,4 +122,4 @@ Insgesamt bietet das Lightning Network viele Möglichkeiten, die Art und Weise z
 
 - [Mehr zum Thema Bitcoinzahlungen, Chargeback-Risiko und mehr und dieser Podcastepisode mit Lawrence Bahr von Shopinbit](https://oberwasser-consulting.de/shopinbit-unfair-advantage/)
 
-- [Mehr zum Thema Business Model Innovation durch Bitcoinzahlung](https://oberwasser-consulting.de/business-model-hacking-e-commerce/)
+- [Mehr zum Thema Business Model Innovation durch Bitcoinzahlung](/business-model-hacking-e-commerce/)

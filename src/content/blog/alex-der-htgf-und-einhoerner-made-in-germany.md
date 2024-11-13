@@ -19,7 +19,7 @@ Alex von Frankenberg promovierte zum Thema Netzwerkeffekte und baute im Siemens 
 
 * * *
 
-Wenn du dein Unternehmen schnell und nachhaltig mit [JTBD](https://oberwasser-consulting.de/der-job-to-be-done-jtbd/) auf Innovations-Kurs bringen willst, dann **nimm** gern direkt **Kontakt** mit uns **auf** - da können wir dir helfen. Unsere [Workshops und Sprints](https://oberwasser-consulting.de/jobs-to-be-done-agentur/) eignen sich perfekt und liefern dir wertvolle **Ergebnisse** für dein Unternehmen **ab** dem **ersten** **Tag**.
+Wenn du dein Unternehmen schnell und nachhaltig mit [JTBD](/der-job-to-be-done-jtbd/) auf Innovations-Kurs bringen willst, dann **nimm** gern direkt **Kontakt** mit uns **auf** - da können wir dir helfen. Unsere [Workshops und Sprints](/leistungen) eignen sich perfekt und liefern dir wertvolle **Ergebnisse** für dein Unternehmen **ab** dem **ersten** **Tag**.
 
 * * *
 

@@ -54,7 +54,7 @@ Daten aus JTBD Interviews zahlen direkt auf alle Unternehmensbereiche ein, egal 
 
 - [Shot zum Thema JTBD und seine Elemente](https://oberwasser-consulting.de/der-job-to-be-done-jtbd/)
 
-- [Gute Probandinnen für JTBD Interviews finden](https://oberwasser-consulting.de/gute-kandidaten-fuer-jtbd-interviews/)
+- [Gute Probandinnen für JTBD Interviews finden]/gute-kandidaten-fuer-jtbd-interviews/)
 
 - [Clubhouse Talk zum Thema Kundeninterviews](https://oberwasser-consulting.de/podcast043/)
 

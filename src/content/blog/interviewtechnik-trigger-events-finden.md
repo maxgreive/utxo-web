@@ -52,7 +52,7 @@ Gute Beispiele für ein JTBD-Ereignis könnten etwa sein: "erfährt davon, dass.
 
 9. _Wiederholte Beauftragung_ (Pfeile-Kreis)
 
-[Mehr über Trigger-Ereignisse](https://oberwasser-consulting.de/trigger-events-des-jtbd-fortschrittszyklus/)
+[Mehr über Trigger-Ereignisse](/trigger-events-des-jtbd-fortschrittszyklus/)
 
 ### Das ganze Bild sehen und verstehen: JTBD Canvas
 
@@ -62,7 +62,7 @@ _Hilft dir dabei, so einfach wie möglich und so präzise wie nötig, Kunden-Job
 
 - [Hier erklärt Peter Rochel in 4 Minuten was außer Ereignissen noch zu einem Job to Be Done gehört](https://oberwasser-consulting.de/der-job-to-be-done-jtbd/)
 
-- [Episode 057 I+U Shot zum Thema Trigger Ereignisse](https://oberwasser-consulting.de/trigger-events-des-jtbd-fortschrittszyklus/)
+- [Episode 057 I+U Shot zum Thema Trigger Ereignisse]/trigger-events-des-jtbd-fortschrittszyklus/)
 
 - [Clubhouse Talk zum Thema Kundeninterviews](https://oberwasser-consulting.de/auf-die-fragen-kommt-es-an-jtbd-meetup-35/)
 

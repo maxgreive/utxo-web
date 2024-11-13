@@ -65,7 +65,7 @@ Hypothesen-basiertes Arbeiten ist ein strukturiertes Vorgehen, das dabei hilft, 
 
 Es gibt verschiedene Tools, die Dir beim Hypothesen-basierten Arbeiten helfen können, wie zum Beispiel Testkarten, Lernkarten, Screener-Cards und eine Assumption-Map, die wir einsetzen.
 
-Wenn Du daran interessiert bist, Innovation und Transformation mit Jobs-to-Be-Done umzusetzen und begeisterte Kunden sowie Mitarbeitende gewinnen möchtest, kannst Du Dich gerne bei uns melden. Wir bieten [Workshops](https://oberwasser-consulting.de/workshops-jobs-to-be-done/mastering-jobs-to-be-done-online-workshop/), [Sprints](https://oberwasser-consulting.de/jtbdworkshops/) und [Trainings](https://oberwasser-consulting.de/workshops-jobs-to-be-done/jobs-to-be-done-masters-retreat/) an, die genau darauf abzielen.
+Wenn Du daran interessiert bist, Innovation und Transformation mit Jobs-to-Be-Done umzusetzen und begeisterte Kunden sowie Mitarbeitende gewinnen möchtest, kannst Du Dich gerne bei uns melden. Wir bieten [Workshops, Sprints und Trainings](/leistungen/mastering-jobs-to-be-done-online-workshop/)an, die genau darauf abzielen.
 
 ### Das komplette Transkript zu diesem Podcast kannst du hier lesen:
 

@@ -81,4 +81,4 @@ Bitcoin ist eine disruptive Technologie, die viele Herausforderungen und **Mögl
 
 - [Terahash Plattform für Bitcoinadoption](https://terahash.space)
 
-- [Bitcoin im Geschäftsmodell eines Industriebetriebs im Mittelstand](https://oberwasser-consulting.de/bitcoin-strategie-im-mittelstand/)
+- [Bitcoin im Geschäftsmodell eines Industriebetriebs im Mittelstand](/bitcoin-strategie-im-mittelstand/)

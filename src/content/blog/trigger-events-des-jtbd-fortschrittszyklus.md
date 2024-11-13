@@ -5,11 +5,11 @@ categories:
   - "blog"
   - "innovateupgrade"
 tags:
+  - "Methodik"
   - "Podcast"
   - "elemente"
   - "jtbd"
   - "marketingstrategie"
-  - "wop"
   - "shot"
 author: Peter Rochel
 canonicalURL: "https://oberwasser-consulting.de/trigger-events-des-jtbd-fortschrittszyklus"

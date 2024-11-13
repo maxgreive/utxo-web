@@ -42,7 +42,7 @@ Nein - Der Begriff der Disruptiven Innovation ist zu irreführend und mehrdeutig
 
 - [Podcast-Shot zum Thema Lösungen](https://www.stattys.com/de/methoden/business-model-generation/testtools)
 
-- [Podcast-Shot Was ist ein JTBD](https://oberwasser-consulting.de/der-job-to-be-done-jtbd/)
+- [Podcast-Shot Was ist ein JTBD](/der-job-to-be-done-jtbd/)
 
 - [Artikel im Forbes-Magazin zum Disruption-Dilemma](https://www.forbes.com/sites/stevedenning/2015/12/02/fresh-insights-from-clayton-christensen-on-disruptive-innovation/?sh=22331d914702)
 
