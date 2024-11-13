@@ -3,9 +3,9 @@ title: "Where to start with everyday customer interviews"
 author: Martin Betz
 pubDate: 2024-02-29T01:00:00.000Z
 tags:
-  - "better-questions"
-  - "customer-research"
-  - "how-to"
+  - "Gesprächsführung"
+  - "Kundenforschung"
+  - "How-To"
 previewImage: "../images/file-l0KqLT55gi6BHNW08ecNsnNr.png"
 reference: where-to-start-with-everyday-customer-interviews
 ---

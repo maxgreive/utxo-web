@@ -3,9 +3,9 @@ title: "How to have good customer interviews?"
 author: Martin Betz
 pubDate: 2024-01-19T01:00:00.000Z
 tags:
-  - "better-questions"
-  - "customer-research"
-  - "jobs-to-be-done"
+  - "Gesprächsführung"
+  - "Kundenforschung"
+  - "Methodik"
 previewImage: "../images/DALL·E-2024-01-18-23.07.56-An-artistic-representation-of-a-customer-research-interview-situation-illustrated-in-a-watercolor-style-with-a-slightly-geometric-approach.-The-scene.png"
 reference: how-to-have-good-customer-interviews
 ---

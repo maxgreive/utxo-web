@@ -1,20 +1,18 @@
 ---
 title: "Rekrutieren von JTBD Interviewgästen"
-pubDate: "2022-03-12"
+pubDate: 2022-03-12T00:00:00.000Z
 categories:
   - "blog"
   - "innovateupgrade"
 tags:
-  - "iu-staffel-2"
+  - "Podcast"
   - "jtbd"
   - "kundeninterviews"
-  - "podcast"
   - "shot"
-secret: true
-coverImage: "Recruiting_Keyvisual_wide.jpg"
+author: Peter Rochel
+canonicalURL: "https://oberwasser-consulting.de/rekrutieren-von-jtbd-interviewgaesten"
+previewImage: "./images/Recruiting_Keyvisual_wide.jpg"
 ---
-
-![](images/Recruiting_Keyvisual_wide-1024x576.jpg)
 
 In diesem JTBD Podcast-Shot erklärt Peter Rochel, wie du in 3 Schritten sicher zu den besten TeilnehmerInnen für deine Jobs to be Done Interviews kommst. Peter zeigt auf, was es dabei genau zu beachten gibt und verrät wertvolle Tipps und Tricks, die dir Zeit, Nerven und Kosten sparen - Egal ob du selbst die Gäste rekrutieren willst oder eine Agentur damit beauftragen wirst.
 
@@ -26,19 +24,19 @@ In diesem JTBD Podcast-Shot erklärt Peter Rochel, wie du in 3 Schritten sicher 
 
 **Alle Zeitstempel der Kapitel dieser Episode**:
 
-00:00:00 Intro
-00:01:08 1. Mit wem musst du reden?
-00:01:41 Kunden
-00:02:15 Kunden im B2B/B2G Kontext
-00:03:35 Nicht-Kunden
-00:05:49 2. Wie du an Interviewgäste rankommst
-00:09:18 3. Vorbereitungen
-00:09:26 Incentives
-00:10:36 Anschreiben vorbereiten
-00:13:19 Screener schreiben
-00:14:28 Termine und Vorlauf planen
-00:15:57 Do's & Don'ts
-00:20:17 Tooltipps
+00:00:00 Intro<br>
+00:01:08 1. Mit wem musst du reden?<br>
+00:01:41 Kunden<br>
+00:02:15 Kunden im B2B/B2G Kontext<br>
+00:03:35 Nicht-Kunden<br>
+00:05:49 2. Wie du an Interviewgäste rankommst<br>
+00:09:18 3. Vorbereitungen<br>
+00:09:26 Incentives<br>
+00:10:36 Anschreiben vorbereiten<br>
+00:13:19 Screener schreiben<br>
+00:14:28 Termine und Vorlauf planen<br>
+00:15:57 Do's & Don'ts<br>
+00:20:17 Tooltipps<br>
 
 ### Weitere Episoden dazu direkt hier
 

@@ -3,9 +3,9 @@ title: "Wie kann man Problem und Lösung trennen?"
 author: Martin Betz
 pubDate: 2024-01-24T01:00:00.000Z
 tags:
-  - "bias"
-  - "framework"
-  - "problem-solution-fit"
+  - "Rationalität"
+  - "Methodik"
+  - "Produktentwicklung"
 previewImage: "./images/DALL·E-2024-01-23-16.44.18-A-watercolor-slightly-geometric-styled-painting-depicting-a-magnifying-glass-and-a-cogwheel-crushing-into-each-other.-This-scene-symbolizes-the-confl.png"
 reference: how-to-separate-problem-and-solution
 ---

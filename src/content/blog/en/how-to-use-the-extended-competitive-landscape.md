@@ -3,9 +3,9 @@ title: "How to use the extended competitive landscape?"
 author: Martin Betz
 pubDate: 2024-03-05T01:00:00.000Z
 tags:
-  - "competing-against-luck"
-  - "how-to"
-  - "jobs-to-be-done"
+  - "Strategie"
+  - "How-To"
+  - "Methodik"
 previewImage: "../images/file-XZdfiujXMH190AR0OvIZzf5T.png"
 reference: how-to-use-the-extended-competitive-landscape
 ---

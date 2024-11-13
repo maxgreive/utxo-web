@@ -3,9 +3,9 @@ title: "Wo soll man anfangen, wenn das Geschäft nicht läuft"
 author: Martin Betz
 pubDate: 2023-11-13T01:00:00.000Z
 tags:
-  - "business-strategy"
-  - "experiments"
-  - "hypothesis"
+  - "Strategie"
+  - "Experimente"
+  - "Annahmen"
 previewImage: "./images/DALL·E-2023-11-07-15.15.20-A-wide-artistic-representation-of-a-new-beginning-using-a-watercolor-and-geometric-style-with-blue-and-mint-as-the-dominant-colors.-The-image-should.png"
 reference: where-to-start-when-your-business-isnt-running
 ---

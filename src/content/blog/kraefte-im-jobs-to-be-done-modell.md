@@ -1,20 +1,18 @@
 ---
 title: "Kräfte im Jobs to Be Done Modell"
-pubDate: "2021-06-12"
+pubDate: 2021-06-12T00:00:00.000Z
 categories:
   - "innovateupgrade"
 tags:
+  - "Podcast"
   - "elemente"
-  - "iu-staffel-2"
   - "jtbd"
-  - "podcast"
-  - "shot"
-secret: true
   - "wop"
-coverImage: "Keyvisuals-Forces-Shots.001-min.jpeg"
+  - "shot"
+author: Peter Rochel
+canonicalURL: "https://oberwasser-consulting.de/kraefte-im-jobs-to-be-done-modell"
+previewImage: "./images/Keyvisuals-Forces-Shots.001-min.jpeg"
 ---
-
-![](images/Keyvisuals-Forces-Shots.001-min-1024x576.jpeg)
 
 ### Die Kräfte des Fortschritts
 
@@ -48,7 +46,7 @@ Wir unterscheiden Kräfte dabei in 2 Hauptkategorien zu jeweils 3 spezifischen G
 
 In jedem Fall eine Emotionale Kraft, die sich auf eine zu erledigende Aufgabe, den Job to Be Done, bezieht. Es gibt also keine Jobs ohne Kräfte und keine Kräfte ohne Jobs. Wir unterscheiden Kräfte dabei zunächst in zwei Hauptgruppen: Probleme und Gewinne (Pains und Gains) oder oft auch als Kunden-Probleme und Kunden-Gewinne bezeichnet.
 
-![](images/Keyvisuals-Forces_4x4.002-1024x883.jpg)
+![](./images/Keyvisuals-Forces_4x4.002.jpg)
 
 _Ist ein Merkmal angenehm, wird es der Kategorie der Kunden-Gewinne (Gains) zugeordnet. Unangenehme Merkmale gehören zu den Kunden Problemen._
 

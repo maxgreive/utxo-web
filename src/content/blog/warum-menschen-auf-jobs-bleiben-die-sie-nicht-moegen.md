@@ -3,9 +3,9 @@ title: "Warum bleiben Menschen in Jobs, die sie nicht mögen?"
 author: Martin Betz
 pubDate: 2024-01-08T01:00:00.000Z
 tags:
-  - "decision-making"
-  - "jobs-to-be-done"
-  - "wheel-of-progress"
+  - "Rationalität"
+  - "Methodik"
+  - "Fortschrittszyklus"
 previewImage: "./images/DALL·E-2024-01-07-18.55.37-A-businesswoman-sitting-in-front-of-a-laptop-in-an-open-office-space-looking-lost.-The-image-is-in-a-watercolor-and-geometric-style-featuring-colors-.png"
 reference: why-people-stay-in-jobs-they-dont-like
 ---

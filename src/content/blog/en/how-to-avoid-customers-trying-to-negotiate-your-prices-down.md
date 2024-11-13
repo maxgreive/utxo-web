@@ -3,9 +3,9 @@ title: "How to avoid customers trying to negotiate your prices down"
 author: Martin Betz
 pubDate: 2024-01-10T01:00:00.000Z
 tags:
-  - "business-strategy"
-  - "negotiation"
-  - "partnership"
+  - "Strategie"
+  - "Gesprächsführung"
+  - "Partnerschaften"
 previewImage: "../images/DALL·E-2024-01-09-22.11.25-Two-businessmen-shaking-hands-symbolizing-their-good-business-partnership.-The-image-is-in-a-watercolor-and-geometric-style-featuring-colors-of-blue.png"
 reference: how-to-avoid-customers-trying-to-negotiate-your-prices-down
 ---

@@ -1,19 +1,19 @@
 ---
 title: "Die drei Arten von Innovation"
-pubDate: "2022-08-13"
+pubDate: 2022-08-13T00:00:00.000Z
 categories:
   - "blog"
   - "innovateupgrade"
 tags:
-  - "iu-staffel-2"
+  - "Podcast"
   - "jtbd"
-  - "podcast"
   - "shot"
-secret: true
-coverImage: "InnovationsArten_Beitragsbild-scaled.jpg"
+author: Peter Rochel
+canonicalURL: "https://oberwasser-consulting.de/die-drei-arten-von-innovation"
+previewImage: "./images/InnovationsArten_Beitragsbild-scaled.jpg"
 ---
 
-![Innovationsberatung in den Feldern Erhaltungsinnovation, Effizienzinnovation, Marktschaffende Innovation oder Disruptive Innovation](images/Innovationsfelder-1024x1024.jpg)
+![Innovationsberatung in den Feldern Erhaltungsinnovation, Effizienzinnovation, Marktschaffende Innovation oder Disruptive Innovation](./images/Innovationsfelder-1024x1024.jpg)
 
 In diesem JTBD Podcast-Shot erklärt Peter Rochel die drei Arten von Innovation. Peter zeigt in knapp 11 Minuten auf, worin sich diese drei Innovationstypen unterscheiden und warum es elementar wichtig für Unternehmen ist, sie zu kennen und gezielt einzusetzen.
 
@@ -25,14 +25,14 @@ In diesem JTBD Podcast-Shot erklärt Peter Rochel die drei Arten von Innovation.
 
 **Alle Zeitstempel der Kapitel dieser Episode**:
 
-00:00:00 Intro
-00:01:06 Glückspiel-Hinweis!
-00:02:03 Drei Arten von Innovation
-00:03:01 Sustaining-Innovations
-00:04:15 Efficieny-Innovations
-00:05:41 Market-Creating Innovations
-00:07:36 Wo JTBD und WoP helfen
-00:10:33 Get out
+00:00:00 Intro<br>
+00:01:06 Glückspiel-Hinweis!<br>
+00:02:03 Drei Arten von Innovation<br>
+00:03:01 Sustaining-Innovations<br>
+00:04:15 Efficieny-Innovations<br>
+00:05:41 Market-Creating Innovations<br>
+00:07:36 Wo JTBD und WoP helfen<br>
+00:10:33 Get out<br>
 
 ## Fehlt da nicht die Disruptive Innovation?
 

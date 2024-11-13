@@ -3,9 +3,9 @@ title: "Warum kaufen Unternehmen überhaupt Kundenforschung?"
 author: Martin Betz
 pubDate: 2024-02-02T01:00:00.000Z
 tags:
-  - "customer-research"
+  - "Kundenforschung"
   - "innovation"
-  - "jobs-to-be-done"
+  - "Methodik"
 previewImage: "./images/DALL·E-2024-02-01-23.13.35-A-watercolor-and-slightly-geometric-style-illustration-of-a-businessman-in-the-iconic-pose-from-the-shut-up-and-take-my-money-meme-replacing-Fry.-T.png"
 reference: why-do-companies-buy-customer-research-at-all
 ---

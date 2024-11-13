@@ -1,20 +1,20 @@
 ---
 title: "Hypothesenbasiert Arbeiten"
-pubDate: "2022-04-09"
+pubDate: 2022-04-09T00:00:00.000Z
 categories:
   - "blog"
   - "innovateupgrade"
 tags:
-  - "hypothesen"
-  - "iu-staffel-2"
+  - "Podcast"
+  - "Annahmen"
   - "jtbd"
-  - "podcast"
   - "shot"
-secret: true
-coverImage: "HopothesenTesten.jpg"
+author: Peter Rochel
+canonicalURL: "https://oberwasser-consulting.de/hypothesenbasiert-arbeiten"
+previewImage: "./images/HopothesenTesten.jpg"
 ---
 
-![Innovation Podcast hypothesen basiert arbeiten](images/HopothesenTesten-1024x1024.jpg)
+![Innovation Podcast hypothesen basiert arbeiten](./images/HopothesenTesten.jpg)
 
 In diesem JTBD Podcast-Shot erklärt Peter Rochel, was hypothesenbasiertes Arbeiten ist. Peter zeigt in knapp 6 Minuten auf, was es dabei zu beachten gibt und verrät wertvolle Tipps und Tricks, die dir Zeit, Nerven und Kosten sparen.
 
@@ -26,11 +26,11 @@ In diesem JTBD Podcast-Shot erklärt Peter Rochel, was hypothesenbasiertes Arbei
 
 **Alle Zeitstempel der Kapitel dieser Episode**:
 
-00:00:00 Intro
-00:00:25 Klärung
-00:01:56 5 Schritte
-00:02:51 Vier mögliche Ergebnisse
-00:04:29 Tools
+00:00:00 Intro<br>
+00:00:25 Klärung<br>
+00:01:56 5 Schritte<br>
+00:02:51 Vier mögliche Ergebnisse<br>
+00:04:29 Tools<br>
 00:05:41 Get out
 
 ### Weitere Episoden dazu direkt hier

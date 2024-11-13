@@ -3,9 +3,9 @@ title: "Knowing when to act insecure"
 author: Martin Betz
 pubDate: 2023-12-20T01:00:00.000Z
 tags:
-  - "business-strategy"
-  - "entrepreneurship"
-  - "personal"
+  - "Strategie"
+  - "Unternehmertum"
+  - "Persönliches"
 previewImage: "../images/DALL·E-2023-12-14-15.37.27-A-watercolor-geometric-style-painting-of-an-entrepreneur-standing-boldly-gazing-towards-the-horizon.-The-entrepreneurs-exterior-expression-is-confid.png"
 reference: knowing-when-to-act-insecure
 ---

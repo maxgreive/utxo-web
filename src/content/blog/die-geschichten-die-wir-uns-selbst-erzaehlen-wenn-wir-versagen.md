@@ -3,9 +3,9 @@ title: "Die Geschichten, die wir uns erzählen, wenn wir versagen"
 author: Martin Betz
 pubDate: 2024-02-12T01:00:00.000Z
 tags:
-  - "entrepreneurship"
-  - "failure"
-  - "personal"
+  - "Unternehmertum"
+  - "Experimente"
+  - "Persönliches"
 previewImage: "./images/file-bITzkiUdsRr9618NyO6PEfsx-5.png"
 reference: the-stories-we-tell-ourselves-when-we-fail
 ---

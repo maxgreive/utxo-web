@@ -3,9 +3,9 @@ title: "Deutsche Telekoms Dirk Roeder: Blockchain und Bitcoin in der Unternehmen
 author: Martin Betz
 pubDate: 2023-12-11T01:00:00.000Z
 tags:
-  - "business-strategy"
-  - "podcast"
-  - "the-bitcoin-effekt"
+  - "Strategie"
+  - "Podcast"
+  - "Bitcoin"
 previewImage: "./images/file-Zqn8d8ncdZoHIhYTFGa0gdhK.png"
 reference: deutsche-telekoms-dirk-roeder-navigating-blockchain-and-bitcoin-in-the-corporate-world
 ---

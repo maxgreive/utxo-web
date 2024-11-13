@@ -3,7 +3,7 @@ title: "Why do people decide the way they do?"
 author: Martin Betz
 pubDate: 2023-11-20T01:00:00.000Z
 tags:
-  - "decision-making"
+  - "Rationalität"
 previewImage: "../images/DALL·E-2023-11-13-11.46.21-A-person-with-a-considering-look-on-their-face-surrounded-by-floating-data-elements-indicating-various-elements-they-are-taking-into-consideration.-T.png"
 reference: why-do-people-decide-the-way-they-do
 ---

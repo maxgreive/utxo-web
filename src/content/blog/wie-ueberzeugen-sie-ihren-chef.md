@@ -3,9 +3,9 @@ title: "Wie überzeugen Sie Ihren Chef?"
 author: Martin Betz
 pubDate: 2024-02-05T01:00:00.000Z
 tags:
-  - "decision-making"
-  - "framework"
-  - "how-to"
+  - "Rationalität"
+  - "Methodik"
+  - "How-To"
 previewImage: "./images/DALL·E-2024-02-05-00.32.45-Enhance-the-previous-scene-with-clearer-more-detailed-faces-on-both-the-employee-and-the-boss.-The-employee-is-confidently-explaining-a-new-proposal.webp"
 reference: how-to-convince-your-boss
 ---

@@ -3,9 +3,9 @@ title: "Would you rather eat a dolphin or buy our product?"
 author: Martin Betz
 pubDate: 2023-12-15T01:00:00.000Z
 tags:
-  - "better-questions"
-  - "customer-research"
-  - "feedback"
+  - "Gesprächsführung"
+  - "Kundenforschung"
+  - "Gesprächsführung"
 previewImage: "../images/DALL·E-2023-12-13-15.41.51-A-watercolor-geometric-style-illustration-depicting-a-small-dolphin-figurine-on-a-plate-in-a-restaurant-setting.-The-dolphin-should-be-portrayed-as-a-.png"
 reference: would-you-rather-eat-a-dolphin-or-buy-our-product
 ---

@@ -1,31 +1,31 @@
 ---
 title: "Gute Kandidaten für JTBD Interviews"
-pubDate: "2021-08-21"
+pubDate: 2021-08-21T00:00:00.000Z
 categories:
   - "blog"
   - "innovateupgrade"
 tags:
-  - "iu-staffel-2"
+  - "Podcast"
   - "kundeninterviews"
-  - "podcast"
   - "shot"
-secret: true
-coverImage: "Gute-Kandidatinnen.jpg"
+author: Peter Rochel
+canonicalURL: "https://oberwasser-consulting.de/gute-kandidaten-fuer-jtbd-interviews"
+previewImage: "./images/Gute-Kandidatinnen.jpg"
 ---
 
 ## Wie du gute oder ungeeignete Interviewgäste identifizierst
 
-![Ideale Kandidaten für Kundeninterviews identifizieren](images/Gute-Kandidatinnen-1024x576.jpg "Testpersonen für Kundeninterviews")
+![Ideale Kandidaten für Kundeninterviews identifizieren](./images/Gute-Kandidatinnen.jpg "Testpersonen für Kundeninterviews")
 
 **Hier direkt I+U Staffel 2 Episode 023 anhören**
 
 <iframe data-cookie-consent="marketing" data-cookieblock-src="https://embed.podcasts.apple.com/us/podcast/gute-kandidatinnen-f%C3%BCr-jtbd-interviews/id1354901024?i=1000532701922&amp;itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent;"></iframe>
 
-00:00:00 Intro
-00:01:58 Nur in Ausnahmefällen gut: Stammkunden
-00:02:55 Menschen die gerne reden
-00:03:55 Testfrage
-00:05:24 Besser als Stammkunden sind…
+00:00:00 Intro<br>
+00:01:58 Nur in Ausnahmefällen gut: Stammkunden<br>
+00:02:55 Menschen die gerne reden<br>
+00:03:55 Testfrage<br>
+00:05:24 Besser als Stammkunden sind…<br>
 00:06:13 Get out
 
 #### Hier kannst du den Podcast kostenlos abonnieren:

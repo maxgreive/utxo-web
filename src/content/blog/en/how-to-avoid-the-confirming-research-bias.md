@@ -3,9 +3,9 @@ title: "How to avoid the confirming research bias?"
 author: Martin Betz
 pubDate: 2024-01-22T01:00:00.000Z
 tags:
-  - "better-questions"
-  - "bias"
-  - "customer-research"
+  - "Gesprächsführung"
+  - "Rationalität"
+  - "Kundenforschung"
 previewImage: "../images/DALL·E-2024-01-21-20.55.56-A-watercolor-slightly-geometric-styled-painting-depicting-a-customer-research-scenario.-The-scene-includes-a-customer-with-their-mouth-duct-taped-and.png"
 reference: how-to-avoid-the-confirming-research-bias
 ---

@@ -3,9 +3,9 @@ title: "How to speed up customer research"
 author: Martin Betz
 pubDate: 2023-12-11T01:00:00.000Z
 tags:
-  - "business-strategy"
-  - "customer-research"
-  - "how-to"
+  - "Strategie"
+  - "Kundenforschung"
+  - "How-To"
 previewImage: "../images/DALL·E-2023-12-07-22.58.51-A-watercolor-geometric-style-illustration-showing-a-research-framework-being-conducted-swiftly.-In-the-center-theres-a-prominent-clock-icon-symboli.png"
 reference: how-to-speed-up-customer-research
 ---

@@ -3,9 +3,9 @@ title: "The missing dimension in building sustainable products"
 author: Martin Betz
 pubDate: 2024-01-29T01:00:00.000Z
 tags:
-  - "business-strategy"
-  - "problem-solution-fit"
-  - "sustainability"
+  - "Strategie"
+  - "Produktentwicklung"
+  - "Nachhaltigkeit"
 previewImage: "../images/DALL·E-2024-01-28-23.20.11-A-watercolor-slightly-geometric-styled-painting-depicting-a-dad-and-his-son-playing-with-building-blocks-resembling-Lego-in-a-living-room.-Add-some.png"
 reference: the-missing-dimension-in-building-sustainable-products
 ---

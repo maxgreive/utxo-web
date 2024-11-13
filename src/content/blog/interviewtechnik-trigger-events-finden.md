@@ -1,21 +1,19 @@
 ---
 title: "Interviewtechnik: Trigger-Events finden"
-pubDate: "2021-07-10"
+pubDate: 2021-07-10T00:00:00.000Z
 categories:
   - "blog"
   - "innovateupgrade"
 tags:
-  - "iu-staffel-2"
+  - "Podcast"
   - "kundeninterviews"
-  - "podcast"
   - "shot"
-secret: true
-coverImage: "JTBD_Events_finden-Shots.003.jpeg"
+author: Peter Rochel
+canonicalURL: "https://oberwasser-consulting.de/interviewtechnik-trigger-events-finden"
+previewImage: "./images/JTBD_Events_finden-Shots.003.jpeg"
 ---
 
 ## So findest du die Events auf der Timeline 
-
-![JTBD Interviewtechnik Trigger Events](images/JTBD_Events_finden-Shots.003-1024x576.jpeg)
 
 **Hier direkt I+U Staffel 2 Episode 020 anhören**
 
@@ -25,11 +23,11 @@ coverImage: "JTBD_Events_finden-Shots.003.jpeg"
 
 [![](images/listen-on-apple-podcast.png)](https://podcasts.apple.com/de/podcast/jtbd-interviewtechnik/id1354901024?i=1000528479044)[![](images/listen-on-spotify.png)](https://open.spotify.com/episode/49xI9OScdKVSlY1l8cqsUT)[![](images/ListenOn_AmazonMusic_button_Black_RGB_5X_DE-300x73.png)](https://music.amazon.de/podcasts/4838bd28-7b97-4912-80cb-de39a6c75654/episodes/8d18f5be-6968-4c15-9cda-6aebf4fa9d75/innovate-upgrade-jtbd-interviewtechnik---trigger-events-finden)[![jobs to be done podcast](images/DE_Google_Podcasts_Badge_8x-300x76.png)](https://podcasts.google.com/feed/aHR0cHM6Ly96dW04cnkucG9kY2FzdGVyLmRlL29iZXJ3YXNzZXIucnNz/episode/cG9kLTI4ZjdhZTI5ZmM4NjIyODczMTRiYTE3MmM0?sa=X&ved=0CAUQkfYCahcKEwi4laTb7sH8AhUAAAAAHQAAAAAQAQ)
 
-00:00:00 Intro
-00:00:30 Direkt zum ersten Gedanken
-00:01:45 Ereignis 2 finden
-00:02:34 Ereignis 1 finden
-00:04:09 Wobei dir die Ereignisse nützlich sind
+00:00:00 Intro<br>
+00:00:30 Direkt zum ersten Gedanken<br>
+00:01:45 Ereignis 2 finden<br>
+00:02:34 Ereignis 1 finden<br>
+00:04:09 Wobei dir die Ereignisse nützlich sind<br>
 00:05:14 Get out
 
 #### Hier kannst du den Podcast kostenlos abonnieren:
@@ -42,7 +40,7 @@ Gute Beispiele für ein JTBD-Ereignis könnten etwa sein: "erfährt davon, dass.
 
 ## Fünf Ereignisse im JTBD Fortschrittszyklus
 
-![](images/5-JTBD-Events-Shots_4x4-1024x1024.jpg)
+![](./images/5-JTBD-Events-Shots_4x4.jpg)
 
 1. _Erster Gedanke_ (Wolke)
 

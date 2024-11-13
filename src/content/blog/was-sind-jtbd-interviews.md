@@ -1,21 +1,21 @@
 ---
 title: "Was sind JTBD Interviews?"
-pubDate: "2021-09-04"
+pubDate: 2021-09-04T00:00:00.000Z
 categories:
   - "blog"
   - "innovateupgrade"
 tags:
-  - "iu-staffel-2"
+  - "Podcast"
   - "kundeninterviews"
-  - "podcast"
   - "shot"
-secret: true
-coverImage: "jtbd-interview-1.jpg"
+author: Peter Rochel
+canonicalURL: "https://oberwasser-consulting.de/was-sind-jtbd-interviews"
+previewImage: "./images/jtbd-interview.jpg"
 ---
 
 ## Was Jobs to Be Done Interviews sind und wie man sie einsetzt
 
-![](images/JTBD-Interview-1024x576.jpg)
+![](./images/jtbd-interview.jpg)
 
 ### Direkt hier I+U Staffel 2 Episode 024 anhören:
 
@@ -25,19 +25,19 @@ coverImage: "jtbd-interview-1.jpg"
 
 [![](images/listen-on-apple-podcast.png)](https://podcasts.apple.com/de/podcast/was-sind-jobs-to-be-done-interviews/id1354901024?i=1000534323020&itsct=podcast_box&itscg=30200&ls=1)[![](images/listen-on-spotify.png)](https://open.spotify.com/episode/0IZkmsvmPqDKlxivhZ7yfW?si=kXHcw-wpS7OHTVEfLMr1Wg)[![](images/ListenOn_AmazonMusic_button_Black_RGB_5X_DE-300x73.png)](https://music.amazon.de/podcasts/4838bd28-7b97-4912-80cb-de39a6c75654/episodes/175cc8d1-0e0b-4c5b-85f2-6729c6afa6c3/innovate-upgrade-was-sind-jobs-to-be-done-interviews)[![jobs to be done podcast](images/DE_Google_Podcasts_Badge_8x-300x76.png)](https://podcasts.google.com/feed/aHR0cHM6Ly96dW04cnkucG9kY2FzdGVyLmRlL29iZXJ3YXNzZXIucnNz/episode/cG9kLTYxMzM1Yjg4NjlmZGU1MzA4MDE5MTA?sa=X&ved=0CAUQkfYCahcKEwiooZT4pJGCAxUAAAAAHQAAAAAQAQ)
 
-00:00:00 Intro
-00:00:44 WoP Interviewmethode
-00:01:04 Ziel von JTBD/WoP Interviews
-00:01:30 Besonderheiten
-00:02:39 Kann man das lernen?
-00:05:50 Was nützt das?
+00:00:00 Intro<br>
+00:00:44 WoP Interviewmethode<br>
+00:01:04 Ziel von JTBD/WoP Interviews<br>
+00:01:30 Besonderheiten<br>
+00:02:39 Kann man das lernen?<br>
+00:05:50 Was nützt das?<br>
 00:07:13 Get out
 
 Jobs to Be Done Interviews sind eine spezielle Art qualitativer Tiefeninterviews. Mit einer geeigneten Methode für die Interviewtechnik lässt sich sehr präzise und sehr schnell ermitteln, wie Produkte sein müssen um erfolgreich am Markt bestehen zu können. Peter Rochel erklärt in dieser Episode, was dahinter steckt, was es genau nützt und wie man diese Interviewtechnik erlernt. Unternehmen, deren Mitarbeitende diese Interviewtechnik von uns gelernt haben und regelmäßig einsetzen sind z.Bsp.: [Focus Online,](https://www.focus.de) [pwc](https://www.pwc.de), [PRIOGO AG](https://www.priogo.com), oder [Mantrafant](https://mantrafant.com). Viele weitere [findest du hier](https://oberwasser-consulting.de/ueber/expertise/).
 
 <figure>
 
-![](images/JTBD-Tools.001-1024x576.jpeg)
+![](./images/JTBD-Tools.001.jpeg)
 
 <figcaption>
 

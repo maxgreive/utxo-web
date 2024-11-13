@@ -3,8 +3,8 @@ title: "How to make this year special"
 author: Martin Betz
 pubDate: 2023-12-31T01:00:00.000Z
 tags:
-  - "decision-making"
-  - "how-to"
+  - "Rationalität"
+  - "How-To"
   - "thinking-ahead"
 previewImage: "../images/DALL·E-2023-12-30-20.38.47-New-Years-Eve-fireworks-over-the-city-of-Bonn-Germany-viewed-from-the-Drachenfels.-The-image-is-in-a-watercolor-and-geometric-style-featuring-colo.png"
 reference: how-to-make-this-year-special

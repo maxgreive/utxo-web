@@ -8,7 +8,7 @@ description: Entdecke, warum Hypothesen und messbare Ziele das Herzstück
   erfolgreicher Business-Experimente sind, und wie du diese effektiv formulieren
   kannst.
 pubDate: 2024-10-31T01:00:00.000Z
-previewImage: images/geschäftsfrau-haftnotizen.jpg
+previewImage: images/geschaeftsfrau-haftnotizen.jpg
 reference: CP0103
 ---
 ## Hypothesen und messbare Ziele

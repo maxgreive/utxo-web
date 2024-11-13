@@ -3,9 +3,9 @@ title: "Kundenforschung für Schatzsuchende Piraten"
 author: Martin Betz
 pubDate: 2024-03-12T01:00:00.000Z
 tags:
-  - "customer-research"
-  - "framework"
-  - "humor"
+  - "Kundenforschung"
+  - "Methodik"
+  - "Persönliches"
 previewImage: "./images/file-Rj4sm7f9VoeMuRjBQ4rRcimJ-1.jpg"
 reference: customer-research-for-treasure-hunting-pirates
 ---

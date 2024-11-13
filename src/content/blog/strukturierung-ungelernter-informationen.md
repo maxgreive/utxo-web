@@ -3,8 +3,8 @@ title: "Strukturierung nicht gelernter Informationen"
 author: Martin Betz
 pubDate: 2023-11-22T01:00:00.000Z
 tags:
-  - "better-questions"
-  - "data"
+  - "Gesprächsführung"
+  - "Datenanalyse"
   - "structure"
   - "thinking-ahead"
 previewImage: "./images/DALL·E-2023-11-13-13.56.44-A-woman-placing-cubes-of-data-into-labeled-boxes.-The-scene-is-dominated-by-blue-and-mint-colors-blending-a-watercolor-aesthetic-with-slightly-geomet.png"

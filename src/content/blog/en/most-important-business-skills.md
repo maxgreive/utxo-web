@@ -3,8 +3,8 @@ title: "The most important skills when starting a business"
 author: Martin Betz
 pubDate: 2024-01-05T01:00:00.000Z
 tags:
-  - "business"
-  - "entrepreneurship"
+  - "Strategie"
+  - "Unternehmertum"
   - "skills"
 previewImage: "../images/DALL·E-2024-01-03-16.41.31-A-businessman-looking-at-a-giant-masterplan-on-an-office-wall.-The-image-is-in-a-watercolor-and-geometric-style-featuring-colors-of-blue-and-mint.-Th.png"
 reference: most-important-business-skills

@@ -1,21 +1,21 @@
 ---
 title: "Kanalphasenmodell: Optimiere Jobs-to-be-Done Research"
-pubDate: "2023-05-06"
+pubDate: 2023-05-06T00:00:00.000Z
 categories:
   - "blog"
   - "business-model-innovation"
   - "innovateupgrade"
 tags:
-  - "iu-staffel-2"
+  - "Podcast"
   - "jtbd"
   - "kanaele"
-  - "podcast"
   - "shot"
-secret: true
-coverImage: "IUl_Chanel_VP_Design_4x4.jpg"
+author: Peter Rochel
+canonicalURL: "https://oberwasser-consulting.de/kanalphasenmodell-jobs-to-be-done"
+previewImage: "./images/IUl_Chanel_VP_Design_4x4.jpg"
 ---
 
-![Illustration des 5-stufigen Kanalphasenmodells zur optimalen Nutzung von Jobs-to-be-Done Research](images/Kanalphasenmodel_Chanel_VP_Design-1024x438.jpg)
+![Illustration des 5-stufigen Kanalphasenmodells zur optimalen Nutzung von Jobs-to-be-Done Research](./images/Kanalphasenmodel_Chanel_VP_Design.jpg)
 
 ## Für die beste Nutzung von Jobs-to-be-Done-Research Daten
 

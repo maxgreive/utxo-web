@@ -1,33 +1,31 @@
 ---
 title: "Trigger-Events im JTBD Fortschrittszyklus"
-pubDate: "2021-05-23"
+pubDate: 2021-05-23T00:00:00.000Z
 categories:
   - "blog"
   - "innovateupgrade"
 tags:
+  - "Podcast"
   - "elemente"
-  - "iu-staffel-2"
   - "jtbd"
   - "marketingstrategie"
-  - "podcast"
-  - "shot"
-secret: true
   - "wop"
-coverImage: "Events-Shots.001.jpeg"
+  - "shot"
+author: Peter Rochel
+canonicalURL: "https://oberwasser-consulting.de/trigger-events-des-jtbd-fortschrittszyklus"
+previewImage: "./images/Events-Shots.001.jpeg"
 ---
 
 ## Was ist ein Ereignis in der Timeline und welche gibt es? 
-
-![](images/Events-Shots.001-1024x576.jpeg)
 
 **Hier direkt I+U Staffel 2 Episode 017 anhören**
 
 <iframe data-cookie-consent="marketing" data-cookieblock-src="https://embed.podcasts.apple.com/us/podcast/trigger-ereignisse-im-jtbd-fortschrittszyklus/id1354901024?i=1000522813249&amp;itsct=podcast_box_player&amp;itscg=30200&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent;"></iframe>
 
-00:00:00 Intro
-00:01:07 Was sind Ereignisse
-00:01:36 Ereignistypen im Fortschrittzyklus
-00:04:46 Wofür Ereignisse gebraucht werden
+00:00:00 Intro<br>
+00:01:07 Was sind Ereignisse<br>
+00:01:36 Ereignistypen im Fortschrittzyklus<br>
+00:04:46 Wofür Ereignisse gebraucht werden<br>
 00:05:45 Get out
 
 #### Hier kannst du den Podcast kostenlos abonnieren:
@@ -42,7 +40,7 @@ Gute Beispiele für ein JTBD-Ereignis könnten etwa sein: "erfährt davon, dass.
 
 ## Fünf Ereignisse im JTBD Fortschrittszyklus
 
-![](images/5-JTBD-Events-Shots_4x4-1024x1024.jpg)
+![](./images/5-JTBD-Events-Shots_4x4.jpg)
 
 1. _Erster Gedanke_ (Wolke)
 
@@ -72,11 +70,11 @@ Jedes dieser fünf Ereignisse löst eine Phase aus. Ohne ein Ereignis findet kei
 
 In jeder Phase eines Fortschrittszyklus der zu erledigenden Aufgabe [(Kunden-Job/ JTBD)](https://oberwasser-consulting.de/der-job-to-be-done-jtbd/) sind spezifische Themen Relevant. Die Ereignisse markieren den genauen Zeitpunkt ab wann welches Thema für Menschen mit dem [JTBD](https://oberwasser-consulting.de/der-job-to-be-done-jtbd/) relevant ist.
 
-![JTBD Marketing Trigger Events](images/Trigger-Events_JTBD-Shots_4x4-1024x1024.jpeg)
+![JTBD Marketing Trigger Events](./images/Trigger-Events_JTBD-Shots_4x4.jpeg)
 
 ## JTBD-Hack: Wissen wann was für Kunden relevant ist
 
-![](images/JTBD-Main-Events.jpg)
+![](./images/JTBD-Main-Events.jpg)
 
 _3 Ereignisse, die insbesondere für die Gewinnung neuer Kunden von essenzieller Bedeutung sind: 1. Gedanke, Ereignis 1 und Ereignis 2._
 
@@ -84,7 +82,7 @@ Diese drei Ereignisse bilden eine kausale Kette die zur Beauftragung eines Produ
 
 ### Ereignisse sind das Tuning-Kit für Kanalphasen im Business Model
 
-![The Wheel of Progress - Evidence by Trigger Events in your Business Model Channels](images/Trigger-Events_BM_Channels-scaled.jpg)
+![The Wheel of Progress - Evidence by Trigger Events in your Business Model Channels](./images/Trigger-Events_BM_Channels-scaled.jpg)
 
 ### Das ganze Bild sehen und verstehen: JTBD Canvas
 

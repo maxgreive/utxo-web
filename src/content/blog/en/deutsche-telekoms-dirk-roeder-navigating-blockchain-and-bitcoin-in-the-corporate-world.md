@@ -3,9 +3,9 @@ title: "Deutsche Telekom's Dirk Roeder: Navigating Blockchain and Bitcoin in the
 author: Martin Betz
 pubDate: 2023-12-11T01:00:00.000Z
 tags:
-  - "business-strategy"
-  - "podcast"
-  - "the-bitcoin-effekt"
+  - "Strategie"
+  - "Podcast"
+  - "Bitcoin"
 previewImage: "../images/Telekom_Blockchain.png"
 reference: deutsche-telekoms-dirk-roeder-navigating-blockchain-and-bitcoin-in-the-corporate-world
 ---
@@ -58,7 +58,7 @@ For more information on this episode and other fascinating topics at the interse
 
 ## Further links:
 
-- Further information in German language on topics at the interface of Bitcoin technology, business and innovation on our [Oberwasser-Consulting  page](https://oberwasser-consulting.de/tag/bitcoin/)
+- Further information in German language on topics at the interface of Bitcoin technology, business and innovation on our [Oberwasser-Consulting  page](/en/tag/bitcoin/)
 - Our current [Mastering JTBD Innovation training workshop](/services/mastering-jobs-to-be-done-online-workshop/) for international teams
 - [Dirk Roeder on LinkedIn](https://www.linkedin.com/in/droeder72/)
 - [Visit Deutsche Telekom MMS](https://www.telekom-mms.com/)

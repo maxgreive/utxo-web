@@ -3,10 +3,9 @@ title: "Alex von Frankenberg - Einhörner made in Germany"
 author: Peter Rochel
 pubDate: 2024-10-27T01:00:00.000Z
 tags:
-  - "bitcoin"
-  - "iu-staffel-2"
-  - "podcast"
-  - "startups"
+  - "Podcast"
+  - "Bitcoin"
+  - "Unternehmertum"
 previewImage: "./images/IMG_1047.jpg"
 reference: alex-der-htgf-und-einhoerner-made-in-germany
 canonicalURL: "https://oberwasser-consulting.de/alex-der-htgf-und-einhoerner-made-in-germany"

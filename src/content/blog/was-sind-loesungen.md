@@ -1,22 +1,22 @@
 ---
 title: "Die Lösungen - Deine Wettbewerber"
-pubDate: "2021-11-13"
+pubDate: 2021-11-13T00:00:00.000Z
 categories:
   - "blog"
   - "innovateupgrade"
 tags:
+  - "Podcast"
   - "elemente"
-  - "hypothesen"
-  - "iu-staffel-2"
-  - "podcast"
+  - "Annahmen"
   - "shot"
-secret: true
-coverImage: "JTBD-Solution-loesungen.jpg"
+author: Peter Rochel
+canonicalURL: "https://oberwasser-consulting.de/was-sind-loesungen"
+previewImage: "./images/JTBD-Solution-loesungen.jpg"
 ---
 
 ## Das Element Lösungen im Jobs to Be Done Kontext und wie sie verwendet werden
 
-![](images/JTBD-Solution-loesungen-1024x608.jpg)
+![](./images/JTBD-Solution-loesungen.jpg)
 
 **Hier direkt I+U Staffel 2 Episode 029 anhören**
 
@@ -26,12 +26,12 @@ coverImage: "JTBD-Solution-loesungen.jpg"
 
 [![](images/listen-on-apple-podcast.png)](https://podcasts.apple.com/de/podcast/die-lösungen-deine-wettbewerber/id1354901024?i=1000541708749)[![](images/listen-on-spotify.png)](https://open.spotify.com/episode/5tb54Qgz8JZLLbPD8UXPQY)[![](images/ListenOn_AmazonMusic_button_Black_RGB_5X_DE-300x73.png)](https://music.amazon.de/podcasts/4838bd28-7b97-4912-80cb-de39a6c75654/episodes/7aee36a2-db04-492f-a527-acc6a9b8a226/innovate-upgrade-die-lösungen---deine-wettbewerber)[![jobs to be done podcast](images/DE_Google_Podcasts_Badge_8x-300x76.png)](https://podcasts.google.com/feed/aHR0cHM6Ly96dW04cnkucG9kY2FzdGVyLmRlL29iZXJ3YXNzZXIucnNz/episode/cG9kLWQ4NTliMDk2MGQyMGQ4MjVlODMyMTUyNmM1NQ?sa=X&ved=0CAUQkfYCahcKEwi4laTb7sH8AhUAAAAAHQAAAAAQAQ)
 
-00:00:00 Intro
-00:00:19 Lösungen sind…
-00:00:38 Ein JTBD - viele Lösungen
-00:01:14 Gut und schlecht gleichzeitig
-00:01:38 Das Bedeutet…
-00:02:38 Den freien Markt finden für deine Lösung
+00:00:00 Intro<br>
+00:00:19 Lösungen sind…<br>
+00:00:38 Ein JTBD - viele Lösungen<br>
+00:01:14 Gut und schlecht gleichzeitig<br>
+00:01:38 Das Bedeutet…<br>
+00:02:38 Den freien Markt finden für deine Lösung<br>
 00:03:10 Get out
 
 #### Hier kannst du den Podcast kostenlos abonnieren:
@@ -40,7 +40,7 @@ coverImage: "JTBD-Solution-loesungen.jpg"
 
 <figure>
 
-![](images/JTBD-Tools.001-1024x576.jpeg)
+![](./images/JTBD-Tools.001.jpeg)
 
 <figcaption>
 

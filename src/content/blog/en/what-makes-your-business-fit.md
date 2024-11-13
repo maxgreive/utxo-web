@@ -4,7 +4,7 @@ author: Martin Betz
 pubDate: 2023-11-27T01:00:00.000Z
 tags:
   - "business-culture-fit"
-  - "problem-solution-fit"
+  - "Produktentwicklung"
   - "product-business-fit"
   - "product-language-fit"
   - "product-market-fit"

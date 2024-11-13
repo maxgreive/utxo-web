@@ -3,9 +3,9 @@ title: "We assume a world, that isn't there"
 author: Martin Betz
 pubDate: 2023-12-06T01:00:00.000Z
 tags:
-  - "assumptions"
-  - "feedback"
-  - "rationality"
+  - "Annahmen"
+  - "Gesprächsführung"
+  - "Rationalität"
 previewImage: "../images/DALL·E-2023-12-05-18.28.45-A-watercolor-geometric-style-illustration-depicting-a-side-view-of-a-pit-filled-with-spikes-covered-by-a-thin-layer-of-paper.-On-top-of-the-paper-th.png"
 reference: we-assume-a-world-that-isnt-there
 ---

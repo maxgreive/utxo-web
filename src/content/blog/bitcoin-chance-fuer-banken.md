@@ -4,11 +4,10 @@ author: Peter Rochel
 pubDate: 2024-09-16T01:00:00.000Z
 canonicalURL: "https://oberwasser-consulting.de/bitcoin-chance-fuer-banken/"
 tags:
-  - "bitcoin"
-  - "business-model-design"
+  - "Podcast"
+  - "Bitcoin"
+  - "Strategie"
   - "disruption"
-  - "iu-staffel-2"
-  - "podcast"
 previewImage: "./images/BTC-und-Bank_SL.png"
 ---
 

@@ -3,9 +3,9 @@ title: "Es geht nicht um deinen Fortschritt"
 author: Martin Betz
 pubDate: 2023-11-17T01:00:00.000Z
 tags:
-  - "customer-focus"
-  - "features"
-  - "progress"
+  - "Kundenforschung"
+  - "Produktentwicklung"
+  - "Fortschrittszyklus"
 previewImage: "./images/DALL·E-2024-01-09-10.21.10-A-guy-buying-a-coffee-at-a-coffee-shop.-The-image-is-in-a-watercolor-and-geometric-style-featuring-colors-of-blue-and-mint.-The-scene-is-depicted-in-.png"
 reference: its-not-about-your-progress
 ---

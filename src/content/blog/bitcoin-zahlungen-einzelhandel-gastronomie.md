@@ -6,10 +6,9 @@ canonicalURL: "https://oberwasser-consulting.de/bitcoin-zahlungen-einzelhandel-g
 tags:
   - "Bitcoin"
   - "disruption"
-  - "iu-staffel-2"
-  - "podcast"
-  - "praxisbeispiel"
-  - "startups"
+  - "Podcast"
+  - "How-To"
+  - "Unternehmertum"
 previewImage: "./images/Lipa.jpeg"
 ---
 

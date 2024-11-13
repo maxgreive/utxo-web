@@ -3,9 +3,9 @@ title: "Fünf Schritte, um bessere Fragen zu stellen"
 author: Martin Betz
 pubDate: 2023-12-04T01:00:00.000Z
 tags:
-  - "better-questions"
-  - "competing-against-luck"
-  - "feedback"
+  - "Gesprächsführung"
+  - "Strategie"
+  - "Gesprächsführung"
 previewImage: "./images/DALL·E-2023-12-03-22.20.04-A-business-interview-situation-depicted-in-a-geometric-watercolor-style-with-blue-and-mint-colors.-The-image-should-be-created-in-a-wide-format.png"
 reference: five-steps-to-ask-better-questions
 ---

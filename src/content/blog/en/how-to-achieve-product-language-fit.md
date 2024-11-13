@@ -3,8 +3,8 @@ title: "How to achieve product language fit"
 author: Martin Betz
 pubDate: 2023-12-13T01:00:00.000Z
 tags:
-  - "buying-phases"
-  - "customer-focus"
+  - "Fortschrittszyklus"
+  - "Kundenforschung"
   - "product-language-fit"
 previewImage: "../images/DALL·E-2023-12-12-17.47.53-A-watercolor-geometric-style-illustration-of-a-businesswoman-whispering-something-into-the-ear-of-a-businessman-while-holding-a-small-present-in-one-.png"
 reference: how-to-achieve-product-language-fit

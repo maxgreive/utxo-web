@@ -4,13 +4,12 @@ author: Peter Rochel
 pubDate: 2024-10-29T01:00:00.000Z
 canonicalURL: "https://oberwasser-consulting.de/business-model-hacking-e-commerce"
 tags:
-  - "business-model-hacking"
+  - "Strategie"
   - "alexander-moths"
-  - "bitcoin"
-  - "business-model-design"
-  - "e-commerce"
-  - "iu-staffel-2"
-  - "podcast"
+  - "Bitcoin"
+  - "Strategie"
+  - "Digitalisierung"
+  - "Podcast"
 previewImage: "./images/IU-BM-Hacking-Shopinbit.png"
 ---
 

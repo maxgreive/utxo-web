@@ -3,8 +3,8 @@ title: "The power of writing"
 author: Martin Betz
 pubDate: 2024-01-26T01:00:00.000Z
 tags:
-  - "personal"
-  - "progress"
+  - "Persönliches"
+  - "Fortschrittszyklus"
   - "writing"
 previewImage: "../images/DALL·E-2024-01-25-23.55.58-A-watercolor-slightly-geometric-styled-painting-depicting-a-man-in-his-thirties-wearing-a-hoodie-sitting-at-his-desk-at-night-writing-a-newsletter-.png"
 reference: the-power-of-writing

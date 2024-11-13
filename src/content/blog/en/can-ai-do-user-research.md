@@ -3,8 +3,8 @@ title: "Can AI do user research?"
 author: Martin Betz
 pubDate: 2024-02-15T01:00:00.000Z
 tags:
-  - "ai"
-  - "customer-research"
+  - "Künstiliche Intelligenz (KI)"
+  - "Kundenforschung"
   - "structure"
 previewImage: "../images/file-Zqn8d8ncdZoHIhYTFGa0gdhK.png"
 reference: can-ai-do-user-research

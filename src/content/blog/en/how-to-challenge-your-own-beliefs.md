@@ -3,9 +3,9 @@ title: "How to challenge your own beliefs"
 author: Martin Betz
 pubDate: 2023-11-24T01:00:00.000Z
 tags:
-  - "feedback"
-  - "learning"
-  - "rationality"
+  - "Gesprächsführung"
+  - "Fortschrittszyklus"
+  - "Rationalität"
 previewImage: "../images/DALL·E-2023-11-13-17.38.23-An-image-of-a-person-reengineering-her-own-brain-with-an-emphasis-on-creativity-and-introspection.-The-dominant-colors-in-the-scene-are-blue-and-mint.png"
 reference: how-to-challenge-your-own-beliefs
 ---

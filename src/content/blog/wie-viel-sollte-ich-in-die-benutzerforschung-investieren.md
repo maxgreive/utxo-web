@@ -3,9 +3,9 @@ title: "Wie viel sollte ich in die Benutzerforschung investieren?"
 author: Martin Betz
 pubDate: 2024-02-20T01:00:00.000Z
 tags:
-  - "customer-research"
-  - "how-to"
-  - "invest"
+  - "Kundenforschung"
+  - "How-To"
+  - "Partnerschaften"
 previewImage: "./images/file-jRl8a4kHUi4P4ch6I8CXn3Cv-2.png"
 reference: how-much-should-i-invest-in-user-research
 ---

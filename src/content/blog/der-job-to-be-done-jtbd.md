@@ -1,20 +1,18 @@
 ---
 title: "Der Job to Be Done - JTBD"
-pubDate: "2021-05-17"
+pubDate: 2021-05-17T00:00:00.000Z
 categories:
   - "blog"
   - "innovateupgrade"
 tags:
+  - "Podcast"
   - "elemente"
-  - "iu-staffel-2"
   - "jtbd"
-  - "podcast"
   - "shot"
-secret: true
-coverImage: "Keyvisual-JTBD_.005.jpg.001-min.jpeg"
+author: Peter Rochel
+canonicalURL: "https://oberwasser-consulting.de/der-job-to-be-done-jtbd"
+previewImage: "./images/Keyvisual-JTBD_.005.jpg"
 ---
-
-![Definition Jobs to Be Done](images/Keyvisual-JTBD_.005.jpg.001-min-1024x576.jpeg)
 
 ## Was ist ein JTBD?
 
@@ -28,11 +26,11 @@ Ein Job to Be Done, oder auch Kunden-Job, beschreibt wie Menschen in konkreten S
 
 <iframe data-cookie-consent="marketing" data-cookieblock-src="https://embed.podcasts.apple.com/us/podcast/was-ist-ein-job-to-be-done/id1354901024?i=1000522034342&amp;itsct=podcast_box_player&amp;itscg=30200&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent;"></iframe>
 
-00:00:00 Intro
-00:00:47 Definition JTBD
-00:01:05 Job Beispiele
-00:01:53 Gute JTBD Beschreibungen
-00:02:52 Problem Solution Gap überwinden
+00:00:00 Intro<br>
+00:00:47 Definition JTBD<br>
+00:01:05 Job Beispiele<br>
+00:01:53 Gute JTBD Beschreibungen<br>
+00:02:52 Problem Solution Gap überwinden<br>
 00:03:48 Get out
 
 ### Einen Bohrer beauftragen?
@@ -43,14 +41,14 @@ Also können Jobs, funktionale, emotionale oder soziale Dimensionen haben.
 
 _Jobs haben funktionale, emotionale und soziale Dimensionen_
 
-![Funktionale, soziale und emotionale Dimensionen eines JTBD oder Job to Be Done](images/JTBD_Dimension-1024x771.jpg)
+![Funktionale, soziale und emotionale Dimensionen eines JTBD oder Job to Be Done](./images/JTBD_Dimension-1024x771.jpg)
 
 
 Wichtig dabei ist es, den Job und vor allem die Umstände, unter denen er auftaucht, möglichst genau zu verstehen. Die genaue Beschreibung eines Jobs zeigt, unter welchen Bedingungen Menschen dauerhaft zu neuen Verhaltensmustern, Lösungen, Produkten, Services oder Marken wechseln.
 
 ## Customer Jobs Beschreiben - mit drei zentralen Elementen
 
-![](images/JTBD_Elements_4x4-1024x1024.jpg)
+![](./images/JTBD_Elements_4x4-1024x1024.jpg)
 
 _Zu einer genauen Beschreibung, mit der sich besonders gut arbeiten lässt, gehören immer drei Elemente: [Ereignisse](https://oberwasser-consulting.de/trigger-events-des-jtbd-fortschrittszyklus/), [Kräfte](https://oberwasser-consulting.de/kraefte-im-jobs-to-be-done-modell/) und limitierender Kontext._
 
@@ -63,7 +61,7 @@ Damit es nicht zu komplex wird, gilt auch hier die Faustregel: So viel wie nöti
 
 _Hilft dir dabei, so einfach wie möglich und so präzise wie nötig, Kunden-Jobs zu beschreiben: Der **The Wheel of Progress®** Canvas_
 
-[![jobs to be done Auswertung canvas](images/JTBD-Canvas-wheel-of-progress.jpg)](https://oberwasser-consulting.de/jtbd-tools/)
+[![jobs to be done Auswertung canvas](./images/JTBD-Canvas-wheel-of-progress.jpg)](https://oberwasser-consulting.de/jtbd-tools/)
 
 ## Die Jobs-Brille
 

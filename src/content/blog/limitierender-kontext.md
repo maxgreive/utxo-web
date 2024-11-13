@@ -1,23 +1,23 @@
 ---
 title: "Limitierender Kontext"
-pubDate: "2021-07-24"
+pubDate: 2021-07-24T00:00:00.000Z
 categories:
   - "blog"
   - "innovateupgrade"
 tags:
+  - "Podcast"
   - "elemente"
-  - "iu-staffel-2"
   - "jtbd"
-  - "podcast"
-  - "shot"
-secret: true
   - "wop"
-coverImage: "Constraints_16x9.jpeg"
+  - "shot"
+author: Peter Rochel
+canonicalURL: "https://oberwasser-consulting.de/limitierender-kontext"
+previewImage: "./images/Constraints_16x9.jpeg"
 ---
 
 ## Untersucht die Umstände, nicht die Kunden.
 
-![Limitierender Kontext im Jobs to Be Done ](images/Constraints_16x9-1024x576.jpeg)
+![Limitierender Kontext im Jobs to Be Done ](images/Constraints_16x9.jpeg)
 
 ### Überall zu hören, wo es Podcasts gibt:
 
