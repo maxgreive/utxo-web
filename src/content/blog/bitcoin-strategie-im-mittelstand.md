@@ -4,7 +4,7 @@ author: Peter Rochel
 pubDate: 2024-09-26T00:00:00.000Z
 canonicalURL: https://oberwasser-consulting.de/bitcoin-strategie-im-mittelstand/
 tags:
-  - bitcoin
+  - Bitcoin
   - disruption
   - iu-staffel-2
   - podcast

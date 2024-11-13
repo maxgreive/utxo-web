@@ -5,7 +5,7 @@ author: Peter Rochel
 pubDate: 2024-09-26T00:00:00.000Z
 canonicalURL: https://oberwasser-consulting.de/bitcoin-chatgpt-ki-dialog/
 tags:
-  - bitcoin
+  - Bitcoin
   - disruption
   - ki
 previewImage: src/content/blog/images/btc-vs-ki.jpg

@@ -3,7 +3,7 @@ title: Mit Hypothesen und messbaren Zielen zu erfolgreichen Business-Experimente
 secret: false
 author: Martin Betz
 tags:
-  - experimente
+  - Experimente
 description: Entdecke, warum Hypothesen und messbare Ziele das Herzstück
   erfolgreicher Business-Experimente sind, und wie du diese effektiv formulieren
   kannst.

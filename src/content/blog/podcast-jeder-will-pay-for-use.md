@@ -4,7 +4,7 @@ author: Peter Rochel
 pubDate: 2024-09-07T00:00:00.000Z
 canonicalURL: https://oberwasser-consulting.de/podcast045/
 tags:
-  - bitcoin
+  - Bitcoin
   - business-model-design
   - digitalisierung
   - iu-staffel-2

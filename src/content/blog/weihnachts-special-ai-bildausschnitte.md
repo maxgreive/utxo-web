@@ -3,7 +3,7 @@ title: "Weihnachts-Special: AI-Bildausschnitte"
 author: Martin Betz
 pubDate: 2023-12-22T01:00:00.000Z
 tags:
-  - "Künstiliche Intelligenz (KI)"
+  - "Künstliche Intelligenz (KI)"
   - "Persönliches"
   - "special"
 previewImage: "./images/DALL·E-2023-12-15-12.44.30-A-watercolor-geometric-style-painting-inspired-by-the-spurious-correlation-between-per-capita-cheese-consumption-and-the-number-of-people-entangled-in.png"

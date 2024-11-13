@@ -3,9 +3,8 @@ title: Deine Sprache schränkt Deine Leistungen ein
 author: Martin Betz
 pubDate: 2024-01-31T00:00:00.000Z
 tags:
-  - framework
-  - how-to
-  - language
+  - Methodik
+  - How-To
 description: Für die meisten Unternehmen dauert es eine ganze Weile, bis sie
   sich auf den Weg der Disruption machen. Es dauert, bis sie erkennen, dass es
   mit kleinen, inkrementellen Schritten nicht mehr getan ist. Den Schmerz eines

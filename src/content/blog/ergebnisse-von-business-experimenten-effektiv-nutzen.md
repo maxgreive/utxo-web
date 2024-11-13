@@ -3,9 +3,9 @@ title: Ergebnisse von Business-Experimenten effektiv nutzen
 secret: false
 author: Martin Betz
 tags:
-  - experimente
-  - hypothesen
-  - struktur
+  - Experimente
+  - Hypothesen
+  - Struktur
 description: Erfahre, wie du die Ergebnisse deiner Business-Experimente richtig
   interpretierst und welche Folgehandlungen sich daraus ableiten lassen. Von der
   Datenanalyse zur effektiven Entscheidungsfindung.

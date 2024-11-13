@@ -3,11 +3,7 @@ title: "What makes your business fit?"
 author: Martin Betz
 pubDate: 2023-11-27T01:00:00.000Z
 tags:
-  - "business-culture-fit"
   - "Produktentwicklung"
-  - "product-business-fit"
-  - "product-language-fit"
-  - "product-market-fit"
 previewImage: "../images/DALL·E-2023-11-20-17.52.51-A-very-muscular-man-with-a-hipster-beard-dressed-in-a-suit-is-trying-to-solve-a-puzzle-in-a-semi-full-cafe.-The-art-style-combines-watercolor-with-g.png"
 reference: what-makes-your-business-fit
 ---

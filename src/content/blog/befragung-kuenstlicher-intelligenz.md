@@ -3,7 +3,7 @@ title: "Künstliche Intelligenz in Frage stellen?"
 author: Martin Betz
 pubDate: 2024-02-08T01:00:00.000Z
 tags:
-  - "Künstiliche Intelligenz (KI)"
+  - "Künstliche Intelligenz (KI)"
   - "Gesprächsführung"
   - "thinking-ahead"
 previewImage: "./images/file-w6tHvawDGiWJsvSVFizStlw5.png"
