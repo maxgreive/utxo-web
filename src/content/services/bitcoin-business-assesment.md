@@ -7,7 +7,7 @@ pubDate: 2024-11-13T16:02:00.000Z
 previewImage: images/disruptive-technologies.png
 icon: flaticon-round-table
 sidebar:
-  hideContactForm: false
+  hideContactForm: true
   downloadButtonIcon: fa-file-pdf
 ctaSection:
   buttonLink: cal.com/martinbetz
