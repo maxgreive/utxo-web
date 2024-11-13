@@ -26,22 +26,22 @@ Wir untersuchen dein Business, identifizieren die Potenziale von Bitcoin als Tec
 
 **Was wir bieten:** Unsere Bitcoin-Potenzialanalyse verschafft Ihnen einen klaren Wettbewerbsvorteil, indem wir die relevanten Chancen für Ihr Unternehmen identifizieren und nutzen.
 
-- **Individuelle Bedarfsanalyse**: Wir evaluieren Ihre aktuellen Geschäftsprozesse und identifizieren Bereiche, in denen Bitcoin-Technologien gezielt Mehrwert schaffen können, zum Beispiel durch die Optimierung von Zahlungssystemen, die Reduzierung von Transaktionskosten oder die Nutzung von Blockchain-Lösungen zur Verbesserung der Lieferkettentransparenz.
-- **Strategische Beratung**: Basierend auf unserer Analyse entwickeln wir individuelle Strategien, um Bitcoin effektiv in Ihre Geschäftsmodelle zu integrieren, was zu Effizienzgewinnen, Kostensenkungen und einer besseren Nutzung vorhandener Ressourcen führen kann.
-- **Umsetzungsbegleitung**: Wir begleiten Sie bei der Implementierung der Maßnahmen und unterstützen Ihre Teams bei der Kompetenzentwicklung.
+* **Individuelle Bedarfsanalyse**: Wir evaluieren Ihre aktuellen Geschäftsprozesse und identifizieren Bereiche, in denen Bitcoin-Technologien gezielt Mehrwert schaffen können, zum Beispiel durch die Optimierung von Zahlungssystemen, die Reduzierung von Transaktionskosten oder die Nutzung von Blockchain-Lösungen zur Verbesserung der Lieferkettentransparenz.
+* **Strategische Beratung**: Basierend auf unserer Analyse entwickeln wir individuelle Strategien, um Bitcoin effektiv in Ihre Geschäftsmodelle zu integrieren, was zu Effizienzgewinnen, Kostensenkungen und einer besseren Nutzung vorhandener Ressourcen führen kann.
+* **Umsetzungsbegleitung**: Wir begleiten Sie bei der Implementierung der Maßnahmen und unterstützen Ihre Teams bei der Kompetenzentwicklung.
 
 **Ihre Vorteile:**
 
-- **Innovationsvorsprung**: Nutzen Sie die Chancen, die Bitcoin bietet, um sich von Ihren Wettbewerbern abzuheben.
-- **Effizienzsteigerung**: Reduzieren Sie Kosten und optimieren Sie Prozesse durch den Einsatz von Bitcoin-Technologien.
-- **Neue Einnahmequellen**: Erschließen Sie neue Märkte und Kundensegmente durch innovative, auf Bitcoin basierende Geschäftsmodelle.
+* **Innovationsvorsprung**: Nutzen Sie die Chancen, die Bitcoin bietet, um sich von Ihren Wettbewerbern abzuheben.
+* **Effizienzsteigerung**: Reduzieren Sie Kosten und optimieren Sie Prozesse durch den Einsatz von Bitcoin-Technologien.
+* **Neue Einnahmequellen**: Erschließen Sie neue Märkte und Kundensegmente durch innovative, auf Bitcoin basierende Geschäftsmodelle.
 
 Mit unserer langjährigen Expertise in der Analyse von Werttreibern und Geschäftsmodellen sowie zahlreichen erfolgreichen Projekten im Bereich Bitcoin-Technologien sind wir der ideale Partner, um Ihr Unternehmen zukunftssicher zu gestalten. Unsere Referenzen umfassen die Optimierung von Zahlungsprozessen für führende Industrieunternehmen, die erfolgreiche Integration von Bitcoin-basierten Lösungen in verschiedene Geschäftsbereiche.
 
 Zusätzlich engagieren wir uns im Bereich Bitcoin Bildung und Regulatorik und sind entsprechend vernetzt:
 
-- Gründungsmitglied im Bitcoin Bundesverband
-- Durchführung einer Jobs to be Done Studie zum Thema Bitcoin-Adoption
-- Einer unserer Geschäftsführer ist Host in einem der erfolgreichsten deutschen Bitcoin Podcasts - Nodesignal
+* Gründungsmitglied im Bitcoin Bundesverband
+* Durchführung einer Jobs to be Done Studie zum Thema Bitcoin-Adoption
+* Einer unserer Geschäftsführer ist Host in einem der erfolgreichsten deutschen Bitcoin Podcasts - Nodesignal
 
-**Vereinbaren Sie jetzt einen unverbindlichen Termin, um die nächsten Schritte, das passende Angebot und die strategische Passform für Ihr Unternehmen zu besprechen.**
+**[Vereinbare jetzt einen unverbindlichen Termin](www.cal.com/martinbetz), um die nächsten Schritte, das passende Angebot und die strategische Passform für dein Unternehmen zu besprechen.**
