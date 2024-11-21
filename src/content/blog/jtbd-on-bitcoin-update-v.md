@@ -1,6 +1,7 @@
 ---
 title: "JTBD on Bitcoin - Update V"
 pubDate: 2024-05-21T00:00:00.000Z
+author: Peter Rochel
 tags:
   - "Bitcoin"
   - "Innovation"

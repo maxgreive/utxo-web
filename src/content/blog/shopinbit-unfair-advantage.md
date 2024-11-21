@@ -1,6 +1,7 @@
 ---
 title: "Shopinbit - Unfair Advantage?"
 pubDate: 2024-06-11T00:00:00.000Z
+author: Peter Rochel
 tags:
   - "Bitcoin"
   - "Digitalisierung"

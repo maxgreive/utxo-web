@@ -1,6 +1,7 @@
 ---
 title: "Lightning-Zahlungen für Unternehmen: Vorteile, Implementierung und Zukunft des Bitcoin-Bezahlsystems"
 pubDate: 2024-03-19T00:00:00.000Z
+author: Peter Rochel
 tags:
   - "Bitcoin"
   - "Strategie"

@@ -1,6 +1,7 @@
 ---
 title: "Sonderfolge - Live-Mega-Mashup-Bitcoin-Podcast 2023"
 pubDate: 2024-04-01T00:00:00.000Z
+author: Peter Rochel
 tags:
   - "Bitcoin"
   - "Podcast"

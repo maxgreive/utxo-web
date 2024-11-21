@@ -1,6 +1,7 @@
 ---
 title: "Relai CEO Julian Liniger: Die Brücke zwischen Bitcoin-Technologie und Mensch"
 pubDate: 2024-10-07T00:00:00.000Z
+author: Peter Rochel
 tags:
   - "Bitcoin"
   - "Podcast"

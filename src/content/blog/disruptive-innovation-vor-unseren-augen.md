@@ -1,6 +1,7 @@
 ---
 title: "Disruptive Innovation vor unseren Augen"
 pubDate: 2024-10-02T00:00:00.000Z
+author: Peter Rochel
 tags:
   - "Bitcoin"
   - "Digitalisierung"

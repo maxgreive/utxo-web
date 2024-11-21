@@ -1,6 +1,7 @@
 ---
 title: "Von Banken ohne Lösung und Kleinsparern"
 pubDate: 2024-02-12T00:00:00.000Z
+author: Peter Rochel
 tags:
   - "Bitcoin"
   - "Innovation"
