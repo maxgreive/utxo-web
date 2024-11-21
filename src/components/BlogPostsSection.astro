@@ -6,15 +6,21 @@ import FormattedDate from "@components/FormattedDate.astro";
 import { Picture, getImage } from "astro:assets";
 import { people, getPersonPath, type Person } from "@utilities/people";
 import backgroundImage from "@src/images/h9_blog_bg.jpg";
+import { getPostsByTag } from "@src/utilities/tags";
 
-const { frontmatter } = Astro.props,
+const { frontmatter, containerWidth, limit = 3 } = Astro.props,
   title = frontmatter.title,
   collection = frontmatter.collection,
   sectionBackground = await getImage({ src: backgroundImage });
 
-const posts = collection
+let posts = [];
+if (frontmatter.filterTag) {
+  posts = await getPostsByTag("blog", frontmatter.filterTag, Astro.currentLocale)
+} else {
+  posts = collection
   ? await getPublishedPosts(Astro.currentLocale, collection)
   : [];
+}
 ---
 
 <section
@@ -25,7 +31,7 @@ const posts = collection
     {
       frontmatter.blog && (
         <div class="row justify-content-center">
-          <div class="col-lg-6">
+          <div class={`col-lg-${containerWidth || 6}`}>
             <div class="section-title-four text-center mb-50 tg-heading-subheading animation-style3">
               {frontmatter.blog.subtitle && (
                 <span class="sub-title tg-element-title">
@@ -38,7 +44,7 @@ const posts = collection
               )}
 
               {frontmatter.blog.description && (
-                <p>{frontmatter.blog.description}</p>
+                <p set:html={frontmatter.blog.description} />
               )}
             </div>
           </div>
@@ -48,7 +54,7 @@ const posts = collection
     <div class="row justify-content-center">
       {
         posts &&
-          posts.slice(0, 3).map((post) => {
+          posts.slice(0, limit).map((post) => {
             let person: Person = people.find((person) => {
               return person.fullName === post.data.author;
             });
