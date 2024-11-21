@@ -4,8 +4,6 @@ author: Martin Betz
 pubDate: 2024-01-17T01:00:00.000Z
 tags:
   - "Methodik"
-  - "Methodik"
-  - "structure"
 previewImage: "./images/DALL·E-2024-01-16-23.25.33-An-artistic-depiction-of-a-businessman-in-an-office-with-one-wall-dedicated-to-explanations-about-customer-research.-The-wall-is-filled-with-various-.png"
 reference: understanding-the-jobs-to-be-done-perspective
 ---

@@ -1,13 +1,9 @@
 ---
 title: "Kräfte im Jobs to Be Done Modell"
 pubDate: 2021-06-12T00:00:00.000Z
-categories:
-  - "innovateupgrade"
 tags:
   - "Methodik"
   - "Podcast"
-  - "elemente"
-  - "jtbd"
   - "shot"
 author: Peter Rochel
 canonicalURL: "https://oberwasser-consulting.de/kraefte-im-jobs-to-be-done-modell"
@@ -20,19 +16,19 @@ Peter Rochel bringt in knapp sechs Minuten auf den Punkt, was es mit diesem zent
 
 ## Diesen Podcast-Shot direkt hier anhören
 
-<iframe data-cookie-consent="marketing" data-cookieblock-src="https://embed.podcasts.apple.com/us/podcast/kr%C3%A4fte-im-jobs-to-be-done-modell/id1354901024?i=1000525296045&amp;itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent;"></iframe>
+<iframe data-osano="MARKETING" src="https://embed.podcasts.apple.com/us/podcast/kr%C3%A4fte-im-jobs-to-be-done-modell/id1354901024?i=1000525296045&amp;itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent;"></iframe>
 
 ### Überall zu hören, wo es Podcasts gibt:
 
 [![](images/listen-on-apple-podcast.png)](https://podcasts.apple.com/de/podcast/kräfte-im-jobs-to-be-done-modell/id1354901024?i=1000525296045)[![](images/listen-on-spotify.png)](https://open.spotify.com/episode/1zUpf4tvtCzvYt0BXaQbb5)[![](images/ListenOn_AmazonMusic_button_Black_RGB_5X_DE-300x73.png)](https://music.amazon.de/podcasts/4838bd28-7b97-4912-80cb-de39a6c75654/episodes/9b065fd0-5b55-4340-88f8-3bd38f37d6e4/innovate-upgrade-kräfte-im-jobs-to-be-done-modell)[![jobs to be done podcast](images/DE_Google_Podcasts_Badge_8x-300x76.png)](https://podcasts.google.com/feed/aHR0cHM6Ly96dW04cnkucG9kY2FzdGVyLmRlL29iZXJ3YXNzZXIucnNz/episode/cG9kLWIwZjY5NTMzOTc3NjE4MGRkZTI1ZDFlN2ZhOTg?sa=X&ved=0CAUQkfYCahcKEwi4laTb7sH8AhUAAAAAHQAAAAAQAQ)
 
-00:00 Intro
-00:19 Pains, Gains, Kräfte
-00:36 Wirkrichtung
-01:25 Gewinne und Probleme
-01:31 Messbar?
-02:54 Kräfte finden
-05:44 Get out
+00:00 Intro<br>
+00:19 Pains, Gains, Kräfte<br>
+00:36 Wirkrichtung<br>
+01:25 Gewinne und Probleme<br>
+01:31 Messbar?<br>
+02:54 Kräfte finden<br>
+05:44 Get out<br>
 
 #### Den Jobs to be Done Podcast gibt es überall hier kostenlos zu abonnieren:
 

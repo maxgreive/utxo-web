@@ -7,7 +7,7 @@ tags:
   - "Podcast"
   - "Bitcoin"
   - "Strategie"
-  - "disruption"
+  - "Innovation"
 previewImage: "./images/BTC-und-Bank_SL.png"
 ---
 

@@ -1,12 +1,8 @@
 ---
 title: "Gute Kandidaten für JTBD Interviews"
 pubDate: 2021-08-21T00:00:00.000Z
-categories:
-  - "blog"
-  - "innovateupgrade"
 tags:
   - "Podcast"
-  - "kundeninterviews"
   - "shot"
 author: Peter Rochel
 canonicalURL: "https://oberwasser-consulting.de/gute-kandidaten-fuer-jtbd-interviews"
@@ -19,7 +15,7 @@ previewImage: "./images/Gute-Kandidatinnen.jpg"
 
 **Hier direkt I+U Staffel 2 Episode 023 anhören**
 
-<iframe data-cookie-consent="marketing" data-cookieblock-src="https://embed.podcasts.apple.com/us/podcast/gute-kandidatinnen-f%C3%BCr-jtbd-interviews/id1354901024?i=1000532701922&amp;itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent;"></iframe>
+<iframe data-osano="MARKETING" src="https://embed.podcasts.apple.com/us/podcast/gute-kandidatinnen-f%C3%BCr-jtbd-interviews/id1354901024?i=1000532701922&amp;itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent;"></iframe>
 
 00:00:00 Intro<br>
 00:01:58 Nur in Ausnahmefällen gut: Stammkunden<br>

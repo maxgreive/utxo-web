@@ -4,8 +4,6 @@ author: Martin Betz
 pubDate: 2023-12-01T01:00:00.000Z
 tags:
   - "Rationalität"
-  - "product-language-fit"
-  - "uncertainty"
 previewImage: "../images/DALL·E-2023-11-30-22.42.09-Eine-Frau-in-einem-Business-Kleid-steht-in-einem-Laden-und-versucht-sich-zwischen-zwei-Produkten-zu-entscheiden.-Ihr-Gesichtsausdruck-zeigt-Verwirrun.png"
 reference: he-who-knows-not-does-not-buy
 ---

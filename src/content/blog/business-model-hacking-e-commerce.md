@@ -5,7 +5,6 @@ pubDate: 2024-10-29T01:00:00.000Z
 canonicalURL: "https://oberwasser-consulting.de/business-model-hacking-e-commerce"
 tags:
   - "Strategie"
-  - "alexander-moths"
   - "Bitcoin"
   - "Strategie"
   - "Digitalisierung"

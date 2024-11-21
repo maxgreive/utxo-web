@@ -5,7 +5,7 @@ author: Peter Rochel
 canonicalURL: "https://oberwasser-consulting.de/bitcoin-zahlungen-einzelhandel-gastronomie/"
 tags:
   - "Bitcoin"
-  - "disruption"
+  - "Innovation"
   - "Podcast"
   - "How-To"
   - "Unternehmertum"

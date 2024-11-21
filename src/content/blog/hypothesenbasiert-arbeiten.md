@@ -1,13 +1,10 @@
 ---
 title: "Hypothesenbasiert Arbeiten"
 pubDate: 2022-04-09T00:00:00.000Z
-categories:
-  - "blog"
-  - "innovateupgrade"
 tags:
   - "Podcast"
   - "Annahmen"
-  - "jtbd"
+  - "Methodik"
   - "shot"
 author: Peter Rochel
 canonicalURL: "https://oberwasser-consulting.de/hypothesenbasiert-arbeiten"
@@ -22,7 +19,7 @@ In diesem JTBD Podcast-Shot erklärt Peter Rochel, was hypothesenbasiertes Arbei
 
 **Hier direkt I+U Staffel 2 Episode 039 anhören**
 
-<iframe data-cookie-consent="marketing" data-cookieblock-src="https://embed.podcasts.apple.com/us/podcast/shot-hypothesenbasiert-arbeiten/id1354901024?i=1000556834450&amp;itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; background-color: transparent;"></iframe>
+<iframe data-osano="MARKETING" src="https://embed.podcasts.apple.com/us/podcast/shot-hypothesenbasiert-arbeiten/id1354901024?i=1000556834450&amp;itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; background-color: transparent;"></iframe>
 
 **Alle Zeitstempel der Kapitel dieser Episode**:
 

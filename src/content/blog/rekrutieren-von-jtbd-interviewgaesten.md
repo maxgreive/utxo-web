@@ -1,13 +1,9 @@
 ---
 title: "Rekrutieren von JTBD Interviewgästen"
 pubDate: 2022-03-12T00:00:00.000Z
-categories:
-  - "blog"
-  - "innovateupgrade"
 tags:
   - "Podcast"
-  - "jtbd"
-  - "kundeninterviews"
+  - "Methodik"
   - "shot"
 author: Peter Rochel
 canonicalURL: "https://oberwasser-consulting.de/rekrutieren-von-jtbd-interviewgaesten"
@@ -20,7 +16,7 @@ In diesem JTBD Podcast-Shot erklärt Peter Rochel, wie du in 3 Schritten sicher 
 
 [![](images/listen-on-apple-podcast.png)](https://podcasts.apple.com/de/podcast/innovate-upgrade/id1354901024?i=1000532701922)[![](images/listen-on-spotify.png)](https://open.spotify.com/episode/6gCuLsOcwc301CwOq22rHs?si=CGXEazODQO2Rz6_w_2hn1Q)[![](images/ListenOn_AmazonMusic_button_Black_RGB_5X_DE-300x73.png)](https://music.amazon.de/podcasts/4838bd28-7b97-4912-80cb-de39a6c75654/episodes/f4716f13-8add-47d4-aca3-d8ffec15df59/innovate-upgrade-rekrutieren-von-jtbd-interviewg%C3%A4sten)[![jobs to be done podcast](images/DE_Google_Podcasts_Badge_8x-300x76.png)](https://podcasts.google.com/feed/aHR0cHM6Ly96dW04cnkucG9kY2FzdGVyLmRlL29iZXJ3YXNzZXIucnNz/episode/cG9kLThlMWNjYjNjZjFkNDI3Mjk5OTM0YjA3Njc?sa=X&ved=0CAUQkfYCahcKEwj4lsyljPj9AhUAAAAAHQAAAAAQAQ)
 
-<iframe data-cookie-consent="marketing" data-cookieblock-src="https://embed.podcasts.apple.com/us/podcast/rekrutieren-von-jtbd-interviewg%C3%A4sten/id1354901024?i=1000553817519&amp;itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; background-color: transparent;"></iframe>
+<iframe data-osano="MARKETING" src="https://embed.podcasts.apple.com/us/podcast/rekrutieren-von-jtbd-interviewg%C3%A4sten/id1354901024?i=1000553817519&amp;itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; background-color: transparent;"></iframe>
 
 **Alle Zeitstempel der Kapitel dieser Episode**:
 

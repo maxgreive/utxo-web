@@ -5,7 +5,6 @@ pubDate: 2024-02-08T01:00:00.000Z
 tags:
   - "Künstliche Intelligenz (KI)"
   - "Gesprächsführung"
-  - "thinking-ahead"
 previewImage: "./images/file-w6tHvawDGiWJsvSVFizStlw5.png"
 reference: questioning-artificial-intelligence
 ---

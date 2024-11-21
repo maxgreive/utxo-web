@@ -7,7 +7,6 @@ tags:
   - Bitcoin
   - business-model-design
   - digitalisierung
-  - iu-staffel-2
   - ki
   - podcast
   - prozesse

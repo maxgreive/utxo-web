@@ -5,7 +5,6 @@ pubDate: 2024-01-12T01:00:00.000Z
 tags:
   - "Gesprächsführung"
   - "Experimente"
-  - "thinking-ahead"
 previewImage: "./images/DALL·E-2024-01-11-23.17.48-Two-businesspeople-having-a-discussion-but-looking-exhausted.-The-style-is-watercolor-with-a-slightly-geometric-touch.-The-color-scheme-is-predominant.png"
 reference: why-talking-to-your-customers-sometimes-feels-hard
 ---

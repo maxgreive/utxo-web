@@ -1,13 +1,9 @@
 ---
 title: "Der Job to Be Done - JTBD"
 pubDate: 2021-05-17T00:00:00.000Z
-categories:
-  - "blog"
-  - "innovateupgrade"
 tags:
   - "Podcast"
-  - "elemente"
-  - "jtbd"
+  - "Methodik"
   - "shot"
 author: Peter Rochel
 canonicalURL: "https://oberwasser-consulting.de/der-job-to-be-done-jtbd"
@@ -24,7 +20,7 @@ Ein Job to Be Done, oder auch Kunden-Job, beschreibt wie Menschen in konkreten S
 
 **Hier direkt I+U Staffel 2 Episode 016 anhören**
 
-<iframe data-cookie-consent="marketing" data-cookieblock-src="https://embed.podcasts.apple.com/us/podcast/was-ist-ein-job-to-be-done/id1354901024?i=1000522034342&amp;itsct=podcast_box_player&amp;itscg=30200&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent;"></iframe>
+<iframe data-osano="MARKETING" src="https://embed.podcasts.apple.com/us/podcast/was-ist-ein-job-to-be-done/id1354901024?i=1000522034342&amp;itsct=podcast_box_player&amp;itscg=30200&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent;"></iframe>
 
 00:00:00 Intro<br>
 00:00:47 Definition JTBD<br>

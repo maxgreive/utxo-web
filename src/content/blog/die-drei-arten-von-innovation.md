@@ -1,13 +1,9 @@
 ---
 title: "Die drei Arten von Innovation"
 pubDate: 2022-08-13T00:00:00.000Z
-categories:
-  - "blog"
-  - "innovateupgrade"
 tags:
   - "Podcast"
-  - "jtbd"
-  - "shot"
+  - "Methodik"
 author: Peter Rochel
 canonicalURL: "https://oberwasser-consulting.de/die-drei-arten-von-innovation"
 previewImage: "./images/InnovationsArten_Beitragsbild-scaled.jpg"
@@ -21,7 +17,7 @@ In diesem JTBD Podcast-Shot erklärt Peter Rochel die drei Arten von Innovation.
 
 [![](images/listen-on-apple-podcast.png)](https://podcasts.apple.com/de/podcast/die-drei-arten-von-innovation/id1354901024?i=1000575992804&itsct=podcast_box&itscg=30200&ls=1)[![](images/listen-on-spotify.png)](https://open.spotify.com/episode/54oK2fcYxXHe3nLtFEkvbI?si=c0768baf986745a5)[![](images/ListenOn_AmazonMusic_button_Black_RGB_5X_DE-300x73.png)](https://music.amazon.de/podcasts/4838bd28-7b97-4912-80cb-de39a6c75654/episodes/1a0b6aee-efff-4d5e-9e28-37099c3d0486/innovate-upgrade-die-drei-arten-von-innovation)[![jobs to be done podcast](images/DE_Google_Podcasts_Badge_8x-300x76.png)](https://podcasts.google.com/feed/aHR0cHM6Ly96dW04cnkucG9kY2FzdGVyLmRlL29iZXJ3YXNzZXIucnNz)
 
-<iframe data-cookie-consent="marketing" data-cookieblock-src="https://embed.podcasts.apple.com/us/podcast/die-drei-arten-von-innovation/id1354901024?i=1000575992804&amp;itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; background-color: transparent;"></iframe>
+<iframe data-osano="MARKETING" src="https://embed.podcasts.apple.com/us/podcast/die-drei-arten-von-innovation/id1354901024?i=1000575992804&amp;itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; background-color: transparent;"></iframe>
 
 **Alle Zeitstempel der Kapitel dieser Episode**:
 

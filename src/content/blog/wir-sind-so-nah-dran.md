@@ -5,7 +5,6 @@ pubDate: 2023-11-29T01:00:00.000Z
 tags:
   - "Rationalität"
   - "Rationalität"
-  - "make-or-buy"
 previewImage: "./images/DALL·E-2023-12-06-17.27.57-A-watercolor-geometric-style-illustration-depicting-a-businessman-mid-air-almost-reaching-the-top-of-a-cliff.-The-dynamic-pose-of-the-businessman-sho.png"
 reference: we-are-so-close
 ---

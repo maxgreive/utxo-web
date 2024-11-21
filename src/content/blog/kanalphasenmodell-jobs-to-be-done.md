@@ -1,14 +1,9 @@
 ---
 title: "Kanalphasenmodell: Optimiere Jobs-to-be-Done Research"
 pubDate: 2023-05-06T00:00:00.000Z
-categories:
-  - "blog"
-  - "business-model-innovation"
-  - "innovateupgrade"
 tags:
   - "Podcast"
-  - "jtbd"
-  - "kanaele"
+  - "Methodik"
   - "shot"
 author: Peter Rochel
 canonicalURL: "https://oberwasser-consulting.de/kanalphasenmodell-jobs-to-be-done"

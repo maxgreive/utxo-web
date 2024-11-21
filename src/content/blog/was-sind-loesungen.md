@@ -1,12 +1,8 @@
 ---
 title: "Die Lösungen - Deine Wettbewerber"
 pubDate: 2021-11-13T00:00:00.000Z
-categories:
-  - "blog"
-  - "innovateupgrade"
 tags:
   - "Podcast"
-  - "elemente"
   - "Annahmen"
   - "shot"
 author: Peter Rochel
@@ -20,7 +16,7 @@ previewImage: "./images/JTBD-Solution-loesungen.jpg"
 
 **Hier direkt I+U Staffel 2 Episode 029 anhören**
 
-<iframe data-cookie-consent="marketing" data-cookieblock-src="https://embed.podcasts.apple.com/us/podcast/die-l%C3%B6sungen-deine-wettbewerber/id1354901024?i=1000541708749&amp;itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent;"></iframe>
+<iframe data-osano="MARKETING" src="https://embed.podcasts.apple.com/us/podcast/die-l%C3%B6sungen-deine-wettbewerber/id1354901024?i=1000541708749&amp;itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent;"></iframe>
 
 ### Überall zu hören, wo es Podcasts gibt:
 

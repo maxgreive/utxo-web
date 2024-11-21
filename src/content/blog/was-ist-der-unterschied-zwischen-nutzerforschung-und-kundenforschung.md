@@ -5,7 +5,6 @@ pubDate: 2024-02-27T01:00:00.000Z
 tags:
   - "Kundenforschung"
   - "Methodik"
-  - "product-market-fit"
 previewImage: "./images/file-736dWJl2BWhORVJvHy8LqQ5G-1024x585.png"
 reference: whats-the-difference-between-user-research-and-customer-research
 ---

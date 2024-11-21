@@ -4,7 +4,6 @@ author: Martin Betz
 pubDate: 2024-02-07T01:00:00.000Z
 tags:
   - "How-To"
-  - "language"
   - "Fortschrittszyklus"
 previewImage: "../images/file-8u7NExDQCpRLhewgHQ9diaXA.jpg"
 reference: how-to-get-your-customers-attention

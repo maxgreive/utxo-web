@@ -1,14 +1,9 @@
 ---
 title: "Limitierender Kontext"
 pubDate: 2021-07-24T00:00:00.000Z
-categories:
-  - "blog"
-  - "innovateupgrade"
 tags:
   - "Methodik"
   - "Podcast"
-  - "elemente"
-  - "jtbd"
   - "shot"
 author: Peter Rochel
 canonicalURL: "https://oberwasser-consulting.de/limitierender-kontext"
@@ -25,7 +20,7 @@ previewImage: "./images/Constraints_16x9.jpeg"
 
 [![](images/listen-on-apple-podcast.png)](https://podcasts.apple.com/de/podcast/limitierender-kontext/id1354901024?i=1000529919561)[![](images/listen-on-spotify.png)](https://open.spotify.com/episode/4MvzeouG5Bt6adwqXkg9HP)[![](images/ListenOn_AmazonMusic_button_Black_RGB_5X_DE-300x73.png)](https://music.amazon.de/podcasts/4838bd28-7b97-4912-80cb-de39a6c75654/episodes/f0424103-f91b-485d-9aac-33e145804f9b/innovate-upgrade-limitierender-kontext)[![jobs to be done podcast](images/DE_Google_Podcasts_Badge_8x-300x76.png)](https://podcasts.google.com/feed/aHR0cHM6Ly96dW04cnkucG9kY2FzdGVyLmRlL29iZXJ3YXNzZXIucnNz/episode/cG9kLTYwZjZiZjcyOTU5NGU3MjY0NTI0NjQ?sa=X&ved=0CAUQkfYCahcKEwi4laTb7sH8AhUAAAAAHQAAAAAQAQ)
 
-<iframe data-cookie-consent="marketing" data-cookieblock-src="https://embed.podcasts.apple.com/us/podcast/limitierender-kontext/id1354901024?i=1000529919561&amp;itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent;"></iframe>
+<iframe data-osano="MARKETING" src="https://embed.podcasts.apple.com/us/podcast/limitierender-kontext/id1354901024?i=1000529919561&amp;itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent;"></iframe>
 
 Limitierender Kontext ist Kontext, der, im Moment wo der Job to Be Done zu erledigen ist, die Lösungsmöglichkeiten einschränkt. Peter Rochel erklärt in dieser Episode was ihn ausmacht, welche [Events]/trigger-events-des-jtbd-fortschrittszyklus/) vorher stattgefunden haben und wie er sich beispielsweise von den [Kräften](/kraefte-im-jobs-to-be-done-modell/) unterscheidet. Der limitierende Kontext (Constraint) ist eines der drei Kernelemente der [Jobs to be Done](https://oberwasser-consulting.de/der-job-to-be-done-jtbd/) Methode und des The Wheel of Progress® Frameworks.
 

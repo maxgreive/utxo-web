@@ -1,15 +1,9 @@
 ---
 title: "Trigger-Events im JTBD Fortschrittszyklus"
 pubDate: 2021-05-23T00:00:00.000Z
-categories:
-  - "blog"
-  - "innovateupgrade"
 tags:
   - "Methodik"
   - "Podcast"
-  - "elemente"
-  - "jtbd"
-  - "marketingstrategie"
   - "shot"
 author: Peter Rochel
 canonicalURL: "https://oberwasser-consulting.de/trigger-events-des-jtbd-fortschrittszyklus"
@@ -20,7 +14,7 @@ previewImage: "./images/Events-Shots.001.jpeg"
 
 **Hier direkt I+U Staffel 2 Episode 017 anhören**
 
-<iframe data-cookie-consent="marketing" data-cookieblock-src="https://embed.podcasts.apple.com/us/podcast/trigger-ereignisse-im-jtbd-fortschrittszyklus/id1354901024?i=1000522813249&amp;itsct=podcast_box_player&amp;itscg=30200&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent;"></iframe>
+<iframe data-osano="MARKETING" src="https://embed.podcasts.apple.com/us/podcast/trigger-ereignisse-im-jtbd-fortschrittszyklus/id1354901024?i=1000522813249&amp;itsct=podcast_box_player&amp;itscg=30200&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent;"></iframe>
 
 00:00:00 Intro<br>
 00:01:07 Was sind Ereignisse<br>

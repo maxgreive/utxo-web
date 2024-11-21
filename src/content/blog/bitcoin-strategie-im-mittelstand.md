@@ -6,7 +6,6 @@ canonicalURL: https://oberwasser-consulting.de/bitcoin-strategie-im-mittelstand/
 tags:
   - Bitcoin
   - disruption
-  - iu-staffel-2
   - podcast
   - praxisbeispiel
 previewImage: ./images/Kristian_Klaeger.jpg

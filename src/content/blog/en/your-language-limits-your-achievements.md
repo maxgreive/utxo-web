@@ -5,7 +5,6 @@ pubDate: 2024-01-31T01:00:00.000Z
 tags:
   - "Methodik"
   - "How-To"
-  - "language"
 previewImage: "../images/DALL·E-2024-01-30-18.49.15-A-watercolor-slightly-geometric-styled-painting-depicting-the-Tower-of-Babel.-The-painting-should-capture-the-iconic-and-ambitious-structure-of-the-T.png"
 reference: your-language-limits-your-achievements
 ---

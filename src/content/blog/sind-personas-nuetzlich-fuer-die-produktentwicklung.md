@@ -5,7 +5,6 @@ pubDate: 2024-01-15T01:00:00.000Z
 tags:
   - "Methodik"
   - "Kundenforschung"
-  - "structure"
 previewImage: "./images/DALL·E-2024-01-14-23.54.27-A-persona-sheet-used-in-marketing-or-product-development-in-a-watercolor-and-slightly-geometric-style.-The-sheet-should-include-various-sections-for-.png"
 reference: are-personas-useful-for-product-development
 ---

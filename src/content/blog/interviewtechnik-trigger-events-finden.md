@@ -1,12 +1,8 @@
 ---
 title: "Interviewtechnik: Trigger-Events finden"
 pubDate: 2021-07-10T00:00:00.000Z
-categories:
-  - "blog"
-  - "innovateupgrade"
 tags:
   - "Podcast"
-  - "kundeninterviews"
   - "shot"
 author: Peter Rochel
 canonicalURL: "https://oberwasser-consulting.de/interviewtechnik-trigger-events-finden"
@@ -17,7 +13,7 @@ previewImage: "./images/JTBD_Events_finden-Shots.003.jpeg"
 
 **Hier direkt I+U Staffel 2 Episode 020 anhören**
 
-<iframe data-cookie-consent="marketing" data-cookieblock-src="https://embed.podcasts.apple.com/us/podcast/jtbd-interviewtechnik/id1354901024?i=1000528479044&amp;itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent;"></iframe>
+<iframe data-osano="MARKETING" src="https://embed.podcasts.apple.com/us/podcast/jtbd-interviewtechnik/id1354901024?i=1000528479044&amp;itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent;"></iframe>
 
 ### Überall zu hören, wo es Podcasts gibt:
 
