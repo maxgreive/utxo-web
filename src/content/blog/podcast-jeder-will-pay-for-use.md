@@ -4,13 +4,10 @@ author: Peter Rochel
 pubDate: 2024-09-07T00:00:00.000Z
 canonicalURL: https://oberwasser-consulting.de/podcast045/
 tags:
+  - Unternehmertum
   - Bitcoin
-  - business-model-design
-  - digitalisierung
-  - ki
-  - podcast
-  - prozesse
-  - startups
+  - Strategie
+  - Podcast
 previewImage: src/content/blog/images/content-manager-bild-1-.jpg
 ---
 ### Technologie ist kein Selbstzweck aber ein Möglichmacher

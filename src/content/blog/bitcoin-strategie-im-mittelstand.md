@@ -5,9 +5,9 @@ pubDate: 2024-09-26T00:00:00.000Z
 canonicalURL: https://oberwasser-consulting.de/bitcoin-strategie-im-mittelstand/
 tags:
   - Bitcoin
-  - disruption
-  - podcast
-  - praxisbeispiel
+  - "Innovation"
+  - Podcast
+  - How-To
 previewImage: ./images/Kristian_Klaeger.jpg
 ---
 ## Innovate+Upgrade mit Kristian Kläger

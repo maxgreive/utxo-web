@@ -3,7 +3,7 @@ title: Using Hypotheses and Measurable Goals for Successful Business Experiments
 secret: false
 author: Martin Betz
 tags:
-  - experiments
+  - "Experimente"
   - hypothesis
   - measuring
 description: Discover why hypotheses and measurable goals are at the heart of

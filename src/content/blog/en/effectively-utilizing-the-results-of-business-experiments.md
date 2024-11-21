@@ -3,7 +3,7 @@ title: Effectively Utilizing the Results of Business Experiments
 secret: false
 author: Martin Betz
 tags:
-  - experiments
+  - "Experimente"
   - hypothesis
   - uncertainty
 pubDate: 2024-11-01T01:00:00.000Z
