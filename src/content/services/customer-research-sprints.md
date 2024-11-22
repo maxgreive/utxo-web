@@ -1,15 +1,21 @@
 ---
+pubDate: Jul 22 2022
+reference: customer-research-sprints
 title: Customer Insight Sprints
-pubDate: 'Jul 22 2022'
-description: Mit unserer Expertise und Methodik verhelfen wir Dir in kürzester Zeit zu gewinnbringenden Erkenntnissen und erfolgreichen Ergebnissen. Vom ersten Tag an.
+description: Mit unserer Expertise und Methodik verhelfen wir Dir in kürzester
+  Zeit zu gewinnbringenden Erkenntnissen und erfolgreichen Ergebnissen. Vom
+  ersten Tag an.
 previewImage: ./images/workshop-loesungen-alex.jpg
 icon: flaticon-rating
-collection: services
-reference: customer-research-sprints
 sidebar:
   downloadText: ""
   downloadLink: ""
   downloadButtonLabel: ""
+ctaSection:
+  title: Jetzt Demo vereinbaren
+  buttonLink: https://cal.com/peterrochel
+  buttonLabel: Jetzt Demo vereinbaren!
+collection: services
 ---
 
 ## Entdecken Sie die Geheimnisse ihrer Kunden in nur 4 Wochen
