@@ -1,0 +1,30 @@
+---
+layout: '@layouts/FullWidth.astro'
+title: Tools
+reference: tools
+description: Nützliche Tools
+blog:
+  title: Tools & Methoden für deinen Erfolg
+  subtitle: Strategien, die dich wirklich weiterbringen
+  description: Tauche ein in praxiserprobte Werkzeuge wie das Jobs-to-be-Done-Framework, das Kanalphasenmodell oder die Progress Design Map. Lerne, wie du mit gezielten Interviewtechniken und innovativen Ansätzen nachhaltig Fortschritte erzielst. Unsere Artikel bieten dir konkrete Hilfestellungen, um deine Projekte auf das nächste Level zu bringen.<br><a href="/thema/shot" class="btn btn-three mt-20">Zu allen weiteren Tools.</a>
+collection: blog
+filterTag: shot
+---
+
+import BlogPostsSection from "@components/BlogPostsSection.astro";
+
+<BlogPostsSection frontmatter={ frontmatter} containerWidth={8} limit={6} />
+
+<section class="pt-120 pb-120">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-9">
+        <div class="section-title-four text-center mb-50 tg-heading-subheading animation-style3">
+          <h2 class="title tg-element-title">Progress Design Map</h2>
+          <p>Die <strong>Progress Design Map</strong> ist ein visuelles Business-Tool, das Produktentwicklern, Marketern und Vertriebsteams dabei hilft, in jeder Phase eines Fortschrittszyklus oder der Customer Journey den maximalen Nutzen für Kunden und Business zu gestalten. Sie richtet Produkte und Unternehmen an den Jobs-to-be-done (JTBD) der Kunden aus und strukturiert den Innovationsprozess, um einen optimalen Problem-Solution-Fit zu gewährleisten. Dadurch ermöglicht die Map eine effektive Nutzung von Research-Daten zur Entwicklung marktfähiger und kundenorientierter Lösungen.</p>
+          <a href="/progress-design-map" class="btn btn-three mt-20">Jetzt weiterlesen</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
