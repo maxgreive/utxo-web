@@ -10,7 +10,7 @@ sidebar:
   hideContactForm: true
   downloadButtonIcon: fa-file-pdf
 ctaSection:
-  buttonLink: cal.com/martinbetz
+  buttonLink: https://cal.com/martinbetz/
   buttonLabel: Jetzt Termin vereinbaren
   title: Jetzt Termin vereinbaren
 ---
