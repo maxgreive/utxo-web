@@ -52,6 +52,6 @@ Wir engagieren uns außerdem im Bereich Bitcoin Bildung und Regulatorik und sind
 
 * Gründungsmitglied im Bitcoin Bundesverband und Vorsitz des Bitcoin Bildungsausschuss
 * Durchführung einer Jobs to be Done Studie zum Thema Bitcoin-Adoption
-* Host in einem der erfolgreichsten deutschen Bitcoin Podcasts - [Nodesignal](www.nodesignal.space)
+* Host in einem der erfolgreichsten deutschen Bitcoin Podcasts - [Nodesignal](https://.nodesignal.space)
 
-**[Vereinbare jetzt einen unverbindlichen Termin](www.cal.com/martinbetz), um die nächsten Schritte, das passende Angebot und die strategische Passform für dein Unternehmen zu besprechen.**
+**[Vereinbare jetzt einen unverbindlichen Termin](https://cal.com/martinbetz), um die nächsten Schritte, das passende Angebot und die strategische Passform für dein Unternehmen zu besprechen.**
