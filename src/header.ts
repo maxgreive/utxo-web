@@ -28,7 +28,7 @@ export const headerMenu: Record<string, Record<string, navigationItem[]>> = {
 			label: 'Leistungen'
 		},
 		{
-			path: '/progress-design-map',
+			path: '/tools',
 			label: 'Tools'
 		},
 		{
