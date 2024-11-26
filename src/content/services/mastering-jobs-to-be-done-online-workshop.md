@@ -1,11 +1,15 @@
 ---
 title: Mastering Jobs to Be Done Online Workshop
-description: Melde Dich noch heute an und mach den ersten Schritt, um die Jobs-to-Be-Done-Methodik in Deinem Unternehmen erfolgreich umzusetzen. Gemeinsam erreichen wir Deine Ziele!
+description: Melde Dich noch heute an und mach den ersten Schritt, um die
+  Jobs-to-Be-Done-Methodik in Deinem Unternehmen erfolgreich umzusetzen.
+  Gemeinsam erreichen wir Deine Ziele!
 pubDate: Jul 22 2022
 previewImage: ./images/workshop-timer-gradient.png
 icon: flaticon-round-table
 sidebar:
-  downloadText: 'Wenn Du denkst: Das bin ich, aber ist es das wert? Dann findest Du hier weitere Informationen, um diese Frage mit einem klaren "Ja" beantworten zu können:'
+  downloadText: 'Wenn Du denkst: Das bin ich, aber ist es das wert? Dann findest
+    Du hier weitere Informationen, um diese Frage mit einem klaren "Ja"
+    beantworten zu können:'
   downloadLink: /assets/pdf/JTBD-Workshop.pdf
   downloadButtonLabel: Download PDF
 questions:
@@ -75,7 +79,7 @@ questions:
 ctaSection:
   title: Klingt spannend?
   buttonLabel: Jetzt anmelden
-  buttonLink: https://pretix.eu/utxo-solutions/mastering-jtbd/4238248/
+  buttonLink: https://pretix.eu/utxo-solutions/mastering-jtbd/4290294/
 ---
 
 ## Dieser Workshop ist für dich, wenn einer der folgenden Sätze auf dich zutrifft:
@@ -108,14 +112,14 @@ Melde dich noch heute an und mache den ersten Schritt, um die Jobs-to-Be-Done-Me
 
 Die aktuelle Workshopreihe im September ist ausgebucht. Die nächste startet im Oktober 2024. Die Termine für die einzelnen Sessions und Themen des Workshops sind:
 
-- **M1: 15.10.2024** – Praxisnahe Einführung JTBD Theorie und Innovation
-- **M2: 18.10.2024** – JTBD Hypothesen im Business-Kontext Identifizieren
-- **M3: 22.10.2024** – JTBD Interview Struktur und Aufbau
-- **M4: 25.10.2024** – JTBD Interview Praxis und Auswertung
-- **M5: 29.10.2024** – JTBD Daten segmentieren und Clustering
-- **M6: 05.11.2024** – JTBD Research Ergebnisse Einordnen und Bewerten
-- **M7: 08.11.2024** – Das JTBD Research & Innovation Framework
-- **M8: 12.11.2024** – Zusammenfassung, Ausblick & AMA
+- **M1: 21.01.2025** – Praxisnahe Einführung JTBD Theorie und Innovation
+- **M2: 24.01.2025** – JTBD Hypothesen im Business-Kontext Identifizieren
+- **M3: 28.01.2025** – JTBD Interview Struktur und Aufbau
+- **M4: 31.01.2025** – JTBD Interview Praxis und Auswertung
+- **M5: 04.02.2025** – JTBD Daten segmentieren und Clustering
+- **M6: 07.02.2025** – JTBD Research Ergebnisse Einordnen und Bewerten
+- **M7: 11.02.2025** – Das JTBD Research & Innovation Framework
+- **M8: 14.02.2025** – Zusammenfassung, Ausblick & AMA
 
 Die Module finden jeweils von 09.00 bis 11.30 MEZ online statt.
 
