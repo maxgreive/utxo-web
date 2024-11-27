@@ -46,9 +46,18 @@ const headerMenuItems: navigationItem[] = headerMenu[menuLocale].items;
                 <ul class="navigation">
                   {
                     headerMenuItems.map((item) => (
-                      <li>
-                        <HeaderLink href={item.path}>{item.label}</HeaderLink>
+                      item.children
+                      ? <li class="menu-item-has-children">
+                        <a href={item.path}>{item.label}</a>
+                        <ul class="sub-menu">
+                          {item.children.map(child => (
+                            <li>
+                              <a href={child.path}>{child.label}</a>
+                            </li>
+                          ))}
+                        </ul>
                       </li>
+                      : <HeaderLink href={item.path}>{item.label}</HeaderLink>
                     ))
                   }
                 </ul>
@@ -107,9 +116,18 @@ const headerMenuItems: navigationItem[] = headerMenu[menuLocale].items;
                 <ul class="navigation">
                   {
                     headerMenuItems.map((item) => (
-                      <li>
-                        <HeaderLink href={item.path}>{item.label}</HeaderLink>
+                      item.children
+                      ? <li class="menu-item-has-children">
+                        <a href={item.path}>{item.label}</a>
+                        <ul class="sub-menu">
+                          {item.children.map(child => (
+                            <li>
+                              <a href={child.path}>{child.label}</a>
+                            </li>
+                          ))}
+                        </ul>
                       </li>
+                      : <HeaderLink href={item.path}>{item.label}</HeaderLink>
                     ))
                   }
                 </ul>
