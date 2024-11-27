@@ -110,7 +110,7 @@ Melde dich noch heute an und mache den ersten Schritt, um die Jobs-to-Be-Done-Me
 
 ## Das klingt toll, wie kann ich das buchen?
 
-Die aktuelle Workshopreihe im September ist ausgebucht. Die nächste startet im Oktober 2024. Die Termine für die einzelnen Sessions und Themen des Workshops sind:
+Die nächste Reihe startet im Januar 2025. Die Termine für die einzelnen Sessions und Themen des Workshops sind:
 
 - **M1: 21.01.2025** – Praxisnahe Einführung JTBD Theorie und Innovation
 - **M2: 24.01.2025** – JTBD Hypothesen im Business-Kontext Identifizieren
