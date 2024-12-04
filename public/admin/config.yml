@@ -178,6 +178,35 @@ collections:
             widget: "string"
             required: false
       - { label: "Body", name: "body", widget: "markdown" }
+  - name: pages
+    label: Pages
+    extension: mdx
+    format: frontmatter
+    files:
+      - name: tools
+        label: Tools
+        file: "/src/pages/tools.mdx"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Description, name: description, widget: string}
+          - label: "Blog"
+            name: "blog"
+            widget: "object"
+            required: false
+            fields:
+              - label: Title
+                name: title
+                widget: string
+                default: false
+              - label: Subtitle
+                name: subtitle
+                widget: string
+                required: false
+              - label: Description
+                name: description
+                widget: markdown
+                required: false
+              - { label: "Body", name: "body", widget: "markdown" }
 backend:
   name: git-gateway
   branch: main
