@@ -4,12 +4,11 @@ import rehypeExternalLinks from 'rehype-external-links';
 import { defaultLocale, locales } from './src/i18n/i18n';
 import { site } from './src/consts';
 import pagefind from 'astro-pagefind';
-
-const sitemapLocales = Object.fromEntries(locales.map((_, i) => [locales[i], locales[i]])) // Create an object with keys and values based on locales
-
 import sitemap from '@astrojs/sitemap';
 import purgecss from 'astro-purgecss';
-import criticalcss from 'astro-critical-css';
+import playformInline from '@playform/inline';
+
+const sitemapLocales = Object.fromEntries(locales.map((_, i) => [locales[i], locales[i]])) // Create an object with keys and values based on locales
 
 // https://astro.build/config
 export default defineConfig({
@@ -32,7 +31,7 @@ export default defineConfig({
 				greedy: [/aos/, /swiper/, /osano/]
 			}
 		}),
-		criticalcss()
+		playformInline()
 	],
 	i18n: {
 		defaultLocale: defaultLocale,
