@@ -207,6 +207,30 @@ collections:
                 widget: markdown
                 required: false
               - { label: "Body", name: "body", widget: "markdown" }
+      - name: bitcoin
+        label: Bitcoin
+        file: "/src/pages/bitcoin.mdx"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Description, name: description, widget: string}
+          - label: "Blog"
+            name: "blog"
+            widget: "object"
+            required: false
+            fields:
+              - label: Title
+                name: title
+                widget: string
+                default: false
+              - label: Subtitle
+                name: subtitle
+                widget: string
+                required: false
+              - label: Description
+                name: description
+                widget: markdown
+                required: false
+              - { label: "Body", name: "body", widget: "markdown" }
 backend:
   name: git-gateway
   branch: main
