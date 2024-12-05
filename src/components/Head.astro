@@ -28,7 +28,9 @@ const mode = import.meta.env.MODE,
   description = frontmatter.description,
   file = frontmatter.file,
   previewImage = frontmatter.previewImage || "/blog-placeholder-1.jpg",
-  previewImageSrc = frontmatter.previewImage ? await getImage({src:frontmatter.previewImage}) : null,
+  previewImageSrc = frontmatter.previewImage
+    ? await getImage({ src: frontmatter.previewImage })
+    : null,
   canonicalURL = new URL(
     frontmatter.canonicalURL || Astro.url.pathname,
     Astro.site,
@@ -63,14 +65,11 @@ const mode = import.meta.env.MODE,
 <slot />
 
 <link rel="sitemap" href="/sitemap-index.xml" />
-{noindex && (
-  <meta name="robots" content="noindex" />
-)}
+{noindex && <meta name="robots" content="noindex" />}
 
-<!-- Fonts -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+<!-- Preconnect Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 
 <!-- Theme color -->
 <meta name="theme-color" content={siteThemeColor} />
@@ -82,18 +81,30 @@ const mode = import.meta.env.MODE,
 <meta property="og:url" content={Astro.url} />
 <meta property="og:title" content={title} />
 {description && <meta property="og:description" content={description} />}
-<meta property="og:image" content={new URL(previewImageSrc?.src || previewImage, Astro.url)} />
+<meta
+  property="og:image"
+  content={new URL(previewImageSrc?.src || previewImage, Astro.url)}
+/>
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image" />
 <meta property="twitter:url" content={Astro.url} />
 <meta property="twitter:title" content={title} />
 {description && <meta property="twitter:description" content={description} />}
-<meta property="twitter:image" content={new URL(previewImageSrc?.src || previewImage, Astro.url)} />
+<meta
+  property="twitter:image"
+  content={new URL(previewImageSrc?.src || previewImage, Astro.url)}
+/>
 
 <!-- GLightBox -->
 <script src="/assets/js/glightbox.min.js" is:inline></script>
 <link rel="stylesheet" href="/assets/css/glightbox.min.css" />
+
+<!-- Fonts -->
+<link
+  href="https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&display=swap"
+  rel="stylesheet"
+/>
 
 <script>
   // @ts-ignore
