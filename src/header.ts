@@ -53,6 +53,10 @@ export const headerMenu: Record<string, Record<string, navigationItem[]>> = {
 			]
 		},
 		{
+			path: '/bitcoin',
+			label: 'Bitcoin'
+		},
+		{
 			path: '/tools',
 			label: 'Tools'
 		},
