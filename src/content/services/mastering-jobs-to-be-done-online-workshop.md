@@ -1,5 +1,5 @@
 ---
-title: Mastering Jobs to Be Done Online Workshop
+title: Mastering Jobs to Be Done Live Online Workshop
 description: Melde Dich noch heute an und mach den ersten Schritt, um die
   Jobs-to-Be-Done-Methodik in Deinem Unternehmen erfolgreich umzusetzen.
   Gemeinsam erreichen wir Deine Ziele!
@@ -81,30 +81,29 @@ ctaSection:
   buttonLabel: Jetzt anmelden
   buttonLink: https://pretix.eu/utxo-solutions/mastering-jtbd/4290294/
 ---
+## Dieser Ausbildungsworkshop ist für dich, wenn einer der folgenden Sätze auf dich zutrifft:
 
-## Dieser Workshop ist für dich, wenn einer der folgenden Sätze auf dich zutrifft:
-
-- „Ich möchte für mein Unternehmen Produkte und Dienstleistungen entwickeln, die uns die Kundenarbeit abnehmen.“
-- „Ich möchte unsere Produkte besser vermarkten oder verkaufen können.“
-- „Ich möchte meinen Expertenstatus im Bereich Kundenforschung ausbauen.“
-- „Ich möchte endlich wissen, wie JTBD in der Praxis funktioniert und es selbst umsetzen.“
+* „Ich möchte für mein Unternehmen Produkte und Dienstleistungen entwickeln, die uns die Kundenarbeit abnehmen.“
+* „Ich möchte unsere Produkte besser vermarkten oder verkaufen können.“
+* „Ich möchte meinen Expertenstatus im Bereich Kundenforschung ausbauen.“
+* „Ich möchte endlich wissen, wie JTBD in der Praxis funktioniert und es selbst umsetzen.“
 
 ## Voraussetzungen für die Teilnahme
 
 Du kannst an diesem Workshop teilnehmen, wenn Du folgende Fragen mit „Ja“ beantworten kannst:
 
-- **Zeitliche Verfügbarkeit:** Ich kann vier Wochen lang jeweils dienstags und freitags von 09.00 – 11.30 Uhr (Berliner Zeit) an einem Online-Workshop teilnehmen.
-- **Budget:** Mir steht ein Weiterbildungsbudget von 2.100€ (zzgl. MwSt.) zur Verfügung.
+* **Zeitliche Verfügbarkeit:** Ich kann vier Wochen lang jeweils dienstags und freitags von 09.00 – 11.30 Uhr (Berliner Zeit) an einem Online-Workshop teilnehmen.
+* **Budget:** Mir steht ein Weiterbildungsbudget von 2.100€ (zzgl. MwSt.) zur Verfügung.
 
 ## Ist es das wert?
 
 Wenn Du denkst: Das bin ich, aber ist es das wert? Lieferst Du auch den Mehrwert, den Du hier versprichst? Dann findest Du hier weitere Informationen, um diese Frage hoffentlich mit einem klaren Ja beantworten zu können:
 
-- **Praxisorientiertes Lernen:** Unser Workshop ist darauf ausgelegt, dir praxisnahe Kenntnisse und Fähigkeiten zu vermitteln, die Du sofort in Deinem Unternehmen anwenden kannst.
-- **Erfahrene Trainer:** Unsere Trainer sind erfahrene Experten im Bereich Jobs to Be Done und bringen umfangreiche Praxis- und Forschungserfahrung mit.
-- **Interaktive Sessions:** Durch interaktive Übungen und Fallstudien stellen wir sicher, dass Du die JTBD-Methodik nicht nur theoretisch verstehst, sondern auch praktisch anwenden kannst.
-- **Exklusives Material:** Du erhältst Zugang zu exklusivem Schulungsmaterial, das dir auch nach dem Workshop als wertvolle Ressource dient.
-- **Networking:** Nutze die Gelegenheit, dich mit anderen Teilnehmern auszutauschen und wertvolle Kontakte in Deiner Branche zu knüpfen.
+* **Praxisorientiertes Lernen:** Unser Workshop ist darauf ausgelegt, dir praxisnahe Kenntnisse und Fähigkeiten zu vermitteln, die Du sofort in Deinem Unternehmen anwenden kannst.
+* **Erfahrene Trainer:** Unsere Trainer sind erfahrene Experten im Bereich Jobs to Be Done und bringen umfangreiche Praxis- und Forschungserfahrung mit.
+* **Interaktive Sessions:** Durch interaktive Übungen und Fallstudien stellen wir sicher, dass Du die JTBD-Methodik nicht nur theoretisch verstehst, sondern auch praktisch anwenden kannst.
+* **Exklusives Material:** Du erhältst Zugang zu exklusivem Schulungsmaterial, das dir auch nach dem Workshop als wertvolle Ressource dient.
+* **Networking:** Nutze die Gelegenheit, dich mit anderen Teilnehmern auszutauschen und wertvolle Kontakte in Deiner Branche zu knüpfen.
 
 Melde dich noch heute an und mache den ersten Schritt, um die Jobs-to-Be-Done-Methodik in Deinem Unternehmen erfolgreich umzusetzen. Gemeinsam erreichen wir Deine Ziele!
 
@@ -112,14 +111,14 @@ Melde dich noch heute an und mache den ersten Schritt, um die Jobs-to-Be-Done-Me
 
 Die nächste Reihe startet im Januar 2025. Die Termine für die einzelnen Sessions und Themen des Workshops sind:
 
-- **M1: 21.01.2025** – Praxisnahe Einführung JTBD Theorie und Innovation
-- **M2: 24.01.2025** – JTBD Hypothesen im Business-Kontext Identifizieren
-- **M3: 28.01.2025** – JTBD Interview Struktur und Aufbau
-- **M4: 31.01.2025** – JTBD Interview Praxis und Auswertung
-- **M5: 04.02.2025** – JTBD Daten segmentieren und Clustering
-- **M6: 07.02.2025** – JTBD Research Ergebnisse Einordnen und Bewerten
-- **M7: 11.02.2025** – Das JTBD Research & Innovation Framework
-- **M8: 14.02.2025** – Zusammenfassung, Ausblick & AMA
+* **M1: 21.01.2025** – Praxisnahe Einführung JTBD Theorie und Innovation
+* **M2: 24.01.2025** – JTBD Hypothesen im Business-Kontext Identifizieren
+* **M3: 28.01.2025** – JTBD Interview Struktur und Aufbau
+* **M4: 31.01.2025** – JTBD Interview Praxis und Auswertung
+* **M5: 04.02.2025** – JTBD Daten segmentieren und Clustering
+* **M6: 07.02.2025** – JTBD Research Ergebnisse Einordnen und Bewerten
+* **M7: 11.02.2025** – Das JTBD Research & Innovation Framework
+* **M8: 14.02.2025** – Zusammenfassung, Ausblick & AMA
 
 Die Module finden jeweils von 09.00 bis 11.30 MEZ online statt.
 
