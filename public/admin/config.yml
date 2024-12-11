@@ -182,6 +182,7 @@ collections:
     label: Seiten
     extension: mdx
     format: frontmatter
+    create: true
     files:
       - name: tools
         label: Tools
