@@ -10,7 +10,7 @@ sidebar:
   downloadText: 'Wenn Du denkst: Das bin ich, aber ist es das wert? Dann findest
     Du hier weitere Informationen, um diese Frage mit einem klaren "Ja"
     beantworten zu können:'
-  downloadLink: /assets/pdf/JTBD-Workshop.pdf
+  downloadLink: /assets/pdf/Mastering JTBD Innovation_Live_Online_Workshop_DE.pdf
   downloadButtonLabel: Download PDF
 questions:
   - question: Gibt es ein Zertifikat?
