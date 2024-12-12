@@ -1,42 +1,64 @@
 ---
 title: Mastering Jobs to Be Done Online Workshop
-pubDate: 'Jul 22 2022'
-description: Register today and take the first step towards successfully implementing the Jobs-to-Be-Done methodology in your company. Together we will achieve your goals!
+description: Register today and take the first step towards successfully
+  implementing the Jobs-to-Be-Done methodology in your company. Together we will
+  achieve your goals!
+pubDate: Jul 22 2022
 previewImage: ../images/workshop-timer.jpg
 icon: flaticon-round-table
+sidebar:
+  downloadText: "If you're thinking: This is me, but is it worth it? Then you will
+    find more information here to answer this question with a clear \"Yes\":"
+  downloadLink: /assets/pdf/Mastering%20JTBD%20Innovation_Live_Online_Workshop_EN.pdf
+  downloadButtonLabel: Download PDF
+  hideContactForm: true
 questions:
   - question: Is there a certificate?
-    answer: |
-      Yes. Mastering Jobs to Be Done currently offers three expert levels to prove practical experience:
+    answer: >
+      Yes. Mastering Jobs to Be Done currently offers three expert levels to
+      prove practical experience:
+
       <ul>
+
       <li>JTBD Practitioner</li>
+
       <li>JTBD Researcher</li>
+
       <li>JTBD market creator</li>
+
       <li>JTBD Innovation Framework Master</li>
+
       </ul>
+
       Upon completion of this workshop, the Practitioner Level is acquired, which remains valid for three years. For more information on the certifications, please contact us directly.
-  - question: "Is it bad if I can't make it to one of the modules?"
-    answer: "The workshops build on each other, so skipping individual workshop modules can lead to comprehension problems. However, as we know that it can always happen that you can't make it to an unplanned date, we offer 1on1 recap sessions for 200€."
-  - question: "How many people can take part, how many places are available?"
-    answer: "There are still places available for this workshop. However, no more than 10 participants will take part."
-  - question: "In which language will the workshop be held?"
-    answer: "This workshop will be held in German most of the time. However, we conduct english ones. You can sign up for the waitlist at <a href=\"mailto:masterclass@utxo.solutions\">masterclass@utxo.solutions</a>."
-  - question: "I can't make it this time. Will you do it again?"
-    answer: "Yes, we'll definitely do it again. Just enter the waitlist and you will be notified. Just mail us at <a href=\"mailto:masterclass@utxo.solutions\">masterclass@utxo.solutions</a>"
-  - question: "Is there a discount?"
-    answer: |
+  - question: Is it bad if I can't make it to one of the modules?
+    answer: The workshops build on each other, so skipping individual workshop
+      modules can lead to comprehension problems. However, as we know that it
+      can always happen that you can't make it to an unplanned date, we offer
+      1on1 recap sessions for 200€.
+  - question: How many people can take part, how many places are available?
+    answer: There are still places available for this workshop. However, no more
+      than 10 participants will take part.
+  - question: In which language will the workshop be held?
+    answer: This workshop will be held in German most of the time. However, we
+      conduct english ones. You can sign up for the waitlist at <a
+      href="mailto:masterclass@utxo.solutions">masterclass@utxo.solutions</a>.
+  - question: I can't make it this time. Will you do it again?
+    answer: Yes, we'll definitely do it again. Just enter the waitlist and you will
+      be notified. Just mail us at <a
+      href="mailto:masterclass@utxo.solutions">masterclass@utxo.solutions</a>
+  - question: Is there a discount?
+    answer: >
       There are four ways to get discounted tickets:
+
       <ul>
         <li>If you book very early</li>
         <li>If you book for more than one person</li>
         <li>If you have already attended one of our JTBD training courses in the last 3 years and would like a refresher</li>
         <li>If you have actively participated in a JTBD research, sprint or project as an employee of our customers</li>
       </ul>
+
       <a href=mailto:masterclass@utxo.solutions>Contact us</a> for more information.
-sidebar:
-  downloadText: "If you're thinking: This is me, but is it worth it? Then you will find more information here to answer this question with a clear \"Yes\":"
-  downloadLink: /assets/pdf/JTBD-Workshop-en.pdf
-  downloadButtonLabel: Download PDF
 ---
 
 ## This workshop is for you if one of the following sentences applies to you:
