@@ -12,6 +12,7 @@ sidebar:
     beantworten zu können:'
   downloadLink: /assets/pdf/Mastering JTBD Innovation_Live_Online_Workshop_DE.pdf
   downloadButtonLabel: Download PDF
+  downloadButtonIcon: ""
 questions:
   - question: Gibt es ein Zertifikat?
     answer: >
