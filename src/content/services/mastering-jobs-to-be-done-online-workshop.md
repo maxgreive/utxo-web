@@ -7,9 +7,8 @@ pubDate: 2024-12-10T14:09:00.000Z
 previewImage: ./images/workshop-timer-gradient.png
 icon: flaticon-round-table
 sidebar:
-  downloadText: 'Wenn Du denkst: Das bin ich, aber ist es das wert? Dann findest
-    Du hier weitere Informationen, um diese Frage mit einem klaren "Ja"
-    beantworten zu können:'
+  downloadText: 'Das bin ich, aber ist es das wert? Dann findest Du hier weitere
+    Informationen, um diese Frage mit einem klaren "Ja" beantworten zu können:'
   downloadLink: /assets/pdf/Mastering JTBD Innovation_Live_Online_Workshop_DE.pdf
   downloadButtonLabel: Download PDF
   downloadButtonIcon: ""
