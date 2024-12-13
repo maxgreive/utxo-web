@@ -26,7 +26,11 @@ const headerMenuItems: navigationItem[] = headerMenu[menuLocale].items;
           <div class="menu-wrap">
             <nav class="menu-nav">
               <div class="offcanvas-menu offcanvas-menu-three">
-                <a href="#" class="menu-trigger" aria-label="Open Secondary Menu">
+                <a
+                  href="#"
+                  class="menu-trigger"
+                  aria-label="Open Secondary Menu"
+                >
                   <span></span>
                   <span></span>
                   <span></span>
@@ -45,20 +49,24 @@ const headerMenuItems: navigationItem[] = headerMenu[menuLocale].items;
               <div class="navbar-wrap main-menu d-none d-lg-flex">
                 <ul class="navigation">
                   {
-                    headerMenuItems.map((item) => (
-                      item.children
-                      ? <li class="menu-item-has-children">
-                        <a href={item.path}>{item.label}</a>
-                        <ul class="sub-menu">
-                          {item.children.map(child => (
-                            <li>
-                              <a href={child.path}>{child.label}</a>
-                            </li>
-                          ))}
-                        </ul>
-                      </li>
-                      : <HeaderLink href={item.path}>{item.label}</HeaderLink>
-                    ))
+                    headerMenuItems
+                      .slice(1, headerMenuItems.length)
+                      .map((item) =>
+                        item.children ? (
+                          <li class="menu-item-has-children">
+                            <a href={item.path}>{item.label}</a>
+                            <ul class="sub-menu">
+                              {item.children.map((child) => (
+                                <li>
+                                  <a href={child.path}>{child.label}</a>
+                                </li>
+                              ))}
+                            </ul>
+                          </li>
+                        ) : (
+                          <HeaderLink href={item.path}>{item.label}</HeaderLink>
+                        ),
+                      )
                   }
                 </ul>
               </div>
@@ -110,25 +118,30 @@ const headerMenuItems: navigationItem[] = headerMenu[menuLocale].items;
                 </a>
               </div>
               <div class="mobile-search">
-                <Search className="pagefind-ui" uiOptions={{ showImages: false }} />
+                <Search
+                  className="pagefind-ui"
+                  uiOptions={{ showImages: false }}
+                />
               </div>
               <div class="menu-outer">
                 <ul class="navigation">
                   {
-                    headerMenuItems.map((item) => (
-                      item.children
-                      ? <li class="menu-item-has-children">
-                        <a href={item.path}>{item.label}</a>
-                        <ul class="sub-menu">
-                          {item.children.map(child => (
-                            <li>
-                              <a href={child.path}>{child.label}</a>
-                            </li>
-                          ))}
-                        </ul>
-                      </li>
-                      : <HeaderLink href={item.path}>{item.label}</HeaderLink>
-                    ))
+                    headerMenuItems.map((item) =>
+                      item.children ? (
+                        <li class="menu-item-has-children">
+                          <a href={item.path}>{item.label}</a>
+                          <ul class="sub-menu">
+                            {item.children.map((child) => (
+                              <li>
+                                <a href={child.path}>{child.label}</a>
+                              </li>
+                            ))}
+                          </ul>
+                        </li>
+                      ) : (
+                        <HeaderLink href={item.path}>{item.label}</HeaderLink>
+                      ),
+                    )
                   }
                 </ul>
               </div>
@@ -162,7 +175,7 @@ const headerMenuItems: navigationItem[] = headerMenu[menuLocale].items;
   }
 
   .pagefind-ui__search-input {
-    font-weight: 500!important;
+    font-weight: 500 !important;
   }
 </style>
 
@@ -199,7 +212,9 @@ const headerMenuItems: navigationItem[] = headerMenu[menuLocale].items;
       .querySelector(".mobile-nav-toggler")
       ?.addEventListener("click", () => {
         document.body.classList.add("mobile-menu-visible");
-        const searchField = document.querySelector('.mobile-menu .pagefind-ui input');
+        const searchField = document.querySelector(
+          ".mobile-menu .pagefind-ui input",
+        );
         (searchField as HTMLElement).focus();
       });
 
