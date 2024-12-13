@@ -448,6 +448,31 @@ collections:
               - {label: Title, name: title, widget: string}
               - {label: Subtitle, name: subtitle, widget: string}
               - {label: Description, name: description, widget: string}
+      - name: events
+        label: Events
+        file: /src/pages/events.mdx
+        fields:
+          - {name: title, label: Title, widget: string}
+          - {name: reference, label: Reference, widget: string}
+          - {name: description, label: Description, widget: string}
+          - {name: body, label: Body, widget: markdown}
+      - name: bitcoin-business-innovation-meetup
+        label: Bitcoin Business Innovation Meetup
+        file: /src/pages/bitcoin-business-innovation-meetup.mdx
+        fields:
+          - {name: title, label: Title, widget: string}
+          - {name: reference, label: Reference, widget: string}
+          - {name: description, label: Description, widget: string}
+          - {name: body, label: Body, widget: markdown}
+      - name: jobs-to-be-done-meetup
+        label: Jobs To Be Done Meetup
+        file: /src/pages/jobs-to-be-done-meetup.mdx
+        fields:
+          - {name: title, label: Title, widget: string}
+          - {name: reference, label: Reference, widget: string}
+          - {name: description, label: Description, widget: string}
+          - {name: body, label: Body, widget: markdown}
+
 backend:
   name: git-gateway
   branch: main
