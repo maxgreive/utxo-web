@@ -126,7 +126,7 @@ const headerMenuItems: navigationItem[] = headerMenu[menuLocale].items;
               <div class="menu-outer">
                 <ul class="navigation">
                   {
-                    headerMenuItems.map((item) =>
+                    headerMenuItems.slice(1, headerMenuItems.length).map((item) =>
                       item.children ? (
                         <li class="menu-item-has-children">
                           <a href={item.path}>{item.label}</a>
