@@ -126,22 +126,24 @@ const headerMenuItems: navigationItem[] = headerMenu[menuLocale].items;
               <div class="menu-outer">
                 <ul class="navigation">
                   {
-                    headerMenuItems.slice(1, headerMenuItems.length).map((item) =>
-                      item.children ? (
-                        <li class="menu-item-has-children">
-                          <a href={item.path}>{item.label}</a>
-                          <ul class="sub-menu">
-                            {item.children.map((child) => (
-                              <li>
-                                <a href={child.path}>{child.label}</a>
-                              </li>
-                            ))}
-                          </ul>
-                        </li>
-                      ) : (
-                        <HeaderLink href={item.path}>{item.label}</HeaderLink>
-                      ),
-                    )
+                    headerMenuItems
+                      .slice(1, headerMenuItems.length)
+                      .map((item) =>
+                        item.children ? (
+                          <li class="menu-item-has-children">
+                            <a href={item.path}>{item.label}</a>
+                            <ul class="sub-menu">
+                              {item.children.map((child) => (
+                                <li>
+                                  <a href={child.path}>{child.label}</a>
+                                </li>
+                              ))}
+                            </ul>
+                          </li>
+                        ) : (
+                          <HeaderLink href={item.path}>{item.label}</HeaderLink>
+                        ),
+                      )
                   }
                 </ul>
               </div>
@@ -196,15 +198,17 @@ const headerMenuItems: navigationItem[] = headerMenu[menuLocale].items;
 
     //Dropdown Button
     document
-      .querySelector(".mobile-menu li.menu-item-has-children .dropdown-btn")
-      ?.addEventListener("click", (event) => {
-        (event.target as HTMLInputElement)
-          ?.closest(".dropdown-btn")
-          ?.classList.toggle("open");
-        (event.target as HTMLInputElement)
-          ?.closest(".menu-item-has-children")
-          ?.querySelector(".sub-menu")
-          ?.classList.toggle("open");
+      .querySelectorAll(".mobile-menu li.menu-item-has-children .dropdown-btn")
+      .forEach((btn) => {
+        btn?.addEventListener("click", (event) => {
+          (event.target as HTMLInputElement)
+            ?.closest(".dropdown-btn")
+            ?.classList.toggle("open");
+          (event.target as HTMLInputElement)
+            ?.closest(".menu-item-has-children")
+            ?.querySelector(".sub-menu")
+            ?.classList.toggle("open");
+        });
       });
 
     //Menu Toggle Btn
