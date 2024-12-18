@@ -1,6 +1,6 @@
 ---
 title: "Bitcoin Business Innovation Meetup #6"
-secret: true
+secret: false
 author: Peter Rochel
 tags:
   - Bitcoin
