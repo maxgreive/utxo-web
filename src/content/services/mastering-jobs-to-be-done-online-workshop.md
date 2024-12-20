@@ -32,9 +32,10 @@ questions:
       dass es immer passieren kann, dass man es zu einem ungeplanten Termin
       nicht schafft, bieten wir 1on1 Recap Sessions für 200€ an (max. 1 Mal pro
       Kurs und Teilnehmer).
-  - question: Wie viele Personen können teilnehmen, wie viele Plätze gibt es?
-    answer: Für diesen Workshop sind noch Plätze frei. Allerdings werden nicht mehr
-      als 10 Teilnehmer/innen teilnehmen.
+  - question: Sind die Plätze limitiert?
+    answer: "Ja, die Plätze sind limitiert. Wenn du im Webshop keinen Platz mehr
+      buchen kannst, kannst du aber bereits einen der nächsten Termine im Mai
+      oder September buchen. "
   - question: In welcher Sprache findet der Workshop statt?
     answer: Der Workshop wird in der Regel auf Deutsch abgehalten. Für die Termine
       auf Englisch gibt es eine Warteliste. Wenn du da drauf möchtest, dann
