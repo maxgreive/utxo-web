@@ -8,6 +8,7 @@ tags:
 pubDate: 2024-12-18T11:30:00.000Z
 previewImage: images/btc_bbi_meetup6.001.jpeg
 ---
+**Termin:** 21.01.2025
 
 **Ort:** Köln, der genaue Ort wird noch bekanntgegeben
 **Raum:** TBD
