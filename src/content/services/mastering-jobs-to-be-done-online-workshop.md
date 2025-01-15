@@ -1,5 +1,5 @@
 ---
-title: Mastering Jobs to Be Done Live Online Workshop
+title: Mastering Jobs to Be Done Onlinekurs
 description: Melde Dich noch heute an und mach den ersten Schritt, um die
   Jobs-to-Be-Done-Methodik in Deinem Unternehmen erfolgreich umzusetzen.
   Gemeinsam erreichen wir Deine Ziele!
