@@ -6,7 +6,7 @@ tags:
   - Bitcoin
   - Innovation
 pubDate: 2024-12-18T11:30:00.000Z
-previewImage: images/btc_bbi_meetup6.001.jpeg
+previewImage: images/btc-bi-meetup-06.webp
 ---
 **Termin:** 21.01.2025
 
