@@ -110,16 +110,16 @@ Melde dich noch heute an und mache den ersten Schritt, um die Jobs-to-Be-Done-Me
 
 ## Das klingt toll, wie kann ich das buchen?
 
-Die nächste Reihe startet im Januar 2025. Die Termine für die einzelnen Sessions und Themen des Workshops sind:
+Die nächste Reihe mit freien Plätzen startet im Mai 2025. Die Termine für die einzelnen Sessions und Themen des Workshops sind:
 
-* **M1: 21.01.2025** – Praxisnahe Einführung JTBD Theorie und Innovation
-* **M2: 24.01.2025** – JTBD Hypothesen im Business-Kontext Identifizieren
-* **M3: 28.01.2025** – JTBD Interview Struktur und Aufbau
-* **M4: 31.01.2025** – JTBD Interview Praxis und Auswertung
-* **M5: 04.02.2025** – JTBD Daten segmentieren und Clustering
-* **M6: 07.02.2025** – JTBD Research Ergebnisse Einordnen und Bewerten
-* **M7: 11.02.2025** – Das JTBD Research & Innovation Framework
-* **M8: 14.02.2025** – Zusammenfassung, Ausblick & AMA
+* **M1: 06.05.2025** – Praxisnahe Einführung JTBD Theorie und Innovation
+* **M2: 09.05.2025** – JTBD Hypothesen im Business-Kontext Identifizieren
+* **M3: 13.05.2025** – JTBD Interview Struktur und Aufbau
+* **M4: 16.05.2025** – JTBD Interview Praxis und Auswertung
+* **M5: 20.05.2025** – JTBD Daten segmentieren und Clustering
+* **M6: 23.05.2025** – JTBD Research Ergebnisse Einordnen und Bewerten
+* **M7: 27.05.2025** – Das JTBD Research & Innovation Framework
+* **M8: 02.06.2025** – Zusammenfassung, Ausblick & AMA
 
 Die Module finden jeweils von 09.00 bis 11.30 MEZ online statt.
 
