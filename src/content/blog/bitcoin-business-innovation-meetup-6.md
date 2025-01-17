@@ -32,8 +32,6 @@ Wir laden dich zu einem inspirierenden Abend voller neuer Erkenntnisse und spann
 
 **Martin Betz** – Geschäftsführender Gesellschafter der UTXO Solutions GmbH, Veranstalter und Sponsor des Events. Als einer der Hosts des Nodesignal Podcasts bringt Martin fundiertes Wissen über Bitcoin-Technologien und deren Anwendung in Unternehmen ein. Er wird die Diskussionsrunde moderieren und dabei spannende Einblicke und praktische Perspektiven einbringen.
 
-
-
 ### Die Speaker des Abends:
 
 * **Peter Rochel** – Unternehmer, Innovationsberater und Mitgründer des Bitcoin Bundesverbands e.V. Peter zeigt in seinem Vortrag, warum eine Null-Allokation in Bitcoin unternehmensgefährdend sein kann und wie Firmen Bitcoin als strategisches Asset nutzen können.
