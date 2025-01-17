@@ -58,7 +58,7 @@ Wir laden dich zu einem inspirierenden Abend voller neuer Erkenntnisse und spann
 
 Kein Dresscode – die Veranstaltung findet in einer lockeren und entspannten Atmosphäre statt, die den offenen Austausch und Networking fördert. Komm einfach so, wie du dich wohlfühlst!
 
-Teilnahmegebühr und Anmeldung:
+#### Teilnahmegebühr und Anmeldung:
 
 Melde dich jetzt an und sichere dir deinen Platz!
 Wir freuen uns darauf, mit dir einen spannenden und erkenntnisreichen Abend zu verbringen.
