@@ -10,8 +10,8 @@ previewImage: images/btc_bbi_meetup6-ultrawide.webp
 ---
 **Termin:** 21.01.2025
 
-**Ort:** Köln, der genaue Ort wird noch bekanntgegeben
-**Raum:** TBD
+**Ort:** Backyard Loft Köln - Richard-Wagner-Str. 31, 50674 Köln 
+**Raum:** BackyardLoft - bei uns im Hinterhof
 **Uhrzeit**:
 Einlass **18:30 - 19:00** Uhr
 Start: **19:00**
