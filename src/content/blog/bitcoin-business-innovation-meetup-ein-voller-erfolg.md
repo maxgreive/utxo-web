@@ -6,16 +6,16 @@ tags:
   - Unternehmertum
   - Bitcoin
   - Event
-pubDate: 2025-01-22T12:00:00.000Z
+pubDate: 2025-01-22T16:18:00.000Z
 previewImage: images/pxl_20250121_181653909.mp.jpg
 ---
 Gestern, am 21.01.2025 fand das inzwischen sechste Bitcoin Business Innovation Meetup statt – ein voller Erfolg mit fast 30 Teilnehmern, die sich in einer offenen und inspirierenden Atmosphäre über die Potenziale von Bitcoin für Unternehmen austauschten. Diese Veranstaltungsreihe, organisiert von [UTXO Solutions](https://utxo.solutions), bietet eine Plattform, um Unternehmer, Innovatoren und Interessierte zu vernetzen und gemeinsam neue Perspektiven für den Einsatz von Bitcoin in Geschäftsmodellen zu entwickeln.
 
 ## Highlights des Abends: Vorträge und Diskussionen
 
-Im Mittelpunkt des Abends standen zwei hochkarätige Vorträge. **Peter Rochel**, Co-Founder von UTXO Solutions, legte überzeugend dar, warum eine Bitcoin-Null-Allokation für Unternehmen in der heutigen Zeit ein hohes Risiko birgt. „Bitcoin ist mehr als ein Investment – es ist ein fundamentaler Baustein für die Resilienz und Innovationskraft moderner Unternehmen“, so Rochel.
+Im Mittelpunkt des Abends standen zwei hochkarätige Vorträge. **Peter Rochel**, Co-Founder von [UTXO Solutions](www.utxo.solutions), legte überzeugend dar, warum eine Bitcoin-Null-Allokation für Unternehmen in der heutigen Zeit ein hohes Risiko birgt. „Bitcoin ist mehr als ein Investment – es ist ein fundamentaler Baustein für die Resilienz und Innovationskraft moderner Unternehmen“, so Rochel.
 
-Darauf aufbauend stellte **Daniel Wingen**, Bitcoin-Experte und Mit-Host des Podcasts *The Bitcoin Effect*, die Potenziale der Lightning-Technologie vor. Sein Vortrag *„Bitcoin Lightning in Self-Custody“* zeigte eindrucksvoll, wie Unternehmen mit diesem Ansatz nicht nur Kosteneffizienz, sondern auch Unabhängigkeit und Sicherheit steigern können.
+Darauf aufbauend stellte **Daniel Wingen**, Mitgründer von [Tidebinder,](https://tidebinder.com/) Host des Bitcoin Unternehmerpodcasts [21Focus](https://podcasts.apple.com/de/podcast/21focus-der-bitcoin-unternehmer-podcast/id1748338471), sowie Vorstand im [Bitcoin Bundesverband](https://bitcoin-bundesverband.de/vorstand/) die Potenziale der Lightning-Technologie vor. Sein Vortrag *„Bitcoin Lightning in Self-Custody“* zeigte eindrucksvoll, wie Unternehmen mit diesem Ansatz nicht nur globale Kosteneffizienz, sondern auch Unabhängigkeit und Sicherheit steigern können.
 
 Im Anschluss an die Vorträge entstand eine lebhafte Diskussion, bei der Erfahrungen ausgetauscht und Fragen aus der Praxis beantwortet wurden. Besonders beeindruckend war der Enthusiasmus und die Vielfalt der Teilnehmer – von etablierten Unternehmern bis hin zu Start-up-Gründern.
 
