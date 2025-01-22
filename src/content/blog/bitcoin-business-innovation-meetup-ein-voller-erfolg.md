@@ -5,6 +5,7 @@ author: Martin Betz
 tags:
   - Unternehmertum
   - Bitcoin
+  - Event
 pubDate: 2025-01-22T16:18:00.000Z
 previewImage: images/pxl_20250121_181653909.mp.jpg
 ---
