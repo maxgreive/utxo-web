@@ -5,6 +5,7 @@ author: Peter Rochel
 tags:
   - Bitcoin
   - Innovation
+  - Event
 pubDate: 2024-12-18T11:30:00.000Z
 previewImage: images/btc_bbi_meetup6-ultrawide.webp
 ---
