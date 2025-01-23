@@ -8,7 +8,7 @@ tags:
   - Methodik
 description: Jobs to Be Done Meetup 54
 pubDate: 2025-01-23T13:00:00.000Z
-previewImage: images/jtbd-meetup54.png
+previewImage: images/jtbd-meetup54.webp
 ---
 **Entdecke die nächste Stufe der Innovation!**
 Nach einer dreijährigen Pause kehren die beliebten JTBD-Meetups zurück – praxisnah, inspirierend und mit mehr Insights als je zuvor. Das 54. JTBD Meetup steht unter dem Motto **„Next Level JTBD – Neue Tools für echten Kundenfokus im Business Development“**. Dabei zeigen wir, wie du mithilfe des Fortschrittszyklus und der neuen Progress Design Map den Kundenfokus in jeder Phase der Customer Journey stärken kannst.
