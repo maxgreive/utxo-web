@@ -23,23 +23,21 @@ Nach einer dreijährigen Pause kehren die beliebten JTBD-Meetups zurück – pra
 **Teilnahmegebühr:** Die Veranstaltung ist V4V (Value for Value) basiert. Das bedeutet Teilnahme und Materialien sind kostenlos für alle. Wer mag kann spenden über Bitcoin Lightning. Getränke zahlt jeder für sich.
 **Anmeldung:** Wird dringend erbeten, damit es genug Platz und Material für alle gibt.
 
-[Hier geht es zur Anmeldung für dieses Even](https://www.meetup.com/jobstobedone/events/305772110/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)t
+[Hier geht es zur Anmeldung für dieses Event](https://www.meetup.com/jobstobedone/events/305772110/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
 
 **Programmablauf:**
 
-* **18:30**
+**18:30** Ankommen und Networking
 
-   Ankommen und Networking
-* **19:00**
+**Ab 19:00**
 
-   Start
+*  Start
 * Begrüßung und Warm-up
 * Einführung: JTBD-Grundlagen und Tages-Thema
 * Hauptteil: HandsOn Session - Phasenjobs im Fortschrittszyklus und die Progress Design Map
 * Zusammenfassung und Key Takeaways
-* **20:45**
 
-   Networking, AMA und Abschluss
+**20:45** Networking, AMA und Abschluss
 
 ### Für wen ist dieses Meetup?
 
