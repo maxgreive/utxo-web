@@ -40,3 +40,11 @@ Nach einer dreijährigen Pause kehren die beliebten JTBD-Meetups zurück – pra
 * **20:45**
 
    Networking, AMA und Abschluss
+
+### Für wen ist dieses Meetup?
+
+Das Meetup richtet sich an alle, die Kundenfokus und Innovationskraft auf das nächste Level bringen möchten:
+
+* **Entscheider:innen:** CEOs, CPOs, Produktmanager:innen und Führungskräfte.
+* **Praktiker:innen:** Marketer, Entwickler:innen und Researcher, die kundenorientierte Lösungen schaffen wollen.
+* **Innovationsbegeisterte**: Alle, die die praktische Anwendung von JTBD kennenlernen und auf eigene Projekte übertragen möchten.
