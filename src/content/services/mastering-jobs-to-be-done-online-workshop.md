@@ -121,6 +121,8 @@ Die nächste Reihe mit freien Plätzen startet im Mai 2025. Die Termine für die
 * **M7: 27.05.2025** – Das JTBD Research & Innovation Framework
 * **M8: 02.06.2025** – Zusammenfassung, Ausblick & AMA
 
-Die Module finden jeweils von 09.00 bis 11.30 MEZ online statt.
+Die Module finden jeweils von **09.00 bis 11.30** MEZ online statt.
+
+Die **Reihe danach läuft vom 09.09. - 06.10.2025** und findet ebenfalls immer Dienstag und Freitag von 09.00 bis 11.30 statt. Nur der letzte Termin findet am 06.10. statt, da der 03.10. ein Feiertag ist. 
 
 <CtaSection props={frontmatter.ctaSection} classes="mb-3" center={true} />
