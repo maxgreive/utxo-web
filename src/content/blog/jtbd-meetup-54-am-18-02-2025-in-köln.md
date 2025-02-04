@@ -13,7 +13,7 @@ previewImage: images/jtbd-meetup54.webp
 **Entdecke die nächste Stufe der Innovation!**
 Nach einer dreijährigen Pause kehren die beliebten JTBD-Meetups zurück – praxisnah, inspirierend und mit mehr Insights als je zuvor. Das 54. JTBD Meetup steht unter dem Motto **„Next Level JTBD – Neue Tools für echten Kundenfokus im Business Development“**. Dabei zeigen wir, wie du mithilfe des Fortschrittszyklus und der neuen Progress Design Map den Kundenfokus in jeder Phase der Customer Journey stärken kannst.
 
-**Ort:** Köln Innenstadt, genaue Location noch offen
+**Ort:** [Startplatz Köln](https://www.startplatz.de/standorte/), Im Mediapark 5, 50670 Köln, Raum Köln-Bonn in der 3. Etage.
 **Tür auf:** 18:30
 **Start:** 19:00 Uhr
 **Ende:** 21:00
