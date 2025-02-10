@@ -7,7 +7,7 @@ tags:
   - JTBD
   - Methodik
 description: Jobs to Be Done Meetup 54
-pubDate: 2025-01-23T13:00:00.000Z
+pubDate: 2025-02-10T14:15:00.000Z
 previewImage: images/jtbd-meetup54.webp
 ---
 **Entdecke die nächste Stufe der Innovation!**
