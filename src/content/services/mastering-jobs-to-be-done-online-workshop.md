@@ -80,7 +80,7 @@ questions:
 ctaSection:
   title: Klingt spannend?
   buttonLabel: Jetzt anmelden
-  buttonLink: https://pretix.eu/utxo-solutions/mastering-jtbd/4290294/
+  buttonLink: https://pretix.eu/utxo-solutions/mastering-jtbd/4300287/
 ---
 ## Dieser Ausbildungsworkshop ist für dich, wenn einer der folgenden Sätze auf dich zutrifft:
 
