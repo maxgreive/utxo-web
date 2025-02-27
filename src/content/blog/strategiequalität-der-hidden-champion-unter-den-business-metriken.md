@@ -6,88 +6,88 @@ tags:
   - Strategie
   - Nachhaltigkeit
   - Unternehmertum
-pubDate: 2025-02-12T14:21:00.000Z
+pubDate: 2025-02-27T12:00:00.000Z
 previewImage: images/strategy-compass-in-the-mountains-fotocredit-anastasia-petrova.jpg
 ---
-## Jeder hat einen Ruf, aber nicht jeder hat eine Strategie  
-Brandqualität und Reputation werden oft intuitiv als Schlüsselfaktoren für Unternehmenserfolg angesehen. Sie schaffen Vertrauen, erleichtern den Marktzugang und können den Umsatz steigern. Doch während Branding kurzfristig viel bewirken kann, entscheidet letztlich die **Strategiequalität** darüber, ob ein Unternehmen langfristig Bestand hat. Dennoch ist die Qualität der eigenen Strategie eine Metrik, die viele Unternehmen nicht im Blick haben. 
+## Strategiequalität - das unterschätzte  Erfolgsasset
 
-Strategiequalität ist nicht nur ein Konzept für Führungskräfte – sie beeinflusst jede Entscheidung im Unternehmen. Eine starke Strategie zeigt sich nicht nur auf Folien oder in Meetings, sondern vor allem daran, wie sie im Alltag gelebt wird und welchen Mehrwert sie schafft. 
+**Strategiequalität** – was verbirgt sich dahinter? Einfach gesagt geht es darum, *wie gut* die Geschäftsstrategie eines Unternehmens ist. Eine klare, durchdachte und anpassungsfähige Strategie kann über Erfolg oder Misserfolg entscheiden. Gerade im Mittelstand wird dieser Faktor jedoch oft unterschätzt. 
 
-Unternehmen, die ihre Strategie nicht klar kommunizieren können oder deren Strategie nur auf dem Papier funktioniert, haben meist eine niedrige Strategiequalität. Wer jedoch eine konsistente, verständliche und umsetzbare Strategie verfolgt, schafft nicht nur Marktvorteile, sondern auch ein stabiles Fundament für Wachstum.  
+Dabei ist die Qualität der Strategie ein **immaterieller Vermögenswert** mit großem Einfluss – ähnlich wie Markenimage oder Know-how. In diesem Artikel beleuchten wir, warum Strategiequalität als Businessmetrik so wichtig ist, warum sie häufig unterbewertet wird und wie mittelständische Unternehmen sie gezielt verbessern können. Ein praxisnahes Beispiel aus dem Mittelstand zeigt, was eine gute Strategie ausmacht.
 
-## Was ist Strategiequalität?  
-Strategiequalität beschreibt die Fähigkeit eines Unternehmens, eine durchdachte, langfristig tragfähige Vision zu entwickeln und operativ umzusetzen. Sie ist nicht statisch, sondern zeichnet sich durch **Klarheit, Anpassungsfähigkeit und Wertschöpfung** aus.  
+## Was bedeutet Strategiequalität?
 
-Unternehmen mit hoher Strategiequalität haben:  
-- **Eine verständliche, einleuchtende Vision**, die sich aus der realen Marktdynamik ableitet  
-- **Eine flexible, aber fokussierte Umsetzung**, die Innovation ermöglicht  
-- **Eine erkennbare Wertschöpfung für Kunden und Partner**  
+**Strategiequalität** beschreibt, wie gut eine Unternehmensstrategie inhaltlich aufgestellt ist. Eine hochwertige Strategie liefert klare Antworten auf zentrale Fragen:  
 
-Strategiequalität beeinflusst nicht nur Marktpositionierung, sondern auch die internen Strukturen eines Unternehmens. Ein Unternehmen mit einer starken Strategie zieht Fachkräfte an, die sich mit der Mission identifizieren, und reduziert Reibungsverluste zwischen Teams.  
+* Wo wollen wir hin?  
+* Wie erreichen wir das?  
+* Worin liegen unsere Stärken und einzigartigen Vorteile?  
 
-Doch wie bewerte ich die Qualität meiner Strategie? Eine einfache Metrik zur Beurteilung kann sein:  
+Sie berücksichtigt Markttrends, Kundenbedürfnisse und mögliche Risiken. Eine **gute Strategie** ist klar formuliert, realistisch umsetzbar und flexibel genug, um auf Veränderungen reagieren zu können. Sie schafft einen gemeinsamen Fokus im Team und motiviert die Mitarbeiter. Kurz: Hohe Strategiequalität bedeutet, dass ein Unternehmen *weiß, was es tut und warum*.  
 
-- **Kannst du die Strategie einem fachfremden Menschen erklären?**  
-- **Macht sie für ihn Sinn?**  
-- **Zeigt sich der Nutzen im täglichen Geschäft?**  
+Unternehmen mit **exzellenter Strategie** haben im Wettbewerb einen klaren Vorteil, während Firmen ohne klare Strategie früher oder später ins Hintertreffen geraten.
 
+## Warum ist Strategiequalität so wichtig?
 
-## Strategiequalität vs. Brandqualität – Wo liegt der Unterschied?  
-Viele Unternehmen setzen in erster Linie auf Brandqualität, also darauf, eine starke, positiv wahrgenommene Marke aufzubauen. Doch wenn diese nicht durch eine fundierte Strategie gestützt wird, bleibt sie oberflächlich.  
+Eine **hochwertige Strategie** wirkt wie ein Kompass. Sie gibt mittelständischen Geschäftsführern Orientierung bei wichtigen Entscheidungen. Gleichzeitig ist sie ein **immaterielles Asset** – man sieht sie nicht direkt in der Bilanz, aber sie erzeugt langfristig Wert.  
 
-Ein Beispiel für **hohe Brandqualität, aber schwache Strategiequalität** ist **WeWork**. Das Unternehmen wurde als Revolution im Coworking-Segment gefeiert. Die Marke war modern, hip und zog Investoren an. Doch strategisch war das Modell nicht tragfähig: Unkontrollierte Expansion, hohe Fixkosten und ein vager Geschäftsansatz führten dazu, dass WeWork von einem Unicorn zum Insolvenzfall wurde.  
+Beispiele zeigen, dass Unternehmen mit klarer strategischer Ausrichtung stabiler durch turbulente Zeiten gehen. Oft sind es die sogenannten *Hidden Champions* (weltweit führende Nischenanbieter), die dank kluger Strategien nachhaltig erfolgreich sind. Ihr Erfolgsrezept: Fokussierung auf Kernkompetenzen, gepaart mit Innovationsfreude und internationaler Ausrichtung – kurzum, **Strategiequalität** auf höchstem Niveau.
 
-Auf der anderen Seite stehen Unternehmen wie die **Hidden Champions** des deutschen Mittelstands, die oft Nischen global fast alleine besetzen, ohne viel Bekanntheit zu haben. Ohne auf klassische Markenpräsenz zu setzen, generieren diese Unternehmen durch eine exzellente Strategie oft einen klaren Wettbewerbsvorteil.  
+## Warum wird Strategiequalität oft unterschätzt?
 
-Branding kann kurzfristig erfolgreich machen, aber ohne solide Strategie verliert ein Unternehmen früher oder später die Kontrolle.  
+Trotz ihrer Bedeutung wird Strategiequalität im Alltag vieler mittelständischer Firmen **unterschätzt**. Häufig liegt der Fokus auf dem Tagesgeschäft – Aufträge abwickeln, Kunden bedienen, Probleme lösen. Die strategische Planung bleibt dabei auf der Strecke.  
 
-## Merkmale hoher Strategiequalität  
-Wie erkennt man eine hohe Strategiequalität? Unternehmen mit guter Strategie:  
-1. **Haben eine klar verständliche Vision** – Sie können sie jedem erklären, und sie ergibt Sinn.  
-2. **Sind flexibel, aber konsequent** – Anpassung an Veränderungen ohne den roten Faden zu verlieren.  
-3. **Denken kundenzentriert** – Sie verstehen nicht nur Kundenbedürfnisse, sondern setzen sie in echte Mehrwerte um.  
-4. **Schaffen operative Exzellenz** – Eine Strategie ist keine PowerPoint-Folie, sondern zeigt sich in Prozessen, Produkten und täglichen Entscheidungen.  
-5. **Erkennen und nutzen Innovationen** – Sie integrieren technologische Entwicklungen proaktiv, anstatt sie nur zu beobachten.  
+Ein Grund für die Unterschätzung: **Strategiequalität ist schwer messbar.** Im Gegensatz zu Umsatz oder Produktionszahlen gibt es keinen einfachen Indikator auf dem Dashboard. Viele Führungskräfte spüren zwar, wenn etwas in der Ausrichtung nicht stimmt, aber sie zögern, systematisch daran zu arbeiten.  
 
-## Wie können Unternehmen ihre Strategiequalität verbessern?  
-Viele Unternehmen setzen sich zwar mit Strategie auseinander, doch es fehlt an Struktur und Umsetzung. Folgende Maßnahmen helfen, Strategiequalität gezielt zu steigern:  
+Zudem herrscht manchmal die Meinung vor, Strategie sei etwas für große Konzerne mit Stabsabteilungen und Beratern. Doch das ist ein Trugschluss: Eine gute Strategie kann auch in einfachen Worten und klaren Zielen bestehen – sie muss kein dicker Hochglanz-Report sein.
 
-1. **Test: Kannst du deine Strategie erklären?**  
-   Eine starke Strategie ist einfach genug, dass sie jedem einleuchtet. Falls nicht, fehlt oft Klarheit.  
+## Wie verbessert man seine Strategie?
 
-2. **Kundenzentrierung durch Customer Insights**  
-   Wer seine Strategie auf falschen Annahmen aufbaut, scheitert. Tiefgehende Kundenanalysen helfen, strategische Fehlentscheidungen zu vermeiden.  
+Die Entwicklung einer Unternehmensstrategie ist anspruchsvoll. Verschiedene **Risiken und Fallstricke** können die Strategiequalität gefährden:
 
-3. **Technologische Trends verstehen und integrieren**  
-   Unternehmen, die Innovation verschlafen, werden abgehängt. Bitcoin-Technologie ist ein Beispiel für eine strategische Chance, die viele Unternehmen ignorieren – und damit eine potenzielle Marktposition verspielen.  
+* **Lange Historie und Betriebsblindheit:** "Das haben wir schon immer so gemacht" und "noch funktioniert das ja alles" sind häufige Sätze in Strategiediskussionen. Sie erschweren oft eine proaktive Anpassung der Strategie, noch bevor es wirklich kritisch wird. Und selbst dann sind Entscheider oft in ihrer Perspektive gefangen.Ohne externe Unterstützung übersieht man leicht seine eigenen blinden Flecken.  
+* **Fehlende Ziele oder Uneinigkeit:**  Jeder in einem Unternehmen hat eine Aufgabe. Mit diesen Aufgaben kommen eigene Ziele. Diese sind oft nicht ganz explizit und noch seltener transparent für alle. Unklare oder widersprüchliche Ziele führen jedoch zu einer schwachen Strategie. Auch erschweren sie den Dialog, denn die Ziele haben oft keine klare Hierarchie. 
+* **Nichtbeachtung von Risiken:** Jede Strategie beruht auf Annahmen. Die meisten Unternehmen haben kein klares, gemeinsames Bild ihrer eigenen Annahmen. Dies erzeugt ein Risiko in sich selbst. Dazu kommt, dass im Mittelstand eine klare Risikomanagementstrategie eher selten ist. Risiken sind oft ein Bauchgefühl, aber kein strukturierter Prozess, in dem Risiken aufgelistet, bewertet, nachverfolgt und mit einer Mitigationsstrategie versehen sind. 
+* **Mangelnde Flexibilität:** Eine Strategie muss anpassbar sein, um Marktveränderungen zu überstehen. Doch oft fehlt es an Prozessen, wie die eigene Strategie eigentlich angepasst wird. Das verlängert die Zeit zwischen Veränderungsimpuls und -reaktion.   
+* **Schwache Umsetzung:** Selbst die beste Strategie bringt nichts, wenn sie nicht im Alltag gelebt wird. Doch dies erfordert ein Strategieverständnis in der gesamten Belegschaft. Diese sind jedoch in die Entwicklung der Strategie selten wirklich eingebunden. Daher fühlen sie sich auch hinten raus oft wenig mit der Strategie verbunden. Kommunikation und Identifikation der Mitarbeiter mit der Strategie gehören ebenfalls zur Strategiequalität.  
 
-4. **Strategie operationalisieren**  
-   Eine gute Strategie ist kein Leitbild, sondern muss sich in Prozessen, Produkten und Organisationsstrukturen wiederfinden.  
+Ein dramatisches Beispiel für gescheiterte Strategiequalität ist **Kettler**. Das einst erfolgreiche Freizeitgeräte-Unternehmen verpasste den Anschluss an neue Trends wie Fitnessstudios und E-Bikes. Die fehlende strategische Neuausrichtung führte letztlich zur Insolvenz [[Handelsblatt Bericht](https://www.handelsblatt.com/unternehmen/handel-konsumgueter/tradition-kultmarken-mussten-trotz-guter-vergangenheit-insolvenz-anmelden/100110095.html)].
 
-5. **Regelmäßige Reflexion und Anpassung**  
-   Marktbedingungen ändern sich – eine Strategie, die sich nicht anpasst, verliert ihre Wirkung.  
+## Strategiequalität gezielt verbessern: Maßnahmen für den Mittelstand
 
-## Innovation als strategischer Vorteil  
-Strategiequalität bedeutet nicht nur, Märkte zu verstehen, sondern auch Chancen durch **disruptive Technologien** zu nutzen. Ein Unternehmen, das sich frühzeitig mit technologischen Entwicklungen auseinandersetzt, kann Marktbewegungen nicht nur vorhersehen, sondern aktiv gestalten.  
+Die **gute Nachricht:** Mittelständische Unternehmen können die Qualität ihrer Strategie mit überschaubarem Aufwand deutlich erhöhen. Hier einige praxisbewährte Maßnahmen:  
 
-Bitcoin-Technologie ist ein Paradebeispiel dafür. Während viele Unternehmen Bitcoin immer noch als Spekulationsobjekt sehen, verstehen strategisch denkende Unternehmen den technologischen Kern und die Möglichkeiten für modernere Geschäftsmodelle dahinter.
+1. **Zeit für Strategieentwicklung reservieren** – Ohne feste Zeiten für strategische Überlegungen bleibt Strategie Nebensache.  
+2. **Vision und Ziele definieren** – Ein gemeinsames Zukunftsbild sorgt für Orientierung.  
+3. **Datenbasierte Analyse nutzen** – Entscheidungen sollten auf Marktanalysen und internen Stärken beruhen.  
+4. **Mitarbeiter einbinden** – Die Akzeptanz steigt, wenn Teams frühzeitig involviert werden.  
+5. **Strategie messbar machen** – Klare Ziele und Meilensteine erleichtern die Umsetzung.  
+6. **Regelmäßige Überprüfung und Anpassung** – Eine Strategie ist kein starres Konstrukt.  
+7. **Externe Unterstütung einholen** – Berater oder Workshops helfen, blinde Flecken aufzudecken.  
 
-Durch die richtige Strategie kann Bitcoin-Technologie Unternehmen Vorteile in Bereichen wie:  
-- **Währungsstabilität und Absicherung**  
-- **Internationale Zahlungsabwicklung ohne Reibungsverluste**  
-- **Energieeffiziente Geschäftsmodelle durch Mining und Wärmenutzung**  
+## Praxisbeispiel Laurastart SA: Strategiequalität entwickeln in der mittelständischen Praxis
 
-Ein schönes Beispiel hier ist **K51**, ein Wärmecontracting-Anbieter, der bewusst auf eine geringe öffentliche Sichtbarkeit setzt, aber strategisch extrem fokussiert arbeitet. K51 kombiniert High-Performance-Computing und Bitcoin Mining für kosteneffiziente Wärmeerzeugung und besetzt gezielt eine Nische in der Schweiz und der Landwirtschaft.
+Die Laurastar SA, ein Schweizer Hersteller von Dampfbügeleisen, sah sich in einem stagnierenden Markt mit intensiver Konkurrenz der Herausforderung gegenüber, neue Wachstumsimpulse zu finden. Um ihre Kernkompetenz im Bereich Dampftechnologie weiter zu nutzen und gleichzeitig neue Geschäftsfelder zu erschließen, entschied sich das Unternehmen für eine strategische Neuausrichtung.
 
-## Fazit – Strategiequalität entscheidet über Erfolg oder Scheitern  
-Branding mag kurzfristig funktionieren, aber **langfristige Stabilität entsteht nur durch eine starke Strategie**. Unternehmen mit hoher Strategiequalität sind nicht nur reaktionsfähig, sondern agieren proaktiv und nutzen Innovationskraft als Vorteil.  
+### Strategieentwicklung:
 
-Doch wie setzt man eine strategisch fundierte und kundenzentrierte Strategie um? **Hier kommen die Angebote von UTXO Solutions ins Spiel.**  
+Laurastar entwickelte zunächst 14 verschiedene Wertversprechen und Geschäftsideen rund um ihre Dampftechnologie. Drei dieser Konzepte wurden ausgewählt und in sogenannten Sprints intensiv getestet. Durch Kundenbefragungen und Marktanalysen evaluierte das Unternehmen die Erfolgsaussichten der einzelnen Ideen. Schließlich entschied sich Laurastar für die Entwicklung eines tragbaren Dampfreinigers namens IGGI. Dieses Produkt bietet nicht nur die Möglichkeit, Kleidung schnell zu glätten, sondern auch Gegenstände wie Möbel und Spielzeug zu desinfizieren. Damit erschloss Laurastar neue Kundengruppen, darunter Hotels und Krankenhäuser, und etablierte ein Geschäftsmodell, das auf den Massenmarkt abzielt. 
+LAURASTAR.COM
 
-- **Mit dem Customer Insight Sprint helfen wir Unternehmen, ihre Kundenstrategie auf echte Bedürfnisse statt Annahmen aufzubauen.**  
-- **Mit der Bitcoin-Strategie zeigen wir Unternehmen, wie sie Bitcoin-Technologie sinnvoll in ihre Geschäftsstrategie integrieren können.**  
+### Umsetzung und Ergebnisse:
 
-Strategiequalität ist kein Zufall, sondern das Ergebnis von klarem Denken, fundierten Daten und strategischer Umsetzung. Wer sich mit Zukunftsmärkten auseinandersetzen will, muss sich fragen: **Haben wir eine Strategie, die verständlich, tragfähig und innovationsfähig ist?**  
+Die Markteinführung des IGGI im Jahr 2020 ermöglichte es Laurastar, sich erfolgreich in neuen Marktsegmenten zu positionieren und zusätzliche Umsatzquellen zu generieren. Der IGGI nutzt die exklusive Dry Microfine Steam (DMS)-Technologie von Laurastar, die Dampf mit einer Geschwindigkeit von bis zu 104 km/h und einer Temperatur von bis zu 153°C erzeugt. Diese Technologie eliminiert 99,9% der Viren (einschließlich Coronaviren), Bakterien und Milben in wenigen Sekunden, ohne die behandelten Materialien zu beschädigen. 
 
+Durch die strategische Erweiterung ihres Produktportfolios konnte Laurastar nicht nur ihre Wettbewerbsfähigkeit stärken, sondern auch einen bedeutenden Beitrag zur öffentlichen Gesundheit leisten, insbesondere während der COVID-19-Pandemie. 
 
+Dieses Beispiel verdeutlicht, wie mittelständische Unternehmen durch gezielte Strategieanpassungen und die Entwicklung innovativer Produkte neue Märkte erschließen und langfristigen Erfolg sichern können.
+
+## Fazit: Strategiequalität als Schlüssel zum nachhaltigen Erfolg
+
+Für Geschäftsführer im Mittelstand lohnt es sich, einen genauen Blick auf die **Strategiequalität** des eigenen Unternehmens zu werfen. Sie ist ein **immaterielles Asset**, das langfristig über Erfolg oder Misserfolg entscheidet.  
+
+Unternehmen mit hoher Strategiequalität sind **schneller, widerstandsfähiger und profitabler**. 
+
+Doch Strategie ist kein einmaliges Projekt – sie muss **kontinuierlich gepflegt und angepasst** werden. Wer das Thema ernst nimmt, sichert sich langfristige Wettbewerbsvorteile. Denn am Ende gilt:  
+
+**Eine klare Strategie heute ist der Erfolg von morgen.**
