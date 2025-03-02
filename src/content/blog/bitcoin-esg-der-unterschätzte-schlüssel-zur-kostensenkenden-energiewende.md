@@ -42,10 +42,11 @@ Fazit: **ESG** sollte nicht nur als Risikofaktor verstanden werden, sondern auch
 
 ## 3. Warum dein Unternehmen jetzt aktiv werden sollte
 
-* Jobs-to-be-Done-Perspektive: In vielen Branchen (Energie, Industrie) ist der „Job“ das profitable Verwerten von Überschusskapazitäten. [Bitcoin-Mining und Energiewende](https://utxo.solutions/blog/wie-waermebedarf-und-bitcoin-mining-zur-energiewende-beitragen.html) könnte dabei helfen, diesen Job zu erfüllen.
-* Risiko- vs. Chancen-Abwägung: Ja, der Markt ist volatil, aber genau deshalb lohnt sich eine strategische Analyse.
+* **Jobs-to-be-Done-Perspektive**: In vielen Branchen (Energie, Industrie) ist der „Job“ das profitable Verwerten von Überschusskapazitäten. [Bitcoin-Mining und Energiewende](https://utxo.solutions/blog/wie-waermebedarf-und-bitcoin-mining-zur-energiewende-beitragen.html) könnte dabei helfen, diesen Job zu erfüllen.
+* **Risiko- vs. Chancen-Abwägung**: Ja, der Markt ist volatil, aber genau deshalb lohnt sich eine strategische Analyse.
+* Praktische Beispiele:  
 
-  * Praktische Beispiele:  [Bitcoin-Strategie im Mittelstand](https://utxo.solutions/blog/bitcoin-strategie-im-mittelstand) – Fallstudie: Ein mittelständisches Familienunternehmen nutzt Solarüberschuss, um Mining-Container zu betreiben.
+  * [Bitcoin-Strategie im Mittelstand](https://utxo.solutions/blog/bitcoin-strategie-im-mittelstand) – Fallstudie: Ein mittelständisches Familienunternehmen nutzt Solarüberschuss, um Mining-Container zu betreiben.
   * Wasserkraft & Mining: In abgelegenen Regionen kann die kombinierte Lösung neue Einkommensquellen erschließen.
 
 ## 4. Swiss Bitcoin Conference – dein nächster Schritt
@@ -53,8 +54,8 @@ Fazit: **ESG** sollte nicht nur als Risikofaktor verstanden werden, sondern auch
 Du möchtest tiefer eintauchen? Dann halte dir die Swiss Bitcoin Conference frei! Dort findet auch das Bitcoin Business Innovation Bootcamp statt.
 
 * **Wann**: 24.04.2025-27.04.2025 [(siehe offizielle Seite für Termine)](https://swiss-bitcoin-conference.com/innovation-bootcamp/).
-* • **Warum**: Du erfährst, [warum eine Null-Allokation langfristig sogar riskant sein kann.](https://utxo.solutions/blog/warum-eine-null-allokation-unternehmensgefaehrdend-ist-utxo-solutions-auf-den-industry-days-der-swiss-bitcoin-conference)
-* • **Rabattcode**: [Mit **UTXO** sicherst du dir einen kleinen Preisnachlass auf deine Tickets.](https://swiss-bitcoin-conference.com/produkt/innovation-bootcamp-ticket/)
+* **Warum**: Du erfährst, [warum eine Null-Allokation langfristig sogar riskant sein kann.](https://utxo.solutions/blog/warum-eine-null-allokation-unternehmensgefaehrdend-ist-utxo-solutions-auf-den-industry-days-der-swiss-bitcoin-conference)
+* **Rabattcode**: [Mit **UTXO** sicherst du dir einen kleinen Preisnachlass auf deine Tickets.](https://swiss-bitcoin-conference.com/produkt/innovation-bootcamp-ticket/)
 
 ## Fazit & Call-to-Action
 
