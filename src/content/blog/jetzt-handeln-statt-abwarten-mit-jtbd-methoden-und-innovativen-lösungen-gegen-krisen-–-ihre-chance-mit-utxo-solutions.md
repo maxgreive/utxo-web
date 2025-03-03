@@ -1,7 +1,7 @@
 ---
 title: "Jetzt handeln statt abwarten: Mit JTBD-Methoden und innovativen Lösungen
   gegen Krisen – Ihre Chance mit UTXO Solutions"
-secret: true
+secret: false
 author: Peter Rochel
 tags:
   - Bitcoin
@@ -12,6 +12,7 @@ description: Erfahren Sie, warum jetzt der richtige Zeitpunkt ist, mit
   Solutions Unternehmen dabei unterstützt, Krisen proaktiv zu meistern, bevor
   Strafzölle und externe Schocks zuschlagen.
 pubDate: 2025-03-03T13:06:00.000Z
+previewImage: images/jetzt-handeln-statt-abwarten-utxo-solutions.webp
 ---
 ## Einleitung – Handeln in Krisenzeiten
 
