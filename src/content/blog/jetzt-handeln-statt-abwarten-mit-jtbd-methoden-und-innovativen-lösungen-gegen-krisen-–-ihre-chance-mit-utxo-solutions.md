@@ -28,13 +28,13 @@ Die Erkenntnis schlug ein wie ein Blitz: Mobile Probefahrten an belebten Orten u
 
 Was hat das mit potenziellen Strafzöllen und deinen Lieferketten zu tun? Eine ganze Menge. Die wahre Innovation liegt nicht darin, *wie* du aktuell verkaufst, sondern *warum* deine Kund*innen kaufen. Wenn du diesen* Kundenjob* kennst, bist du flexibel genug, deine Wertschöpfungskette schnell anzupassen – sei es durch alternative Beschaffungswege, digitale Services oder sogar **Bitcoin-basierte Geschäftsmodelle**.
 
-> **Tipp:** Entdecke, wie eine **Bitcoin-Strategie** Teil deines unternehmerischen Innovationsprozesses werden kann: https://utxo.solutions/blog/warum-unternehmen-jetzt-eine-bitcoin-strategie-brauchen
+> **Tipp:** Entdecke, wie eine **Bitcoin-Strategie** Teil deines unternehmerischen Innovationsprozesses werden kann: <https://utxo.solutions/blog/warum-unternehmen-jetzt-eine-bitcoin-strategie-brauchen>
 
 ## Unsere Lösung: Der JTBD-Ansatz als Werkzeug zur Krisenbewältigung
 
 UTXO Solutions unterstützt Unternehmen dabei, den wahren Bedarf der Kundschaft zu ermitteln und daraus konkrete Handlungsimpulse abzuleiten. Wir kombinieren das **JTBD-Innovation Framework** (inklusive unseres „Periodensystems der Elemente“) mit erprobten Methoden aus der **End-to-End Innovationsberatung**. Das Resultat: In kürzester Zeit erfährst du, *wo* dein aktuelles Geschäftsmodell hakt und *welche* Lösungen am Markt wirklich gefragt sind.
 
-> **Mehr über unsere JTBD-Methodik & Innovation** findest du hier: https://utxo.solutions/thema/innovation
+> **Mehr über unsere JTBD-Methodik & Innovation** findest du hier: <https://utxo.solutions/thema/innovation>
 >
 > **Noch ein Lesetipp:** Wie können Unternehmen schnell auf Marktveränderungen reagieren, anstatt nur zu hoffen, dass sich alles von selbst klärt? Die Antwort liegt in **Jobs to Be Done**. In einem [impulse-Artikel](https://www.impulse.de/organisation/jobs-to-be-done/7612209.html) wird gezeigt, wie unsere strukturierte Herangehensweise Unternehmen geholfen hat, ihre Kundenbedürfnisse auch in Krisenzeiten präzise zu entschlüsseln
 
@@ -42,7 +42,7 @@ UTXO Solutions unterstützt Unternehmen dabei, den wahren Bedarf der Kundschaft 
 
 Dein Erfolg in der Krise entscheidet sich *jetzt*. Wer bis zum Quartalsende wartet, könnte feststellen, dass es bereits zu spät ist. **Proaktives Handeln** und eine *kundenzentrierte Neuausrichtung* sind der Schlüssel, um Strafzöllen, Lieferengpässen und anderen externen Schocks wirksam zu begegnen. Wir von UTXO Solutions sind spezialisiert darauf, Unternehmen *vorausschauend* zu beraten und ihre Innovationsprozesse auf den nächsten Level zu heben – *bevor* es kracht.
 
-### Call-to-Action
+## Jetzt handeln statt abwarten
 
 * **Vereinbare jetzt ein kostenfreies Erstgespräch: [https://cal.com/peterrochel](https://cal.com/peterrochel?redirect=false)**
 
