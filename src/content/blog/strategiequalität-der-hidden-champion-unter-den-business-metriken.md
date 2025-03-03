@@ -1,6 +1,6 @@
 ---
 title: Strategiequalität ist Hidden Champion unter den Business-Metriken
-secret: true
+secret: false
 author: Martin Betz
 tags:
   - Strategie
