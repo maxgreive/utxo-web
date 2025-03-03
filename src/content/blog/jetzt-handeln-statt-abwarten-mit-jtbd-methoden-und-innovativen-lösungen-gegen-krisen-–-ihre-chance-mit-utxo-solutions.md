@@ -35,6 +35,8 @@ Was hat das mit potenziellen Strafzöllen und deinen Lieferketten zu tun? Eine g
 UTXO Solutions unterstützt Unternehmen dabei, den wahren Bedarf der Kundschaft zu ermitteln und daraus konkrete Handlungsimpulse abzuleiten. Wir kombinieren das **JTBD-Innovation Framework** (inklusive unseres „Periodensystems der Elemente“) mit erprobten Methoden aus der **End-to-End Innovationsberatung**. Das Resultat: In kürzester Zeit erfährst du, *wo* dein aktuelles Geschäftsmodell hakt und *welche* Lösungen am Markt wirklich gefragt sind.
 
 > **Mehr über unsere JTBD-Methodik & Innovation** findest du hier: https://utxo.solutions/thema/innovation
+>
+> **Noch ein Lesetipp:** Wie können Unternehmen schnell auf Marktveränderungen reagieren, anstatt nur zu hoffen, dass sich alles von selbst klärt? Die Antwort liegt in **Jobs to Be Done**. In einem [impulse-Artikel](https://www.impulse.de/organisation/jobs-to-be-done/7612209.html) wird gezeigt, wie unsere strukturierte Herangehensweise Unternehmen geholfen hat, ihre Kundenbedürfnisse auch in Krisenzeiten präzise zu entschlüsseln
 
 ## Fazit – Jetzt handeln, nicht abwarten
 
