@@ -4,6 +4,7 @@ secret: true
 author: Peter Rochel
 tags:
   - JTBD
+  - Podcast
 pubDate: 2025-02-12T14:39:00.000Z
 ---
 # JTBD Research und Produktentwicklung
