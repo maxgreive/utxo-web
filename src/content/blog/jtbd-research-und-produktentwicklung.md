@@ -1,6 +1,6 @@
 ---
 title: JTBD Research und Produktentwicklung
-secret: true
+secret: false
 author: Peter Rochel
 tags:
   - JTBD
