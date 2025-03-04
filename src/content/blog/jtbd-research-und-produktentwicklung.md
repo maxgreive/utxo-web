@@ -1,11 +1,11 @@
 ---
 title: JTBD Research und Produktentwicklung
-secret: false
+secret: true
 author: Peter Rochel
 tags:
   - JTBD
   - Podcast
-pubDate: 2025-02-12T14:39:00.000Z
+pubDate: 2025-02-15T15:39:00.000Z
 ---
 # JTBD Research und Produktentwicklung
 
