@@ -26,7 +26,7 @@ Die Erkenntnis schlug ein wie ein Blitz: Mobile Probefahrten an belebten Orten u
 
 ## Übertragung auf deine Branche
 
-Was hat das mit potenziellen Strafzöllen und deinen Lieferketten zu tun? Eine ganze Menge. Die wahre Innovation liegt nicht darin, *wie* du aktuell verkaufst, sondern *warum* deine Kund*innen kaufen. Wenn du diesen *Kundenjob* kennst, bist du flexibel genug, deine Wertschöpfungskette schnell anzupassen – sei es durch alternative Beschaffungswege, digitale Services oder sogar Bitcoin-basierte Geschäftsmodelle.
+Was hat das mit potenziellen Strafzöllen und deinen Lieferketten zu tun? Eine ganze Menge. Die wahre Innovation liegt nicht darin, *wie* du aktuell verkaufst, sondern *warum* deine Kund*innen kaufen. Wenn du diesen* Kundenjob* kennst, bist du flexibel genug, deine Wertschöpfungskette schnell anzupassen – sei es durch alternative Beschaffungswege, digitale Services oder sogar Bitcoin-basierte Geschäftsmodelle.
 
 Tipp: Entdecke, wie eine Bitcoin-Strategie Teil deines unternehmerischen Innovationsprozesses werden kann: <https://utxo.solutions/blog/bitcoin-esg-der-unterschaetzte-schluessel-zur-kostensenkenden-energiewende>
 
@@ -43,11 +43,11 @@ Dein Erfolg in der Krise entscheidet sich *jetzt*. Wer bis zum Quartalsende war
 ## Jetzt loslegen
 
 * **Vereinbare jetzt ein kostenfreies Erstgespräch**: [https://cal.com/peterrochel](https://cal.com/peterrochel?redirect=false)
-* **Mache ein Bitcoin Business Assessment**:
+* **Lerne Bitcoin oder mache mit uns ein Bitcoin Business Assessment**:
 
   <https://utxo.solutions/bitcoin-business-assessment>
 * **Mastering JTBD Live-Online-Workshop (Start im Mai)**
 
-  Machen Sie den nächsten Schritt in Sachen Jobs-to-Be-Done: In unserem kompakten Live-Online-Format (Kosten: rund 2.100 €/Person) vertiefen Sie Ihre Fähigkeiten im Umgang mit JTBD-Interviews, Marktanalysen und Innovationsstrategien. Nutzen Sie unseren Frühbucherrabatt – die Plätze sind begrenzt!
+  Mache den nächsten Schritt in Sachen Jobs-to-Be-Done: In unserem kompakten Live-Online-Format (Kosten: rund 2.100 €/Person) vertiefen deine Fähigkeiten im Umgang mit JTBD-Interviews, Marktanalysen und Innovationsstrategien. Nutze unseren Frühbucherrabatt – die Plätze sind begrenzt!
 
   Mehr Infos & Anmeldung:[ https://utxo.solutions/leistungen/mastering-jobs-to-be-done-online-workshop](https://utxo.solutions/leistungen/mastering-jobs-to-be-done-online-workshop)
