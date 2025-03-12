@@ -90,9 +90,4 @@ Wenn Sie diese Punkte konsequent anpacken, bleibt Ihr Unternehmen nicht nur flex
 
 Der deutsche Mittelstand hat das Potenzial, seine starke Position auch in Zukunft zu halten. Dafür braucht es allerdings eine klare Ausrichtung auf reale Kundenprobleme und eine schlanke, aber strukturierte Innovationskultur. Wer neue Technologien gezielt testet und in kleinen Schritten integriert, statt blind Trends zu folgen, erhöht die Erfolgschancen spürbar.
 
-**Die gute Nachricht:** Schon eine kurze Ideenschmiede oder ein offenes Gespräch mit dem Kunden kann viel bewegen. Denken Sie ruhig an KI-gestützte Analysen oder neue Zahlungsmethoden wie Bitcoin, aber vergessen Sie dabei nie den Nutzen für Ihre Kunden. Genau das ist es, was den deutschen Mittelstand groß gemacht hat – und auch morgen noch konkurrenzfähig hält.
-
----
-
-> **Was meinen Sie?**  
-> Haben Sie schon KI oder Blockchain-Projekte in Ihrem Unternehmen umgesetzt? Wo sehen Sie die größten Herausforderungen beim Thema Innovation? Ich freue mich über Ihr Feedback – lassen Sie uns gemeinsam einen Beitrag dazu leisten, den deutschen Mittelstand fit für die Zukunft zu machen.
+**Die gute Nachricht:** Schon ein wenig mehr Struktur und Kundenfokus kann oft viel bewegen. Denken Sie ruhig an KI-gestützte Analysen oder neue Zahlungsmethoden wie Bitcoin, aber vergessen Sie dabei nie den Nutzen für Ihre Kunden. Genau das ist es, was den deutschen Mittelstand groß gemacht hat – und auch morgen noch konkurrenzfähig hält.
