@@ -54,8 +54,6 @@ Wir von UTXO Solutions unterstützen Dich dabei, Bitcoin-Technologie gewinnbr
 * **Peter Rochel** – Geschäftsführer UTXO Solutions, Co-Autor des Papers, Host des *Innovate and Upgrade* Podcasts, Mitgründer des Bitcoin Bundesverbands e.V.
 * **Martin Betz** – Geschäftsführer UTXO Solutions, Host des *Nodesignal* Bitcoin-Podcasts
 
-
-
 ### Ort, Zeit & Anmeldung
 
 * **Datum**: 21. März 2025
@@ -68,18 +66,15 @@ Wir von UTXO Solutions unterstützen Dich dabei, Bitcoin-Technologie gewinnbr
 
 **[Zur Meetup-Anmeldung](https://www.meetup.com/bitcoin-business-innovation/events/306398150/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)**
 
-
 **Du möchtest mehr erfahren oder diskutieren?**
 
 Tritt unserer [Telegram-Gruppe](https://t.me/+bsPCqOwEmpwzY2E6) bei!
 
-
+[Oder lies dich schlau, hier in unserem Artikel zu Bitcoin und ESG](<>) 
 
 ## **Dein nächster Schritt zu mehr Bitcoin-Kompetenz**
 
 Ob Du erst neugierig bist oder schon konkrete Projekte planst: Dieses Meetup liefert Dir die Grundlagen und Kontakte, um Bitcoin erfolgreich im Unternehmen zu verankern. Also: Lass Dir diese Chance nicht entgehen und bring Deine Innovationsstrategie auf Kurs.
-
-
 
 ### Du hast Fragen oder brauchst Beratung?
 
