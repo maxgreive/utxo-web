@@ -56,7 +56,7 @@ Wir von UTXO Solutions unterstützen Dich dabei, Bitcoin-Technologie gewinnbr
 
 ### Ort, Zeit & Anmeldung
 
-* **Datum**: 21. März 2025
+* **Datum**: 18. März 2025
 * **Location**: Startplatz, *Im Mediapark 5, 50674 Köln* (3. OG – Raum Köln Bonn)
 * **Einlass**: 18:30 Uhr | Beginn: 19:00 Uhr | Ende: 21:00 Uhr
 * **Kosten**: Das Event ist Value-for-Value (V4V) – kostenfrei für alle, Spenden via Lightning sind willkommen.
