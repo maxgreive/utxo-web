@@ -1,8 +1,7 @@
 ---
-title: "Bitcoin Business Meetup in Köln: Die ESG-Chancen für Dein
-  Unternehmen"
+title: "Bitcoin Business Meetup in Köln: Die ESG-Chancen für Dein Unternehmen"
 secret: false
-author: "UTXO Solutions "
+author: Peter Rochel
 tags:
   - Bitcoin
   - Event
