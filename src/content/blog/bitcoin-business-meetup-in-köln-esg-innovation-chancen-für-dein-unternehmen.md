@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin Business Meetup in Köln: ESG, Innovation & Chancen für Dein
+title: "Bitcoin Business Meetup in Köln: Die ESG-Chancen für Dein
   Unternehmen"
 secret: false
 author: "UTXO Solutions "
