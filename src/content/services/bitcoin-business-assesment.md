@@ -7,7 +7,7 @@ pubDate: 2024-11-13T16:02:00.000Z
 previewImage: images/disruptive-technologies.png
 icon: flaticon-round-table
 sidebar:
-  hideContactForm: true
+  hideContactForm: false
   downloadButtonIcon: fa-file-pdf
   downloadButtonLabel: Download PDF
   downloadLink: https://oberwasser-consulting.de/wp-content/uploads/2025/03/Bitcoin-als-strategischer-Erfolgsfaktor.pdf
