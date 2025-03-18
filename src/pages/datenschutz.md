@@ -9,8 +9,8 @@ reference: privacy
 Verantwortlich für die Datenverarbeitung auf dieser Website ist:
 
 UTXO Solutions GmbH<br>
-Neusser Wall 15<br>
-50670 Köln<br>
+Richard-Wagner-Strasse 31<br>
+50674 Köln<br>
 info@utxo.solutions<br>
 
 ## 2. Erhebung und Speicherung personenbezogener Daten sowie Art und Zweck ihrer Verwendung
