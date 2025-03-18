@@ -13,6 +13,7 @@ sidebar:
   downloadLink: /assets/pdf/Mastering JTBD Innovation_Live_Online_Workshop_DE.pdf
   downloadButtonLabel: Download PDF
   downloadButtonIcon: ""
+  hideContactForm: true
 questions:
   - question: Gibt es ein Zertifikat?
     answer: >
