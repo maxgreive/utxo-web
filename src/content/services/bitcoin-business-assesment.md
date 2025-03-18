@@ -10,7 +10,7 @@ sidebar:
   hideContactForm: false
   downloadButtonIcon: fa-file-pdf
   downloadButtonLabel: Download PDF
-  downloadLink: https://oberwasser-consulting.de/wp-content/uploads/2025/03/Bitcoin-als-strategischer-Erfolgsfaktor.pdf
+  downloadLink: /assets/pdf/Bitcoin-als-strategischer-Erfolgsfaktor.pdf
   downloadTitle: Bitcoin als strategischer Erfolgsfaktor
   downloadText: Erfahre, wie Bitcoin als strategischer Erfolgsfaktor für dein
     Unternehmen genutzt werden kann. Unsere Broschüre zeigt praxisnahe
