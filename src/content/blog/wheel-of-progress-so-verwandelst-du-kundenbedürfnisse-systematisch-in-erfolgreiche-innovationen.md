@@ -11,7 +11,7 @@ description: Innovationen scheitern oft am Kunden vorbei? Nutze das Wheel of
   entwickeln.
 pubDate: 2025-03-26
 canonicalURL: ""
-previewImage: images/wop-full-31.png
+previewImage: images/jtbd-wheel-of-progress-canvas.webp
 ---
 Hand aufs Herz: Die meisten Innovationsprojekte scheitern nicht, weil Ideen fehlen – sondern weil Teams oft komplett am Kunden vorbei entwickeln. Provokante These? Vielleicht. Aber Studien zeigen deutlich: Rund 70 Prozent aller Produktinnovationen erfüllen nicht die Erwartungen der Zielgruppe. Warum? Weil sie Bedürfnisse lösen, die gar nicht existieren.
 
