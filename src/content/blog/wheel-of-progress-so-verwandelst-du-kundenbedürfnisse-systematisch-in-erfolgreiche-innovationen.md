@@ -73,7 +73,7 @@ Kurz: weniger Innovations-Theater, mehr echte Ergebnisse.
 ## Erfolgsgeschichten direkt aus der Praxis (ja, wir haben Beweise!)
 
 * **Fallstudie Yogamatte:** [Ein Hersteller von Yogamatten erhöhte die Kundenakzeptanz](https://www.impulse.de/organisation/jobs-to-be-done/7612209.html) für sein Produkt um deutlich und den Umsatz um 500%, nachdem JTBD und Wheel of Progress eingeführt wurden.
-* **Bitcoin für KMU:** Ein [Mittelständler aus dem Bereich Systemhäuser](https://cyberarmour.io) wurde zum Marktführer im Bereich Cyber-Security, weil er mit dem Wheel of Progress genau verstand, welche Fortschritte seine Kunden erwarten (Spoiler: Sicherheit, Compliance und Proof of Work).
+* **Bitcoin für KMU:** Ein [Mittelständler aus dem Bereich Systemhäuser](https://oberwasser-consulting.de/wp-content/uploads/2025/03/Digital-Armour-Mit-JTBD-zum-Cybersecurity-Marktfuhrer_FIN.pdf) wurde zum Marktführer im Bereich Cyber-Security, weil er mit dem Wheel of Progress genau verstand, welche Fortschritte seine Kunden erwarten (Spoiler: Sicherheit, Compliance und Proof of Work).
 
 ## Probiere es einfach selbst aus!
 
