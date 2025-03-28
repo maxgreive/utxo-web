@@ -1,16 +1,29 @@
 ---
-pubDate: Jul 22 2022
-reference: customer-research-sprints
 title: Customer Insight Sprints
 description: Mit unserer Expertise und Methodik verhelfen wir Dir in kürzester
   Zeit zu gewinnbringenden Erkenntnissen und erfolgreichen Ergebnissen. Vom
   ersten Tag an.
+pubDate: Jul 22 2022
+reference: customer-research-sprints
 previewImage: ./images/workshop-loesungen-alex.jpg
 icon: flaticon-rating
 sidebar:
-  downloadText: ""
-  downloadLink: ""
-  downloadButtonLabel: ""
+  downloadText: "Wie ein australischer IT-Dienstleister mithilfe eines Customer
+    Insights Sprint zum führenden Cybersecurity-Partner wurde. Erfahren Sie in
+    dieser Fallstudie:  Warum sich Kunden im Cybersecurity-Bereich nicht nur vor
+    Hackern fürchten, sondern vor allem Compliance und Nachweisbarkeit verlangen
+    Wie Digital Armour seine Angebote innerhalb weniger Wochen radikal neu
+    ausrichtete und damit nachhaltig wuchs Welche versteckten Faktoren (z. B.
+    sozialer Druck, Board-Anforderungen, externe Vorfälle) B2B-Entscheider
+    wirklich zum Kauf bewegen Wie eine Jobs-to-be-Done-Analyse praktische
+    Erkenntnisse liefert – von ersten Interviews bis zur erfolgreichen
+    Implementierung Neugierig auf die Details? Laden Sie jetzt kostenfrei das
+    PDF herunter und entdecken Sie, wie Sie mit den JTBD-Methoden von UTXO
+    Solutions die wahren Bedürfnisse Ihrer Kunden entschlüsseln – und so Ihr
+    Angebot treffsicher optimieren. "
+  downloadLink: https://oberwasser-consulting.de/wp-content/uploads/2025/03/Digital-Armour-Mit-JTBD-zum-Cybersecurity-Marktfuhrer_FIN.pdf
+  downloadButtonLabel: PDF Download
+  downloadTitle: Digital Armour Case Study
 ctaSection:
   title: Jetzt Demo vereinbaren
   buttonLink: https://cal.com/peterrochel
