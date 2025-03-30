@@ -21,6 +21,8 @@ Genau hier setzt das **Wheel of Progress®** an.
 
 Das Wheel of Progress ist ein Canvas, entwickelt aus der Jobs-to-be-Done (JTBD) Methode. Es hilft Dir und Deinem Team, Kundenbedürfnisse glasklar und systematisch aufzudecken und daraus sofort umsetzbare Lösungen abzuleiten. Keine Theorie-Orgien, kein Buzzword-Bingo, sondern ein klares, praktisches Werkzeug, das direkt anwendbar ist.
 
+**Eine genaue Beschreibung des [Wheel o Progress® Canvas findest du hier](https://oberwasser-consulting.de/wheel-of-progress-canvas-kundenbeduerfnisse-systematisch-nutzen/)**. 
+
 ### **Der zentrale Nutzen für Dich:**
 
 * Präzise Identifikation realer Kundenbedürfnisse
