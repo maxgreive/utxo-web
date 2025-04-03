@@ -99,7 +99,7 @@ Innerhalb des übergeordneten **Jobs-to-be-done Research and Innovation Framewor
 * **Übergang zur Umsetzung:** Sie fungiert als Brücke zwischen der strukturierten Forschung und der praktischen Umsetzung im Design- und Entwicklungsprozess. Durch die klare Trennung von Demand-Side und Supply-Side sowie den Fokus auf den Problem Solution Fit ermöglicht die Map einen nahtlosen Übergang von der Forschung zur Entwicklung.
 * **Steuerung von Innovationsprojekten:** Durch ihre klare Struktur und den Fokus auf den Problem Solution Fit unterstützt die Progress Design Map die effektive Steuerung und Durchführung von Innovationsprojekten. Sie stellt sicher, dass insbesondere die nutzwertigsten Aspekte der Bedürfnisse von Menschen berücksichtigt werden und dass die entwickelten Lösungen optimal auf diese abgestimmt sind.
 
-[JTBD Innovation Framework herunterladen](https://oberwasser-consulting.de/wp-content/uploads/2024/10/JTBD_InnovationFramework_4.1.3_DE.pdf)
+[JTBD Innovation Framework herunterladen](/assets/pdf/JTBD_IF_DE.pdf)
 
 ### Spezifische Phasenjobs auf Demand- und Supply-Seite
 
