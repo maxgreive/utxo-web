@@ -31,6 +31,12 @@ In praxisnahen **JTBD-Workshops** und [systematischen Interviews](https://utxo.s
 
 ## Messbare Ergebnisse durch JTBD mit UTXO:
 
+> „Das Wirtschaftsmagazin Impulse berichtete ebenfalls über die erfolgreiche Anwendung der JTBD-Methode bei Mantrafant. Den vollständigen Impulse-Bericht findest du 
+>
+> [hier zum Nachlesen](https://www.impulse.de/organisation/jobs-to-be-done/7612209.html)
+>
+> .“
+
 * ✅ **Verkäufe um Faktor 5 gesteigert**
 * ✅ **Werbekosten um 60 % gesenkt**
 * ✅ **Höhere Kundenbindung und Weiterempfehlungsquote**
