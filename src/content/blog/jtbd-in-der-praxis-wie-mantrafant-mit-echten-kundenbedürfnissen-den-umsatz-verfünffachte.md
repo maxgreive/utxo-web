@@ -48,7 +48,7 @@ Mit JTBD gelang es Mantrafant, exakt die Bedürfnisse anzusprechen, die Kunden z
 
 ## Warum UTXO Solutions der ideale JTBD-Partner ist:
 
-* ✅ **Klare methodische Struktur und erprobtes Innovations-Framework**
+* ✅ **Klare methodische Struktur und erprobtes [Innovations-Framework](https://oberwasser-consulting.de/jtbd/jtbd-framework-strategische-kundenforschung-innovation/)**
 * ✅ **Praxisorientierte Workshops, schnelle Umsetzung**
 * ✅ **Hoher Praxisbezug – messbare Ergebnisse in kurzer Zeit**
 
